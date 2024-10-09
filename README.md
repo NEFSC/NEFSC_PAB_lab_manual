@@ -1,4 +1,4 @@
-Template for development of regional lab manuals as part of the PAM SI
+This repository is a lab manual for the NOAA Fisheries Northeast Fisheries Science Center Passive Acoustic Branch.
 
 ### Disclaimer
 
