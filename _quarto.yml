@@ -33,26 +33,26 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: content/LabManagement.qmd # this is the example that shows how to get a landing page
+      - section: content/LabManagement/LabManagement.qmd # this is the example that shows how to get a landing page
         contents: 
-          - href: content/Safety.qmd
+          - href: content/LabManagement/Safety.qmd
             text: Safety
-          - href: content/Inventory.qmd
+          - href: content/LabManagement/Inventory.qmd
             text: Inventory
           - href: content/Hardware/Hardware.qmd
             text: Hardware
-      - href: content/FieldMethods.qmd
+      - href: content/FieldMethods/FieldMethods.qmd
         text: "Field Methods"
-      - href: content/DataManagement.qmd
+      - href: content/DataManagement/DataManagement.qmd
         text: Data Management
       - href: content/Hardware/Hardware.qmd
         text: Hardware
-      - section: content/SoftwareAnalysis.qmd
+      - section: content//SoftwareAnalysis/SoftwareAnalysis.qmd
 #        text: "Software & Analysis"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
-      - href: content/Reporting.qmd
+      - href: content/Reporting/Reporting.qmd
         text: Reporting
       - section: "Optional Pages"
         contents: 
