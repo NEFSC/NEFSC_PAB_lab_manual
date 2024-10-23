@@ -2,6 +2,40 @@
 title: Hardware
 ---
 
+# Bottom Mounted Recorders
+
+Insert a picture
+
+## SoundTrap
+
+Becca
+
+## Moored Near Real-Time Buoys
+
+Gen/Julianne
+
+## HARP
+
+Annamaria
+
+## MARU
+
+Annamaria
+
+# Mobile Platforms
+
+Insert a picture
+
+## Gliders
+
+Becca
+
+## Drifting Recorders
+
+Annamaria
+
+-------------------------------------------------
+
 A hardware section is required and should include the following information;
 
 -   Information on your recorders
