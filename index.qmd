@@ -7,6 +7,8 @@ page-layout: full
 
 The Passive Acoustic Branch (PAB) is part of the Protected Species Division of the NOAA Fisheries Northeast Fisheries Science Center. Our group uses passive acoustic monitoring (PAM) to study marine animals and ecosystems in the Northeast and Mid-Atlantic waters of the United States.
 
+![](content/images/PAB_LOGO_FINAL_DARKBLUE.PNG){width="240"}
+
 ## Required Pages
 
 In order to keep consistency between science centers, the following sections/pages will be required in all lab manuals. These will be directly linked to the National PAM Repository. The links will direct you to the associated template page with more directions on what to include.
