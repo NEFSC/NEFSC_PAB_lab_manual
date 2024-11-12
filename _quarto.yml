@@ -47,10 +47,10 @@ website:
         text: Data Management
       - href: content/Hardware/Hardware.qmd
         text: Hardware
-      - section: content//SoftwareAnalysis/SoftwareAnalysis.qmd
+      - section: content/SoftwareAnalysis/SoftwareAnalysis.qmd
 #        text: "Software & Analysis"
         contents: 
-          - content/Software.qmd
+          - content/SoftwareAnalysis/Software.qmd
           - content/AnalysisMethods.qmd
       - href: content/Reporting/Reporting.qmd
         text: Reporting
