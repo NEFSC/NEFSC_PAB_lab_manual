@@ -60,14 +60,13 @@
     ]
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/SoftwareAnalysis/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
     "crumbs": [
-      "Optional Pages",
-      "Onboarding"
+      "Software & Analysis Methods"
     ]
   },
   {
@@ -82,16 +81,6 @@
     ]
   },
   {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
     "objectID": "content/PublicationsPresentations.html",
     "href": "content/PublicationsPresentations.html",
     "title": "Publications and Presentations",
@@ -103,24 +92,120 @@
     ]
   },
   {
-    "objectID": "content/Hardware.html",
-    "href": "content/Hardware.html",
+    "objectID": "content/Hardware/Hardware.html",
+    "href": "content/Hardware/Hardware.html",
     "title": "Hardware",
     "section": "",
-    "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
+    "text": "Insert a picture\n\n\nBecca\n\n\n\nGen/Julianne\n\n\n\nAnnamaria\n\n\n\nAnnamaria",
     "crumbs": [
       "Lab Management",
       "Hardware"
     ]
   },
   {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
+    "objectID": "content/Hardware/Hardware.html#soundtrap",
+    "href": "content/Hardware/Hardware.html#soundtrap",
+    "title": "Hardware",
     "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
+    "text": "Becca",
     "crumbs": [
-      "Software & Analysis Methods"
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware/Hardware.html#moored-near-real-time-buoys",
+    "href": "content/Hardware/Hardware.html#moored-near-real-time-buoys",
+    "title": "Hardware",
+    "section": "",
+    "text": "Gen/Julianne",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware/Hardware.html#harp",
+    "href": "content/Hardware/Hardware.html#harp",
+    "title": "Hardware",
+    "section": "",
+    "text": "Annamaria",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware/Hardware.html#maru",
+    "href": "content/Hardware/Hardware.html#maru",
+    "title": "Hardware",
+    "section": "",
+    "text": "Annamaria",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware/Hardware.html#gliders",
+    "href": "content/Hardware/Hardware.html#gliders",
+    "title": "Hardware",
+    "section": "Gliders",
+    "text": "Gliders\nBecca",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware/Hardware.html#drifting-recorders",
+    "href": "content/Hardware/Hardware.html#drifting-recorders",
+    "title": "Hardware",
+    "section": "Drifting Recorders",
+    "text": "Drifting Recorders\nAnnamaria\n\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
+    "crumbs": [
+      "Lab Management",
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/LabManagement.html",
+    "href": "content/LabManagement/LabManagement.html",
+    "title": "Lab Management",
+    "section": "",
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware",
+    "crumbs": [
+      "Lab Management"
+    ]
+  },
+  {
+    "objectID": "content/Reporting/Reporting.html",
+    "href": "content/Reporting/Reporting.html",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting/Reporting.html#templates",
+    "href": "content/Reporting/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting/Reporting.html#permits",
+    "href": "content/Reporting/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "crumbs": [
+      "Reporting"
     ]
   },
   {
@@ -267,8 +352,8 @@
     ]
   },
   {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
+    "objectID": "content/FieldMethods/FieldMethods.html",
+    "href": "content/FieldMethods/FieldMethods.html",
     "title": "Field Methods",
     "section": "",
     "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
@@ -299,14 +384,13 @@
     ]
   },
   {
-    "objectID": "content/Safety.html",
-    "href": "content/Safety.html",
-    "title": "Safety",
+    "objectID": "content/DataManagement/DataManagement.html",
+    "href": "content/DataManagement/DataManagement.html",
+    "title": "Data Management",
     "section": "",
-    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
+    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
     "crumbs": [
-      "Lab Management",
-      "Safety"
+      "Data Management"
     ]
   },
   {
@@ -426,6 +510,28 @@
     "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
   },
   {
+    "objectID": "content/LabManagement/Safety.html",
+    "href": "content/LabManagement/Safety.html",
+    "title": "Safety",
+    "section": "",
+    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
+    "crumbs": [
+      "Lab Management",
+      "Safety"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Inventory.html",
+    "href": "content/LabManagement/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
     "objectID": "content/Offboarding.html",
     "href": "content/Offboarding.html",
     "title": "Offboarding",
@@ -434,27 +540,6 @@
     "crumbs": [
       "Optional Pages",
       "Offboarding"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement.html",
-    "href": "content/LabManagement.html",
-    "title": "Lab Management",
-    "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware",
-    "crumbs": [
-      "Lab Management"
-    ]
-  },
-  {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software",
-    "section": "",
-    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example",
-    "crumbs": [
-      "Software & Analysis Methods",
-      "Software"
     ]
   },
   {
@@ -469,44 +554,21 @@
     ]
   },
   {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
     "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
     "crumbs": [
-      "Lab Management",
-      "Inventory"
+      "Optional Pages",
+      "Onboarding"
     ]
   },
   {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
+    "objectID": "content/SoftwareAnalysis/Software.html",
+    "href": "content/SoftwareAnalysis/Software.html",
+    "title": "Software",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
-    "crumbs": [
-      "Reporting"
-    ]
+    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example"
   }
 ]
