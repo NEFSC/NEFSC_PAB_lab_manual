@@ -22,7 +22,7 @@ website:
     tools: 
       - icon: globe
         href: https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast
-        text: "NEFSC Passive Acoustic Branch
+        text: "NEFSC Passive Acoustic Branch"
       - icon: github
         href: https://github.com/NEFSC/NEFSC_PAB_lab_manual
         text: "NEFSC Lab Manual Repo"
