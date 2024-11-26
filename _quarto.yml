@@ -41,6 +41,8 @@ website:
             text: Inventory
           - href: content/Hardware/Hardware.qmd
             text: Hardware
+          - href: content/LabManagement/Team_member_bios.qmd
+            text: Team Member Bios
       - href: content/FieldMethods/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement/DataManagement.qmd
