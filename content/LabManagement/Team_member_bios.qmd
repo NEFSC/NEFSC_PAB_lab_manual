@@ -45,6 +45,19 @@ Northeast Fisheries Science Center
 
 Kate received her BA in Environmental Studies from Stonehill College in 2009 and completed her Master of Science in Marine Biology at University of Massachusetts Dartmouth in 2014. Her research there focused on zooplankton phenology in New Bedford Harbor in response to warming spring sea surface temperature, analyzing 25 years worth of zooplankton samples in the process. In February 2020, she joined the NEFSC, where she assists both the [passive acoustic](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) and the [turtle ecology](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/sea-turtle-ecology-and-population-dynamics) research groups.
 
+### **Michael Cranston Ryan**
+![](/figs/Bio_pics/Michael.png){width=150}\
+
+Software Developer\
+Northeast Fisheries Science Center\
+**Cell:** (508) 617-3738\
+**Email:** [michael.c.ryan\@noaa.gov](mailto:michael.c.ryan@noaa.gov)
+
+Mike joined the Passive Acoustics Branch in 2024 working as a software and program developer. He is an engineer, husband and dad with a trove of interests, hobbies and projects. In addition to his love of coding, he enjoys music, travel, sports, science, cooking and audiobooks to name a few.
+
+Relevant Links:\
+[Github](https://github.com/spacetimeengineer)
+
 ### **Genevieve Davis, Ph.D.**
 ![](/figs/Bio_pics/Genevieve.png){width=150}\
 
@@ -139,6 +152,19 @@ Northeast Fisheries Science Center\
 
 Paige Hanson received a B.S. in Marine Science from Eckerd College in December 2022. As an undergraduate, she completed a thesis investigating the effect of ambient noise on the acoustic signals of red grouper on the West Florida Shelf. Additionally, she participated in acoustics-based internships with both California State University, Monterey Bay and the Eckerd College Dolphin Project. Upon graduation, she funded and led field work targeted at collecting the acoustic signals of gulf toadfish. Her research interests broadly lie within the field of acoustic ecology and the application of acoustics for conservation purposes. She joined the [Passive Acoustic Research Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) in 2024 where she works on baleen whale seasonal occurrence.
 
+### **Samara Haver, Ph.D.**
+![](/figs/Bio_pics/Samara.png){width=150}\
+
+She/Her/Hers\
+Research Biologist\
+Northeast Fisheries Science Center\
+**Email:** [samara.haver\@noaa.gov](mailto:samara.haver@noaa.gov)
+
+Samara has a Masters and PhD from Oregon State University and a BA from Colorado College. She first started working in the Passive Acoustics Branch in 2012, focused on analysis and fieldwork for bottom mounted and towed array data sampled in the North Atlantic. After completing her graduate degrees, Samara worked in the Cooperative Institute for Marine Ecosystems and Resources Studies (NOAA PMEL and Oregon State University) as a research scientist. Returning to the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast) in 2024, she joined the Sound Ecology team and now leads projects to quantify marine soundscapes and ocean noise within U.S. waters.
+
+Relevant links:\
+[Google Scholar](https://scholar.google.com/citations?user=6MZINzwAAAAJ&hl=en)
+
 ### **Amanda Holdman, MSc**
 ![](/figs/Bio_pics/Amanda.png){width=150}\
 
@@ -176,20 +202,27 @@ Northeast Fisheries Science Center\
 
 Jessica received a BA in Human Ecology from College of the Atlantic in 2012 and a MSc in Biology from Syracuse University in 2015. After completing her graduate work on acoustic individuality in upcalls of North Atlantic right whales, she worked as a Research Biologist at Pacific Whale Foundation, where she curated photo-ID catalogs of North and South Pacific humpback whales and assisted with research projects on humpback whales and various odontocete species. Jessica joined the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) as a research analyst in 2019, and her current work focuses on vessel compliance and soundscape characteristics in Australian Marine Parks.
 
-### **Xavier Mouy, Ph.D.**
-![](/figs/Bio_pics/Xavier.png){width=150}\
-
+### **Taiki Sakai**
+![](/figs/Bio_pics/Taiki.png){width=150}\
 he/him/his\
-Research Acoustician (Affiliate)\
+Software Developer\
 Northeast Fisheries Science Center\
-**Office:** (508) 639-0698\
-**Email:** [xavier.mouy\@noaa.gov](mailto:xavier.mouy@noaa.gov)
+**Email:** [taiki.sakai\@noaa.gov](mailto:taiki.sakai@noaa.gov)
 
-Xavier Mouy has a BSc in Acoustics and Signal Processing from Le Mans University (Le Mans, France), a MSc in Oceanography from the University of Quebec in Rimouski (Rimouski, Canada), and a PhD in Earth and Ocean Sciences from the University of Victoria (Victoria, Canada). Before joining the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) in 2021, Xavier was an acoustician at JASCO Applied Sciences for 14 years. His research interests include the development of hardware and software tools for the automatic detection, classification and localization of marine fauna using passive acoustics, and the analysis of marine soundscapes.
+Taiki graduated from Harvey Mudd College in 2010 with a degree in Mathematics. He has been a contractor with NOAA since 2016, first at the Southwest Fisheries Science Center and now with the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast) at the Northeast Fisheries Science Center. His work focuses on developing software tools to streamline and standardize passive acoustic data analysis.
+
+### **Maricarmen Serna**
+![](/figs/Bio_pics/Maricarmen.png){width=150}\
+
+Acoustician (Affiliate)\
+Northeast Fisheries Science Center\
+**Cell:** (210) 965-9935\
+**Email:** [maricarmen.serna\@noaa.gov](mailto:maricarmen.serna@noaa.gov)
+
+Maricarmen graduated from the University of Rhode Island with a B.S. in Environmental and Natural Resource Economics and a minor in Marine Biology. While at URI, she was an Ernest F. Hollings Scholar at the Northwest Fisheries Science Center, where she analyzed the movement patterns of Southern Resident Killer Whales. She was also a URI Science and Engineering Fellow, during which she tagged mako sharks and blue sharks, led URI's 2022 Shark Camp, and assessed the social network of Southern Stingrays in the Cayman Islands. She joined the [Passive Acoustic Research Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) in 2024 and currently works on anthropogenic soundscapes during the pre-construction phases of offshore wind turbine developments.
 
 Relevant Links:\
-[LinkedIn  ](https://www.linkedin.com/in/xavier-mouy-47432057/)\
-[ResearchGate  ](https://www.researchgate.net/profile/Xavier-Mouy)
+[LinkedIn  ](https://www.linkedin.com/in/maricarmen-serna/)
 
 ### **Anne Smith**
 ![](/figs/Bio_pics/Anne.png){width=150}\
@@ -216,6 +249,19 @@ Relevant links:\
 [ResearchGate  ](https://www.researchgate.net/profile/Lindsey-Transue)\
 [LinkedIn  ](https://www.linkedin.com/in/lindseytransue/)\
 [ORCID](https://orcid.org/0000-0002-4138-9177)
+
+### **Rebecca Van Hoeck, PhD**
+![](/figs/Bio_pics/Becca.png){width=150}\
+
+she/her/hers\
+Research Biologist\
+Northeast Fisheries Science Center\
+**Email:** [rebecca.vanhoeck\@noaa.gov](mailto:rebecca.vanhoeck@noaa.gov)
+
+Becca has a PhD in Ecology, Evolution, and Organismal Biology from the University of North Carolina at Chapel Hill and a BS in Marine Science and Biology from the University of Tampa. In her current role, Becca coordinates national and regional passive acoustic monitoring initiatives to support marine mammal conservation and responsible development of offshore wind energy. Her work also includes conducting passive acoustic research to better understand Atlantic cod spawning behavior and advance understanding of marine soundscapes. Prior to joining the Passive Acoustic Branch in 2024, she was a Knauss Marine Policy Fellow working as a Policy Analyst for NOAA Headquarters in the Office of Under Secretary of Commerce for Oceans and Atmosphere.
+
+Relevant links:\
+[ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-3889-0419)
 
 ### **Jeffrey Walker, PhD**
 ![](/figs/Bio_pics/Jeffrey.png){width=150}\
@@ -259,54 +305,6 @@ Relevant Links:\
 [ResearchGate  ](https://www.researchgate.net/profile/Julianne-Wilder)\
 [ORCID](https://orcid.org/0000-0003-0296-0112)
 
-### **Rebecca Van Hoeck, PhD**
-![](/figs/Bio_pics/Becca.png){width=150}\
-
-she/her/hers\
-Research Biologist\
-Northeast Fisheries Science Center\
-**Email:** [rebecca.vanhoeck\@noaa.gov](mailto:rebecca.vanhoeck@noaa.gov)
-
-Becca has a PhD in Ecology, Evolution, and Organismal Biology from the University of North Carolina at Chapel Hill and a BS in Marine Science and Biology from the University of Tampa. In her current role, Becca coordinates national and regional passive acoustic monitoring initiatives to support marine mammal conservation and responsible development of offshore wind energy. Her work also includes conducting passive acoustic research to better understand Atlantic cod spawning behavior and advance understanding of marine soundscapes. Prior to joining the Passive Acoustic Branch in 2024, she was a Knauss Marine Policy Fellow working as a Policy Analyst for NOAA Headquarters in the Office of Under Secretary of Commerce for Oceans and Atmosphere.
-
-Relevant links:\
-[ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-3889-0419)
-
-### **Taiki Sakai**
-![](/figs/Bio_pics/Taiki.png){width=150}\
-he/him/his\
-Software Developer\
-Northeast Fisheries Science Center\
-**Email:** [taiki.sakai\@noaa.gov](mailto:taiki.sakai@noaa.gov)
-
-Taiki graduated from Harvey Mudd College in 2010 with a degree in Mathematics. He has been a contractor with NOAA since 2016, first at the Southwest Fisheries Science Center and now with the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast) at the Northeast Fisheries Science Center. His work focuses on developing software tools to streamline and standardize passive acoustic data analysis.
-
-### **Maricarmen Serna**
-![](/figs/Bio_pics/Maricarmen.png){width=150}\
-
-Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
-**Cell:** (210) 965-9935\
-**Email:** [maricarmen.serna\@noaa.gov](mailto:maricarmen.serna@noaa.gov)
-
-Maricarmen graduated from the University of Rhode Island with a B.S. in Environmental and Natural Resource Economics and a minor in Marine Biology. While at URI, she was an Ernest F. Hollings Scholar at the Northwest Fisheries Science Center, where she analyzed the movement patterns of Southern Resident Killer Whales. She was also a URI Science and Engineering Fellow, during which she tagged mako sharks and blue sharks, led URI's 2022 Shark Camp, and assessed the social network of Southern Stingrays in the Cayman Islands. She joined the [Passive Acoustic Research Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) in 2024 and currently works on anthropogenic soundscapes during the pre-construction phases of offshore wind turbine developments.
-
-Relevant Links:\
-[LinkedIn  ](https://www.linkedin.com/in/maricarmen-serna/)
-
-### **Michael Cranston Ryan**
-![](/figs/Bio_pics/Michael.png){width=150}\
-
-Software Developer\
-Northeast Fisheries Science Center\
-**Cell:** (508) 617-3738\
-**Email:** [michael.c.ryan\@noaa.gov](mailto:michael.c.ryan@noaa.gov)
-
-Mike joined the Passive Acoustics Branch in 2024 working as a software and program developer. He is an engineer, husband and dad with a trove of interests, hobbies and projects. In addition to his love of coding, he enjoys music, travel, sports, science, cooking and audiobooks to name a few.
-
-Relevant Links:\
-[Mike's github page](https://github.com/spacetimeengineer)
-
 ### **Julia Zeh, Ph.D.**
 ![](/figs/Bio_pics/Julia.png){width=150}\
 
@@ -320,18 +318,4 @@ Julia has a BA in Environmental Biology from Columbia University and a PhD in Bi
 Relevant links:\
 [ORCID](https://orcid.org/0000-0001-5094-100X)\
 [LinkedIn  ](https://www.linkedin.com/in/julia-zeh-5b7432142/)
-
-
-### **Samara Haver, Ph.D.**
-![](/figs/Bio_pics/Samara.png){width=150}\
-
-She/Her/Hers\
-Research Biologist\
-Northeast Fisheries Science Center\
-**Email:** [samara.haver\@noaa.gov](mailto:samara.haver@noaa.gov)
-
-Samara has a Masters and PhD from Oregon State University and a BA from Colorado College. She first started working in the Passive Acoustics Branch in 2012, focused on analysis and fieldwork for bottom mounted and towed array data sampled in the North Atlantic. After completing her graduate degrees, Samara worked in the Cooperative Institute for Marine Ecosystems and Resources Studies (NOAA PMEL and Oregon State University) as a research scientist. Returning to the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast) in 2024, she joined the Sound Ecology team and now leads projects to quantify marine soundscapes and ocean noise within U.S. waters.
-
-Relevant links:\
-[Google Scholar](https://scholar.google.com/citations?user=6MZINzwAAAAJ&hl=en)
 
