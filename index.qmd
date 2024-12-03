@@ -2,7 +2,7 @@
 title: "Home"
 page-layout: full
 ---
-Northeast Fisheries Science Center
+*Northeast Fisheries Science Center*
 
 ![](content/images/PAB_LOGO_FINAL_DARKBLUE.PNG){width="240"}
 
