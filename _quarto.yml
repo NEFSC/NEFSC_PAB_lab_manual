@@ -43,6 +43,8 @@ website:
             text: Hardware
           - href: content/LabManagement/Team_member_bios.qmd
             text: Team Member Bios
+          - href: content/LabManagement/RDC-info.qmd
+            text: Remote Desktop Computer Information
       - href: content/FieldMethods/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement/DataManagement.qmd
