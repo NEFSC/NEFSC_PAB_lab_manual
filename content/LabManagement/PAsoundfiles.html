@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>R Markdown – NOAA quarto simple</title>
+<title>pasoundfiles – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -63,8 +29,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../content/NMFS_OpenSciDirections/code.html" rel="next">
-<link href="../../content/NMFS_OpenSciDirections/rendering.html" rel="prev">
 <link href="../../images/favicon.ico" rel="icon">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -117,7 +81,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/NMFS_OpenSciDirections/Intro.html">NMFS Open Science Directions</a></li><li class="breadcrumb-item"><a href="../../content/NMFS_OpenSciDirections/rmarkdown.html">R Markdown</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -299,13 +263,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
  <span class="menu-text">NMFS Open Science Directions</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../content/NMFS_OpenSciDirections/Intro.html" class="sidebar-item-text sidebar-link">
@@ -332,7 +296,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../content/NMFS_OpenSciDirections/rmarkdown.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../content/NMFS_OpenSciDirections/rmarkdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">R Markdown</span></a>
   </div>
 </li>
@@ -360,66 +324,59 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#r-markdown" id="toc-r-markdown" class="nav-link active" data-scroll-target="#r-markdown">R Markdown</a></li>
-  <li><a href="#including-plots" id="toc-including-plots" class="nav-link" data-scroll-target="#including-plots">Including Plots</a></li>
+  <li><a href="#passive-acoustic_soundfiles-structure" id="toc-passive-acoustic_soundfiles-structure" class="nav-link active" data-scroll-target="#passive-acoustic_soundfiles-structure">Passive Acoustic_soundfiles structure</a>
+  <ul class="collapse">
+  <li><a href="#accessing-the-server" id="toc-accessing-the-server" class="nav-link" data-scroll-target="#accessing-the-server">Accessing the server</a></li>
+  <li><a href="#passiveacoustics_soundfiles-server-information" id="toc-passiveacoustics_soundfiles-server-information" class="nav-link" data-scroll-target="#passiveacoustics_soundfiles-server-information">PassiveAcoustics_soundfiles server information</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/NMFS_OpenSciDirections/rmarkdown.Rmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/NMFS_OpenSciDirections/rmarkdown.Rmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/PAsoundfiles.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/PAsoundfiles.md" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/NMFS_OpenSciDirections/Intro.html">NMFS Open Science Directions</a></li><li class="breadcrumb-item"><a href="../../content/NMFS_OpenSciDirections/rmarkdown.html">R Markdown</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">R Markdown</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>You can include R Markdown files in your project.</p>
-<section id="r-markdown" class="level2">
-<h2 class="anchored" data-anchor-id="r-markdown">R Markdown</h2>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(cars)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  </code></pre>
-</div>
-</div>
+<section id="passive-acoustic_soundfiles-structure" class="level1">
+<h1>Passive Acoustic_soundfiles structure</h1>
+<p>The PassiveAcoustics_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the <a href="https://docs.google.com/document/d/1VxZ9pT2j1ylzHbp2VbaZNV3WVEpuYS_ZFzozmT1G850/edit?usp=sharing">PassiveAcoustic server page</a>.</p>
+<section id="accessing-the-server" class="level3">
+<h3 class="anchored" data-anchor-id="accessing-the-server">Accessing the server</h3>
+<p>To access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.</p>
+<p>To access from the Windows file explorer enter: \\nefscdata\PassiveAcoustics_Soundfiles\<br>
+To access from a container enter: \\mnt\PassiveAcoustics_Soundfiles\</p>
+<p>For quick access on your computer, it is recommended to pin the server folder</p>
 </section>
-<section id="including-plots" class="level2">
-<h2 class="anchored" data-anchor-id="including-plots">Including Plots</h2>
-<p>You can also embed plots, for example:</p>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="rmarkdown_files/figure-html/pressure-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+<section id="passiveacoustics_soundfiles-server-information" class="level3">
+<h3 class="anchored" data-anchor-id="passiveacoustics_soundfiles-server-information">PassiveAcoustics_soundfiles server information</h3>
+<p>The general organizational structure of PassiveAcoustic Soundfile directories is as follows:</p>
+<ul>
+<li><p><strong>Recorder type\</strong><br>
+Each hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.<br>
+<em>File name format: [recorder_type]</em><br>
+<em>Example: bottom_mounted</em></p>
+<ul>
+<li><p><strong>Region\</strong><br>
+Each general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.<br>
+<em>File name format: [fmc acronym]_[region acronym]</em><br>
+<em>Example: nefsc_sbnms</em></p>
+<ul>
+<li><p><strong>Deployment\</strong><br>
+Each recorder deployment has a folder.<br>
+<em>File name format: [fmc acronym]_[region acronym]_[deployment start month/year as YYYYMM]_[unique recorder ID]</em><br>
+<em>Example: nefsc_sbnms_202307_sb03</em></p>
+<ul>
+<li><strong>Recorder\</strong><br>
+Each recorder type (deployed together as a unit) has a folder.<br>
+<em>File name format: [fmc acronym]_[region acronym]_[deployment start month/year as</em></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -984,18 +941,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../../content/NMFS_OpenSciDirections/rendering.html" class="pagination-link" aria-label="Rendering">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Rendering</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../../content/NMFS_OpenSciDirections/code.html" class="pagination-link" aria-label="Rendering with Code">
-        <span class="nav-page-text">Rendering with Code</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -1004,7 +949,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/NMFS_OpenSciDirections/rmarkdown.Rmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/NMFS_OpenSciDirections/rmarkdown.Rmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/PAsoundfiles.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/PAsoundfiles.md" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
