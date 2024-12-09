@@ -48,7 +48,6 @@
     "section": "",
     "text": "Insert a picture\n\n\nBecca\n\n\n\nGen/Julianne\n\n\n\nAnnamaria\n\n\n\nAnnamaria",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -59,7 +58,6 @@
     "section": "",
     "text": "Becca",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -70,7 +68,6 @@
     "section": "",
     "text": "Gen/Julianne",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -81,7 +78,6 @@
     "section": "",
     "text": "Annamaria",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -92,7 +88,6 @@
     "section": "",
     "text": "Annamaria",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -103,7 +98,6 @@
     "section": "Gliders",
     "text": "Gliders\nBecca",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -114,7 +108,6 @@
     "section": "Drifting Recorders",
     "text": "Drifting Recorders\nAnnamaria\n\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -127,6 +120,17 @@
     "crumbs": [
       "Lab Management",
       "PassiveAcoustics Server Structure"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Inventory.html",
+    "href": "content/LabManagement/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
     ]
   },
   {
@@ -500,15 +504,22 @@
     ]
   },
   {
-    "objectID": "content/LabManagement/Inventory.html",
-    "href": "content/LabManagement/Inventory.html",
-    "title": "Inventory",
+    "objectID": "content/LabManagement/PA_soundfiles.html",
+    "href": "content/LabManagement/PA_soundfiles.html",
+    "title": "PassiveAcoustics_Soundfiles structure",
     "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "text": "The PassiveAcoustics_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the PassiveAcoustic server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics_Soundfiles\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics_Soundfiles\\\nFor quick access on your computer, it is recommended to pin the server folder\n\n\nPassiveAcoustics_soundfiles server information\nThe general organizational structure of PassiveAcoustic Soundfile directories is as follows:\n\nRecorder type\\\nEach hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.\nFile name format: [recorder_type]\nExample: bottom_mounted\n\nRegion\\\nEach general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.\nFile name format: [fmc acronym]_[region acronym]\nExample: nefsc_sbnms\n\nDeployment\\\nEach recorder deployment has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as YYYYMM]_[unique recorder ID]\nExample: nefsc_sbnms_202307_sb03\n\nRecorder\\\nEach recorder type (deployed together as a unit) has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as",
     "crumbs": [
       "Lab Management",
-      "Inventory"
+      "PassiveAcoustics Soundfiles"
     ]
+  },
+  {
+    "objectID": "content/LabManagement/PAsoundfiles.html",
+    "href": "content/LabManagement/PAsoundfiles.html",
+    "title": "Passive Acoustic_soundfiles structure",
+    "section": "",
+    "text": "Passive Acoustic_soundfiles structure\nThe PassiveAcoustics_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the PassiveAcoustic server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics_Soundfiles\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics_Soundfiles\\\nFor quick access on your computer, it is recommended to pin the server folder\n\n\nPassiveAcoustics_soundfiles server information\nThe general organizational structure of PassiveAcoustic Soundfile directories is as follows:\n\nRecorder type\\\nEach hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.\nFile name format: [recorder_type]\nExample: bottom_mounted\n\nRegion\\\nEach general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.\nFile name format: [fmc acronym]_[region acronym]\nExample: nefsc_sbnms\n\nDeployment\\\nEach recorder deployment has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as YYYYMM]_[unique recorder ID]\nExample: nefsc_sbnms_202307_sb03\n\nRecorder\\\nEach recorder type (deployed together as a unit) has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as"
   },
   {
     "objectID": "content/LabManagement/RDC-info.html",
