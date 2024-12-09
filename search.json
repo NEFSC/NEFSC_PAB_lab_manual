@@ -164,31 +164,11 @@
     "text": "RDP Computer Information\nList of RDP computers, where they’re located (with CD#s, not IP addresses), and which softwares are hosted on each.\n\n\n\n\n\n\n\n\n\n\nComputer Name\nLocation and CD#\nSoftwares\nUsage\nCommon User\n\n\n\n\nC-6PO (PAMGuard, Dolphin)\n- Computer Lab (ITD floor) - CD0004954114\nPAMGuard Anaconda/ Python\nDolphin detector PAMGuard processing + validation Server Reorganization\nAmanda, Sophie, Julianne\n\n\nODYSSEY (Data upload, Manta, & humpback validation)\n- Computer Lab (ITD floor) - CD0004786429\nRaven/Raven Compass Manta Anaconda/ Python RStudio PACE (NCEI Packaging Software)\nRaven- Pile Driving, copying data, QAQC, uploading MANTA for GOM collaborative project / ONMS project Humpback validation Pile driving detector\nCatherine, Kate, Lindsey, Jess, Becca\n\n\nKHALEESI (Vessel, cod analysis, QAQC)\n- Room 309 - CD0004094455\nRaven Anaconda/ Python\nCod Validation Ship detector, validation Haddock detector\nBecca, Rochelle, Annie\n\n\nBRUCE (SPWH, HARP BW, QAQC)\n- Room 319 - CD0004094474\nMatLab PAMGuard\nHARP BW validation QAQC (if Khaleesi busy) PAMGuard SPWH click detection\nAnnamaria, Annabel, Kate, Sophie, Samara\n\n\nFOXTROT (SPWH, BW, Haddock, QAQC)\n- Room 309 - CD0004094798\nRaven MatLab Python PAMGuard\nRaven- Pile Driving, QAQC Haddock detector NBW detection & validation Pamguard dolphin + validation PAMGuard SPWH click detection\nCatherine, Xavier, Annabel, Sophie, Samara\n\n\nATLANTIS\n- Computer Lab (ITD floor) - CD0004656069\nAnaconda/ Python Raven/Raven Compass MatLab RStudio PACE (NCEI Packaging Software)\nPile Driving Detector QAQC Cod detector\nCatherine, Kate, Becca, Annie, Samara\n\n\nGLACIALIS\n- Room 309 - CD0004094451\nPAMGuard\nPamguard dolphin processing\nAmanda, Sophie"
   },
   {
-    "objectID": "content/Reporting/Reporting.html",
-    "href": "content/Reporting/Reporting.html",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting/Reporting.html#templates",
-    "href": "content/Reporting/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting/Reporting.html#permits",
-    "href": "content/Reporting/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "objectID": "content/Reporting/Reporting.html#reporting",
+    "href": "content/Reporting/Reporting.html#reporting",
+    "title": "NOAA quarto simple",
+    "section": "Reporting",
+    "text": "Reporting\nUnder Construction",
     "crumbs": [
       "Reporting"
     ]
@@ -337,11 +317,11 @@
     ]
   },
   {
-    "objectID": "content/FieldMethods/FieldMethods.html",
-    "href": "content/FieldMethods/FieldMethods.html",
-    "title": "Field Methods",
-    "section": "",
-    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "objectID": "content/FieldMethods/FieldMethods.html#field-methods",
+    "href": "content/FieldMethods/FieldMethods.html#field-methods",
+    "title": "NOAA quarto simple",
+    "section": "Field Methods",
+    "text": "Field Methods\nUnder construction",
     "crumbs": [
       "Field Methods"
     ]
