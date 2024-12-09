@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Software &amp; Analysis Methods – NOAA quarto simple</title>
+<title>Passive Acoustics server structure – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../content/SoftwareAnalysis/Software.html" rel="next">
-<link href="../../content/DataManagement/DataManagement.html" rel="prev">
+<link href="../../content/FieldMethods/FieldMethods.html" rel="next">
+<link href="../../content/LabManagement/RDC-info.html" rel="prev">
 <link href="../../images/favicon.ico" rel="icon">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/SoftwareAnalysis/SoftwareAnalysis.html">Software &amp; Analysis Methods</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/LabManagement/LabManagement.html">Lab Management</a></li><li class="breadcrumb-item"><a href="../../content/LabManagement/PA_server_structure.html">PassiveAcoustics Server Structure</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -123,11 +123,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../content/LabManagement/LabManagement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lab Management</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../content/LabManagement/Safety.html" class="sidebar-item-text sidebar-link">
@@ -160,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../content/LabManagement/PA_server_structure.html" class="sidebar-item-text sidebar-link">
+  <a href="../../content/LabManagement/PA_server_structure.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">PassiveAcoustics Server Structure</span></a>
   </div>
 </li>
@@ -186,13 +186,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../content/SoftwareAnalysis/SoftwareAnalysis.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../content/SoftwareAnalysis/SoftwareAnalysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Software &amp; Analysis Methods</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../content/SoftwareAnalysis/Software.html" class="sidebar-item-text sidebar-link">
@@ -321,15 +321,23 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#accessing-the-server" id="toc-accessing-the-server" class="nav-link active" data-scroll-target="#accessing-the-server">Accessing the server</a></li>
+  <li><a href="#passiveacoustics-server-information" id="toc-passiveacoustics-server-information" class="nav-link" data-scroll-target="#passiveacoustics-server-information">PassiveAcoustics server information</a></li>
+  <li><a href="#stellwagen-server-resources-transferred-from-monday" id="toc-stellwagen-server-resources-transferred-from-monday" class="nav-link" data-scroll-target="#stellwagen-server-resources-transferred-from-monday">Stellwagen Server Resources (transferred from Monday)</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/PA_server_structure.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/PA_server_structure.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/LabManagement/LabManagement.html">Lab Management</a></li><li class="breadcrumb-item"><a href="../../content/LabManagement/PA_server_structure.html">PassiveAcoustics Server Structure</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Software &amp; Analysis Methods</h1>
+<h1 class="title">Passive Acoustics server structure</h1>
 </div>
 
 
@@ -346,9 +354,176 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).</p>
+<p>The Passive Acoustics server is our central storage location for all data and information that is not acoustic data. We are in the process of migrating from the PassiveAcoustics/Stellwagen_Old directory to the PassiveAcoustics directories. For information on where we store acoustic data see the <a href="https://docs.google.com/document/d/1TnMJSx69-OoTfhSHtJBUBqWkVqMq_f0ALPRHBltUlyM/edit?usp=sharing">PassiveAcoustic_soundfiles server page</a>.</p>
+<section id="accessing-the-server" class="level3">
+<h3 class="anchored" data-anchor-id="accessing-the-server">Accessing the server</h3>
+<p>To access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.</p>
+<p><img src="../../figs/Onboarding_images/server_screenshot.png" class="img-fluid"><br>
+To access from the Windows file explorer enter: \\nefscdata\PassiveAcoustics\<br>
+To access from a container enter: \\mnt\PassiveAcoustics\</p>
+<p>For quick access on your computer, it is recommended to pin the server folder.<br>
+Make sure you are connected to the network via VPN.</p>
+</section>
+<section id="passiveacoustics-server-information" class="level3">
+<h3 class="anchored" data-anchor-id="passiveacoustics-server-information">PassiveAcoustics server information</h3>
+<p>The table below details the status of the server reorganization and comments on how to use each folder. For more information on specific folders, see ‘Readme’ docs located in the server.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">PassiveAcoustics</th>
+<th style="text-align: left;">Stellwagen_Old</th>
+<th style="text-align: left;">Comment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">CONFERENCES_PRESENTATIONS</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Final versions of all presentations and posters</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CTD_DATA</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Oceanographic data from CTDs</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">DATA_ANALYSIS</td>
+<td style="text-align: left;">DATA_ANALYSIS</td>
+<td style="text-align: left;">Migration in progress. Analysis specific code for new projects should be stored in the PassiveAcoustics/DATA_ANALYSIS folder.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">DEPTH_DATA</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Processed depth data tables from towed array and drifting recorders</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">DETECTOR_OUTPUT</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">All detector output organized by detector then raw, summarized, or validated status.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">DETECTOR_SOFTWARE</td>
+<td style="text-align: left;">DETECTORS</td>
+<td style="text-align: left;">Migration in progress, new detectors should be stored in DETECTOR_SOFTWARE</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">GPS_DATA</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GPS data tables from mobile platform</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">MAKARA_DATA_REVIEW_temp</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Temporary Makara software resources (temporary)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">OUTREACH_PRODUCTS</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Graphics, web content, exhibits available for use</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">PAB_ANALYSIS_TRAINING</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">PAB Analyst Training Resources</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">SOUNDS_AND_PICTURES</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Example sound clips and pictures</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">FIELDWORK</td>
+<td style="text-align: left;">To be migrated. Fieldwork plans, permitting, and contracts.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GIS_TOOLS_PROJECTS</td>
+<td style="text-align: left;">To be migrated. GIS projects and useful shapefiles</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">GROUP_MEETINGS</td>
+<td style="text-align: left;">To be migrated.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">INVENTORY</td>
+<td style="text-align: left;">To be migrated.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">LITERATURE</td>
+<td style="text-align: left;">To be migrated. Relevant literature to PAB</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">MANUALS_SOFTWARE_CODE_LIBRARY</td>
+<td style="text-align: left;">To be migrated. General code that could be used across projects and analysts.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">PROJECT_ADMIN_ACCDATA</td>
+<td style="text-align: left;">To be reorganized. Data management for inventory and recorder performance</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">STAFF</td>
+<td style="text-align: left;">Retirement in progress. Staff specific files that do not align with server directory should be saved on google drive, personal computers, or nefsc personal file shares.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">TELEMETRY_DATA</td>
+<td style="text-align: left;">To be migrated. Processed telemetry data tables</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">TEMPERATURE_DATA</td>
+<td style="text-align: left;">To be migrated. Processed temperature data from SoundTraps</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">TETHYS_METADATA</td>
+<td style="text-align: left;">To be migrated. Metadata files and schema for TETHYS database uploads</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">TOWED_ARRAY</td>
+<td style="text-align: left;">To be migrated. Files specific to AMAPPS towed array surveys</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">VISUAL_SIGHTINGS_DATA</td>
+<td style="text-align: left;">To be migrated. Miscellaneous visual sightings data</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="stellwagen-server-resources-transferred-from-monday" class="level3">
+<h3 class="anchored" data-anchor-id="stellwagen-server-resources-transferred-from-monday">Stellwagen Server Resources (transferred from Monday)</h3>
+<ul>
+<li><a href="https://drive.google.com/file/d/1uuAr9joXZHcuD6n5Nq33L793HmdWn9vb/view?usp=sharing">How to view Stellwagen directories as pie charts</a><br>
+</li>
+<li><a href="https://drive.google.com/file/d/1i20vjkZPD5RUWyR1jNP7bg92G-gkx8ql/view?usp=sharing">Converting WAV files to FLAC</a><br>
+</li>
+<li><a href="https://drive.google.com/file/d/1hVGUsrOMJrXgmRzMqw1oC8lYT-_jkgvM/view?usp=sharing">How to get a list of directories on server</a><br>
+</li>
+<li><a href="https://drive.google.com/file/d/1ubpXM8bzVWdRxwO1n-GzNuvCoGdU82_s/view?usp=sharing">How to copy data to Stellwagen server using Linux terminal</a><br>
+</li>
+<li><a href="https://drive.google.com/file/d/1t-OlCgyuAbx0URC1FVjL6tu149RmSB0e/view?usp=sharing">VNC fix</a><br>
+</li>
+<li><a href="https://drive.google.com/file/d/1WfKhKqaIAeMTTUdgEevidPECzjZ55n0_/view?usp=sharing">Instructions on how to copy data to Stellwagen server using Windows Terminal after plugging in hard drive with data into Kenobi Linux Computer</a><br>
+</li>
+<li><a href="https://drive.google.com/file/d/1TTDyvPbEjKhJVDF9gBfmc1R9NH40W7an/view?usp=sharing">How to view Stellwagen directory sizes using ncdu method</a></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -914,13 +1089,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../content/DataManagement/DataManagement.html" class="pagination-link" aria-label="Data Management">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Data Management</span>
+      <a href="../../content/LabManagement/RDC-info.html" class="pagination-link" aria-label="Remote Desktop Computer Information">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Remote Desktop Computer Information</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../content/SoftwareAnalysis/Software.html" class="pagination-link" aria-label="Software">
-        <span class="nav-page-text">Software</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../content/FieldMethods/FieldMethods.html" class="pagination-link" aria-label="Field Methods">
+        <span class="nav-page-text">Field Methods</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -932,7 +1107,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/SoftwareAnalysis/SoftwareAnalysis.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/SoftwareAnalysis/SoftwareAnalysis.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/PA_server_structure.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/PA_server_structure.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
