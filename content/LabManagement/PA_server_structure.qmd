@@ -7,7 +7,7 @@ The Passive Acoustics server is our central storage location for all data and in
 
 To access the server for the first time, submit an ITD ticket requesting access to PA\_group file shares and include Sofie or your team lead on the ticket so that they can provide approval. 
 
-![](/figs/Onboarding_images/server_screenshot.png)  
+![](/figs/Onboarding_images/server_screenshot.PNG)  
 To access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics\\  
 To access from a container enter: \\\\mnt\\PassiveAcoustics\\
 
