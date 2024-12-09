@@ -45,6 +45,8 @@ website:
             text: Team Member Bios
           - href: content/LabManagement/RDC-info.qmd
             text: Remote Desktop Computer Information
+          - href: content/LabManagement/PA_server_structure.qmd
+            text: PassiveAcoustics Server Structure
       - href: content/FieldMethods/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement/DataManagement.qmd
