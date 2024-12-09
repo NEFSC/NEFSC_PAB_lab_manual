@@ -10,16 +10,6 @@
     ]
   },
   {
-    "objectID": "content/SoftwareAnalysis/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
-    "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
-    "crumbs": [
-      "Software & Analysis Methods"
-    ]
-  },
-  {
     "objectID": "content/SharedValues.html",
     "href": "content/SharedValues.html",
     "title": "Shared Values",
@@ -28,6 +18,28 @@
     "crumbs": [
       "Optional Pages",
       "Shared Values"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_analysis_protocols.html",
+    "href": "content/Analysis/Species_analysis_protocols.html",
+    "title": "Species Analysis Protocols",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Analysis",
+      "Species analysis protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Specieslist_soundtypes.html",
+    "href": "content/Analysis/Specieslist_soundtypes.html",
+    "title": "Species list",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Analysis",
+      "Species list"
     ]
   },
   {
@@ -42,11 +54,11 @@
     ]
   },
   {
-    "objectID": "content/Hardware/Hardware.html",
-    "href": "content/Hardware/Hardware.html",
-    "title": "Hardware",
-    "section": "",
-    "text": "Insert a picture\n\n\nBecca\n\n\n\nGen/Julianne\n\n\n\nAnnamaria\n\n\n\nAnnamaria",
+    "objectID": "content/Hardware/Hardware.html#hardware",
+    "href": "content/Hardware/Hardware.html#hardware",
+    "title": "Bottom Mounted Recorders",
+    "section": "Hardware",
+    "text": "Hardware",
     "crumbs": [
       "Hardware"
     ]
@@ -54,9 +66,9 @@
   {
     "objectID": "content/Hardware/Hardware.html#soundtrap",
     "href": "content/Hardware/Hardware.html#soundtrap",
-    "title": "Hardware",
-    "section": "",
-    "text": "Becca",
+    "title": "Bottom Mounted Recorders",
+    "section": "SoundTrap",
+    "text": "SoundTrap\nBecca",
     "crumbs": [
       "Hardware"
     ]
@@ -64,9 +76,9 @@
   {
     "objectID": "content/Hardware/Hardware.html#moored-near-real-time-buoys",
     "href": "content/Hardware/Hardware.html#moored-near-real-time-buoys",
-    "title": "Hardware",
-    "section": "",
-    "text": "Gen/Julianne",
+    "title": "Bottom Mounted Recorders",
+    "section": "Moored Near Real-Time Buoys",
+    "text": "Moored Near Real-Time Buoys\nGen/Julianne",
     "crumbs": [
       "Hardware"
     ]
@@ -74,9 +86,9 @@
   {
     "objectID": "content/Hardware/Hardware.html#harp",
     "href": "content/Hardware/Hardware.html#harp",
-    "title": "Hardware",
-    "section": "",
-    "text": "Annamaria",
+    "title": "Bottom Mounted Recorders",
+    "section": "HARP",
+    "text": "HARP\nAnnamaria",
     "crumbs": [
       "Hardware"
     ]
@@ -84,9 +96,9 @@
   {
     "objectID": "content/Hardware/Hardware.html#maru",
     "href": "content/Hardware/Hardware.html#maru",
-    "title": "Hardware",
-    "section": "",
-    "text": "Annamaria",
+    "title": "Bottom Mounted Recorders",
+    "section": "MARU",
+    "text": "MARU\nAnnamaria",
     "crumbs": [
       "Hardware"
     ]
@@ -94,7 +106,7 @@
   {
     "objectID": "content/Hardware/Hardware.html#gliders",
     "href": "content/Hardware/Hardware.html#gliders",
-    "title": "Hardware",
+    "title": "Bottom Mounted Recorders",
     "section": "Gliders",
     "text": "Gliders\nBecca",
     "crumbs": [
@@ -104,7 +116,7 @@
   {
     "objectID": "content/Hardware/Hardware.html#drifting-recorders",
     "href": "content/Hardware/Hardware.html#drifting-recorders",
-    "title": "Hardware",
+    "title": "Bottom Mounted Recorders",
     "section": "Drifting Recorders",
     "text": "Drifting Recorders\nAnnamaria\n\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
     "crumbs": [
@@ -335,17 +347,6 @@
     ]
   },
   {
-    "objectID": "content/AnalysisMethods.html",
-    "href": "content/AnalysisMethods.html",
-    "title": "Analysis Methods",
-    "section": "",
-    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
-    "crumbs": [
-      "Software & Analysis Methods",
-      "Analysis Methods"
-    ]
-  },
-  {
     "objectID": "content/Resources.html",
     "href": "content/Resources.html",
     "title": "Resources",
@@ -357,11 +358,11 @@
     ]
   },
   {
-    "objectID": "content/DataManagement/DataManagement.html",
-    "href": "content/DataManagement/DataManagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
+    "objectID": "content/DataManagement/DataManagement.html#data-management",
+    "href": "content/DataManagement/DataManagement.html#data-management",
+    "title": "NOAA quarto simple",
+    "section": "Data Management",
+    "text": "Data Management\nUnder Construction",
     "crumbs": [
       "Data Management"
     ]
@@ -494,11 +495,11 @@
     ]
   },
   {
-    "objectID": "content/LabManagement/LabManagement.html",
-    "href": "content/LabManagement/LabManagement.html",
-    "title": "Lab Management",
-    "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware",
+    "objectID": "content/LabManagement/LabManagement.html#lab-management",
+    "href": "content/LabManagement/LabManagement.html#lab-management",
+    "title": "NOAA quarto simple",
+    "section": "Lab Management",
+    "text": "Lab Management\nUnder Construction",
     "crumbs": [
       "Lab Management"
     ]
@@ -544,6 +545,26 @@
     ]
   },
   {
+    "objectID": "content/Software/Software.html#software",
+    "href": "content/Software/Software.html#software",
+    "title": "NOAA quarto simple",
+    "section": "Software",
+    "text": "Software\nUnder Construction",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Analysis.html#analysis",
+    "href": "content/Analysis/Analysis.html#analysis",
+    "title": "NOAA quarto simple",
+    "section": "Analysis",
+    "text": "Analysis\nUnder Construction",
+    "crumbs": [
+      "Analysis"
+    ]
+  },
+  {
     "objectID": "content/OpenScience.html",
     "href": "content/OpenScience.html",
     "title": "Open Science",
@@ -563,17 +584,6 @@
     "crumbs": [
       "Optional Pages",
       "Onboarding"
-    ]
-  },
-  {
-    "objectID": "content/SoftwareAnalysis/Software.html",
-    "href": "content/SoftwareAnalysis/Software.html",
-    "title": "Software",
-    "section": "",
-    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example",
-    "crumbs": [
-      "Software & Analysis Methods",
-      "Software"
     ]
   }
 ]
