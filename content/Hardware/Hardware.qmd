@@ -1,6 +1,7 @@
----
-title: Hardware
----
+![](/figs/infographics/NEFSC_specie_boat.png)
+
+## Hardware
+
 
 # Bottom Mounted Recorders
 

@@ -53,11 +53,14 @@ website:
         text: Data Management
       - href: content/Hardware/Hardware.qmd
         text: Hardware
-      - section: content/SoftwareAnalysis/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
+      - href: content/Software/Software.qmd
+        text: Software
+      - section: content/Analysis/Analysis.qmd
+        text: Analysis
         contents: 
-          - content/SoftwareAnalysis/Software.qmd
-          - content/AnalysisMethods.qmd
+          - href: content/Analysis/Species_analysis_protocols.qmd
+            text: Species analysis protocols
+          - href: content/Analysis/Specieslist_soundtypes.qmd
       - href: content/Reporting/Reporting.qmd
         text: Reporting
       - section: "Optional Pages"
