@@ -31,7 +31,7 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - section: content/Home/index.qmd
+      - section: index.qmd
         text: Home
         contents: 
           - href: content/Home/Shared-values.qmd
