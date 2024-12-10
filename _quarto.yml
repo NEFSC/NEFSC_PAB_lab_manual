@@ -58,8 +58,6 @@ website:
             text: Resources
           - href: content/LabManagement/Media.qmd
             text: Media
-      - href: content/FieldMethods/FieldMethods.qmd
-        text: "Field Methods"
       - section: content/DataManagement/DataManagement.qmd
         text: Data Management
         contents:
@@ -76,26 +74,12 @@ website:
             text: Species list
           - href: content/Analysis/Species_analysis_protocols.qmd
             text: Species analysis protocols
+      - href: content/FieldMethods/FieldMethods.qmd
+        text: Fieldwork
       - href: content/Reporting/Reporting.qmd
         text: Reporting
-      - section: "Optional Pages"
-        contents: 
-          - content/SharedValues.qmd
-          - content/Onboarding.qmd
-          - content/Offboarding.qmd
-          - content/FieldMethods.qmd
-          - content/OpenScience.qmd
-          - content/PublicationsPresentations.qmd
-          - content/Resources.qmd
-      - section: "NMFS Open Science Directions"
-        contents:
-          - content/NMFS_OpenSciDirections/Intro.qmd
-          - content/NMFS_OpenSciDirections/add-content.qmd
-          - content/NMFS_OpenSciDirections/customizing.qmd
-          - content/NMFS_OpenSciDirections/rendering.qmd
-          - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-          - content/NMFS_OpenSciDirections/code.qmd
-          - content/NMFS_OpenSciDirections/acknowledgements.qmd 
+      - href: content/Publications/PublicationsPresentations.qmd
+        text: Publications and Conferences
         
 format:
   html:
