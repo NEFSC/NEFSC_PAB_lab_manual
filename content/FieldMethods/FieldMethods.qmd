@@ -2,4 +2,10 @@
 
 ## Field Methods
 
-*Under construction*
+*Under construction*\
+
+**Will have:**\
+- PAB Fieldwork code of conduct\
+- Deployment timeline\
+- Mooring protocols\
+- Additional materials\
