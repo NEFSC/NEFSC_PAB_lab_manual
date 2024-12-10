@@ -1,9 +1,5 @@
 ---
-title: Inventory
+title: PAB Alumni
 ---
 
-*Under construction*\
-An inventory page is highly recommended to keep track of equipment, loans, and gear in the field. This can be a link to a Google sheet or embedded in the website
-
-![](/figs/infographics/research-vessel.png)
-
+*Under construction*
