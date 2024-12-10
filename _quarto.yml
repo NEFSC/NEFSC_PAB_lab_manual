@@ -43,19 +43,20 @@ website:
           - href: content/LabManagement/Team_member_bios.qmd
             text: Team Member Bios
           - href: content/LabManagement/Safety.qmd
-            text: Safety
+            text: Lab Safety
           - href: content/LabManagement/Inventory.qmd
             text: Inventory
           - href: content/LabManagement/RDC-info.qmd
             text: Remote Desktop Computer Information
           - href: content/LabManagement/PA_server_structure.qmd
             text: PassiveAcoustics Server Structure
-          - href: content/LabManagement/PA_soundfiles.qmd
-            text: PassiveAcoustics Soundfiles
       - href: content/FieldMethods/FieldMethods.qmd
         text: "Field Methods"
-      - href: content/DataManagement/DataManagement.qmd
+      - section: content/DataManagement/DataManagement.qmd
         text: Data Management
+        contents:
+          - href: content/DataManagement/PA_soundfiles.qmd
+            text: PassiveAcoustics Soundfiles
       - href: content/Hardware/Hardware.qmd
         text: Hardware
       - href: content/Software/Software.qmd
