@@ -1,7 +1,49 @@
 [
   {
-    "objectID": "index.html#nefsc-passive-acoustic-branch-lab-manual",
-    "href": "index.html#nefsc-passive-acoustic-branch-lab-manual",
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
+    "section": "",
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "crumbs": [
+      "Optional Pages",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience.html",
+    "href": "content/OpenScience.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example",
+    "crumbs": [
+      "Optional Pages",
+      "Open Science"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Analysis.html#analysis",
+    "href": "content/Analysis/Analysis.html#analysis",
+    "title": "NOAA quarto simple",
+    "section": "Analysis",
+    "text": "Analysis\nUnder Construction",
+    "crumbs": [
+      "Analysis"
+    ]
+  },
+  {
+    "objectID": "content/Software/Software.html#software",
+    "href": "content/Software/Software.html#software",
+    "title": "NOAA quarto simple",
+    "section": "Software",
+    "text": "Software\nUnder Construction",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "content/Home/index.html#nefsc-passive-acoustic-branch-lab-manual",
+    "href": "content/Home/index.html#nefsc-passive-acoustic-branch-lab-manual",
     "title": "Home",
     "section": "NEFSC Passive Acoustic Branch Lab Manual",
     "text": "NEFSC Passive Acoustic Branch Lab Manual\nThe Passive Acoustic Branch (PAB) is part of the Protected Species Division of the NOAA Fisheries Northeast Fisheries Science Center. Our group uses passive acoustic monitoring (PAM) to study marine animals and ecosystems in the Northeast and Mid-Atlantic waters of the United States.",
@@ -10,47 +52,25 @@
     ]
   },
   {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
-    "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Shared Values"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Species_analysis_protocols.html",
-    "href": "content/Analysis/Species_analysis_protocols.html",
-    "title": "Species Analysis Protocols",
+    "objectID": "content/Home/Collaborators.html",
+    "href": "content/Home/Collaborators.html",
+    "title": "NOAA quarto simple",
     "section": "",
     "text": "Under construction",
     "crumbs": [
-      "Analysis",
-      "Species analysis protocols"
+      "Home",
+      "Collaborators"
     ]
   },
   {
-    "objectID": "content/Analysis/Specieslist_soundtypes.html",
-    "href": "content/Analysis/Specieslist_soundtypes.html",
-    "title": "Species list",
+    "objectID": "content/Home/Collaborators.html#collaborators",
+    "href": "content/Home/Collaborators.html#collaborators",
+    "title": "NOAA quarto simple",
     "section": "",
     "text": "Under construction",
     "crumbs": [
-      "Analysis",
-      "Species list"
-    ]
-  },
-  {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
-    "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
-    "crumbs": [
-      "Optional Pages",
-      "Publications and Presentations"
+      "Home",
+      "Collaborators"
     ]
   },
   {
@@ -525,45 +545,69 @@
     ]
   },
   {
-    "objectID": "content/Software/Software.html#software",
-    "href": "content/Software/Software.html#software",
+    "objectID": "content/Home/Shared-values.html",
+    "href": "content/Home/Shared-values.html",
     "title": "NOAA quarto simple",
-    "section": "Software",
-    "text": "Software\nUnder Construction",
-    "crumbs": [
-      "Software"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Analysis.html#analysis",
-    "href": "content/Analysis/Analysis.html#analysis",
-    "title": "NOAA quarto simple",
-    "section": "Analysis",
-    "text": "Analysis\nUnder Construction",
-    "crumbs": [
-      "Analysis"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
     "section": "",
-    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example",
+    "text": "Under construction",
+    "crumbs": [
+      "Home",
+      "Shared values"
+    ]
+  },
+  {
+    "objectID": "content/Home/Shared-values.html#shared-values",
+    "href": "content/Home/Shared-values.html#shared-values",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Home",
+      "Shared values"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html",
+    "href": "content/PublicationsPresentations.html",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
     "crumbs": [
       "Optional Pages",
-      "Open Science"
+      "Publications and Presentations"
     ]
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/Analysis/Specieslist_soundtypes.html",
+    "href": "content/Analysis/Specieslist_soundtypes.html",
+    "title": "Species list",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "text": "Under construction",
+    "crumbs": [
+      "Analysis",
+      "Species list"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_analysis_protocols.html",
+    "href": "content/Analysis/Species_analysis_protocols.html",
+    "title": "Species Analysis Protocols",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Analysis",
+      "Species analysis protocols"
+    ]
+  },
+  {
+    "objectID": "content/SharedValues.html",
+    "href": "content/SharedValues.html",
+    "title": "Shared Values",
+    "section": "",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
     "crumbs": [
       "Optional Pages",
-      "Onboarding"
+      "Shared Values"
     ]
   }
 ]
