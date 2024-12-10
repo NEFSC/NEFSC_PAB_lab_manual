@@ -75,7 +75,7 @@ website:
           - href: content/Analysis/Species_analysis_protocols.qmd
             text: Species analysis protocols
       - href: content/FieldMethods/FieldMethods.qmd
-        text: Fieldwork
+        text: Field Methods
       - href: content/Reporting/Reporting.qmd
         text: Reporting
       - href: content/Publications/PublicationsPresentations.qmd
