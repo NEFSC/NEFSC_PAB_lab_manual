@@ -2,4 +2,7 @@
 title: Inventory
 ---
 
-*Under construction*
+*Under construction*\
+
+![](/figs/infographics/research-vessel.png)
+

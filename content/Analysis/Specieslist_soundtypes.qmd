@@ -2,4 +2,5 @@
 title: Species list
 ---
 
-*Under construction*
+*Under construction*\
+![](/figs/infographics/beaked_whale_transparent.png)

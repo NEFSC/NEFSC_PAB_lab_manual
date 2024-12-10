@@ -31,8 +31,13 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - href: index.qmd
+      - section: content/Home/index.qmd
         text: Home
+        contents: 
+          - href: content/Home/Shared-values.qmd
+            text: Shared values
+          - href: content/Home/Collaborators.qmd
+            text: Collaborators
       - section: content/LabManagement/LabManagement.qmd # this is the example that shows how to get a landing page
         contents: 
           - href: content/LabManagement/Team_member_bios.qmd
@@ -57,10 +62,11 @@ website:
         text: Software
       - section: content/Analysis/Analysis.qmd
         text: Analysis
-        contents: 
+        contents:
+          - href: content/Analysis/Specieslist_soundtypes.qmd
+            text: Species list
           - href: content/Analysis/Species_analysis_protocols.qmd
             text: Species analysis protocols
-          - href: content/Analysis/Specieslist_soundtypes.qmd
       - href: content/Reporting/Reporting.qmd
         text: Reporting
       - section: "Optional Pages"
