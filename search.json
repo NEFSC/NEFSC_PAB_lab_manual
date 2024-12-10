@@ -1,46 +1,32 @@
 [
   {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
-    "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
+    "objectID": "content/Publications/PublicationsPresentations.html#publications-and-conferences",
+    "href": "content/Publications/PublicationsPresentations.html#publications-and-conferences",
+    "title": "NOAA quarto simple",
+    "section": "Publications and Conferences",
+    "text": "Publications and Conferences",
     "crumbs": [
-      "Optional Pages",
-      "Shared Values"
+      "Publications and Conferences"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_analysis_protocols.html",
-    "href": "content/Analysis/Species_analysis_protocols.html",
-    "title": "Species Analysis Protocols",
-    "section": "",
-    "text": "Under construction",
+    "objectID": "content/Analysis/Analysis.html#analysis",
+    "href": "content/Analysis/Analysis.html#analysis",
+    "title": "NOAA quarto simple",
+    "section": "Analysis",
+    "text": "Analysis\nUnder Construction",
     "crumbs": [
-      "Analysis",
-      "Species analysis protocols"
+      "Analysis"
     ]
   },
   {
-    "objectID": "content/Analysis/Specieslist_soundtypes.html",
-    "href": "content/Analysis/Specieslist_soundtypes.html",
-    "title": "Species list",
-    "section": "",
-    "text": "Under construction",
+    "objectID": "content/Software/Software.html#software",
+    "href": "content/Software/Software.html#software",
+    "title": "NOAA quarto simple",
+    "section": "Software",
+    "text": "Software\nUnder Construction",
     "crumbs": [
-      "Analysis",
-      "Species list"
-    ]
-  },
-  {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
-    "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
-    "crumbs": [
-      "Optional Pages",
-      "Publications and Presentations"
+      "Software"
     ]
   },
   {
@@ -63,426 +49,6 @@
     "crumbs": [
       "Home",
       "Shared values"
-    ]
-  },
-  {
-    "objectID": "content/Offboarding.html",
-    "href": "content/Offboarding.html",
-    "title": "Offboarding",
-    "section": "",
-    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Offboarding"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/RDC-info.html",
-    "href": "content/LabManagement/RDC-info.html",
-    "title": "RDP Computer Information",
-    "section": "",
-    "text": "RDP Computer Information\nList of RDP computers, where they’re located (with CD#s, not IP addresses), and which softwares are hosted on each.\n\n\n\n\n\n\n\n\n\n\nComputer Name\nLocation and CD#\nSoftwares\nUsage\nCommon User\n\n\n\n\nC-6PO (PAMGuard, Dolphin)\n Computer Lab (ITD floor) CD0004954114\nPAMGuard, Anaconda/ Python\nDolphin detector PAMGuard processing + validation Server Reorganization\nAmanda, Sophie, Julianne\n\n\nODYSSEY (Data upload, Manta, & humpback validation)\n Computer Lab (ITD floor) CD0004786429\nRaven/Raven Compass, Manta, Anaconda/ Python, RStudio, PACE (NCEI Packaging Software)\nRaven- Pile Driving, copying data, QAQC, uploading MANTA for GOM collaborative project / ONMS project, Humpback validation, Pile driving detector\nCatherine, Kate, Lindsey, Jess, Becca\n\n\nKHALEESI (Vessel, cod analysis, QAQC)\n Room 309 CD0004094455\nRaven, Anaconda/ Python\nCod Validation, Ship detector validation, Haddock detector\nBecca, Rochelle, Annie\n\n\nBRUCE (SPWH, HARP BW, QAQC)\n Room 319 CD0004094474\nMatLab, PAMGuard\nHARP BW validation, QAQC (if Khaleesi busy), PAMGuard SPWH click detection\nAnnamaria, Annabel, Kate, Sophie, Samara\n\n\nFOXTROT (SPWH, BW, Haddock, QAQC)\n Room 309 CD0004094798\nRaven, MatLab, Python, PAMGuard\nRaven- Pile Driving, QAQC, Haddock detector, NBW detection & validation, Pamguard dolphin + validation, PAMGuard SPWH click detection\nCatherine, Xavier, Annabel, Sophie, Samara\n\n\nATLANTIS\n Computer Lab (ITD floor) CD0004656069\nAnaconda/ Python, Raven/Raven Compass, MatLab, RStudio, PACE (NCEI Packaging Software)\nPile Driving Detector, QAQC, Cod detector\nCatherine, Kate, Becca, Annie, Samara\n\n\nGLACIALIS\n Room 309 CD0004094451\nPAMGuard\nPamguard dolphin processing\nAmanda, Sophie",
-    "crumbs": [
-      "Lab Management",
-      "Remote Desktop Computer Information"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/PAB-alumn.html",
-    "href": "content/LabManagement/PAB-alumn.html",
-    "title": "PAB Alumni",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Lab Management",
-      "PAB Alumni"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/Inventory.html",
-    "href": "content/LabManagement/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "Under construction\nAn inventory page is highly recommended to keep track of equipment, loans, and gear in the field. This can be a link to a Google sheet or embedded in the website",
-    "crumbs": [
-      "Lab Management",
-      "Inventory"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/LabManagement.html#lab-management",
-    "href": "content/LabManagement/LabManagement.html#lab-management",
-    "title": "NOAA quarto simple",
-    "section": "Lab Management",
-    "text": "Lab Management\nUnder Construction",
-    "crumbs": [
-      "Lab Management"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/Safety.html",
-    "href": "content/LabManagement/Safety.html",
-    "title": "Lab Safety",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Lab Management",
-      "Lab Safety"
-    ]
-  },
-  {
-    "objectID": "content/Reporting/Reporting.html#reporting",
-    "href": "content/Reporting/Reporting.html#reporting",
-    "title": "NOAA quarto simple",
-    "section": "Reporting",
-    "text": "Reporting\nUnder Construction",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
-    "href": "content/NMFS_OpenSciDirections/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/customizing.html",
-    "href": "content/NMFS_OpenSciDirections/customizing.html",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customization"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/customizing.html#quarto-documentation",
-    "href": "content/NMFS_OpenSciDirections/customizing.html#quarto-documentation",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customization"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/customizing.html#examples",
-    "href": "content/NMFS_OpenSciDirections/customizing.html#examples",
-    "title": "Customization",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customization"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
-    "href": "content/NMFS_OpenSciDirections/add-content.html",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customize"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customize"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
-    "title": "Customize",
-    "section": "Add your pages the project",
-    "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Customize"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "title": "R Markdown",
-    "section": "",
-    "text": "You can include R Markdown files in your project.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "R Markdown"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "title": "R Markdown",
-    "section": "R Markdown",
-    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "R Markdown"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "title": "R Markdown",
-    "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "R Markdown"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement/DataManagement.html#data-management",
-    "href": "content/DataManagement/DataManagement.html#data-management",
-    "title": "NOAA quarto simple",
-    "section": "Data Management",
-    "text": "Data Management\nUnder Construction",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods/FieldMethods.html#field-methods",
-    "href": "content/FieldMethods/FieldMethods.html#field-methods",
-    "title": "NOAA quarto simple",
-    "section": "Field Methods",
-    "text": "Field Methods\nUnder construction",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement/PA_soundfiles.html",
-    "href": "content/DataManagement/PA_soundfiles.html",
-    "title": "PassiveAcoustics_Soundfiles structure",
-    "section": "",
-    "text": "The PassiveAcoustics_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the PassiveAcoustic server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics_Soundfiles\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics_Soundfiles\\\nFor quick access on your computer, it is recommended to pin the server folder\n\n\nPassiveAcoustics_soundfiles server information\nThe general organizational structure of PassiveAcoustic Soundfile directories is as follows:\n\nRecorder type\\\nEach hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.\nFile name format: [recorder_type]\nExample: bottom_mounted\n\nRegion\\\nEach general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.\nFile name format: [fmc acronym]_[region acronym]\nExample: nefsc_sbnms\n\nDeployment\\\nEach recorder deployment has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as YYYYMM]_[unique recorder ID]\nExample: nefsc_sbnms_202307_sb03\n\nRecorder\\\nEach recorder type (deployed together as a unit) has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as",
-    "crumbs": [
-      "Data Management",
-      "PassiveAcoustics Soundfiles"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html",
-    "href": "content/NMFS_OpenSciDirections/code.html",
-    "title": "Rendering with Code",
-    "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering with Code"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering with Code"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Rendering with Code"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "title": "Acknowledgments",
-    "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "Acknowledgments"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
-    "href": "content/NMFS_OpenSciDirections/Intro.html",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change.",
-    "crumbs": [
-      "NMFS Open Science Directions",
-      "NOAA quarto simple with R"
-    ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
-    "href": "content/NMFS_OpenSciDirections/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/LabManagement/Resources.html",
-    "href": "content/LabManagement/Resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to.",
-    "crumbs": [
-      "Lab Management",
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/Media.html",
-    "href": "content/LabManagement/Media.html",
-    "title": "Media",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Lab Management",
-      "Media"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/Team_member_bios.html",
-    "href": "content/LabManagement/Team_member_bios.html",
-    "title": "Passive Acoustics Branch Members",
-    "section": "",
-    "text": "Passive Acoustics Branch Members\nGroup photo at top\nAdd bios below! + org chart\n\nSofie Van Parijs, Ph.D.\n\n\nshe/her/hers\nChief, Passive Acoustics Branch\nNortheast Fisheries Science Center\nOffice: (508) 495-2119\nEmail: sofie.vanparijs@noaa.gov\nSofie has a BA and MA in Natural Science from Cambridge University, UK and a PhD in Zoology from Aberdeen University, UK. She worked as a postdoctoral scientist at James Cook University, Australia, the Norwegian Polar Institute in Norway, and Cornell University, USA before starting the passive acoustic research group (now the Passive Acoustics Branch) here at the Northeast Fisheries Science Center in 2006.\n\nRelevant links:\nResearchGate\nORCID\n\n\nRenea Briner\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: renea.briner@noaa.gov\nRenea earned degrees in Marine Science (BS) and Psychology (BA) from the University of Delaware in 2023. She joined the Passive Acoustic Branch in 2023 to contribute to the analysis of real-time and archival passive acoustic data collected throughout the western North Atlantic for the presence of baleen whale calls. Previously, Renea has worked on acoustic projects related to sperm whale population demographics in the Gulf of Mexico and odontocete group composition in the Hawaiian Islands.\nRelevant links:\nLinkedIn\n\n\nKate Choate, MSc\n\n\nshe/her/hers\nResearch Biologist\nNortheast Fisheries Science Center\nOffice: (508) 603-6154\nEmail: kate.choate@noaa.gov\nKate received her BA in Environmental Studies from Stonehill College in 2009 and completed her Master of Science in Marine Biology at University of Massachusetts Dartmouth in 2014. Her research there focused on zooplankton phenology in New Bedford Harbor in response to warming spring sea surface temperature, analyzing 25 years worth of zooplankton samples in the process. In February 2020, she joined the NEFSC, where she assists both the passive acoustic and the turtle ecology research groups.\n\n\nMichael Cranston Ryan\n\n\nSoftware Developer\nNortheast Fisheries Science Center\nCell: (508) 617-3738\nEmail: michael.c.ryan@noaa.gov\nMike joined the Passive Acoustics Branch in 2024 working as a software and program developer. He is an engineer, husband and dad with a trove of interests, hobbies and projects. In addition to his love of coding, he enjoys music, travel, sports, science, cooking and audiobooks to name a few.\nRelevant Links:\nGithub\n\n\nGenevieve Davis, Ph.D.\n\n\nshe/her/hers\nResearch Acoustician\nNortheast Fisheries Science Center\nOffice: (508) 495-2325\nEmail: genevieve.davis@noaa.gov\n\nGenevieve has a BS from the State University of New York at Binghamton and a PhD from the University of Massachusetts Boston. She started working with the Passive Acoustics Branch as a NOAA Hollings scholar in 2010, working on North Atlantic right whale calling behavior across seasons. She then returned to work with the Passive Acoustics Branch as a research biologist focusing on baleen whale acoustics, distribution, and educational outreach. She now leads the baleen whale passive acoustic projects.\n\nRelevant Links:\nResearchGate\nORCID\nLinkedIn\n\n\nAnnamaria DeAngelis, MRes\n\n\nResearch Acoustician\nNortheast Fisheries Science Center\nOffice: (508) 495-2105\nEmail: annamaria.deangelis@noaa.gov\n\nAnnamaria DeAngelis (formerly Izzi) has a BS in Marine Biology from the University of Rhode Island and a MRes in Marine Mammal Science from the University of St Andrews, Scotland. She has worked as a research analyst at Cornell’s Bioacoustics Research Program (now Center for Conservation Bioacoustics) and interned at the Naval Undersea Warfare Center Division Newport, RI researching beaked whales, before joining the passive acoustic research group in 2014. Her focus is on the detection, classification, and localization of various odontocete species from both bottom mounted and towed array platforms, which comprises of beaked whale, sperm whale, Kogia, harbor porpoise, and delphinid species projects.\nFor a list of papers Annamaria has contributed to, please visit OrcID as well as the Passive Acoustics Research Group’s list of publications.\n\n\nCatherine Dodge\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 955-0102\nEmail: catherine.dodge@noaa.gov\nCatherine Dodge works as an acoustician for the Passive Acoustics Branch at the NOAA Northeast Fisheries Science Center. She previously worked at the Northeast Fisheries Science Center, Woods Hole Lab, as a Front Desk Receptionist and for the Fisheries Sampling Branch- Observer Program as an Administrative Clerk and Security Assistant.\n\n\nSophie Ferguson\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: sophie.ferguson@noaa.gov\nSophie received her B.S. in marine science and biology from the University of Miami. She joined the Passive Acoustics Branch in 2023 where she focuses on the occurrence and distribution of sperm whales in the Atlantic Ocean. Previously, she worked on passive acoustic monitoring projects in St. John USVI coral reef soundscapes as a guest student at WHOI.\nRelevant links:\nLinkedIn\n\n\nRhett Finley\n\n\nhe/him/his\nFishery Biologist Junior III (Affiliate)\nNortheast Fisheries Science Center\nOffice: (918) 704-1936\nEmail: rhett.finley@noaa.gov\nRhett graduated from Texas A&M University at Galveston with a BS in Marine Biology in 2018. Before joining the NEFSC’s Passive Acoustics Branch in 2023, he obtained a range of experiences relating to the research and conservation of protected species, particularly with marine mammals. Some of these experiences have involved protected species observing on wind farm lease areas in the Northwest Atlantic, serving as a field research assistant on bottlenose dolphin social dynamics for the Dolphin Alliance Project in Shark Bay, Australia, conducting Northern elephant seal censuses on their breeding grounds in the Farallon Islands, and curating aerial photographic data of marine wildlife from the Atlantic Marine Assessment Program for Protected Species (AMAPPS) for an automatic image detector. He most recently was a part of a right whale acoustic density estimation project with the Bioacoustics and Behavioral Ecology Lab (BABEL) at Syracuse University. Now he is currently responsible for coordinating field work, leading hydrophone deployment operations, and assisting with baleen whale acoustic analysis.\nRelevant links:\nLinkedIn\n\n\nIsabella Garfield\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail isabella.garfield@noaa.gov\nBella Garfield received a Marine biology B.S. from the University of California Santa Cruz. Her research experience there included Hawaiian monk seal conservation, northern elephant seal biology, biological thermal imagery collection via drones, and coho salmon stress indicators in otoliths. Her senior thesis project analyzes fine-scale philopatry within the Año Nuevo northern elephant seal colony. She conducted her 2023 NOAA Hollings Scholarship project with NEFSC’s Passive Acoustics Branch characterizing the soundscape of Australia’s Southwest marine park. After graduation, Bella worked as a full time field technician collecting avian acoustic data in the Peruvian Amazon. She returned to the passive acoustic branch in 2024 to help build the lab’s regional and national manuals.\n\n\nRochelle Gordon\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 455-5942\nEmail: rochelle.gordon@noaa.gov\nRochelle graduated from the University of Maine with a BS in marine science in May of 2019. While attending UMaine, Rochelle assisted on a study examining large whale vocalizations and movement in the Gulf of Maine using passive acoustic monitoring. She primarily focused on the critically endangered North Atlantic right whale. After graduating, Rochelle worked as an At Sea Monitor before joining the Passive Acoustics Branch in May of 2021. She currently assists with the vessel analysis for the Australian Marine Parks project.\nRelevant links:\nLinkedIn\n\n\nPaige Hanson\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 216-0516\nEmail: paige.hanson@noaa.gov\nPaige Hanson received a B.S. in Marine Science from Eckerd College in December 2022. As an undergraduate, she completed a thesis investigating the effect of ambient noise on the acoustic signals of red grouper on the West Florida Shelf. Additionally, she participated in acoustics-based internships with both California State University, Monterey Bay and the Eckerd College Dolphin Project. Upon graduation, she funded and led field work targeted at collecting the acoustic signals of gulf toadfish. Her research interests broadly lie within the field of acoustic ecology and the application of acoustics for conservation purposes. She joined the Passive Acoustic Research Branch in 2024 where she works on baleen whale seasonal occurrence.\n\n\nSamara Haver, Ph.D.\n\n\nShe/Her/Hers\nResearch Biologist\nNortheast Fisheries Science Center\nEmail: samara.haver@noaa.gov\nSamara has a Masters and PhD from Oregon State University and a BA from Colorado College. She first started working in the Passive Acoustics Branch in 2012, focused on analysis and fieldwork for bottom mounted and towed array data sampled in the North Atlantic. After completing her graduate degrees, Samara worked in the Cooperative Institute for Marine Ecosystems and Resources Studies (NOAA PMEL and Oregon State University) as a research scientist. Returning to the Passive Acoustics Branch in 2024, she joined the Sound Ecology team and now leads projects to quantify marine soundscapes and ocean noise within U.S. waters.\nRelevant links:\nGoogle Scholar\n\n\nAmanda Holdman, MSc\n\n\nshe/her/hers\nAcoustician\nNortheast Fisheries Science Center\nOffice: (508) 233-8009\nEmail: amanda.holdman@noaa.gov\nAmanda has a BS from Purdue University in Wildlife Management and a MS from Oregon State University in Wildlife Science. For her MS thesis, Amanda used visual surveys and passive acoustic monitoring to document the distribution and habitat use of marine mammals off the Oregon Coast prior to wave energy development. Previously she worked as a research acoustician at the OSU/NOAA Cooperative Institute for Marine Ecosystem and Resource Studies (CIMERS), researching the seasonal overlap between arctic marine mammals and anthropogenic noise in Beaufort Sea, Alaska. Since November 2021, within the Passive Acoustics Branch, Amanda focuses on the occurrence and distribution of cetaceans, particularly harbor porpoise and other high-frequency species, and analyzes acoustic data transmitted via satellite in near real time from buoys and ocean gliders for baleen whale presence in the Atlantic Ocean.\nRelevant Links:\nLinkedIn\nResearchGate\nORCID\n\n\nHana Koilpillai\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: hana.koilpillai@noaa.gov\nHana earned a BS in Marine Science (Biology) and a BA in Animal Studies from Eckerd College in 2022. Through her involvement with the Frick Animal Behavior Lab, she led a study analyzing Amazon River dolphin vocalizations and investigated the parameters of rough-toothed dolphin whistles at Clearwater Marine Aquarium. She began working with the NEFSC as a NOAA Hollings Scholar in 2021, using photo-ID catalogs to study scars on North Atlantic humpback whale flukes caused by non-lethal interactions with killer whales. She continued this project as her Senior Thesis in Marine Science and presented a poster at the 2022 SMM Conference, and she is now working towards publication. In May 2023, she returned to the NEFSC, joining the Passive Acoustics Branch to conduct baleen whale acoustic analysis.\n\n\nJessica McCordic, MSc\n\n\nshe/her/hers\nResearch Acoustician\nNortheast Fisheries Science Center\nOffice: (508) 495-2396\nEmail: jessica.mccordic@noaa.gov\nJessica received a BA in Human Ecology from College of the Atlantic in 2012 and a MSc in Biology from Syracuse University in 2015. After completing her graduate work on acoustic individuality in upcalls of North Atlantic right whales, she worked as a Research Biologist at Pacific Whale Foundation, where she curated photo-ID catalogs of North and South Pacific humpback whales and assisted with research projects on humpback whales and various odontocete species. Jessica joined the Passive Acoustics Branch as a research analyst in 2019, and her current work focuses on using passive acoustics as a management tool for monitoring vessel presence and soundscape characteristics.\nRelevant Links:\nORCID\n\n\nTaiki Sakai\n\nhe/him/his\nSoftware Developer\nNortheast Fisheries Science Center\nEmail: taiki.sakai@noaa.gov\nTaiki graduated from Harvey Mudd College in 2010 with a degree in Mathematics. He has been a contractor with NOAA since 2016, first at the Southwest Fisheries Science Center and now with the Passive Acoustics Branch at the Northeast Fisheries Science Center. His work focuses on developing software tools to streamline and standardize passive acoustic data analysis.\n\n\nMaricarmen Serna\n\n\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nCell: (210) 965-9935\nEmail: maricarmen.serna@noaa.gov\nMaricarmen graduated from the University of Rhode Island with a B.S. in Environmental and Natural Resource Economics and a minor in Marine Biology. While at URI, she was an Ernest F. Hollings Scholar at the Northwest Fisheries Science Center, where she analyzed the movement patterns of Southern Resident Killer Whales. She was also a URI Science and Engineering Fellow, during which she tagged mako sharks and blue sharks, led URI’s 2022 Shark Camp, and assessed the social network of Southern Stingrays in the Cayman Islands. She joined the Passive Acoustic Research Branch in 2024 and currently works on anthropogenic soundscapes during the pre-construction phases of offshore wind turbine developments.\nRelevant Links:\nLinkedIn\n\n\nAnne Smith\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: anne.smith@noaa.gov\nAnnie graduated in 2024 from the College of the Holy Cross with a BA in Biology and a minor in Environmental Studies. She first worked with the Passive Acoustics Branch as an intern in 2022 where she supported acoustic analysis of haddock in the Gulf of Maine. She rejoined the branch in September of 2023 as an acoustician, and she currently conducts haddock and cod analysis.\nRelevant links:\nLinkedin\n\n\n\nLindsey Transue, MS\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nCell: (865) 742-4011\nEmail: lindsey.transue@noaa.gov\nLindsey has a BS in Ecology and Evolutionary Biology from the University of Tennessee and a MS in Marine Biology from the College of Charleston. Her master’s thesis analyzed the Charleston Harbor soundscape, including snapping shrimp, sound-producing fish, bottlenose dolphins, and anthropogenic noise. She began working with the Passive Acoustics Branch in 2022 to conduct analysis of baleen whale acoustic ecology.\nRelevant links:\nResearchGate\nLinkedIn\nORCID\n\n\nRebecca Van Hoeck, PhD\n\n\nshe/her/hers\nResearch Biologist\nNortheast Fisheries Science Center\nEmail: rebecca.vanhoeck@noaa.gov\nBecca has a PhD in Ecology, Evolution, and Organismal Biology from the University of North Carolina at Chapel Hill and a BS in Marine Science and Biology from the University of Tampa. In her current role, Becca coordinates national and regional passive acoustic monitoring initiatives to support marine mammal conservation and responsible development of offshore wind energy. Her work also includes conducting passive acoustic research to better understand Atlantic cod spawning behavior and advance understanding of marine soundscapes. Prior to joining the Passive Acoustic Branch in 2024, she was a Knauss Marine Policy Fellow working as a Policy Analyst for NOAA Headquarters in the Office of Under Secretary of Commerce for Oceans and Atmosphere.\nRelevant links:\nORCID ID\n\n\nJeffrey Walker, PhD\n\n\nhe/him/his\nWeb Developer (Affiliate)\nNortheast Fisheries Science Center\nEmail: jeffrey.walker@noaa.gov\nJeff has a BS from Cornell University, a MEng from MIT, and a PhD from Tufts University. Since 2019, Jeff has worked with the Passive Acoustics Branch as developer of the Passive Acoustic Cetacean Map (PACM), a web-based interactive data visualization tool for exploring passive acoustic detection data. As an environmental data scientist and engineer, Jeff’s mission is to make environmental data more accessible and easier to understand.\nFor more information on his work, see Jeff’s Website.\n\n\nAnnabel Westell, MSc\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 251-9362\nEmail: annabel.westell@noaa.gov\nAnnabel has a BSc in Marine Biology from Dalhousie University in Halifax, Nova Scotia, and a MSc in Marine Mammal Science from the University of St Andrews, Scotland. For her postgraduate dissertation, Annabel used acoustic localization to explore the movement of sperm whales thought to be depredating long lines in the Norwegian Sea. Previously she worked as an acoustic analyst at the Bedford Institute of Oceanography (BIO) in Nova Scotia, classifying beaked whale and sperm whale click detections. Annabel joined the Passive Acoustics Branch in December 2020 and is currently working on the detection, classification, and localization of sperm whales in the western North Atlantic.\nRelevant links:\nResearchGate\n\n\nJulianne Wilder, MAT\n\n\nshe/her/hers\nAcoustician\nNortheast Fisheries Science Center\nOffice: (508) 469-9332\nEmail: julianne.wilder@noaa.gov\nJulianne has a BS in Zoology from Oregon State University and a Master of Arts in Teaching (MAT) from the University of Puget Sound. She began working for the Passive Acoustics Branch as a NOAA Hollings Scholar in 2013, studying sperm whale acoustics and distribution. She later joined the group as an acoustic analyst focusing on baleen whale acoustics. In 2018, she returned to her home state of Washington to earn her MAT and taught high school Biology and Marine Biology before rejoining the Passive Acoustics Branch in 2021 to conduct acoustic analysis informing baleen whale migratory patterns.\nRelevant Links:\nLinkedIn\nResearchGate\nORCID\n\n\nJulia Zeh, Ph.D.\n\n\nResearch Biologist\nNortheast Fisheries Science Center\nOffice: (508) 419-0791\nEmail: julia.zeh@noaa.gov\nJulia has a BA in Environmental Biology from Columbia University and a PhD in Biology from Syracuse University. At SU, Julia was a National Defense Science and Engineering Graduate (NDSEG) Fellow in Dr. Susan Parks’s lab. Julia’s dissertation research used suction cup tag data from humpback whales to study their behavior, with a particular focus on vocal behavior and development. In 2024, after finishing her PhD, Julia joined the Passive Acoustics Branch, where she is using passive acoustic monitoring to understand environmental drivers of humpback whale and other marine mammal ecology.\nRelevant links:\nORCID\nLinkedIn",
-    "crumbs": [
-      "Lab Management",
-      "Team Member Bios"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/Onboarding.html",
-    "href": "content/LabManagement/Onboarding.html",
-    "title": "Onboarding/Offboarding",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Lab Management",
-      "Onboarding/Offboarding"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement/PA_server_structure.html",
-    "href": "content/LabManagement/PA_server_structure.html",
-    "title": "Passive Acoustics server structure",
-    "section": "",
-    "text": "The Passive Acoustics server is our central storage location for all data and information that is not acoustic data. We are in the process of migrating from the PassiveAcoustics/Stellwagen_Old directory to the PassiveAcoustics directories. For information on where we store acoustic data see the PassiveAcoustic_soundfiles server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.\n\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics\\\nFor quick access on your computer, it is recommended to pin the server folder.\nMake sure you are connected to the network via VPN.\n\n\nPassiveAcoustics server information\nThe table below details the status of the server reorganization and comments on how to use each folder. For more information on specific folders, see ‘Readme’ docs located in the server.\n\n\n\n\n\n\n\n\nPassiveAcoustics\nStellwagen_Old\nComment\n\n\n\n\nCONFERENCES_PRESENTATIONS\n\nFinal versions of all presentations and posters\n\n\nCTD_DATA\n\nOceanographic data from CTDs\n\n\nDATA_ANALYSIS\nDATA_ANALYSIS\nMigration in progress. Analysis specific code for new projects should be stored in the PassiveAcoustics/DATA_ANALYSIS folder.\n\n\nDEPTH_DATA\n\nProcessed depth data tables from towed array and drifting recorders\n\n\nDETECTOR_OUTPUT\n\nAll detector output organized by detector then raw, summarized, or validated status.\n\n\nDETECTOR_SOFTWARE\nDETECTORS\nMigration in progress, new detectors should be stored in DETECTOR_SOFTWARE\n\n\nGPS_DATA\n\nGPS data tables from mobile platform\n\n\nMAKARA_DATA_REVIEW_temp\n\nTemporary Makara software resources (temporary)\n\n\nOUTREACH_PRODUCTS\n\nGraphics, web content, exhibits available for use\n\n\nPAB_ANALYSIS_TRAINING\n\nPAB Analyst Training Resources\n\n\nSOUNDS_AND_PICTURES\n\nExample sound clips and pictures\n\n\n\nFIELDWORK\nTo be migrated. Fieldwork plans, permitting, and contracts.\n\n\n\nGIS_TOOLS_PROJECTS\nTo be migrated. GIS projects and useful shapefiles\n\n\n\nGROUP_MEETINGS\nTo be migrated.\n\n\n\nINVENTORY\nTo be migrated.\n\n\n\nLITERATURE\nTo be migrated. Relevant literature to PAB\n\n\n\nMANUALS_SOFTWARE_CODE_LIBRARY\nTo be migrated. General code that could be used across projects and analysts.\n\n\n\nPROJECT_ADMIN_ACCDATA\nTo be reorganized. Data management for inventory and recorder performance\n\n\n\nSTAFF\nRetirement in progress. Staff specific files that do not align with server directory should be saved on google drive, personal computers, or nefsc personal file shares.\n\n\n\nTELEMETRY_DATA\nTo be migrated. Processed telemetry data tables\n\n\n\nTEMPERATURE_DATA\nTo be migrated. Processed temperature data from SoundTraps\n\n\n\nTETHYS_METADATA\nTo be migrated. Metadata files and schema for TETHYS database uploads\n\n\n\nTOWED_ARRAY\nTo be migrated. Files specific to AMAPPS towed array surveys\n\n\n\nVISUAL_SIGHTINGS_DATA\nTo be migrated. Miscellaneous visual sightings data\n\n\n\n\n\nStellwagen Server Resources (transferred from Monday)\n\nHow to view Stellwagen directories as pie charts\n\nConverting WAV files to FLAC\n\nHow to get a list of directories on server\n\nHow to copy data to Stellwagen server using Linux terminal\n\nVNC fix\n\nInstructions on how to copy data to Stellwagen server using Windows Terminal after plugging in hard drive with data into Kenobi Linux Computer\n\nHow to view Stellwagen directory sizes using ncdu method",
-    "crumbs": [
-      "Lab Management",
-      "PassiveAcoustics Server Structure"
     ]
   },
   {
@@ -556,6 +122,331 @@
     ]
   },
   {
+    "objectID": "content/LabManagement/PA_server_structure.html",
+    "href": "content/LabManagement/PA_server_structure.html",
+    "title": "Passive Acoustics server structure",
+    "section": "",
+    "text": "The Passive Acoustics server is our central storage location for all data and information that is not acoustic data. We are in the process of migrating from the PassiveAcoustics/Stellwagen_Old directory to the PassiveAcoustics directories. For information on where we store acoustic data see the PassiveAcoustic_soundfiles server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.\n\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics\\\nFor quick access on your computer, it is recommended to pin the server folder.\nMake sure you are connected to the network via VPN.\n\n\nPassiveAcoustics server information\nThe table below details the status of the server reorganization and comments on how to use each folder. For more information on specific folders, see ‘Readme’ docs located in the server.\n\n\n\n\n\n\n\n\nPassiveAcoustics\nStellwagen_Old\nComment\n\n\n\n\nCONFERENCES_PRESENTATIONS\n\nFinal versions of all presentations and posters\n\n\nCTD_DATA\n\nOceanographic data from CTDs\n\n\nDATA_ANALYSIS\nDATA_ANALYSIS\nMigration in progress. Analysis specific code for new projects should be stored in the PassiveAcoustics/DATA_ANALYSIS folder.\n\n\nDEPTH_DATA\n\nProcessed depth data tables from towed array and drifting recorders\n\n\nDETECTOR_OUTPUT\n\nAll detector output organized by detector then raw, summarized, or validated status.\n\n\nDETECTOR_SOFTWARE\nDETECTORS\nMigration in progress, new detectors should be stored in DETECTOR_SOFTWARE\n\n\nGPS_DATA\n\nGPS data tables from mobile platform\n\n\nMAKARA_DATA_REVIEW_temp\n\nTemporary Makara software resources (temporary)\n\n\nOUTREACH_PRODUCTS\n\nGraphics, web content, exhibits available for use\n\n\nPAB_ANALYSIS_TRAINING\n\nPAB Analyst Training Resources\n\n\nSOUNDS_AND_PICTURES\n\nExample sound clips and pictures\n\n\n\nFIELDWORK\nTo be migrated. Fieldwork plans, permitting, and contracts.\n\n\n\nGIS_TOOLS_PROJECTS\nTo be migrated. GIS projects and useful shapefiles\n\n\n\nGROUP_MEETINGS\nTo be migrated.\n\n\n\nINVENTORY\nTo be migrated.\n\n\n\nLITERATURE\nTo be migrated. Relevant literature to PAB\n\n\n\nMANUALS_SOFTWARE_CODE_LIBRARY\nTo be migrated. General code that could be used across projects and analysts.\n\n\n\nPROJECT_ADMIN_ACCDATA\nTo be reorganized. Data management for inventory and recorder performance\n\n\n\nSTAFF\nRetirement in progress. Staff specific files that do not align with server directory should be saved on google drive, personal computers, or nefsc personal file shares.\n\n\n\nTELEMETRY_DATA\nTo be migrated. Processed telemetry data tables\n\n\n\nTEMPERATURE_DATA\nTo be migrated. Processed temperature data from SoundTraps\n\n\n\nTETHYS_METADATA\nTo be migrated. Metadata files and schema for TETHYS database uploads\n\n\n\nTOWED_ARRAY\nTo be migrated. Files specific to AMAPPS towed array surveys\n\n\n\nVISUAL_SIGHTINGS_DATA\nTo be migrated. Miscellaneous visual sightings data\n\n\n\n\n\nStellwagen Server Resources (transferred from Monday)\n\nHow to view Stellwagen directories as pie charts\n\nConverting WAV files to FLAC\n\nHow to get a list of directories on server\n\nHow to copy data to Stellwagen server using Linux terminal\n\nVNC fix\n\nInstructions on how to copy data to Stellwagen server using Windows Terminal after plugging in hard drive with data into Kenobi Linux Computer\n\nHow to view Stellwagen directory sizes using ncdu method",
+    "crumbs": [
+      "Lab Management",
+      "PassiveAcoustics Server Structure"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Onboarding.html",
+    "href": "content/LabManagement/Onboarding.html",
+    "title": "Onboarding/Offboarding",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Lab Management",
+      "Onboarding/Offboarding"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Team_member_bios.html",
+    "href": "content/LabManagement/Team_member_bios.html",
+    "title": "Passive Acoustics Branch Members",
+    "section": "",
+    "text": "Passive Acoustics Branch Members\nGroup photo at top\nAdd bios below! + org chart\n\nSofie Van Parijs, Ph.D.\n\n\nshe/her/hers\nChief, Passive Acoustics Branch\nNortheast Fisheries Science Center\nOffice: (508) 495-2119\nEmail: sofie.vanparijs@noaa.gov\nSofie has a BA and MA in Natural Science from Cambridge University, UK and a PhD in Zoology from Aberdeen University, UK. She worked as a postdoctoral scientist at James Cook University, Australia, the Norwegian Polar Institute in Norway, and Cornell University, USA before starting the passive acoustic research group (now the Passive Acoustics Branch) here at the Northeast Fisheries Science Center in 2006.\n\nRelevant links:\nResearchGate\nORCID\n\n\nRenea Briner\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: renea.briner@noaa.gov\nRenea earned degrees in Marine Science (BS) and Psychology (BA) from the University of Delaware in 2023. She joined the Passive Acoustic Branch in 2023 to contribute to the analysis of real-time and archival passive acoustic data collected throughout the western North Atlantic for the presence of baleen whale calls. Previously, Renea has worked on acoustic projects related to sperm whale population demographics in the Gulf of Mexico and odontocete group composition in the Hawaiian Islands.\nRelevant links:\nLinkedIn\n\n\nKate Choate, MSc\n\n\nshe/her/hers\nResearch Biologist\nNortheast Fisheries Science Center\nOffice: (508) 603-6154\nEmail: kate.choate@noaa.gov\nKate received her BA in Environmental Studies from Stonehill College in 2009 and completed her Master of Science in Marine Biology at University of Massachusetts Dartmouth in 2014. Her research there focused on zooplankton phenology in New Bedford Harbor in response to warming spring sea surface temperature, analyzing 25 years worth of zooplankton samples in the process. In February 2020, she joined the NEFSC, where she assists both the passive acoustic and the turtle ecology research groups.\n\n\nMichael Cranston Ryan\n\n\nSoftware Developer\nNortheast Fisheries Science Center\nCell: (508) 617-3738\nEmail: michael.c.ryan@noaa.gov\nMike joined the Passive Acoustics Branch in 2024 working as a software and program developer. He is an engineer, husband and dad with a trove of interests, hobbies and projects. In addition to his love of coding, he enjoys music, travel, sports, science, cooking and audiobooks to name a few.\nRelevant Links:\nGithub\n\n\nGenevieve Davis, Ph.D.\n\n\nshe/her/hers\nResearch Acoustician\nNortheast Fisheries Science Center\nOffice: (508) 495-2325\nEmail: genevieve.davis@noaa.gov\n\nGenevieve has a BS from the State University of New York at Binghamton and a PhD from the University of Massachusetts Boston. She started working with the Passive Acoustics Branch as a NOAA Hollings scholar in 2010, working on North Atlantic right whale calling behavior across seasons. She then returned to work with the Passive Acoustics Branch as a research biologist focusing on baleen whale acoustics, distribution, and educational outreach. She now leads the baleen whale passive acoustic projects.\n\nRelevant Links:\nResearchGate\nORCID\nLinkedIn\n\n\nAnnamaria DeAngelis, MRes\n\n\nResearch Acoustician\nNortheast Fisheries Science Center\nOffice: (508) 495-2105\nEmail: annamaria.deangelis@noaa.gov\n\nAnnamaria DeAngelis (formerly Izzi) has a BS in Marine Biology from the University of Rhode Island and a MRes in Marine Mammal Science from the University of St Andrews, Scotland. She has worked as a research analyst at Cornell’s Bioacoustics Research Program (now Center for Conservation Bioacoustics) and interned at the Naval Undersea Warfare Center Division Newport, RI researching beaked whales, before joining the passive acoustic research group in 2014. Her focus is on the detection, classification, and localization of various odontocete species from both bottom mounted and towed array platforms, which comprises of beaked whale, sperm whale, Kogia, harbor porpoise, and delphinid species projects.\nFor a list of papers Annamaria has contributed to, please visit OrcID as well as the Passive Acoustics Research Group’s list of publications.\n\n\nCatherine Dodge\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 955-0102\nEmail: catherine.dodge@noaa.gov\nCatherine Dodge works as an acoustician for the Passive Acoustics Branch at the NOAA Northeast Fisheries Science Center. She previously worked at the Northeast Fisheries Science Center, Woods Hole Lab, as a Front Desk Receptionist and for the Fisheries Sampling Branch- Observer Program as an Administrative Clerk and Security Assistant.\n\n\nSophie Ferguson\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: sophie.ferguson@noaa.gov\nSophie received her B.S. in marine science and biology from the University of Miami. She joined the Passive Acoustics Branch in 2023 where she focuses on the occurrence and distribution of sperm whales in the Atlantic Ocean. Previously, she worked on passive acoustic monitoring projects in St. John USVI coral reef soundscapes as a guest student at WHOI.\nRelevant links:\nLinkedIn\n\n\nRhett Finley\n\n\nhe/him/his\nFishery Biologist Junior III (Affiliate)\nNortheast Fisheries Science Center\nOffice: (918) 704-1936\nEmail: rhett.finley@noaa.gov\nRhett graduated from Texas A&M University at Galveston with a BS in Marine Biology in 2018. Before joining the NEFSC’s Passive Acoustics Branch in 2023, he obtained a range of experiences relating to the research and conservation of protected species, particularly with marine mammals. Some of these experiences have involved protected species observing on wind farm lease areas in the Northwest Atlantic, serving as a field research assistant on bottlenose dolphin social dynamics for the Dolphin Alliance Project in Shark Bay, Australia, conducting Northern elephant seal censuses on their breeding grounds in the Farallon Islands, and curating aerial photographic data of marine wildlife from the Atlantic Marine Assessment Program for Protected Species (AMAPPS) for an automatic image detector. He most recently was a part of a right whale acoustic density estimation project with the Bioacoustics and Behavioral Ecology Lab (BABEL) at Syracuse University. Now he is currently responsible for coordinating field work, leading hydrophone deployment operations, and assisting with baleen whale acoustic analysis.\nRelevant links:\nLinkedIn\n\n\nIsabella Garfield\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail isabella.garfield@noaa.gov\nBella Garfield received a Marine biology B.S. from the University of California Santa Cruz. Her research experience there included Hawaiian monk seal conservation, northern elephant seal biology, biological thermal imagery collection via drones, and coho salmon stress indicators in otoliths. Her senior thesis project analyzes fine-scale philopatry within the Año Nuevo northern elephant seal colony. She conducted her 2023 NOAA Hollings Scholarship project with NEFSC’s Passive Acoustics Branch characterizing the soundscape of Australia’s Southwest marine park. After graduation, Bella worked as a full time field technician collecting avian acoustic data in the Peruvian Amazon. She returned to the passive acoustic branch in 2024 to help build the lab’s regional and national manuals.\n\n\nRochelle Gordon\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 455-5942\nEmail: rochelle.gordon@noaa.gov\nRochelle graduated from the University of Maine with a BS in marine science in May of 2019. While attending UMaine, Rochelle assisted on a study examining large whale vocalizations and movement in the Gulf of Maine using passive acoustic monitoring. She primarily focused on the critically endangered North Atlantic right whale. After graduating, Rochelle worked as an At Sea Monitor before joining the Passive Acoustics Branch in May of 2021. She currently assists with the vessel analysis for the Australian Marine Parks project.\nRelevant links:\nLinkedIn\n\n\nPaige Hanson\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 216-0516\nEmail: paige.hanson@noaa.gov\nPaige Hanson received a B.S. in Marine Science from Eckerd College in December 2022. As an undergraduate, she completed a thesis investigating the effect of ambient noise on the acoustic signals of red grouper on the West Florida Shelf. Additionally, she participated in acoustics-based internships with both California State University, Monterey Bay and the Eckerd College Dolphin Project. Upon graduation, she funded and led field work targeted at collecting the acoustic signals of gulf toadfish. Her research interests broadly lie within the field of acoustic ecology and the application of acoustics for conservation purposes. She joined the Passive Acoustic Research Branch in 2024 where she works on baleen whale seasonal occurrence.\n\n\nSamara Haver, Ph.D.\n\n\nShe/Her/Hers\nResearch Biologist\nNortheast Fisheries Science Center\nEmail: samara.haver@noaa.gov\nSamara has a Masters and PhD from Oregon State University and a BA from Colorado College. She first started working in the Passive Acoustics Branch in 2012, focused on analysis and fieldwork for bottom mounted and towed array data sampled in the North Atlantic. After completing her graduate degrees, Samara worked in the Cooperative Institute for Marine Ecosystems and Resources Studies (NOAA PMEL and Oregon State University) as a research scientist. Returning to the Passive Acoustics Branch in 2024, she joined the Sound Ecology team and now leads projects to quantify marine soundscapes and ocean noise within U.S. waters.\nRelevant links:\nGoogle Scholar\n\n\nAmanda Holdman, MSc\n\n\nshe/her/hers\nAcoustician\nNortheast Fisheries Science Center\nOffice: (508) 233-8009\nEmail: amanda.holdman@noaa.gov\nAmanda has a BS from Purdue University in Wildlife Management and a MS from Oregon State University in Wildlife Science. For her MS thesis, Amanda used visual surveys and passive acoustic monitoring to document the distribution and habitat use of marine mammals off the Oregon Coast prior to wave energy development. Previously she worked as a research acoustician at the OSU/NOAA Cooperative Institute for Marine Ecosystem and Resource Studies (CIMERS), researching the seasonal overlap between arctic marine mammals and anthropogenic noise in Beaufort Sea, Alaska. Since November 2021, within the Passive Acoustics Branch, Amanda focuses on the occurrence and distribution of cetaceans, particularly harbor porpoise and other high-frequency species, and analyzes acoustic data transmitted via satellite in near real time from buoys and ocean gliders for baleen whale presence in the Atlantic Ocean.\nRelevant Links:\nLinkedIn\nResearchGate\nORCID\n\n\nHana Koilpillai\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: hana.koilpillai@noaa.gov\nHana earned a BS in Marine Science (Biology) and a BA in Animal Studies from Eckerd College in 2022. Through her involvement with the Frick Animal Behavior Lab, she led a study analyzing Amazon River dolphin vocalizations and investigated the parameters of rough-toothed dolphin whistles at Clearwater Marine Aquarium. She began working with the NEFSC as a NOAA Hollings Scholar in 2021, using photo-ID catalogs to study scars on North Atlantic humpback whale flukes caused by non-lethal interactions with killer whales. She continued this project as her Senior Thesis in Marine Science and presented a poster at the 2022 SMM Conference, and she is now working towards publication. In May 2023, she returned to the NEFSC, joining the Passive Acoustics Branch to conduct baleen whale acoustic analysis.\n\n\nJessica McCordic, MSc\n\n\nshe/her/hers\nResearch Acoustician\nNortheast Fisheries Science Center\nOffice: (508) 495-2396\nEmail: jessica.mccordic@noaa.gov\nJessica received a BA in Human Ecology from College of the Atlantic in 2012 and a MSc in Biology from Syracuse University in 2015. After completing her graduate work on acoustic individuality in upcalls of North Atlantic right whales, she worked as a Research Biologist at Pacific Whale Foundation, where she curated photo-ID catalogs of North and South Pacific humpback whales and assisted with research projects on humpback whales and various odontocete species. Jessica joined the Passive Acoustics Branch as a research analyst in 2019, and her current work focuses on using passive acoustics as a management tool for monitoring vessel presence and soundscape characteristics.\nRelevant Links:\nORCID\n\n\nTaiki Sakai\n\nhe/him/his\nSoftware Developer\nNortheast Fisheries Science Center\nEmail: taiki.sakai@noaa.gov\nTaiki graduated from Harvey Mudd College in 2010 with a degree in Mathematics. He has been a contractor with NOAA since 2016, first at the Southwest Fisheries Science Center and now with the Passive Acoustics Branch at the Northeast Fisheries Science Center. His work focuses on developing software tools to streamline and standardize passive acoustic data analysis.\n\n\nMaricarmen Serna\n\n\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nCell: (210) 965-9935\nEmail: maricarmen.serna@noaa.gov\nMaricarmen graduated from the University of Rhode Island with a B.S. in Environmental and Natural Resource Economics and a minor in Marine Biology. While at URI, she was an Ernest F. Hollings Scholar at the Northwest Fisheries Science Center, where she analyzed the movement patterns of Southern Resident Killer Whales. She was also a URI Science and Engineering Fellow, during which she tagged mako sharks and blue sharks, led URI’s 2022 Shark Camp, and assessed the social network of Southern Stingrays in the Cayman Islands. She joined the Passive Acoustic Research Branch in 2024 and currently works on anthropogenic soundscapes during the pre-construction phases of offshore wind turbine developments.\nRelevant Links:\nLinkedIn\n\n\nAnne Smith\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nEmail: anne.smith@noaa.gov\nAnnie graduated in 2024 from the College of the Holy Cross with a BA in Biology and a minor in Environmental Studies. She first worked with the Passive Acoustics Branch as an intern in 2022 where she supported acoustic analysis of haddock in the Gulf of Maine. She rejoined the branch in September of 2023 as an acoustician, and she currently conducts haddock and cod analysis.\nRelevant links:\nLinkedin\n\n\n\nLindsey Transue, MS\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nCell: (865) 742-4011\nEmail: lindsey.transue@noaa.gov\nLindsey has a BS in Ecology and Evolutionary Biology from the University of Tennessee and a MS in Marine Biology from the College of Charleston. Her master’s thesis analyzed the Charleston Harbor soundscape, including snapping shrimp, sound-producing fish, bottlenose dolphins, and anthropogenic noise. She began working with the Passive Acoustics Branch in 2022 to conduct analysis of baleen whale acoustic ecology.\nRelevant links:\nResearchGate\nLinkedIn\nORCID\n\n\nRebecca Van Hoeck, PhD\n\n\nshe/her/hers\nResearch Biologist\nNortheast Fisheries Science Center\nEmail: rebecca.vanhoeck@noaa.gov\nBecca has a PhD in Ecology, Evolution, and Organismal Biology from the University of North Carolina at Chapel Hill and a BS in Marine Science and Biology from the University of Tampa. In her current role, Becca coordinates national and regional passive acoustic monitoring initiatives to support marine mammal conservation and responsible development of offshore wind energy. Her work also includes conducting passive acoustic research to better understand Atlantic cod spawning behavior and advance understanding of marine soundscapes. Prior to joining the Passive Acoustic Branch in 2024, she was a Knauss Marine Policy Fellow working as a Policy Analyst for NOAA Headquarters in the Office of Under Secretary of Commerce for Oceans and Atmosphere.\nRelevant links:\nORCID ID\n\n\nJeffrey Walker, PhD\n\n\nhe/him/his\nWeb Developer (Affiliate)\nNortheast Fisheries Science Center\nEmail: jeffrey.walker@noaa.gov\nJeff has a BS from Cornell University, a MEng from MIT, and a PhD from Tufts University. Since 2019, Jeff has worked with the Passive Acoustics Branch as developer of the Passive Acoustic Cetacean Map (PACM), a web-based interactive data visualization tool for exploring passive acoustic detection data. As an environmental data scientist and engineer, Jeff’s mission is to make environmental data more accessible and easier to understand.\nFor more information on his work, see Jeff’s Website.\n\n\nAnnabel Westell, MSc\n\n\nshe/her/hers\nAcoustician (Affiliate)\nNortheast Fisheries Science Center\nOffice: (508) 251-9362\nEmail: annabel.westell@noaa.gov\nAnnabel has a BSc in Marine Biology from Dalhousie University in Halifax, Nova Scotia, and a MSc in Marine Mammal Science from the University of St Andrews, Scotland. For her postgraduate dissertation, Annabel used acoustic localization to explore the movement of sperm whales thought to be depredating long lines in the Norwegian Sea. Previously she worked as an acoustic analyst at the Bedford Institute of Oceanography (BIO) in Nova Scotia, classifying beaked whale and sperm whale click detections. Annabel joined the Passive Acoustics Branch in December 2020 and is currently working on the detection, classification, and localization of sperm whales in the western North Atlantic.\nRelevant links:\nResearchGate\n\n\nJulianne Wilder, MAT\n\n\nshe/her/hers\nAcoustician\nNortheast Fisheries Science Center\nOffice: (508) 469-9332\nEmail: julianne.wilder@noaa.gov\nJulianne has a BS in Zoology from Oregon State University and a Master of Arts in Teaching (MAT) from the University of Puget Sound. She began working for the Passive Acoustics Branch as a NOAA Hollings Scholar in 2013, studying sperm whale acoustics and distribution. She later joined the group as an acoustic analyst focusing on baleen whale acoustics. In 2018, she returned to her home state of Washington to earn her MAT and taught high school Biology and Marine Biology before rejoining the Passive Acoustics Branch in 2021 to conduct acoustic analysis informing baleen whale migratory patterns.\nRelevant Links:\nLinkedIn\nResearchGate\nORCID\n\n\nJulia Zeh, Ph.D.\n\n\nResearch Biologist\nNortheast Fisheries Science Center\nOffice: (508) 419-0791\nEmail: julia.zeh@noaa.gov\nJulia has a BA in Environmental Biology from Columbia University and a PhD in Biology from Syracuse University. At SU, Julia was a National Defense Science and Engineering Graduate (NDSEG) Fellow in Dr. Susan Parks’s lab. Julia’s dissertation research used suction cup tag data from humpback whales to study their behavior, with a particular focus on vocal behavior and development. In 2024, after finishing her PhD, Julia joined the Passive Acoustics Branch, where she is using passive acoustic monitoring to understand environmental drivers of humpback whale and other marine mammal ecology.\nRelevant links:\nORCID\nLinkedIn",
+    "crumbs": [
+      "Lab Management",
+      "Team Member Bios"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Media.html",
+    "href": "content/LabManagement/Media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Lab Management",
+      "Media"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Resources.html",
+    "href": "content/LabManagement/Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to.",
+    "crumbs": [
+      "Lab Management",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
+    "href": "content/NMFS_OpenSciDirections/publishing.html",
+    "title": "Publishing",
+    "section": "",
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
+    "href": "content/NMFS_OpenSciDirections/Intro.html",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html",
+    "href": "content/NMFS_OpenSciDirections/code.html",
+    "title": "Rendering with Code",
+    "section": "",
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+  },
+  {
+    "objectID": "content/DataManagement/PA_soundfiles.html",
+    "href": "content/DataManagement/PA_soundfiles.html",
+    "title": "PassiveAcoustics_Soundfiles structure",
+    "section": "",
+    "text": "The PassiveAcoustics_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the PassiveAcoustic server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PA_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics_Soundfiles\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics_Soundfiles\\\nFor quick access on your computer, it is recommended to pin the server folder\n\n\nPassiveAcoustics_soundfiles server information\nThe general organizational structure of PassiveAcoustic Soundfile directories is as follows:\n\nRecorder type\\\nEach hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.\nFile name format: [recorder_type]\nExample: bottom_mounted\n\nRegion\\\nEach general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.\nFile name format: [fmc acronym]_[region acronym]\nExample: nefsc_sbnms\n\nDeployment\\\nEach recorder deployment has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as YYYYMM]_[unique recorder ID]\nExample: nefsc_sbnms_202307_sb03\n\nRecorder\\\nEach recorder type (deployed together as a unit) has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as",
+    "crumbs": [
+      "Data Management",
+      "PassiveAcoustics Soundfiles"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods/FieldMethods.html#field-methods",
+    "href": "content/FieldMethods/FieldMethods.html#field-methods",
+    "title": "NOAA quarto simple",
+    "section": "Field Methods",
+    "text": "Field Methods\nUnder construction\n\nWill have:\n- PAB Fieldwork code of conduct\n- Deployment timeline\n- Mooring protocols\n- Additional materials",
+    "crumbs": [
+      "Fieldwork"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement/DataManagement.html#data-management",
+    "href": "content/DataManagement/DataManagement.html#data-management",
+    "title": "NOAA quarto simple",
+    "section": "Data Management",
+    "text": "Data Management\nUnder Construction",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "title": "R Markdown",
+    "section": "",
+    "text": "You can include R Markdown files in your project."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "title": "R Markdown",
+    "section": "R Markdown",
+    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "title": "R Markdown",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
+    "href": "content/NMFS_OpenSciDirections/add-content.html",
+    "title": "Customize",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#edit-and-add-your-pages",
+    "title": "Customize",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#add-your-pages-the-project",
+    "title": "Customize",
+    "section": "Add your pages the project",
+    "text": "Add your pages the project\n\nAdd the files to _quarto.yml"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/customizing.html",
+    "href": "content/NMFS_OpenSciDirections/customizing.html",
+    "title": "Customization",
+    "section": "",
+    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/customizing.html#quarto-documentation",
+    "href": "content/NMFS_OpenSciDirections/customizing.html#quarto-documentation",
+    "title": "Customization",
+    "section": "",
+    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/customizing.html#examples",
+    "href": "content/NMFS_OpenSciDirections/customizing.html#examples",
+    "title": "Customization",
+    "section": "Examples",
+    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
+    "href": "content/NMFS_OpenSciDirections/rendering.html",
+    "title": "Rendering",
+    "section": "",
+    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "title": "Rendering",
+    "section": "Step 1. Make sure you have a recent RStudio",
+    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "title": "Rendering",
+    "section": "Step 2. Clone and create RStudio project",
+    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "title": "Rendering",
+    "section": "Step 3. Render within RStudio",
+    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
+  },
+  {
+    "objectID": "content/Reporting/Reporting.html#reporting",
+    "href": "content/Reporting/Reporting.html#reporting",
+    "title": "NOAA quarto simple",
+    "section": "Reporting",
+    "text": "Reporting\nUnder Construction",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Safety.html",
+    "href": "content/LabManagement/Safety.html",
+    "title": "Lab Safety",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Lab Management",
+      "Lab Safety"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/LabManagement.html#lab-management",
+    "href": "content/LabManagement/LabManagement.html#lab-management",
+    "title": "NOAA quarto simple",
+    "section": "Lab Management",
+    "text": "Lab Management\nUnder Construction",
+    "crumbs": [
+      "Lab Management"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Inventory.html",
+    "href": "content/LabManagement/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "Under construction\nAn inventory page is highly recommended to keep track of equipment, loans, and gear in the field. This can be a link to a Google sheet or embedded in the website",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/PAB-alumn.html",
+    "href": "content/LabManagement/PAB-alumn.html",
+    "title": "PAB Alumni",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Lab Management",
+      "PAB Alumni"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/RDC-info.html",
+    "href": "content/LabManagement/RDC-info.html",
+    "title": "RDP Computer Information",
+    "section": "",
+    "text": "RDP Computer Information\nList of RDP computers, where they’re located (with CD#s, not IP addresses), and which softwares are hosted on each.\n\n\n\n\n\n\n\n\n\n\nComputer Name\nLocation and CD#\nSoftwares\nUsage\nCommon User\n\n\n\n\nC-6PO (PAMGuard, Dolphin)\n Computer Lab (ITD floor) CD0004954114\nPAMGuard, Anaconda/ Python\nDolphin detector PAMGuard processing + validation Server Reorganization\nAmanda, Sophie, Julianne\n\n\nODYSSEY (Data upload, Manta, & humpback validation)\n Computer Lab (ITD floor) CD0004786429\nRaven/Raven Compass, Manta, Anaconda/ Python, RStudio, PACE (NCEI Packaging Software)\nRaven- Pile Driving, copying data, QAQC, uploading MANTA for GOM collaborative project / ONMS project, Humpback validation, Pile driving detector\nCatherine, Kate, Lindsey, Jess, Becca\n\n\nKHALEESI (Vessel, cod analysis, QAQC)\n Room 309 CD0004094455\nRaven, Anaconda/ Python\nCod Validation, Ship detector validation, Haddock detector\nBecca, Rochelle, Annie\n\n\nBRUCE (SPWH, HARP BW, QAQC)\n Room 319 CD0004094474\nMatLab, PAMGuard\nHARP BW validation, QAQC (if Khaleesi busy), PAMGuard SPWH click detection\nAnnamaria, Annabel, Kate, Sophie, Samara\n\n\nFOXTROT (SPWH, BW, Haddock, QAQC)\n Room 309 CD0004094798\nRaven, MatLab, Python, PAMGuard\nRaven- Pile Driving, QAQC, Haddock detector, NBW detection & validation, Pamguard dolphin + validation, PAMGuard SPWH click detection\nCatherine, Xavier, Annabel, Sophie, Samara\n\n\nATLANTIS\n Computer Lab (ITD floor) CD0004656069\nAnaconda/ Python, Raven/Raven Compass, MatLab, RStudio, PACE (NCEI Packaging Software)\nPile Driving Detector, QAQC, Cod detector\nCatherine, Kate, Becca, Annie, Samara\n\n\nGLACIALIS\n Room 309 CD0004094451\nPAMGuard\nPamguard dolphin processing\nAmanda, Sophie",
+    "crumbs": [
+      "Lab Management",
+      "Remote Desktop Computer Information"
+    ]
+  },
+  {
     "objectID": "content/Home/Collaborators.html",
     "href": "content/Home/Collaborators.html",
     "title": "NOAA quarto simple",
@@ -588,34 +479,25 @@
     ]
   },
   {
-    "objectID": "content/Software/Software.html#software",
-    "href": "content/Software/Software.html#software",
-    "title": "NOAA quarto simple",
-    "section": "Software",
-    "text": "Software\nUnder Construction",
-    "crumbs": [
-      "Software"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Analysis.html#analysis",
-    "href": "content/Analysis/Analysis.html#analysis",
-    "title": "NOAA quarto simple",
-    "section": "Analysis",
-    "text": "Analysis\nUnder Construction",
-    "crumbs": [
-      "Analysis"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
+    "objectID": "content/Analysis/Specieslist_soundtypes.html",
+    "href": "content/Analysis/Specieslist_soundtypes.html",
+    "title": "Species list",
     "section": "",
-    "text": "This section is optional but is a great place for all of your open science related resources and tools. You can include information here for our Openscapes work, stack exchange, GitHub, co working guides, etc.\nSAEL Example",
+    "text": "Under construction",
     "crumbs": [
-      "Optional Pages",
-      "Open Science"
+      "Analysis",
+      "Species list"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_analysis_protocols.html",
+    "href": "content/Analysis/Species_analysis_protocols.html",
+    "title": "Species Analysis Protocols",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Analysis",
+      "Species analysis protocols"
     ]
   }
 ]
