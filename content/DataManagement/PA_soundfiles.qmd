@@ -2,7 +2,7 @@
 title: PassiveAcoustics_Soundfiles structure
 ---
 
-The PassiveAcoustics\_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the [PassiveAcoustic server page](https://docs.google.com/document/d/1VxZ9pT2j1ylzHbp2VbaZNV3WVEpuYS_ZFzozmT1G850/edit?usp=sharing). 
+The PassiveAcoustics\_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the [PassiveAcoustic server page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PA_server_structure.html). 
 
 ### Accessing the server
 
