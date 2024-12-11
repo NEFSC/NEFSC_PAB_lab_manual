@@ -44,7 +44,7 @@ The Living Marine Resources Program supports Naval training by assessing potenti
 
 The Office of Protected Resources is responsible for the conservation, protection, and recovery of the nation’s endangered and threatened marine species under the endangered species act. PAB contributes to monitoring species status, notably monitoring the Atlantic right whale population.
 
-### [NOAA Research PMEL](https://www.pmel.noaa.gov/) (Samara)
+### [NOAA Research PMEL](https://www.pmel.noaa.gov/)
 
 The Pacific Marine Environmental Laboratory conducts robust marine research globally. 
 
