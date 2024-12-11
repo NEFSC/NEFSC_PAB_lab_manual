@@ -1,7 +1,3 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
-
-## Publications and Conferences
-
 # **Publications, Media & Outreach**
 
 ---
