@@ -79,7 +79,7 @@ website:
       - href: content/Reporting/Reporting.qmd
         text: Reporting
       - href: content/Publications/PublicationsPresentations.qmd
-        text: Publications and Conferences
+        text: Publications, Media and Outreach
         
 format:
   html:
