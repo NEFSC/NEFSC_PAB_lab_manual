@@ -36,7 +36,7 @@ website:
         contents: 
           - href: content/Home/Shared-values.qmd
             text: Shared values
-          - href: content/Home/Collaborators.qmd
+          - href: content/Home/Collaborators.2.qmd
             text: Collaborators
       - section: content/LabManagement/LabManagement.qmd # this is the example that shows how to get a landing page
         contents: 
