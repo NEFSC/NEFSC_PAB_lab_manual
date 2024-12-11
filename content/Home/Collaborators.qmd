@@ -1,6 +1,6 @@
-## Collaborators
+# Collaborators
 
-This is a list of NEFSC PAB’s collaborators. 
+This is a list of all NEFSC PAB’s collaborators. \*Keep adding, edit blurbs
 
 # Academic Institutions
 
@@ -73,6 +73,4 @@ RWSC serves as a coordination hub for offshore wind research, with the goal of i
 ### [The Nature Conservancy](https://www.nature.org/en-us/)
 
 The Nature Conservancy is a global environmental nonprofit conserving vital habitats. 
-
-
 
