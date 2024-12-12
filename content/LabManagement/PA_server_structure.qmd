@@ -1,5 +1,4 @@
----
-title: Passive Acoustics server structure
+# Passive Acoustics server structure
 ---
 The Passive Acoustics server is our central storage location for all data and information that is not acoustic data. We are in the process of migrating from the PassiveAcoustics/Stellwagen\_Old directory to the PassiveAcoustics directories. For information on where we store acoustic data see the [PassiveAcoustic\_soundfiles server page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/PA_soundfiles.html). 
 
