@@ -7,6 +7,21 @@ page-layout: full
 
 ## NEFSC Passive Acoustic Branch Lab Manual
 
-
-
 The Passive Acoustic Branch (PAB) is part of the Protected Species Division of the NOAA Fisheries Northeast Fisheries Science Center. Our group uses passive acoustic monitoring (PAM) to study marine animals and ecosystems in the Northeast and Mid-Atlantic waters of the United States.
+
+## Additional National Marine Fisheries Lab Manuals
+
+-   [SWFSC: Southwest Fisheries](https://sael-swfsc.github.io/SAEL-lab-manual/)
+
+-   [NWFSC: Northwest Fisheries](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/)
+
+-   [AFSC: Alaska Fisheries](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/)
+
+-   [SEFSC: Southeast Fisheries](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/)
+
+-   [NEFSC: Northeast Fisheries](https://nefsc.github.io/NEFSC_PAB_lab_manual/)
+
+-   [National PAM Network](https://nmfs-ost.github.io/PAM_National_NMFS_Network/)
+
+## Location
+**Shipping Address:** NOAA/NEFSC, 166 Water Street, Woods Hole, MA 02543
