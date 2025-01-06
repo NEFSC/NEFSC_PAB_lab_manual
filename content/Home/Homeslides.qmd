@@ -1,0 +1,23 @@
+---
+title: "Our work with Right Whales"
+subtitle: "Voices of the Sea"
+format:
+  revealjs: 
+    slide-number: true
+---
+
+
+## Slide 1: Meet the North Atlantic Right Whale
+
+<video width="640" height="360" controls>
+  <source src=/figs/Videos/VINS.1.mp4 type="video/mp4">
+  </video>
+
+## Slide 2: Acoustics
+
+<video width="640" height="360" controls>
+  <source src=/figs/Videos/VITS.2.mp4 type="video/mp4">
+  </video>
+
+## Slide 3: Conservation and Research
+Under construction
