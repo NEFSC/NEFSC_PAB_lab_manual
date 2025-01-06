@@ -11,7 +11,7 @@ The Passive Acoustic Branch (PAB) is part of the Protected Species Division of t
 
 ## Our work with Right Whales
 <video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/1B0JMG0JfQAKw0_jPn72AMGTDYs45U84a/view?usp=drive_link" type="video/quicktime">
+  <source src="https://drive.google.com/file/d/1_RUwpLpm4G98lD5gUCVpqf4S9QLQEQvU/view?usp=drive_link" type="video/quicktime">
   </video>
 
 ## Additional National Marine Fisheries Lab Manuals
