@@ -10,9 +10,24 @@ page-layout: full
 The Passive Acoustic Branch (PAB) is part of the Protected Species Division of the NOAA Fisheries Northeast Fisheries Science Center. Our group uses passive acoustic monitoring (PAM) to study marine animals and ecosystems in the Northeast and Mid-Atlantic waters of the United States.
 
 ## Our work with Right Whales
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/1_RUwpLpm4G98lD5gUCVpqf4S9QLQEQvU/view?usp=drive_link" type="video/quicktime">
+#### Voices of the Ocean: Meet the North Atlantic Right Whale
+
+<video width="440" height="260" controls>
+  <source src=/figs/Videos/VINS.1.mp4 type="video/mp4">
   </video>
+
+#### Voices of the Ocean: Acoustics
+
+<video width="440" height="260" controls>
+  <source src=/figs/Videos/VITS.2.mp4 type="video/mp4">
+  </video>
+
+## PAB Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=noaa.gov_n19q6r5ojpaqhn1v1sd6q1l3ig%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+</iframe>
+
+## Location
+**Shipping Address:** NOAA/NEFSC, 166 Water Street, Woods Hole, MA 02543
 
 ## Additional National Marine Fisheries Lab Manuals
 
@@ -27,11 +42,3 @@ The Passive Acoustic Branch (PAB) is part of the Protected Species Division of t
 -   [NEFSC: Northeast Fisheries](https://nefsc.github.io/NEFSC_PAB_lab_manual/)
 
 -   [National PAM Network](https://nmfs-ost.github.io/PAM_National_NMFS_Network/)
-
-## PAB Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=noaa.gov_n19q6r5ojpaqhn1v1sd6q1l3ig%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
-</iframe>
-
-
-## Location
-**Shipping Address:** NOAA/NEFSC, 166 Water Street, Woods Hole, MA 02543
