@@ -1,6 +1,13 @@
 ---
 title: Species list
 ---
+This section provides an overview of PAB's study species, organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included.
 
-*Under construction*\
-![](/figs/infographics/beaked_whale_transparent.png)
+\
+For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s [Sounds in the Ocean](https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals#odontocetes-toothed-whales). For more information about each specie, see [this page](https://www.fisheries.noaa.gov/find-species).
+
+<div align=center>
+
+![](/figs/infographics/Humpback-pic.jpg){width=75%}
+\
+*Credit: NOAA*
