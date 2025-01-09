@@ -72,6 +72,9 @@ website:
         contents:
           - href: content/Analysis/Specieslist_soundtypes.qmd
             text: Species list
+            contents:
+              - href: content/Analysis/Species_list/Myst_list.qmd
+                text: Mysticetes
           - href: content/Analysis/Species_analysis_protocols.qmd
             text: Species analysis protocols
       - href: content/FieldMethods/FieldMethods.qmd
