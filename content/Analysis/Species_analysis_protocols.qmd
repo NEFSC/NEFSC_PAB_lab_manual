@@ -1,7 +1,7 @@
 ---
-title: Species Analysis Protocols
+title: Analysis Protocols
 ---
 
+Our lab's protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our [Software page](/content/Software/Software/qmd). \
 
-*Under construction*\
 ![](/figs/infographics/Sperm-Whale-directional.png)

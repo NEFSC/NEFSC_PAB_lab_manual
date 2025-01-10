@@ -58,7 +58,7 @@ Code: BLWH\
 <div align=center>
 ![](/figs/Spec_images/Baleen/BLUE_spec2.PNG){width=65%}
 \
-*Spectrogram image of Blue whale Arch/D calls*
+*Spectrogram image of Blue whale A/B/AB song*
 <div align=left>
 \
 \
@@ -133,4 +133,4 @@ Code: HUWH\
 <div align=center>
 ![](/figs/Spec_images/Baleen/HUMP_spec.PNG){width=65%}
 \
-*Spectrogram image of Humpback mixed calls*
+*Spectrogram image of Humpback whale song*

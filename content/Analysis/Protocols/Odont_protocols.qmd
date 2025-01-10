@@ -1,0 +1,54 @@
+# Odontecete Protocols 
+
+## FPOD Odontocete Detector 
+
+Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs
+
+* Code: FPOD\_ODONTOCETE  
+* Link to analysis protocol page
+
+## SPICE Odontocete Detector 
+
+Triton's odontocete click detector; written by [Kait Frasier](https://github.com/MarineBioAcousticsRC/Triton) 
+
+* Code: MATLAB\_TRITON\_ODONTOCETE\_FIXED\_SPICE  
+* Link to analysis protocol page
+
+## DFO Beaked Whale Detector
+
+Beaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from [Baumann-Pickering et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086072)
+
+* Code: MATLAB\_BEAKED\_FIXED  
+* Link to analysis protocol page
+
+## Alba Convolutional Neural Network Detector
+
+Beaked whale CNN detector written by [Alba Solsona Berga](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304744) 
+
+* Code: MATLAB\_BEAKED\_FIXED\_ALBA\_CNN  
+* Link to analysis protocol page
+
+## PAMGuard Odontocete Click Detector
+
+Detector used for all odontocete clicks; see [PAMguard's Help](https://www.pamguard.org/olhelp/) documentation for details
+
+* Code: PAMGUARD\_ODONTOCETE\_CLICK  
+* Sperm whale protocols  
+  * [PAMGuard Sperm Whale detection/validation protocol for SoundTrap data](https://docs.google.com/document/d/1738gDvmxEc7OqcbQv4-IHLb3M4SXa-5LQd00Bf4lZxE/edit?tab=t.0)  
+  * [PAMGuard Sperm Whale processing protocol for towed array data](https://docs.google.com/document/d/1738gDvmxEc7OqcbQv4-IHLb3M4SXa-5LQd00Bf4lZxE/edit?tab=t.0)  
+* Kogia protocols
+  * [PAMGuard Kogia processing protocol for towed array data](https://docs.google.com/document/d/12XRD66knm8X5niWNafroOcwuysr6dT7p/edit)  
+* Beaked whale protocol  
+  * [PAMGuard Beaked whale processing for towed array data](https://docs.google.com/document/d/1oAMwheP2KCHV2ljbVT2HdZjFjxzE3UrV)  
+* Dolphin protocol
+  * [Dolphin classification methods BANTER](https://docs.google.com/document/d/1rCV88JoH9F4inyv8AvJruHWlMqIX7gGD/edit)
+  
+![](/figs/Software_detectors/NEFSC_AMAPPS_dol_class.PNG){width=60%}\
+*PAMGuard's Bearing-Time Display: used to identify odontocete clicks. Clicks appear as colorful dots, with those coming in from ahead of the array spanning angles 0-90, and those coming in from behind the array as 90-180.*
+  
+## PAMGuard Odontocete and Baleen Whistle and Moan Detector
+
+Basic tonal detector that can be used for odontocetes and baleen whales
+
+* Code: PAMGUARD\_WHISTLE\_MOAN  
+* Link to analysis protocol page
