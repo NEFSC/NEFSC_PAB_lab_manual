@@ -74,9 +74,20 @@ website:
             text: Species list
             contents:
               - href: content/Analysis/Species_list/Myst_list.qmd
-                text: Mysticetes
+                text: Mysticete Specie List
           - href: content/Analysis/Species_analysis_protocols.qmd
-            text: Species analysis protocols
+            text: Analysis protocols
+            contents:
+              - href: content/Analysis/Protocols/Mysticete_protocols.qmd
+                text: Mysticete Protocols
+              - href: content/Analysis/Protocols/Odont_protocols.qmd
+                text: Odontocete Protocols
+              - href: content/Analysis/Protocols/fish_protocols.qmd
+                text: Fish Protocols
+              - href: content/Analysis/Protocols/Anthro_protocols.qmd
+                text: Anthropogenic Protocols
+              - href: content/Analysis/Protocols/AMP_protocols.qmd
+                text: Australia Marine Park Protocols
       - href: content/FieldMethods/FieldMethods.qmd
         text: Field Methods
       - href: content/Reporting/Reporting.qmd

@@ -1,0 +1,33 @@
+# Fish Protocols
+
+## ISRAT Cod Detector
+
+Cod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis
+
+* Code: MATLAB\_COD\_ISRAT  
+* [NEFSC OFFSHORE Cod Detector Protocol](https://docs.google.com/document/d/1o7xmtpkIwlmSO9F4sD0QsNVhGFN3Yh_1/edit#heading=h.gjdgxs)  
+* Gateway Cod Detector Protocol: \\\\nefscdata\\PassiveAcoustics\\PAB\_ANALYSIS\_TRAINING\\SOUND\_ECOLOGY\\NEFSC\_Fish\_Analysis Training\\Cod
+
+![](/figs/Software_detectors/ISRAT_COD.PNG){width=40%}\
+*Cod validation through ISRAT detector*
+
+## Haddock Convolutional Neural Network Detector
+
+Haddock CNN detector developed by Xavier Muoy
+
+* Code: PYTHON\_HADDOCK\_CNN  
+* Link to analysis protocol page
+
+## Haddock Kurtosis Detector
+
+Kurtosis detector for haddock developed by Xavier Muoy
+
+* Code: PYTHON\_HADDOCK\_KURTOSIS  
+* Protocol page: \\\\nefscdata\\PassiveAcoustics/DETECTORS\_SOFTWARE/PYTHON\_HADDOCK/Instructions\_haddock.pdf
+
+## FishSound Finder Detector
+
+CNN for general identification of unidentified fish sounds
+
+* Code: PYTHON\_MULTI-SPECIES\_FISH  
+* Link to analysis protocol page

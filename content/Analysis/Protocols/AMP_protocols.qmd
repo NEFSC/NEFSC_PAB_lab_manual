@@ -1,0 +1,32 @@
+# Australia Marine Park Project
+
+### Australia Marine Parks (AMP) [Vessel Analysis Protocol](https://drive.google.com/file/d/1RL8KXBPJQgN5gm9qXKDc-cTyT7tNA0rF/view?usp=sharing)
+
+The AMP system comprises a network of marine protected areas covering over 3 million km2 of Australian Commonwealth waters (i.e., beyond state waters). Each regional network contains multiple marine parks further divided into IUCN zones with varying levels of protection. National Park Zones (NPZs) prohibits any unauthorized extractive activities including recreational and commercial fishing. NEFSC is assisting Parks Australia in implementing a passive acoustic monitoring (PAM) approach to improve understanding of vessel use within the NPZs (Fig. 1).  \
+
+![](/figs/Software_detectors/AMP_map.png)\
+
+*Figure 1: Overview map of all deployments as of 05/2021.*
+
+We are currently using a hybrid analytical approach which combines an automated detector with manual review of a long-term spectral average (LTSA) to maximize the number of detected vessels. For each vessel detection, we review the finer-scale spectrogram to determine more precise duration and vessel behavior. After the initial selections have been made, we also use a basic transmission loss model to estimate possible source levels and ranges of each vessel in order to determine how many vessels are likely to occur within the NPZ boundaries.
+
+#### Raven Presets Used in Vessel Analysis
+
+Page Sound:
+
+* Page size: 180 seconds  
+* Page increment: 90 percent  
+* Step increment: 10 percent
+
+File name template: .\<yy\>\<ll\>\<dd\>\<hh\>\<mm\>\<ss\>
+
+Brightness: 44  
+Contrast: 71  
+FFT: 4096  
+0-10 kHz
+
+EP D2b 6/13/2019 as example
+
+### AMP Dolphin [Protocol](https://drive.google.com/file/d/1z_GhQgUzVuB1FB6oj2nwY_4MbkTL4C2h/view?usp=sharing)
+
+### Australian Marine Parks Manual Browsing [Protocol](https://docs.google.com/document/d/1GCB03ar67OdLvRkWYYsghf9siJYUBfSV/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)
