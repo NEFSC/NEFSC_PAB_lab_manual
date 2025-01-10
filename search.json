@@ -44,11 +44,11 @@
     "href": "content/Analysis/Species_list/Myst_list.html",
     "title": "Mysticetes (Baleen Whales): Typically below 5 kHz",
     "section": "",
-    "text": "Mysticetes (Baleen Whales): Typically below 5 kHz\nThe following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. This is not meant to be comprehensive of all marine mammal repertoire’s. A complete acoustic event guide is linked for each specie.\n\nMinke whale\n\nScientific name: Balaenoptera acutorostrata\nCode: MIWH\nCall types:\n\n\nMinke whale pulse train\n\nCurrently includes all pulse train types: constant/slow-down/speed-up\n\nCode: MWPT\n\n\n\n\nSpectrogram image of Minke pulse train\n\n\n\n\n\nSei whale\n\nScientific name: Balaenoptera borealis\nCode: SEWH\nCall types:\n\n\nSei whale 30-80 Hz downsweep\n\nSei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3 - 5 seconds apart as doublets, triplets, or more. If different distinguishable downsweep types are used, please notify PACM group to add call type\n\nCode: SWDS\n\n\n\n\nSpectrogram image of Sei Whale downsweep\n\n\n\n\n\nBlue whale\n\nScientific name: Balaenoptera musculus\nCode: BLWH\nCall types:\n\n\nBlue whale A/B/AB song\n\nNorth Atlantic blue whale song: includes all three call types (A, B, and AB)\n\nCode: BLSONG\n\n\nBlue whale Arch/D call\n\nNorth Atlantic blue whale Arch calls, or D calls\n\nCode: BLARCH\n\nBlue whale mix calls\n\nNorth Atlantic blue whale mix of calls including A/B/AB song, Arch calls, and D calls\n\nCode: BLMIX\n\n\n\n\nSpectrogram image of Blue whale Arch/D calls\n\n\n\n\n\nFin whale\n\nScientific name: Balaenoptera physalus\nCode: FIWH\nCall types:\n\n\nFin whale 130-Hz note\n\nFin whale 130-Hz note\n\nCode: FWNOTE\n\n\nFin whale 20-Hz pulse\n\nFin whale 20-Hz pulses (song and non-song)\n\nCode: FWPLS\n\nFin whale downsweep/ 40-Hz call\n\nFin whale downsweep (termed “higher frequency sounds”, “HF downsweep”, or “40-Hz” call): spanning ~75-40 Hz\n\nCode: FWDS\n\n\nFin whale mix calls\n\nMix off North Atlantic fin whale call types: 20-Hz calls, 130-Hz note, and the higher-frequency downsweeps (~75-40 Hz), also referred to as “40-Hz” calls\n\nCode: FWMIX\n\n\n\n\nSpectrogram image of Fin whale 20-Hz pulse calls\n\n\n\n\n\nNorth Atlantic right whale\n\nScientific name: Eubalaena glacialis\nCode: RIWH\nCall types:\n\n\nNorth Atlantic right whale gunshot\n\nRight whale gunshot: broadband signal\n\nCode: NARWGUNSHOT\n\n\nNorth Atlantic right whale moan\n\nRight whale moan: typically 100-200 Hz\n\nCode: NARWMOAN\n\n\nNorth Atlantic right whale upcall\n\nContact-call produced by right whales: typically 100-300 Hz upsweep\n\nCode: NARWUPCALL\n\n\n\n\nSpectrogram image of North Atlantic Right Whale upcalls\n\n\n\n\n\nHumpback whale\n\nScientific name: Megaptera novaeangliae\nCode: HUWH\nCall types:\n\n\nHumpback whale social\n\nHumpback whale social calls only\n\nCode: HWSOC\n\n\nHumpback whale song\n\nHumpback whale song only\n\nCode: HWSONG\n\n\nHumpback whale mixed call\n\nHumpback whale mixed song and social calls\n\nCode: HWMIX\n\n\n\n\nSpectrogram image of Humpback mixed calls",
+    "text": "Mysticetes (Baleen Whales): Typically below 5 kHz\nThe following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. This is not meant to be comprehensive of all marine mammal repertoire’s. A complete acoustic event guide is linked for each specie.\n\nMinke whale\n\nScientific name: Balaenoptera acutorostrata\nCode: MIWH\nCall types:\n\n\nMinke whale pulse train\n\nCurrently includes all pulse train types: constant/slow-down/speed-up\n\nCode: MWPT\n\n\n\n\nSpectrogram image of Minke pulse train\n\n\n\n\n\nSei whale\n\nScientific name: Balaenoptera borealis\nCode: SEWH\nCall types:\n\n\nSei whale 30-80 Hz downsweep\n\nSei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3 - 5 seconds apart as doublets, triplets, or more. If different distinguishable downsweep types are used, please notify PACM group to add call type\n\nCode: SWDS\n\n\n\n\nSpectrogram image of Sei Whale downsweep\n\n\n\n\n\nBlue whale\n\nScientific name: Balaenoptera musculus\nCode: BLWH\nCall types:\n\n\nBlue whale A/B/AB song\n\nNorth Atlantic blue whale song: includes all three call types (A, B, and AB)\n\nCode: BLSONG\n\n\nBlue whale Arch/D call\n\nNorth Atlantic blue whale Arch calls, or D calls\n\nCode: BLARCH\n\nBlue whale mix calls\n\nNorth Atlantic blue whale mix of calls including A/B/AB song, Arch calls, and D calls\n\nCode: BLMIX\n\n\n\n\nSpectrogram image of Blue whale A/B/AB song\n\n\n\n\n\nFin whale\n\nScientific name: Balaenoptera physalus\nCode: FIWH\nCall types:\n\n\nFin whale 130-Hz note\n\nFin whale 130-Hz note\n\nCode: FWNOTE\n\n\nFin whale 20-Hz pulse\n\nFin whale 20-Hz pulses (song and non-song)\n\nCode: FWPLS\n\nFin whale downsweep/ 40-Hz call\n\nFin whale downsweep (termed “higher frequency sounds”, “HF downsweep”, or “40-Hz” call): spanning ~75-40 Hz\n\nCode: FWDS\n\n\nFin whale mix calls\n\nMix off North Atlantic fin whale call types: 20-Hz calls, 130-Hz note, and the higher-frequency downsweeps (~75-40 Hz), also referred to as “40-Hz” calls\n\nCode: FWMIX\n\n\n\n\nSpectrogram image of Fin whale 20-Hz pulse calls\n\n\n\n\n\nNorth Atlantic right whale\n\nScientific name: Eubalaena glacialis\nCode: RIWH\nCall types:\n\n\nNorth Atlantic right whale gunshot\n\nRight whale gunshot: broadband signal\n\nCode: NARWGUNSHOT\n\n\nNorth Atlantic right whale moan\n\nRight whale moan: typically 100-200 Hz\n\nCode: NARWMOAN\n\n\nNorth Atlantic right whale upcall\n\nContact-call produced by right whales: typically 100-300 Hz upsweep\n\nCode: NARWUPCALL\n\n\n\n\nSpectrogram image of North Atlantic Right Whale upcalls\n\n\n\n\n\nHumpback whale\n\nScientific name: Megaptera novaeangliae\nCode: HUWH\nCall types:\n\n\nHumpback whale social\n\nHumpback whale social calls only\n\nCode: HWSOC\n\n\nHumpback whale song\n\nHumpback whale song only\n\nCode: HWSONG\n\n\nHumpback whale mixed call\n\nHumpback whale mixed song and social calls\n\nCode: HWMIX\n\n\n\n\nSpectrogram image of Humpback whale song",
     "crumbs": [
       "Analysis",
       "Species list",
-      "Mysticetes"
+      "Mysticete Specie List"
     ]
   },
   {
@@ -96,12 +96,216 @@
   {
     "objectID": "content/Analysis/Species_analysis_protocols.html",
     "href": "content/Analysis/Species_analysis_protocols.html",
-    "title": "Species Analysis Protocols",
+    "title": "Analysis Protocols",
     "section": "",
-    "text": "Under construction",
+    "text": "Our lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page.",
     "crumbs": [
       "Analysis",
-      "Species analysis protocols"
+      "Analysis protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html",
+    "href": "content/Analysis/Protocols/Odont_protocols.html",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs\n\nCode: FPOD_ODONTOCETE\n\nLink to analysis protocol page\n\n\n\n\nTriton’s odontocete click detector; written by Kait Frasier\n\nCode: MATLAB_TRITON_ODONTOCETE_FIXED_SPICE\n\nLink to analysis protocol page\n\n\n\n\nBeaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from Baumann-Pickering et al. 2013\n\nCode: MATLAB_BEAKED_FIXED\n\nLink to analysis protocol page\n\n\n\n\nBeaked whale CNN detector written by Alba Solsona Berga\n\nCode: MATLAB_BEAKED_FIXED_ALBA_CNN\n\nLink to analysis protocol page\n\n\n\n\nDetector used for all odontocete clicks; see PAMguard’s Help documentation for details\n\nCode: PAMGUARD_ODONTOCETE_CLICK\n\nSperm whale protocols\n\nPAMGuard Sperm Whale detection/validation protocol for SoundTrap data\n\nPAMGuard Sperm Whale processing protocol for towed array data\n\n\nKogia protocols\n\nPAMGuard Kogia processing protocol for towed array data\n\n\nBeaked whale protocol\n\nPAMGuard Beaked whale processing for towed array data\n\n\nDolphin protocol\n\nDolphin classification methods BANTER\n\n\n\nPAMGuard’s Bearing-Time Display: used to identify odontocete clicks. Clicks appear as colorful dots, with those coming in from ahead of the array spanning angles 0-90, and those coming in from behind the array as 90-180.\n\n\n\nBasic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html#fpod-odontocete-detector",
+    "href": "content/Analysis/Protocols/Odont_protocols.html#fpod-odontocete-detector",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs\n\nCode: FPOD_ODONTOCETE\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html#spice-odontocete-detector",
+    "href": "content/Analysis/Protocols/Odont_protocols.html#spice-odontocete-detector",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Triton’s odontocete click detector; written by Kait Frasier\n\nCode: MATLAB_TRITON_ODONTOCETE_FIXED_SPICE\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html#dfo-beaked-whale-detector",
+    "href": "content/Analysis/Protocols/Odont_protocols.html#dfo-beaked-whale-detector",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Beaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from Baumann-Pickering et al. 2013\n\nCode: MATLAB_BEAKED_FIXED\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html#alba-convolutional-neural-network-detector",
+    "href": "content/Analysis/Protocols/Odont_protocols.html#alba-convolutional-neural-network-detector",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Beaked whale CNN detector written by Alba Solsona Berga\n\nCode: MATLAB_BEAKED_FIXED_ALBA_CNN\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-click-detector",
+    "href": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-click-detector",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Detector used for all odontocete clicks; see PAMguard’s Help documentation for details\n\nCode: PAMGUARD_ODONTOCETE_CLICK\n\nSperm whale protocols\n\nPAMGuard Sperm Whale detection/validation protocol for SoundTrap data\n\nPAMGuard Sperm Whale processing protocol for towed array data\n\n\nKogia protocols\n\nPAMGuard Kogia processing protocol for towed array data\n\n\nBeaked whale protocol\n\nPAMGuard Beaked whale processing for towed array data\n\n\nDolphin protocol\n\nDolphin classification methods BANTER\n\n\n\nPAMGuard’s Bearing-Time Display: used to identify odontocete clicks. Clicks appear as colorful dots, with those coming in from ahead of the array spanning angles 0-90, and those coming in from behind the array as 90-180.",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
+    "href": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
+    "title": "Odontecete Protocols",
+    "section": "",
+    "text": "Basic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Odontocete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Mysticete_protocols.html",
+    "href": "content/Analysis/Protocols/Mysticete_protocols.html",
+    "title": "Mysticete Protocols (Baleen whales)",
+    "section": "",
+    "text": "Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see Baumgartner and Mussoline 2011\n\nCode: LFDCS_Baleen\n\nLFDCS Reference Guide\n\nLFDCS Presence Sheet Guide\n\nNEFSC PAB protocol: Baleen Whale Daily Presence Using LFDCS\n\nLFDCS Daily Code\n\n\n\n\n\nFIG. 1. A pitch-tracking example. (a) Spectrogram [S; Eq. (1)] created from short time Fourier transforms of the audio data (sampling frequency¼2048 Hz, frame¼640 samples, overlap¼80%, Hann window) and smoothed with the smoothing operator [M; Eq. (2)]. Four calls are present: two sei whale downsweeps (40–100 Hz, 1.4 s duration) and two right whale moans (120–170 Hz, 2.7 s duration). (b) Filtered spectrogram [A; Eq. (3)] created by subtracting a running mean from each discrete frequency band. Note removal of 220–225 Hz tonal noise. (c) Pitch tracks of calls with average amplitudes in excess of 12 dB relative to background. (d) Same pitch tracks in (c) with amplitude displayed in color. Baumgartner & Mussoline, 2011\n\n\nHumpback whale convolutional neural network detector; originally developed by Ann Allen/Google and modified for the North Atlantic humpback whale population by Vincent Kather\n\nCode: PYTHON_HUMPBACK_CNN\n\nLink to analysis protocol page\n\n\n\n\nAtlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detector (currently in use); developed by Xavier Mouy\n\nCode: PYTHON_MINKE\n\nProtocol page:\n\nZ:\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS\\DETECTOR_VALIDATION_RHETT\n\n\nQuick guide:\n\n\\\\nefscdata\\PassiveAcoustics\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS\n\n\n\n\n\nBasic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nprotocol",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Mysticete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Mysticete_protocols.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier",
+    "href": "content/Analysis/Protocols/Mysticete_protocols.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier",
+    "title": "Mysticete Protocols (Baleen whales)",
+    "section": "",
+    "text": "Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see Baumgartner and Mussoline 2011\n\nCode: LFDCS_Baleen\n\nLFDCS Reference Guide\n\nLFDCS Presence Sheet Guide\n\nNEFSC PAB protocol: Baleen Whale Daily Presence Using LFDCS\n\nLFDCS Daily Code\n\n\n\n\n\nFIG. 1. A pitch-tracking example. (a) Spectrogram [S; Eq. (1)] created from short time Fourier transforms of the audio data (sampling frequency¼2048 Hz, frame¼640 samples, overlap¼80%, Hann window) and smoothed with the smoothing operator [M; Eq. (2)]. Four calls are present: two sei whale downsweeps (40–100 Hz, 1.4 s duration) and two right whale moans (120–170 Hz, 2.7 s duration). (b) Filtered spectrogram [A; Eq. (3)] created by subtracting a running mean from each discrete frequency band. Note removal of 220–225 Hz tonal noise. (c) Pitch tracks of calls with average amplitudes in excess of 12 dB relative to background. (d) Same pitch tracks in (c) with amplitude displayed in color. Baumgartner & Mussoline, 2011\n\n\nHumpback whale convolutional neural network detector; originally developed by Ann Allen/Google and modified for the North Atlantic humpback whale population by Vincent Kather\n\nCode: PYTHON_HUMPBACK_CNN\n\nLink to analysis protocol page\n\n\n\n\nAtlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detector (currently in use); developed by Xavier Mouy\n\nCode: PYTHON_MINKE\n\nProtocol page:\n\nZ:\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS\\DETECTOR_VALIDATION_RHETT\n\n\nQuick guide:\n\n\\\\nefscdata\\PassiveAcoustics\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS\n\n\n\n\n\nBasic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nprotocol",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Mysticete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Mysticete_protocols.html#humpback-whale-convolutional-neural-network-detector",
+    "href": "content/Analysis/Protocols/Mysticete_protocols.html#humpback-whale-convolutional-neural-network-detector",
+    "title": "Mysticete Protocols (Baleen whales)",
+    "section": "",
+    "text": "Humpback whale convolutional neural network detector; originally developed by Ann Allen/Google and modified for the North Atlantic humpback whale population by Vincent Kather\n\nCode: PYTHON_HUMPBACK_CNN\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Mysticete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Mysticete_protocols.html#ketos-minke-whale-detector",
+    "href": "content/Analysis/Protocols/Mysticete_protocols.html#ketos-minke-whale-detector",
+    "title": "Mysticete Protocols (Baleen whales)",
+    "section": "",
+    "text": "Atlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detector (currently in use); developed by Xavier Mouy\n\nCode: PYTHON_MINKE\n\nProtocol page:\n\nZ:\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS\\DETECTOR_VALIDATION_RHETT\n\n\nQuick guide:\n\n\\\\nefscdata\\PassiveAcoustics\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Mysticete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Mysticete_protocols.html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
+    "href": "content/Analysis/Protocols/Mysticete_protocols.html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
+    "title": "Mysticete Protocols (Baleen whales)",
+    "section": "",
+    "text": "Basic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nprotocol",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Mysticete Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/fish_protocols.html",
+    "href": "content/Analysis/Protocols/fish_protocols.html",
+    "title": "Fish Protocols",
+    "section": "",
+    "text": "Cod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis\n\nCode: MATLAB_COD_ISRAT\n\nNEFSC OFFSHORE Cod Detector Protocol\n\nGateway Cod Detector Protocol: \\\\nefscdata\\PassiveAcoustics\\PAB_ANALYSIS_TRAINING\\SOUND_ECOLOGY\\NEFSC_Fish_Analysis Training\\Cod\n\n\nCod validation through ISRAT detector\n\n\n\nHaddock CNN detector developed by Xavier Muoy\n\nCode: PYTHON_HADDOCK_CNN\n\nLink to analysis protocol page\n\n\n\n\nKurtosis detector for haddock developed by Xavier Muoy\n\nCode: PYTHON_HADDOCK_KURTOSIS\n\nProtocol page: \\\\nefscdata\\PassiveAcoustics/DETECTORS_SOFTWARE/PYTHON_HADDOCK/Instructions_haddock.pdf\n\n\n\n\nCNN for general identification of unidentified fish sounds\n\nCode: PYTHON_MULTI-SPECIES_FISH\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Fish Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/fish_protocols.html#israt-cod-detector",
+    "href": "content/Analysis/Protocols/fish_protocols.html#israt-cod-detector",
+    "title": "Fish Protocols",
+    "section": "",
+    "text": "Cod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis\n\nCode: MATLAB_COD_ISRAT\n\nNEFSC OFFSHORE Cod Detector Protocol\n\nGateway Cod Detector Protocol: \\\\nefscdata\\PassiveAcoustics\\PAB_ANALYSIS_TRAINING\\SOUND_ECOLOGY\\NEFSC_Fish_Analysis Training\\Cod\n\n\nCod validation through ISRAT detector",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Fish Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/fish_protocols.html#haddock-convolutional-neural-network-detector",
+    "href": "content/Analysis/Protocols/fish_protocols.html#haddock-convolutional-neural-network-detector",
+    "title": "Fish Protocols",
+    "section": "",
+    "text": "Haddock CNN detector developed by Xavier Muoy\n\nCode: PYTHON_HADDOCK_CNN\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Fish Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/fish_protocols.html#haddock-kurtosis-detector",
+    "href": "content/Analysis/Protocols/fish_protocols.html#haddock-kurtosis-detector",
+    "title": "Fish Protocols",
+    "section": "",
+    "text": "Kurtosis detector for haddock developed by Xavier Muoy\n\nCode: PYTHON_HADDOCK_KURTOSIS\n\nProtocol page: \\\\nefscdata\\PassiveAcoustics/DETECTORS_SOFTWARE/PYTHON_HADDOCK/Instructions_haddock.pdf",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Fish Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/fish_protocols.html#fishsound-finder-detector",
+    "href": "content/Analysis/Protocols/fish_protocols.html#fishsound-finder-detector",
+    "title": "Fish Protocols",
+    "section": "",
+    "text": "CNN for general identification of unidentified fish sounds\n\nCode: PYTHON_MULTI-SPECIES_FISH\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Fish Protocols"
     ]
   },
   {
@@ -560,6 +764,234 @@
     "text": "Drifting Recorders\nAnnamaria\n\nA hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example)\nThis can be a section with subpages or a qmd",
     "crumbs": [
       "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html",
+    "title": "Species Analysis Protocols",
+    "section": "",
+    "text": "This page has information regarding Analysis protocols and detectors used by the NEFSC Passive Acoustics lab."
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier",
+    "title": "Species Analysis Protocols",
+    "section": "Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier",
+    "text": "Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier\nLow-frequency tonal detector for baleen whales; written by Mark Baumgartner, see Baumgartner and Mussoline 2011\n\nCode: LFDCS_Baleen\n\nLFDCS Reference Guide\n\nLFDCS Presence Sheet Guide\n\nNEFSC PAB protocol: Baleen Whale Daily Presence Using LFDCS\n\nLFDCS Daily Code"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#humpback-whale-convolutional-neural-network-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#humpback-whale-convolutional-neural-network-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Humpback Whale Convolutional Neural Network Detector",
+    "text": "Humpback Whale Convolutional Neural Network Detector\nHumpback whale convolutional neural network detector; originally developed by Ann Allen/Google and modified for the North Atlantic humpback whale population by Vincent Kather\n\nCode: PYTHON_HUMPBACK_CNN\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#ketos-minke-whale-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#ketos-minke-whale-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Ketos Minke Whale Detector",
+    "text": "Ketos Minke Whale Detector\nAtlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detector (currently in use); developed by Xavier Mouy\n\nCode: PYTHON_MINKE\n\nProtocol page:\n\nZ:\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS\\DETECTOR_VALIDATION_RHETT\n\n\nQuick guide:\n\n\\\\nefscdata\\PassiveAcoustics\\Stellwagen_Old\\DATA_ANALYSIS\\BALEEN_WHALES\\MINKE_ATLANTIC_ALL\\DETECTOR_ANALYSIS"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
+    "title": "Species Analysis Protocols",
+    "section": "PAMGuard Odontocete and Baleen Whistle and Moan Detector",
+    "text": "PAMGuard Odontocete and Baleen Whistle and Moan Detector\nBasic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nprotocol"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#fpod-odontocete-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#fpod-odontocete-detector",
+    "title": "Species Analysis Protocols",
+    "section": "FPOD Odontocete Detector",
+    "text": "FPOD Odontocete Detector\nOdontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs\n\nCode: FPOD_ODONTOCETE\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#spice-odontocete-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#spice-odontocete-detector",
+    "title": "Species Analysis Protocols",
+    "section": "SPICE Odontocete Detector",
+    "text": "SPICE Odontocete Detector\nTriton’s odontocete click detector; written by Kait Frasier\n\nCode: MATLAB_TRITON_ODONTOCETE_FIXED_SPICE\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#dfo-beaked-whale-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#dfo-beaked-whale-detector",
+    "title": "Species Analysis Protocols",
+    "section": "DFO Beaked Whale Detector",
+    "text": "DFO Beaked Whale Detector\nBeaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from Baumann-Pickering et al. 2013\n\nCode: MATLAB_BEAKED_FIXED\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#alba-convolutional-neural-network-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#alba-convolutional-neural-network-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Alba Convolutional Neural Network Detector",
+    "text": "Alba Convolutional Neural Network Detector\nBeaked whale CNN detector written by Alba Solsona Berga\n\nCode: MATLAB_BEAKED_FIXED_ALBA_CNN\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguard-odontocete-click-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguard-odontocete-click-detector",
+    "title": "Species Analysis Protocols",
+    "section": "PAMGuard Odontocete Click Detector",
+    "text": "PAMGuard Odontocete Click Detector\nDetector used for all odontocete clicks; see PAMguard’s Help documentation for details\n\nCode: PAMGUARD_ODONTOCETE_CLICK\n\nLink to analysis protocol page\n\nSperm whale\n\nPAMGuard Sperm Whale detection/validation protocol for SoundTrap data\n\nPAMGuard Sperm Whale processing protocol for towed array data\n\n\nKogia\n\nPAMGuard Kogia processing protocol for towed array data\n\n\nBeaked whales\n\nPAMGuard Beaked whale processing for towed array data\n\n\nDolphins\n\nDolphin classification methods BANTER"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguard-odontocete-and-baleen-whistle-and-moan-detector-1",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguard-odontocete-and-baleen-whistle-and-moan-detector-1",
+    "title": "Species Analysis Protocols",
+    "section": "PAMGuard Odontocete and Baleen Whistle and Moan Detector",
+    "text": "PAMGuard Odontocete and Baleen Whistle and Moan Detector\nBasic tonal detector that can be used for odontocetes and baleen whales\n\nCode: PAMGUARD_WHISTLE_MOAN\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#google-multi-species-machine-learning-model",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#google-multi-species-machine-learning-model",
+    "title": "Species Analysis Protocols",
+    "section": "Google Multi-Species Machine Learning Model",
+    "text": "Google Multi-Species Machine Learning Model\nMulti-species detector developed by Google and Matt Harvey, executed in Kaggle, and used for blue, fin, North Atlantic right whale, North Pacific right whale, humpback, Bryde’s whale, killer whale, and minke\n\nCode: PYTHON_GOOGLE_MULTI-SPECIES_ML\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#israt-cod-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#israt-cod-detector",
+    "title": "Species Analysis Protocols",
+    "section": "ISRAT Cod Detector",
+    "text": "ISRAT Cod Detector\nCod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis\n\nCode: MATLAB_COD_ISRAT\n\nNEFSC OFFSHORE Cod Detector Protocol\n\nGateway Cod Detector Protocol: \\\\nefscdata\\PassiveAcoustics\\PAB_ANALYSIS_TRAINING\\SOUND_ECOLOGY\\NEFSC_Fish_Analysis Training\\Cod"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#haddock-convolutional-neural-network-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#haddock-convolutional-neural-network-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Haddock Convolutional Neural Network Detector",
+    "text": "Haddock Convolutional Neural Network Detector\nHaddock CNN detector developed by Xavier Muoy\n\nCode: PYTHON_HADDOCK_CNN\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#haddock-kurtosis-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#haddock-kurtosis-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Haddock Kurtosis Detector",
+    "text": "Haddock Kurtosis Detector\nKurtosis detector for haddock developed by Xavier Muoy\n\nCode: PYTHON_HADDOCK_KURTOSIS\n\nProtocol page: \\\\nefscdata\\PassiveAcoustics/DETECTORS_SOFTWARE/PYTHON_HADDOCK/Instructions_haddock.pdf"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#fishsound-finder-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#fishsound-finder-detector",
+    "title": "Species Analysis Protocols",
+    "section": "FishSound Finder Detector",
+    "text": "FishSound Finder Detector\nCNN for general identification of unidentified fish sounds\n\nCode: PYTHON_MULTI-SPECIES_FISH\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#explosion-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#explosion-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Explosion Detector",
+    "text": "Explosion Detector\nExplosion detector for data collected on stationary platforms\n\nGithub\n\nCode: MATLAB_ANTHROPOGENIC_FIXED"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pile-driving-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pile-driving-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Pile Driving Detector",
+    "text": "Pile Driving Detector\nDetector for pile driving associated with offshore wind energy development; developed by Xavier Mouy\n\nCode: PYTHON_PILEDRIVING_KURTOSIS\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#ship-detector",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#ship-detector",
+    "title": "Species Analysis Protocols",
+    "section": "Ship Detector",
+    "text": "Ship Detector\nThe Ship Detector Remora is a repository with user-friendly interfaces to detect ship passages and weather events from Long-Term Spectral Averages (LTSAs). This package was initially developed for this Ph.D. thesis and since then has been expanded for the Sound Monitoring Project to support Marine Protected Area management, as well as additional monitoring projects.\n\nWiki (Github)\n\nCode: MATLAB_TRITON_VESSEL_FIXED\n\nSteps for running Alba’s Ship Detector\n\nSteps for running hourly presence only\n\n\nGOM Vessel Detection protocol\nThis protocol outlines the protocol for vessel detection in the GOM. Triton, a software created by SCRIPSS, in Matlab is used for each step in this project (*Note: this protocol is using a container to access matlab). A subset of data was analyzed from SBNMS, Inshore GOM, and offshore GOM."
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pypam-soundscape-software",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pypam-soundscape-software",
+    "title": "Species Analysis Protocols",
+    "section": "PyPAM Soundscape Software",
+    "text": "PyPAM Soundscape Software\nPython program for calculating ambient sound metrics, ran with Python-Based Processing Wrapper developed by MBARI and adapted by Mike Ryan\n\nGithub\n\nCode: PYTHON_SOUNDSCAPE_PYPAM\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#manta-soundscape-software",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#manta-soundscape-software",
+    "title": "Species Analysis Protocols",
+    "section": "MANTA Soundscape Software",
+    "text": "MANTA Soundscape Software\nMaking Ambient Noise Trends Accessible (MANTA; see Miksis-Olds et al. 2021 and Martin et al. 2021a,b) is a standalone software (Version 9.6.14) to produce hybrid millidecade spectra of sound levels from ocean audio recordings\n\nCode: MANTA_SOUNDSCAPE\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#matlab-soundscape-software",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#matlab-soundscape-software",
+    "title": "Species Analysis Protocols",
+    "section": "MATLAB Soundscape Software",
+    "text": "MATLAB Soundscape Software\nCustom Matlab scripts used to calculate ambient sound metrics\n\nCode: MATLAB_SOUNDSCAPE\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguide-soundscape-software",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#pamguide-soundscape-software",
+    "title": "Species Analysis Protocols",
+    "section": "PAMguide Soundscape software",
+    "text": "PAMguide Soundscape software\nSoftware for calculating ambient sound metrics; Matlab and R versions available, see Merchant et al. 2015\n\nCode: PAMGUIDE_SOUNDSCAPE\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#banter-machine-learning-classifier",
+    "href": "content/Analysis/Protocols/Species Analysis protocols (detectors).html#banter-machine-learning-classifier",
+    "title": "Species Analysis Protocols",
+    "section": "BANTER Machine Learning Classifier",
+    "text": "BANTER Machine Learning Classifier\nAcoustic event classifier for biological and anthropogenic sounds developed by Eric Archer\n\nGithub\n\nCode: R_BANTER_ML\n\nLink to analysis protocol page"
+  },
+  {
+    "objectID": "content/Analysis/Protocols/AMP_protocols.html",
+    "href": "content/Analysis/Protocols/AMP_protocols.html",
+    "title": "Australia Marine Park Project",
+    "section": "",
+    "text": "Australia Marine Park Project\n\nAustralia Marine Parks (AMP) Vessel Analysis Protocol\nThe AMP system comprises a network of marine protected areas covering over 3 million km2 of Australian Commonwealth waters (i.e., beyond state waters). Each regional network contains multiple marine parks further divided into IUCN zones with varying levels of protection. National Park Zones (NPZs) prohibits any unauthorized extractive activities including recreational and commercial fishing. NEFSC is assisting Parks Australia in implementing a passive acoustic monitoring (PAM) approach to improve understanding of vessel use within the NPZs (Fig. 1).\n\n\n\nFigure 1: Overview map of all deployments as of 05/2021.\nWe are currently using a hybrid analytical approach which combines an automated detector with manual review of a long-term spectral average (LTSA) to maximize the number of detected vessels. For each vessel detection, we review the finer-scale spectrogram to determine more precise duration and vessel behavior. After the initial selections have been made, we also use a basic transmission loss model to estimate possible source levels and ranges of each vessel in order to determine how many vessels are likely to occur within the NPZ boundaries.\n\nRaven Presets Used in Vessel Analysis\nPage Sound:\n\nPage size: 180 seconds\n\nPage increment: 90 percent\n\nStep increment: 10 percent\n\nFile name template: .&lt;yy&gt;&lt;ll&gt;&lt;dd&gt;&lt;hh&gt;&lt;mm&gt;&lt;ss&gt;\nBrightness: 44\nContrast: 71\nFFT: 4096\n0-10 kHz\nEP D2b 6/13/2019 as example\n\n\n\nAMP Dolphin Protocol\n\n\nAustralian Marine Parks Manual Browsing Protocol",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Australia Marine Park Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Anthro_protocols.html",
+    "href": "content/Analysis/Protocols/Anthro_protocols.html",
+    "title": "Anthropogenic Protocols",
+    "section": "",
+    "text": "Explosion detector for data collected on stationary platforms\n\nGithub\n\nCode: MATLAB_ANTHROPOGENIC_FIXED\n\n\n\n\nDetector for pile driving associated with offshore wind energy development; developed by Xavier Mouy\n\nCode: PYTHON_PILEDRIVING_KURTOSIS\n\nLink to analysis protocol page\n\n\n\n\nThe Ship Detector Remora is a repository with user-friendly interfaces to detect ship passages and weather events from Long-Term Spectral Averages (LTSAs). This package was initially developed for this Ph.D. thesis and since then has been expanded for the Sound Monitoring Project to support Marine Protected Area management, as well as additional monitoring projects.\n\nWiki (Github)\n\nCode: MATLAB_TRITON_VESSEL_FIXED\n\nSteps for running Alba’s Ship Detector\n\nSteps for running hourly presence only\n\n\n\nThis protocol outlines the protocol for vessel detection in the GOM. Triton, a software created by SCRIPSS, in Matlab is used for each step in this project (*Note: this protocol is using a container to access matlab). A subset of data was analyzed from SBNMS, Inshore GOM, and offshore GOM.",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Anthropogenic Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Anthro_protocols.html#explosion-detector",
+    "href": "content/Analysis/Protocols/Anthro_protocols.html#explosion-detector",
+    "title": "Anthropogenic Protocols",
+    "section": "",
+    "text": "Explosion detector for data collected on stationary platforms\n\nGithub\n\nCode: MATLAB_ANTHROPOGENIC_FIXED",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Anthropogenic Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Anthro_protocols.html#pile-driving-detector",
+    "href": "content/Analysis/Protocols/Anthro_protocols.html#pile-driving-detector",
+    "title": "Anthropogenic Protocols",
+    "section": "",
+    "text": "Detector for pile driving associated with offshore wind energy development; developed by Xavier Mouy\n\nCode: PYTHON_PILEDRIVING_KURTOSIS\n\nLink to analysis protocol page",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Anthropogenic Protocols"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Anthro_protocols.html#ship-detector",
+    "href": "content/Analysis/Protocols/Anthro_protocols.html#ship-detector",
+    "title": "Anthropogenic Protocols",
+    "section": "",
+    "text": "The Ship Detector Remora is a repository with user-friendly interfaces to detect ship passages and weather events from Long-Term Spectral Averages (LTSAs). This package was initially developed for this Ph.D. thesis and since then has been expanded for the Sound Monitoring Project to support Marine Protected Area management, as well as additional monitoring projects.\n\nWiki (Github)\n\nCode: MATLAB_TRITON_VESSEL_FIXED\n\nSteps for running Alba’s Ship Detector\n\nSteps for running hourly presence only\n\n\n\nThis protocol outlines the protocol for vessel detection in the GOM. Triton, a software created by SCRIPSS, in Matlab is used for each step in this project (*Note: this protocol is using a container to access matlab). A subset of data was analyzed from SBNMS, Inshore GOM, and offshore GOM.",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Anthropogenic Protocols"
     ]
   },
   {
