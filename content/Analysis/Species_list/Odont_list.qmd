@@ -34,7 +34,7 @@ Call types:
   * Sperm whale echolocation click  
   * Code: SPUSC
 
-![](/figs/Spec_images/Odont/Sperm_whale_spec.PNG)\
+![](/figs/Spec_images/Odont/Sperm_whale_spec.png)\
 Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)
 
 
