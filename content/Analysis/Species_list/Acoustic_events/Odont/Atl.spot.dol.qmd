@@ -2,9 +2,9 @@
 
 **General Info:**
 
-* There is well documented geographic variation in vocalizations, but vocalizations recorded near the Azores are generally similar to those in the offshore Western Atlantic (Gannier et al, 2020\)  
-* Whistles are generally lower in fq and shorter in duration than common dolphin (Gannier et al, 2020\)  
-* Whistles often have a high number of inflection points (Azevedo et al, 2010\)  
+* There is well documented geographic variation in vocalizations, but vocalizations recorded near the Azores are generally similar to those in the offshore Western Atlantic (Gannier et al, 2020)  
+* Whistles are generally lower in fq and shorter in duration than common dolphin (Gannier et al, 2020)  
+* Whistles often have a high number of inflection points (Azevedo et al, 2010)  
 * Can be hard to tell apart from bottlenose dolphins
 
 Clicks:
