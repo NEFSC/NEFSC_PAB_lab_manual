@@ -75,6 +75,8 @@ website:
             contents:
               - href: content/Analysis/Species_list/Myst_list.qmd
                 text: Mysticete Specie List
+              - href: content/Analysis/Species_list/Odont_list.qmd
+                text: Odontocete Specie List
           - href: content/Analysis/Species_analysis_protocols.qmd
             text: Analysis protocols
             contents:

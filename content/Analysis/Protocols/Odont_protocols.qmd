@@ -21,6 +21,15 @@ Beaked whale detector developed at Fisheries and Oceans Canada; written by Wilfr
 * Code: MATLAB\_BEAKED\_FIXED  
 * Link to analysis protocol page
 
+## Banter for Beaked Whales
+Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses.
+
+Rankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I., ... & Trickey, J. S. (2024). Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics, 80, 102511.\
+
+* Code: R_BANTER_ML (double check this)
+* Research [compendium](https://doi.org/10.1016/j.ecoinf.2024.102511)
+* [Github](https://github.com/shannonrankin/BANTER_BeakedWhales)
+
 ## Alba Convolutional Neural Network Detector
 
 Beaked whale CNN detector written by [Alba Solsona Berga](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304744) 
