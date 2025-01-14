@@ -1,11 +1,11 @@
 ## Narrow band high frequency acoustic event guide
 
 ### K. Sima
-![**Representative Kogia sima clicks from both recording environments.** (A,D) Spectrum, (B,E) spectrogram, and (C,F) source level (SL) of waveform of representative K. sima click from deep water (Bahamas, left) and shallow harbour (Cape Town, South Africa, right) recordings (sampling at 576 kHz, FFT size of 2048 for a frequency resolution of 281 Hz). An average normalized spectrum of 65 on-axis harbour porpoise (Phocoena phocoena) clicks (from Macaulay et al., 2020, courtesy of J. Macaulay) is superimposed on A and D. (Malinka et. al, 2021)](/content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band_figs/K.Sima.Malinka.PNG){width=70%}
+![**Representative Kogia sima clicks from both recording environments.** (A,D) Spectrum, (B,E) spectrogram, and (C,F) source level (SL) of waveform of representative K. sima click from deep water (Bahamas, left) and shallow harbour (Cape Town, South Africa, right) recordings (sampling at 576 kHz, FFT size of 2048 for a frequency resolution of 281 Hz). An average normalized spectrum of 65 on-axis harbour porpoise (Phocoena phocoena) clicks (from Macaulay et al., 2020, courtesy of J. Macaulay) is superimposed on A and D. (Malinka et. al, 2021)](/content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band_figs/K.Sima.Malinka.png){width=70%}
 
 \ 
 \
 \
 \
 
-![**Spectra of K. sima clicks.** Clicks are shown from array recordings in the Bahamas (A,C) and single-channel recordings from Cape Town harbour, South Africa (B,D), separated into on-axis (A,B) and off-axis (C,D) clicks. Average spectra are shown as a black line for on-axis clicks.](/content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band_figs/K.Sima.Spectra.Malinka.PNG)
+![**Spectra of K. sima clicks.** Clicks are shown from array recordings in the Bahamas (A,C) and single-channel recordings from Cape Town harbour, South Africa (B,D), separated into on-axis (A,B) and off-axis (C,D) clicks. Average spectra are shown as a black line for on-axis clicks.](/content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band_figs/K.Sima.Spectra.Malinka.png)

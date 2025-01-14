@@ -69,14 +69,14 @@ Call types across dolphin groups:
 Scientific name: *Turiops truncatus*  
 Code: BODO
 
-![](/figs/Spec_images/Odont/bottlenose_dol_spec.PNG){width=60%}
+![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=60%}
 
 #### **Short beaked Common dolphin**
 
 Scientific name: *Delphinus delphis*  
 Code: SADO
 
-![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.PNG){width=60%}
+![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=60%}
 
 
 ### *30-50 kHz peak*
@@ -87,33 +87,33 @@ Code: SADO
 
 Scientific name: *Grampus griseus*  
 Code: GRAM  
-![](/figs/Spec_images/Odont/Rissos_dol_spec.PNG){width=60%}
+![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=60%}
 
 #### **Atlantic spotted dolphin**
 
 Scientific name: *Stenella frontalis*  
 Code: WSDO  
-![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.PNG){width=60%}
+![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=60%}
 
 #### [**Striped dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.qmd)
 
 Scientific name: *Stenella coeruleoalba*  
 Code: STDO  
-![](/figs/Spec_images/Odont/striped_dol_spec.PNG){width=60%}
+![](/figs/Spec_images/Odont/striped_dol_spec.png){width=60%}
 
 #### **Spinner dolphin**
 
 Scientific name: *Stenella longirostris*  
 Code: SNDO  
-![](/figs/Spec_images/Odont/Spinner_dol_spec.PNG){width=60%}
+![](/figs/Spec_images/Odont/Spinner_dol_spec.png){width=60%}
 
 ### *Blackfish*
 
 Along with belugas and narwhales, blackfish can biphonate \- produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.
 
-![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.JPG){width=80%}
+![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=80%}
 \
-![](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.PNG){width=70%}\
+![](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.png){width=70%}\
 *Spectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).*
 
 
@@ -121,14 +121,14 @@ Along with belugas and narwhales, blackfish can biphonate \- produce multiple fr
 
 Scientific name: *Pseudorca crassidens*  
 Code: FKWH  
-![](/figs/Spec_images/Odont/False_killerwhale_spec.PNG){width=80%}
+![](/figs/Spec_images/Odont/False_killerwhale_spec.png){width=80%}
 
 #### **Short finned pilot whale**
 
 Scientific name: *Globicephala macrorhynchus*  
 Code: SFPW
 
-![](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.PNG){width=60%} \ 
+![](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=60%} \ 
 \
 *Globicephala spp.*
 
@@ -202,7 +202,7 @@ Call types across high-band frequency group:
   * Narrow band high frequency clicks used by kogia and porpoises   
   * Code: NBHF
 
-![](/figs/Spec_images/Odont/Odont_diagrams/Porpoise_kogiidae_range.PNG) \
+![](/figs/Spec_images/Odont/Odont_diagrams/Porpoise_kogiidae_range.png) \
 *DeAngelis, A. 2023*
 
 
@@ -226,7 +226,7 @@ Code: PSWH
 Scientific name: *Kogia sima*  
 Code: DSWH
 \
-![](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.PNG){width=45%}
+![](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=45%}
 \
 *Malinka et al. 2021*
 
