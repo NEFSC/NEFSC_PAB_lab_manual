@@ -1,0 +1,45 @@
+# Atlantic Spotted dolphin (*Stenella frontalis*)
+
+**General Info:**
+
+* There is well documented geographic variation in vocalizations, but vocalizations recorded near the Azores are generally similar to those in the offshore Western Atlantic (Gannier et al, 2020\)  
+* Whistles are generally lower in fq and shorter in duration than common dolphin (Gannier et al, 2020\)  
+* Whistles often have a high number of inflection points (Azevedo et al, 2010\)  
+* Can be hard to tell apart from bottlenose dolphins
+
+Clicks:
+
+* ICI:   
+  * Weak modal ICI, possibly due to overlapping click trains (Frasier et al, 2017)  
+  * 0.075 sec (Frasier et al, 2017)  
+* Whistles:  
+  * Harmonics often present (Gannier et al, 2020)  
+  * Groups over the continental shelf are significantly different than those from offshore waters, with lower fq, shorter durations, fewer inflection points, and a greater number of steps (Baron et al, 2008)  
+* Frequency:  
+  * Avg minimal fq 7.3 kHz (Gannier et al, 2020)  
+  * Avg maximal fq \> 16kHz (Gannier et al, 2020)  
+  * Range 7-16 kHz (Azevedo et al, 2010)  
+* Duration:  
+  * Avg 0.65 (Gannier et al, 2020)  
+  * Range 0.08-2.07 (Azevedo et al, 2010)  
+* Waveform:  
+  * Generally up swept, although up and down sweep modes are possible (Gannier et al, 2020)
+
+**Acoustic events from literature:**\
+
+![](/content/Analysis/Species_list/Acoustic_events/Odont/Atlantic_spot_figs/Gannier.2020.png)\
+
+*(Gannier et al, 2020)*
+
+![](/content/Analysis/Species_list/Acoustic_events/Odont/Atlantic_spot_figs/Azevedo.2010.png){width=70%}\
+*(Azevedo et al, 2010)* 
+
+
+![](/content/Analysis/Species_list/Acoustic_events/Odont/Atlantic_spot_figs/Frasier.2017.png)\
+*(Frasier et al, 2017)*
+
+**Sources:**
+
+1. A. F. Azevedo, L. Flach, T. L. Bisi, L. G. Andrade, P. R. Dorneles and J. Lailson-Brito, The Journal of the Acoustical Society of America **127** (4), 2646-2451 (2010).  
+2. K. E. Frasier, M. A. Roch, M. S. Soldevilla, S. M. Wiggins, L. P. Garrison and J. A. Hildebrand, PLoS Computational Biology **13** (12), e1005823 (2017).  
+3. S. C. Baron, A. Martinez, L. P. Garrison and E. O. Keith, Marine Mammal Science **24** (1), 42-56 (2008).

@@ -89,7 +89,7 @@ Scientific name: *Grampus griseus*
 Code: GRAM  
 ![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=60%}
 
-#### **Atlantic spotted dolphin**
+#### [**Atlantic spotted dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Atl.spot.dol.qmd)
 
 Scientific name: *Stenella frontalis*  
 Code: WSDO  
