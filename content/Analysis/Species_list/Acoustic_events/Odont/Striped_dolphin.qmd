@@ -1,0 +1,30 @@
+# Striped dolphin (*Stenella coeruleoalba*)
+
+General information:
+
+* Gregarious with pods varying in size from a few to over 1000 individuals, avg school size of 100-500 individuals (Papale et al, 2012\)   
+* Historically difficult to classify (most difficult in Oswald et al, 2003)1  
+* Can resemble common dolphin, spotted dolphin, and bottlenose dolphin  
+* Two categories of vocalization: tonal whistles, pulsed sounds (which are normally characterized by short, broadband clicks)
+
+Whistles:
+
+* Frequency  
+  * Azores, max fq range 7.6-30.7 kHz, mean 17.1 kHz, strd dev 3.5 kHz (Papale et al, 2012)  
+  * Azores, min fq range 1.1-13.5 kHz, mean 7.8 kHz, std dev 1.7 kHz (Papale et al, 2012)  
+  * Azores, fq range 598 Hz – 23.6 kHz, mean 9.2 kHz, std dev 3.5 kHz (Papale et al, 2012)
+
+* Duration  
+  * Azores, range 0.15-2.23, mean 0.95, std dev 0.33 (Papale et al, 2012)
+
+* Waveform  
+  * Avg of 1 inflection point, but can be up to 11 (Papale et al, 2012)
+
+Acoustic events from literature:  
+
+![](/content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin_figs/Oswald.2003.png) \
+*(Papale et al, 2012)*
+
+Sources:
+
+1.  J. N. Oswald, J. Barlow and T. F. Norris, Marine Mammal Science **19** (1), 20-37 (2003).
