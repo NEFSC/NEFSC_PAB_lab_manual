@@ -1,8 +1,8 @@
 # Striped dolphin (*Stenella coeruleoalba*)
 
-General information:
+**General information:**
 
-* Gregarious with pods varying in size from a few to over 1000 individuals, avg school size of 100-500 individuals (Papale et al, 2012\)   
+* Gregarious with pods varying in size from a few to over 1000 individuals, avg school size of 100-500 individuals (Papale et al, 2012)   
 * Historically difficult to classify (most difficult in Oswald et al, 2003)1  
 * Can resemble common dolphin, spotted dolphin, and bottlenose dolphin  
 * Two categories of vocalization: tonal whistles, pulsed sounds (which are normally characterized by short, broadband clicks)
@@ -20,11 +20,11 @@ Whistles:
 * Waveform  
   * Avg of 1 inflection point, but can be up to 11 (Papale et al, 2012)
 
-Acoustic events from literature:  
+**Acoustic events from literature:**  
 
 ![](/content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin_figs/Oswald.2003.png) \
 *(Papale et al, 2012)*
 
-Sources:
+**Sources:**
 
 1.  J. N. Oswald, J. Barlow and T. F. Norris, Marine Mammal Science **19** (1), 20-37 (2003).
