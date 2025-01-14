@@ -66,6 +66,13 @@
     "text": "Representative Kogia sima clicks from both recording environments. (A,D) Spectrum, (B,E) spectrogram, and (C,F) source level (SL) of waveform of representative K. sima click from deep water (Bahamas, left) and shallow harbour (Cape Town, South Africa, right) recordings (sampling at 576 kHz, FFT size of 2048 for a frequency resolution of 281 Hz). An average normalized spectrum of 65 on-axis harbour porpoise (Phocoena phocoena) clicks (from Macaulay et al., 2020, courtesy of J. Macaulay) is superimposed on A and D. (Malinka et. al, 2021)\n\n\n \n\n\n\n\n\n\nSpectra of K. sima clicks. Clicks are shown from array recordings in the Bahamas (A,C) and single-channel recordings from Cape Town harbour, South Africa (B,D), separated into on-axis (A,B) and off-axis (C,D) clicks. Average spectra are shown as a black line for on-axis clicks."
   },
   {
+    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.html",
+    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.html",
+    "title": "Striped dolphin (Stenella coeruleoalba)",
+    "section": "",
+    "text": "Striped dolphin (Stenella coeruleoalba)\nGeneral information:\n\nGregarious with pods varying in size from a few to over 1000 individuals, avg school size of 100-500 individuals (Papale et al, 2012)\n\nHistorically difficult to classify (most difficult in Oswald et al, 2003)1\n\nCan resemble common dolphin, spotted dolphin, and bottlenose dolphin\n\nTwo categories of vocalization: tonal whistles, pulsed sounds (which are normally characterized by short, broadband clicks)\n\nWhistles:\n\nFrequency\n\nAzores, max fq range 7.6-30.7 kHz, mean 17.1 kHz, strd dev 3.5 kHz (Papale et al, 2012)\n\nAzores, min fq range 1.1-13.5 kHz, mean 7.8 kHz, std dev 1.7 kHz (Papale et al, 2012)\n\nAzores, fq range 598 Hz – 23.6 kHz, mean 9.2 kHz, std dev 3.5 kHz (Papale et al, 2012)\n\nDuration\n\nAzores, range 0.15-2.23, mean 0.95, std dev 0.33 (Papale et al, 2012)\n\nWaveform\n\nAvg of 1 inflection point, but can be up to 11 (Papale et al, 2012)\n\n\nAcoustic events from literature:\n\n(Papale et al, 2012)\nSources:\n\nJ. N. Oswald, J. Barlow and T. F. Norris, Marine Mammal Science 19 (1), 20-37 (2003)."
+  },
+  {
     "objectID": "content/Analysis/Species_list/Species list and call types V.2.html",
     "href": "content/Analysis/Species_list/Species list and call types V.2.html",
     "title": "Species and call types",
@@ -1050,6 +1057,13 @@
     "title": "NOAA quarto simple",
     "section": "Sources",
     "text": "Sources\nCholewiak Danielle, DeAngelis Annamaria I., Palka Debra, Corkeron Peter J. and Van Parijs Sofie M. 2017. Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders.R. Soc. Open Sci. 4:170940 http://doi.org/10.1098/rsos.170940"
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Striped dolphin.html",
+    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Striped dolphin.html",
+    "title": "Striped dolphin (Stenella coeruleoalba)",
+    "section": "",
+    "text": "Striped dolphin (Stenella coeruleoalba)\nGeneral information:\n\nGregarious with pods varying in size from a few to over 1000 individuals, avg school size of 100-500 individuals (Papale et al, 2012)\n\nHistorically difficult to classify (most difficult in Oswald et al, 2003)1\n\nCan resemble common dolphin, spotted dolphin, and bottlenose dolphin\n\nTwo categories of vocalization: tonal whistles, pulsed sounds (which are normally characterized by short, broadband clicks)\n\nWhistles:\n\nFrequency\n\nAzores, max fq range 7.6-30.7 kHz, mean 17.1 kHz, strd dev 3.5 kHz (Papale et al, 2012)\n\nAzores, min fq range 1.1-13.5 kHz, mean 7.8 kHz, std dev 1.7 kHz (Papale et al, 2012)\n\nAzores, fq range 598 Hz – 23.6 kHz, mean 9.2 kHz, std dev 3.5 kHz (Papale et al, 2012)\n\nDuration\n\nAzores, range 0.15-2.23, mean 0.95, std dev 0.33 (Papale et al, 2012)\n\nWaveform\n\nAvg of 1 inflection point, but can be up to 11 (Papale et al, 2012)\n\n\nAcoustic events from literature:\n(Papale et al, 2012)\n\nSources:\n\nJ. N. Oswald, J. Barlow and T. F. Norris, Marine Mammal Science 19 (1), 20-37 (2003)."
   },
   {
     "objectID": "content/Analysis/Species_list/Acoustic_events/Myst/Minke/Minke_event.html",
