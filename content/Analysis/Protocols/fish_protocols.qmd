@@ -8,7 +8,7 @@ Cod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis
 * [NEFSC OFFSHORE Cod Detector Protocol](https://docs.google.com/document/d/1o7xmtpkIwlmSO9F4sD0QsNVhGFN3Yh_1/edit#heading=h.gjdgxs)  
 * Gateway Cod Detector Protocol: \\\\nefscdata\\PassiveAcoustics\\PAB\_ANALYSIS\_TRAINING\\SOUND\_ECOLOGY\\NEFSC\_Fish\_Analysis Training\\Cod
 
-![](/figs/Software_detectors/ISRAT_COD.PNG){width=40%}\
+![](/figs/Software_detectors/ISRAT_cod.PNG){width=40%}\
 *Cod validation through ISRAT detector*
 
 ## Haddock Convolutional Neural Network Detector
