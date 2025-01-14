@@ -192,7 +192,7 @@ Code: BWG
 Scientific name: Mesoplodon mirus/europaeus  
 Code: MMME
 
-## **Narrow high-band frequency**
+## [**Narrow high-band frequency**](/content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band.qmd)
 
 Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes. 
 
