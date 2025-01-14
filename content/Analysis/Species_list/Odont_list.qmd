@@ -95,7 +95,7 @@ Scientific name: *Stenella frontalis*
 Code: WSDO  
 ![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.PNG){width=60%}
 
-#### **Striped dolphin**
+#### [**Striped dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.qmd)
 
 Scientific name: *Stenella coeruleoalba*  
 Code: STDO  
