@@ -64,7 +64,7 @@ Call types across dolphin groups:
 
 ![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=80%}
 
-#### **Bottlenose dolphin**
+#### [**Bottlenose dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Bottlenose.qmd)
 
 Scientific name: *Turiops truncatus*  
 Code: BODO
