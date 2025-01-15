@@ -31,7 +31,7 @@ Clicks:
 
 *(Gannier et al, 2020)*
 
-![](/content/Analysis/Species_list/Acoustic_events/Odont/Atlantic_spot_figs/Azevedo.2010.png){width=70%}\
+![](/content/Analysis/Species_list/Acoustic_events/Odont/Atlantic_spot_figs/Azevedo.2010.PNG){width=70%}\
 *(Azevedo et al, 2010)* 
 
 
