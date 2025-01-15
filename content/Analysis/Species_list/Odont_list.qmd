@@ -87,25 +87,25 @@ Code: SADO
 
 Scientific name: *Grampus griseus*  
 Code: GRAM  
-![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=60%}
+![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=50%}
 
 #### [**Atlantic spotted dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Atl.spot.dol.qmd)
 
 Scientific name: *Stenella frontalis*  
 Code: WSDO  
-![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=60%}
+![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=50%}
 
 #### [**Striped dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.qmd)
 
 Scientific name: *Stenella coeruleoalba*  
 Code: STDO  
-![](/figs/Spec_images/Odont/striped_dol_spec.png){width=60%}
+![](/figs/Spec_images/Odont/striped_dol_spec.png){width=50%}
 
 #### **Spinner dolphin**
 
 Scientific name: *Stenella longirostris*  
 Code: SNDO  
-![](/figs/Spec_images/Odont/Spinner_dol_spec.png){width=60%}
+![](/figs/Spec_images/Odont/Spinner_dol_spec.png){width=50%}
 
 ### *Blackfish*
 
@@ -121,14 +121,14 @@ Along with belugas and narwhales, blackfish can biphonate \- produce multiple fr
 
 Scientific name: *Pseudorca crassidens*  
 Code: FKWH  
-![](/figs/Spec_images/Odont/False_killerwhale_spec.png){width=80%}
+![](/figs/Spec_images/Odont/False_killerwhale_spec.png){width=60%}
 
 #### **Short finned pilot whale**
 
 Scientific name: *Globicephala macrorhynchus*  
 Code: SFPW
 
-![](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=60%} \ 
+![](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=50%} \ 
 \
 *Globicephala spp.*
 
