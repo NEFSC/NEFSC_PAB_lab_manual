@@ -39,4 +39,4 @@ The Passive Acoustic Branch (PAB) is part of the Protected Species Division of t
 
 -   [NEFSC: Northeast Fisheries](https://nefsc.github.io/NEFSC_PAB_lab_manual/)
 
--   [National PAM Network](https://nmfs-ost.github.io/PAM_National_NMFS_Network/)
+-   [National PAM Network](https://github.com/nmfs-ost/PAM_National_Network)
