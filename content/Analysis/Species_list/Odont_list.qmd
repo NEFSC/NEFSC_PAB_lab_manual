@@ -4,7 +4,7 @@ In this section, we organize our odontocete species list by Sperm whale, Delphin
 
 ![](/figs/Spec_images/Odont/Odont_diagrams/click-spectra.png)
 
-## **Sperm whales**
+## [**Sperm whales**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)
 
 This section covers all sperm whale calls analyzed by NEFSC passive acoustics branch. A list of sperm whale call types and spectrogram examples are included below.
 
@@ -64,14 +64,14 @@ Call types across dolphin groups:
 
 ![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=80%}
 
-#### **Bottlenose dolphin**
+#### [**Bottlenose dolphin**](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)
 
 Scientific name: *Turiops truncatus*  
 Code: BODO
 
 ![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=60%}
 
-#### **Short beaked Common dolphin**
+#### [**Short beaked Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)
 
 Scientific name: *Delphinus delphis*  
 Code: SADO
@@ -83,25 +83,25 @@ Code: SADO
 
 ![](/figs/Spec_images/Odont/spectra/Dolphin.30-50peak.spectra.jpg){width=80%}
 
-#### **Rissos dolphin**
+#### [**Rissos dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
 
 Scientific name: *Grampus griseus*  
 Code: GRAM  
 ![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=50%}
 
-#### [**Atlantic spotted dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Atl.spot.dol.qmd)
+#### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)
 
 Scientific name: *Stenella frontalis*  
 Code: WSDO  
 ![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=50%}
 
-#### [**Striped dolphin**](/content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.qmd)
+#### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)
 
 Scientific name: *Stenella coeruleoalba*  
 Code: STDO  
 ![](/figs/Spec_images/Odont/striped_dol_spec.png){width=50%}
 
-#### **Spinner dolphin**
+#### [**Spinner dolphin**](https://docs.google.com/document/d/1RvUttA4WqTZM3nuMlP_rKHTHrhF6OBzTm82CQa-txPM/edit?usp=drive_link)
 
 Scientific name: *Stenella longirostris*  
 Code: SNDO  
@@ -117,13 +117,13 @@ Along with belugas and narwhales, blackfish can biphonate \- produce multiple fr
 *Spectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).*
 
 
-#### **False killer whale**
+#### [**False killer whale**](https://docs.google.com/document/d/1SvsAjWpphojcxKE-nIDTVTrLTaqXXs4nmGHHGs8vPEk/edit?usp=drive_link)
 
 Scientific name: *Pseudorca crassidens*  
 Code: FKWH  
 ![](/figs/Spec_images/Odont/False_killerwhale_spec.png){width=60%}
 
-#### **Short finned pilot whale**
+#### [**Short finned pilot whale**](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)
 
 Scientific name: *Globicephala macrorhynchus*  
 Code: SFPW
@@ -132,7 +132,7 @@ Code: SFPW
 \
 *Globicephala spp.*
 
-## [**Beaked Whales**](/content/Analysis/Species_list/Acoustic_events/Odont/Beaked.qmd)
+## [**Beaked Whales**](https://docs.google.com/document/d/1jmSdKaUpwv5Lui58kiEnyna--rEQR0AN_8fVNjgjkT0/edit?usp=sharing)
 
 Beaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale). 
 
@@ -192,7 +192,7 @@ Code: BWG
 Scientific name: Mesoplodon mirus/europaeus  
 Code: MMME
 
-## [**Narrow high-band frequency**](/content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band.qmd)
+## [**Narrow high-band frequency**](https://docs.google.com/document/d/124WmWnsxrP85FrrXy_8I6S6AeiMItUEidPjaVZL94h0/edit?usp=sharing)
 
 Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes. 
 
