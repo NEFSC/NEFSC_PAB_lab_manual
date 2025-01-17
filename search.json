@@ -48,53 +48,11 @@
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band.html",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band.html",
-    "title": "NOAA quarto simple",
+    "objectID": "content/Analysis/Analysis.html",
+    "href": "content/Analysis/Analysis.html",
+    "title": "Analysis",
     "section": "",
-    "text": "Representative Kogia sima clicks from both recording environments. (A,D) Spectrum, (B,E) spectrogram, and (C,F) source level (SL) of waveform of representative K. sima click from deep water (Bahamas, left) and shallow harbour (Cape Town, South Africa, right) recordings (sampling at 576 kHz, FFT size of 2048 for a frequency resolution of 281 Hz). An average normalized spectrum of 65 on-axis harbour porpoise (Phocoena phocoena) clicks (from Macaulay et al., 2020, courtesy of J. Macaulay) is superimposed on A and D. (Malinka et. al, 2021)\n\n\n \n\n\n\n\n\n\nSpectra of K. sima clicks. Clicks are shown from array recordings in the Bahamas (A,C) and single-channel recordings from Cape Town harbour, South Africa (B,D), separated into on-axis (A,B) and off-axis (C,D) clicks. Average spectra are shown as a black line for on-axis clicks."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band.html#narrow-band-high-frequency-acoustic-event-guide",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Narrow_band.html#narrow-band-high-frequency-acoustic-event-guide",
-    "title": "NOAA quarto simple",
-    "section": "",
-    "text": "Representative Kogia sima clicks from both recording environments. (A,D) Spectrum, (B,E) spectrogram, and (C,F) source level (SL) of waveform of representative K. sima click from deep water (Bahamas, left) and shallow harbour (Cape Town, South Africa, right) recordings (sampling at 576 kHz, FFT size of 2048 for a frequency resolution of 281 Hz). An average normalized spectrum of 65 on-axis harbour porpoise (Phocoena phocoena) clicks (from Macaulay et al., 2020, courtesy of J. Macaulay) is superimposed on A and D. (Malinka et. al, 2021)\n\n\n \n\n\n\n\n\n\nSpectra of K. sima clicks. Clicks are shown from array recordings in the Bahamas (A,C) and single-channel recordings from Cape Town harbour, South Africa (B,D), separated into on-axis (A,B) and off-axis (C,D) clicks. Average spectra are shown as a black line for on-axis clicks."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Bottlenose.html",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Bottlenose.html",
-    "title": "Bottlenose Dolphin (Turiops truncatus)",
-    "section": "",
-    "text": "Bottlenose Dolphin (Turiops truncatus)\nGeneral information:\n\nLots of sinusoidal whistles\n\nCan be difficult to distinguish from Atlantic spotted dolphins\n\nBottlenose dolphins use signature whistles (although this is not unique to the species)\n\nPredominant whistle contours remain stable over long periods of time, 17 years (Harley, 2007)\n\n\nDocumented geographic variation, namely when comparing the Gulf of Mexico and western Atlantic (Baron et al, 2008)\n\nWhistles:\n\nFrequency\n\nAvg min 7.33, max 16.24, range 8.91 kHz in western north Atlantic\n\n(Portugal data) Average fqs in kHz (dos Santos et al, 2005)\n\nInitial 5.8\n\nFinal 12.1\n\nMax 15\n\nMin 5.4\n\nPeak 9.2\n\n\n\nDuration\n\nAverage duration of 1.3 in western north Atlantic (Steiner, 1981)\n\n(Portugal data) 859 ms with min/max of 257-4130ms (dos Santos et al, 2005)\n\n\nWaveform\n\nCan have a range of inflection points, but Steiner (1981) recorded an average of 2.86\n\n\nAcoustic events from literature\n \n(Oswald et al, 2007)\n\n\n(Branstetter et al, 2012)\n\n\n(Branstetter et al, 2012)\nSources:\n\nS. C. Baron, A. Martinez, L. P. Garrison and E. O. Keith, Marine Mammal Science 24 (1), 42-56 (2008).\n\nW. W. Steiner, Behavioral Ecology and Sociobiology 9 (4), 241-246 (1981).\n\nM. E. dos Santos, S. Louro, M. Couchinho and C. Brito, Aquatic Mammals 31 (4), 453-462 (2005).\n\nJ. N. Oswald, S. Rankin, J. Barlow and M. O. Lammers, The Journal of the Acoustical Society of America 122 (1), 587-595 (2007)."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Beaked.html",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Beaked.html",
-    "title": "NOAA quarto simple",
-    "section": "",
-    "text": "Example beaked whale clicks extracted from the 2013 towed hydrophone array data, showing the waveform (top) and Wigner–Ville spectrogram (bottom). The click on the left is from a Cuvier’s beaked whale (Z. cavirostris), the click on the right is from either a Gervais’ or True’s beaked whale (M. europaeus or M. mirus) (Cholewiak et al. 2017)."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Beaked.html#beaked-whale-acoustic-event-guide",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Beaked.html#beaked-whale-acoustic-event-guide",
-    "title": "NOAA quarto simple",
-    "section": "",
-    "text": "Example beaked whale clicks extracted from the 2013 towed hydrophone array data, showing the waveform (top) and Wigner–Ville spectrogram (bottom). The click on the left is from a Cuvier’s beaked whale (Z. cavirostris), the click on the right is from either a Gervais’ or True’s beaked whale (M. europaeus or M. mirus) (Cholewiak et al. 2017)."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Beaked.html#sources",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Beaked.html#sources",
-    "title": "NOAA quarto simple",
-    "section": "Sources",
-    "text": "Sources\nCholewiak Danielle, DeAngelis Annamaria I., Palka Debra, Corkeron Peter J. and Van Parijs Sofie M. 2017. Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders.R. Soc. Open Sci. 4:170940 http://doi.org/10.1098/rsos.170940"
-  },
-  {
-    "objectID": "content/Analysis/Analysis.html#analysis",
-    "href": "content/Analysis/Analysis.html#analysis",
-    "title": "NOAA quarto simple",
-    "section": "Analysis",
-    "text": "Analysis\nUnder Construction",
+    "text": "Analysis\n\n\nSpecies list\nOur list of PAB’s study species is organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\n\nAnalysis protocols\nOur lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page.",
     "crumbs": [
       "Analysis"
     ]
@@ -108,7 +66,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Anthropogenic Protocols"
+      "Anthropogenic"
     ]
   },
   {
@@ -120,7 +78,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Anthropogenic Protocols"
+      "Anthropogenic"
     ]
   },
   {
@@ -132,7 +90,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Anthropogenic Protocols"
+      "Anthropogenic"
     ]
   },
   {
@@ -144,7 +102,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Anthropogenic Protocols"
+      "Anthropogenic"
     ]
   },
   {
@@ -156,7 +114,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Australia Marine Park Protocols"
+      "Australia Marine Park"
     ]
   },
   {
@@ -801,7 +759,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Fish Protocols"
+      "Fish"
     ]
   },
   {
@@ -813,7 +771,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Fish Protocols"
+      "Fish"
     ]
   },
   {
@@ -825,7 +783,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Fish Protocols"
+      "Fish"
     ]
   },
   {
@@ -837,7 +795,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Fish Protocols"
+      "Fish"
     ]
   },
   {
@@ -849,7 +807,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Fish Protocols"
+      "Fish"
     ]
   },
   {
@@ -861,7 +819,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Mysticete Protocols"
+      "Mysticete"
     ]
   },
   {
@@ -873,7 +831,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Mysticete Protocols"
+      "Mysticete"
     ]
   },
   {
@@ -885,7 +843,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Mysticete Protocols"
+      "Mysticete"
     ]
   },
   {
@@ -897,7 +855,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Mysticete Protocols"
+      "Mysticete"
     ]
   },
   {
@@ -909,7 +867,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Mysticete Protocols"
+      "Mysticete"
     ]
   },
   {
@@ -921,7 +879,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -933,7 +891,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -945,7 +903,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -957,7 +915,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -969,7 +927,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -981,7 +939,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -993,7 +951,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -1005,7 +963,7 @@
     "crumbs": [
       "Analysis",
       "Analysis protocols",
-      "Odontocete Protocols"
+      "Odontocete"
     ]
   },
   {
@@ -1056,27 +1014,6 @@
     "title": "Species and call types",
     "section": "Sources",
     "text": "Sources\nPace, D. S., Lanfredi, C., Airoldi, S., Giacomini, G., Silvestri, M., Pavan, G., & Ardizzone, D. (2021). Trumpet sounds emitted by male sperm whales in the Mediterranean Sea. Scientific Reports, 11(1), 1-16.\nCholewiak, D., DeAngelis, A. I., Palka, D., Corkeron, P. J., & Van Parijs, S. M. (2017). Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders. Royal Society open science, 4(12), 170940.\nMalinka, C. E., Tønnesen, P., Dunn, C. A., Claridge, D. E., Gridley, T., Elwen, S. H., & Teglberg Madsen, P. (2021). Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). Journal of Experimental Biology, 224(6), jeb240689.\nMadsen, P., Wahlberg, M., & Møhl, B. (2002). Male sperm whale (Physeter macrocephalus) acoustics in a high-latitude habitat: implications for echolocation and communication. Behavioral Ecology and Sociobiology, 53, 31-41.\nNemiroff, L. (2009). Structural Variation and Communicative Functions of Long-finned Pilot Whale (Globicephala Melas) Pulsed Calls and Complex Whistles.\nDeAngelis AI, Stanistreet JE, Baumann-Pickering S, Cholewiak DM (2018). A description of echolocation clicks recorded in the presence of True’s beaked whale (Mesoplodon mirus). J Acoust Soc Am. 144(5), 2691"
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.html",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Striped_dolphin.html",
-    "title": "Striped dolphin (Stenella coeruleoalba)",
-    "section": "",
-    "text": "Striped dolphin (Stenella coeruleoalba)\nGeneral information:\n\nGregarious with pods varying in size from a few to over 1000 individuals, avg school size of 100-500 individuals (Papale et al, 2012)\n\nHistorically difficult to classify (most difficult in Oswald et al, 2003)1\n\nCan resemble common dolphin, spotted dolphin, and bottlenose dolphin\n\nTwo categories of vocalization: tonal whistles, pulsed sounds (which are normally characterized by short, broadband clicks)\n\nWhistles:\n\nFrequency\n\nAzores, max fq range 7.6-30.7 kHz, mean 17.1 kHz, strd dev 3.5 kHz (Papale et al, 2012)\n\nAzores, min fq range 1.1-13.5 kHz, mean 7.8 kHz, std dev 1.7 kHz (Papale et al, 2012)\n\nAzores, fq range 598 Hz – 23.6 kHz, mean 9.2 kHz, std dev 3.5 kHz (Papale et al, 2012)\n\nDuration\n\nAzores, range 0.15-2.23, mean 0.95, std dev 0.33 (Papale et al, 2012)\n\nWaveform\n\nAvg of 1 inflection point, but can be up to 11 (Papale et al, 2012)\n\n\nAcoustic events from literature:\n\n(Papale et al, 2012)\nSources:\n\nJ. N. Oswald, J. Barlow and T. F. Norris, Marine Mammal Science 19 (1), 20-37 (2003)."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Odont/Atl.spot.dol.html",
-    "href": "content/Analysis/Species_list/Acoustic_events/Odont/Atl.spot.dol.html",
-    "title": "Atlantic Spotted dolphin (Stenella frontalis)",
-    "section": "",
-    "text": "Atlantic Spotted dolphin (Stenella frontalis)\nGeneral Info:\n\nThere is well documented geographic variation in vocalizations, but vocalizations recorded near the Azores are generally similar to those in the offshore Western Atlantic (Gannier et al, 2020)\n\nWhistles are generally lower in fq and shorter in duration than common dolphin (Gannier et al, 2020)\n\nWhistles often have a high number of inflection points (Azevedo et al, 2010)\n\nCan be hard to tell apart from bottlenose dolphins\n\nClicks:\n\nICI:\n\nWeak modal ICI, possibly due to overlapping click trains (Frasier et al, 2017)\n\n0.075 sec (Frasier et al, 2017)\n\n\nWhistles:\n\nHarmonics often present (Gannier et al, 2020)\n\nGroups over the continental shelf are significantly different than those from offshore waters, with lower fq, shorter durations, fewer inflection points, and a greater number of steps (Baron et al, 2008)\n\n\nFrequency:\n\nAvg minimal fq 7.3 kHz (Gannier et al, 2020)\n\nAvg maximal fq &gt; 16kHz (Gannier et al, 2020)\n\nRange 7-16 kHz (Azevedo et al, 2010)\n\n\nDuration:\n\nAvg 0.65 (Gannier et al, 2020)\n\nRange 0.08-2.07 (Azevedo et al, 2010)\n\n\nWaveform:\n\nGenerally up swept, although up and down sweep modes are possible (Gannier et al, 2020)\n\n\nAcoustic events from literature:\n\n\n\n(Gannier et al, 2020)\n\n(Azevedo et al, 2010)\n\n(Frasier et al, 2017)\nSources:\n\nA. F. Azevedo, L. Flach, T. L. Bisi, L. G. Andrade, P. R. Dorneles and J. Lailson-Brito, The Journal of the Acoustical Society of America 127 (4), 2646-2451 (2010).\n\nK. E. Frasier, M. A. Roch, M. S. Soldevilla, S. M. Wiggins, L. P. Garrison and J. A. Hildebrand, PLoS Computational Biology 13 (12), e1005823 (2017).\n\nS. C. Baron, A. Martinez, L. P. Garrison and E. O. Keith, Marine Mammal Science 24 (1), 42-56 (2008)."
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Acoustic_events/Myst/Minke/Minke_event.html",
-    "href": "content/Analysis/Species_list/Acoustic_events/Myst/Minke/Minke_event.html",
-    "title": "Minke Whale (Balaenoptera acutorostrata)\n",
-    "section": "",
-    "text": "Acoustic Event Guide\nNote: While there are other minke whale call types described in the literature for other populations, the NEFSC Passive Acoustics Branch only uses pulse trains for determining daily presence of minke whales in our archival data collected in the western North Atlantic. The detection data for minke whales has not yet been added to our Passive Acoustic Cetacean Map (PACM), therefore a map of their acoustic detections is not included in this guide at this time.\n\nGeneral\n\nThe information published on minke whale vocalizations is currently limited. In the Southern and Pacific oceans they make a variety of low- and mid-frequency calls, but the most frequent vocalization observed in the Atlantic Ocean are low-frequency pulse trains.\n\n\nPulse Trains:\n\nStereotyped, 50-500 Hz thumps or pulses, each lasting ~0.5-0.7 s\nPulse trains can last 40-60 s and occur every 6-14 minutes in bouts that can last up to several hours\nSome pulse trains have pulses that remain at a constant interpulse interval (IPI), while other pulse trains show a slight but abrupt slow-down in pulses and lengthening of IPI approximately halfway through the pulse train (Risch et al., 2013; see Fig. 2a). There are also speed-up pulse trains that show the reverse trend with decreasing IPIs toward the end of the pulse train.\nMinkes are also known to create variations of pulse trains, with seasonal variation in pulse train length and IPIs (see Fig. 4, 5, and 6).\n\n\n\nWhen analyzing data for minke whale pulse trains, it is important to keep in mind that haddock (fish) can produce knocking/thumping sounds (see Fig. 7) that can individually resemble minke whale pulses. Most minke whale pulse trains are at least 20 seconds long, and can last up to 60 seconds, whereas haddock knock sequences are generally shorter in duration and may last only a few seconds. Haddock knock sequences may also occur much closer together and even blur into a humming sound if there are many individuals knocking simultaneously. Minke whales generally have an interval of 6-14 minutes between their pulse trains, although shorter intervals may be observed if there are multiple individuals.\n\nAdditionally, both minke whales and haddock show strong diel trends in their sound production but at different times of year. During the peak season of July to November, minke whales have been shown to produce the vast majority of their pulse trains during the twilight and nighttime hours (see Fig. 1). Haddock also generally produce more knocks at night, especially by males during their spawning season of January to June.\n\nMinke whales are more likely to be detected from July to November in the Stellwagen Bank National Marine Sanctuary (SBNMS), with detections peaking in the August-October period. They are usually not detected in January and February, and rarely detected from March to June. Visual sightings data generally aligns with the acoustic detection data, indicating that the SBNMS may be a transitory location for minke whales as they migrate along the U.S. and Canadian east coasts. The lack of acoustic detections in the spring may suggest that they migrate further offshore on their northbound migration to their summer feeding grounds.\n\nMinke Whale seasonal Occurence and Diel Patterns\n\n\n\n\nFigure 1. Seasonal and diel distribution of minke whale pulse trains in (a) 2006 and (b) from December 2007 to March 2010 in the Stellwagen Bank National Marine Sanctuary (SBNMS). Distributions are based on analyses of automatic detection results of 1 channel data. Y-axis shows date; left x-axis time of day (h) in U.S. Eastern Standard Time (EST); right x-axis number of calls. Grey shading illustrates times between sunset and sunrise. Light blue shading indicates periods of missing data. Circles indicate the number of calls per hour (Risch et al., 2013, Fig. 5).\n\n\nMinke Whale Vocalizations Documented in Literature\n\n\n\n\n\n\nFigure 2. Spectrograms for (a) slow-down (sd) and (b) constant (c)pulse trains types 1-3 and histograms of interpulse interval (IPI). Note the different x- and y-axes scales for the spectrograms and histograms, respectively (Risch et al., 2013, Fig. 3).\n\nMinke Whale Vocalizations Observed by the Passive Acoustics Branch\n\n\n\n\nFigure 3. Example of a slow-down minke whale pulse train with fin whale 20-Hz pulses below it.\n\nMinke Whale Pulse Train Variations\n\n\n\n\nFigure 4. Example of variation of a minke whale pulse train recorded on COX03 on July 21, 2023.\n\n\n\n\n\n\n\n\nFigure 5. Example of variation of a minke whale pulse train recorded on COX03 on July 28, 2023.\n\n\n\n\n\n\n\n\nFigure 6. Example of multiple variations of minke whale pulse trains over ~7 minutes recorded on COX03 on July 28, 2023.\n\n\nExamples of Non-Minke Whale Sounds\n\n\n\n\n\n\nFigure 7. Example of knocks produced by haddock (fish). Note that the knocks occur in a similar frequency range as minke whale pulses, but that the haddock knocks typically occur in shorter sequences and do not show the characteristic “slow-down” featured in many minke whale pulse trains.\n\n\n\n\n\n\n\n\nFigure 8. Example of anthropogenic noise that can resemble a minke whale pulse train.\n\n\n\n\n\n\n\n\nFigure 9. Example of anthropogenic noise that can resemble a minke whale pulse train.\n\nSources\nMinke Whale. (2021). Discovery of Sound in the Sea (DOSITS). Retrieved April 20, 2023 from https://dosits.org/galleries/audio-gallery/marine-mammals/baleen-whales/minke-whales/?vim eography_gallery=13&vimeography_video=226935094.\nNOAA [National Oceanic and Atmospheric Administration]. NOAA Fisheries, NEFSC [Northeast Fisheries Science Center], Passive Acoustic Research Group. 2023. Haddock. https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-fish-andinvertebrates.\nRisch, D., Clark, C., Dugan, P., Popescu, M., Siebert, U., & Van Parijs, S. (2013). Minke whale acoustic behavior and multi-year seasonal and diel vocalization patterns in Massachusetts Bay, USA. Marine Ecology Progress Series, 489, 279-295. https://doi.org/10.3354/meps10426"
   },
   {
     "objectID": "content/Analysis/Species_list/Odont_list.html",
