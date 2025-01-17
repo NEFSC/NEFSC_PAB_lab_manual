@@ -1,6 +1,16 @@
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
-## Reporting 
+# Reporting 
+---
+This page includes information about reports submitted by the NEFCS PAB. This includes example reports and templates. *Add links
 
-*Under Construction*
+### Reporting
+* Example Australian Marine Parks Reports (Rochelle) - every 6 mos
+* [Example AMAPPS report](/content/Reporting/AMAPPS/AMAPPS_2019.pdf) (Annamaria) - every 5 years? \
+[AMAPPS Template](/content/Reporting/AMAPPS/AMAPPS_TEMPLATE.dox)
+* Example Navy annual HARP report (annamaria) - annual
+* Example NARW report format (Gen) - 6 mos? 
+* Navy screening report (Kate?) - idk?
+* BOEM POWERON reports (Becca - doesn't exist yet) - annual
+
 
