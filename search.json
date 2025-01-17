@@ -33,11 +33,7 @@
     "href": "content/Analysis/Specieslist_soundtypes.html",
     "title": "Species list",
     "section": "",
-    "text": "This section provides an overview of PAB’s study species, organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included.\n\nFor more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\n\nCredit: NOAA",
-    "crumbs": [
-      "Analysis",
-      "Species list"
-    ]
+    "text": "This section provides an overview of PAB’s study species, organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included.\n\nFor more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\n\nCredit: NOAA"
   },
   {
     "objectID": "content/Analysis/Species_list/Myst_list.html",
@@ -48,7 +44,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Mysticete Specie List"
+      "Mysticetes"
     ]
   },
   {
@@ -1017,11 +1013,7 @@
     "href": "content/Analysis/Species_analysis_protocols.html",
     "title": "Analysis Protocols",
     "section": "",
-    "text": "Our lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page.",
-    "crumbs": [
-      "Analysis",
-      "Analysis protocols"
-    ]
+    "text": "Our lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page."
   },
   {
     "objectID": "content/Analysis/Species_list/Species list and call types V.2.html",
@@ -1095,7 +1087,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Odontocete Specie List"
+      "Odontocetes"
     ]
   },
   {
@@ -1107,7 +1099,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Odontocete Specie List"
+      "Odontocetes"
     ]
   },
   {
@@ -1119,7 +1111,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Odontocete Specie List"
+      "Odontocetes"
     ]
   },
   {
@@ -1131,7 +1123,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Odontocete Specie List"
+      "Odontocetes"
     ]
   },
   {
@@ -1143,7 +1135,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Odontocete Specie List"
+      "Odontocetes"
     ]
   },
   {
@@ -1155,7 +1147,7 @@
     "crumbs": [
       "Analysis",
       "Species list",
-      "Odontocete Specie List"
+      "Odontocetes"
     ]
   },
   {
