@@ -79,15 +79,15 @@ website:
           - section: Analysis protocols
             contents:
               - href: content/Analysis/Protocols/Mysticete_protocols.qmd
-                text: Mysticete Protocols
+                text: Mysticete 
               - href: content/Analysis/Protocols/Odont_protocols.qmd
-                text: Odontocete Protocols
+                text: Odontocete 
               - href: content/Analysis/Protocols/fish_protocols.qmd
-                text: Fish Protocols
+                text: Fish 
               - href: content/Analysis/Protocols/Anthro_protocols.qmd
-                text: Anthropogenic Protocols
+                text: Anthropogenic 
               - href: content/Analysis/Protocols/AMP_protocols.qmd
-                text: Australia Marine Park Protocols
+                text: Australia Marine Park 
       - href: content/FieldMethods/FieldMethods.qmd
         text: Field Methods
       - href: content/Reporting/Reporting.qmd
