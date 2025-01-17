@@ -3,7 +3,7 @@ The following is a list of Mysticete species monitored by NEFSC Passive Acoustic
 
 
 <div align=center>
-### [**Minke whale**](/content/Analysis/Species_list/Acoustic_events/Myst/Minke/Minke_event.qmd)
+### [**Minke whale**](https://docs.google.com/document/d/1_ousoPs5N14lc2Q30PRiQJTqco7hJgHyV0UjiVki3t8/edit?usp=sharing)
 <div align=left>
 Scientific name: *Balaenoptera acutorostrata*  
 Code: MIWH \
@@ -21,7 +21,7 @@ Code: MIWH \
 \
 \
 <div align=center>
-### **Sei whale**
+### [**Sei whale**](https://docs.google.com/document/d/1fGzkwFc7h61blOXYh17bI_d8doHLZGra2VNQUWdKve4/edit?usp=sharing)
 <div align=left>
 Scientific name: *Balaenoptera borealis*  
 Code: SEWH \
@@ -39,7 +39,7 @@ Code: SEWH \
 \
 \
 <div align=center>
-### **Blue whale**
+### [**Blue whale**](https://docs.google.com/document/d/19L__V_lix58h0AdbCwDYEX1Zc5QUiXz188UpWR1zI3s/edit?usp=sharing)
 <div align=left>
 Scientific name: *Balaenoptera musculus*  
 Code: BLWH\
@@ -63,7 +63,7 @@ Code: BLWH\
 \
 \
 <div align=center>
-### **Fin whale**
+### [**Fin whale**](https://docs.google.com/document/d/1bXCzrTeI0NdcED77ta8NU3jDPV2ocm93PBAVfs3ST9Y/edit?usp=sharing)
 <div align=left>
 Scientific name: *Balaenoptera physalus*  
 Code: FIWH \
@@ -90,7 +90,7 @@ Code: FIWH \
 \
 \
 <div align=center>
-### **North Atlantic right whale**
+### [**North Atlantic right whale**](https://docs.google.com/document/d/1pG4Ex4f9clbsJ2uC93g5c3mZIuzRkcEE27GmtRs_820/edit?usp=sharing)
 <div align=left>
 Scientific name: *Eubalaena glacialis*  
 Code: RIWH  \
@@ -114,7 +114,7 @@ Code: RIWH  \
 \
 \
 <div align=center>
-### **Humpback whale**
+### [**Humpback whale**](https://docs.google.com/document/d/15Dt6aoZ1KMN3KAOQ2A4jmTa3C8to7kAvFHIf9smWTP4/edit?usp=sharing)
 <div align=left>
 Scientific name: *Megaptera novaeangliae*  
 Code: HUWH\
