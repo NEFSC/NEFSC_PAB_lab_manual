@@ -1,72 +1,69 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
-
-# Software
----
+# Softwares
 
 This is a list of all softwares used by the NEFSC Passive acoustic branch. \*Need to add: Licenses, user guides, github (if relevant) and any additional information. 
 
-### Detector Software
+# Detector Software
 
 For more information on detectors, see [detector](https://docs.google.com/document/d/1un1ye85LusvYPsHKfpqrXn7UkWdXkWd5RsYdeqO7t-Q/edit?tab=t.0#heading=h.d3dml869bbra) page
 
-#### Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier
+### Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier
 
 Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see [Baumgartner and Mussoline 2011](https://www.researchgate.net/publication/51123050_A_generalized_baleen_whale_call_detection_and_classification_system)
 
 * Reference [guide](https://dcs.whoi.edu/resources/LFDCS%20Reference%20Guide%20-%20Version%201.3.pdf) includes instructions for installing the desktop version of the LFDCS and the fundamentals of that program: the generation of pitch tracks (contour lines that trace tonal sounds), building and managing a call library, browsing/exporting autodetections and analysis results, and species-specific analysis protocols.
 
-#### PAMguard
+### PAMguard
 
 The PAMGuard software provides a suite of Detection, Classification, and Localization algorithms developed specifically for the many types of sounds made by different species. The algorithms are backed up by a powerful user interface that allows a human operator to view sounds in real time, confirm the output of the automatic detectors, and mark out sounds manually when automatic detection is not possible ([Pamguard.org](http://Pamguard.org)). 
 
 * User/download [guide](https://www.pamguard.org/tutorials.html)
 
-#### TRITON
+### TRITON
 
 Triton has multiple remoras for various acoustic analyses. Triton detectors are built under the [Marine Bioacoustic Research Collaborative](https://github.com/MarineBioAcousticsRC) Github organization,and encompass anthropogenic, blue whale, and fish detectors. 
 
 * [Github](https://github.com/MarineBioAcousticsRC/Triton)  
 * User [guide](https://github.com/MarineBioAcousticsRC/Triton/blob/master/Extras/TritonUserManual.pdf)
 
-### **Soundscape Analysis Software**
+## **Soundscape Analysis Software**
 
-#### Manta
+### Manta
 
 Utilizes Java 64-bit (version 11 or higher).
 
 * User/download [guide](https://bitbucket.org/CLO-BRP/manta-wiki/wiki/MANTA%20Downloads%20and%20Installation%20Video)  
 * [Manta: A clustering algorithm for weighted ecological networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC7029223/)
 
-#### Pypam
+### Pypam
 
 Pypam facilitates processing of \*.wav files resulting from underwater acoustic deployments. It enables application of existing methods of acoustic data processing, and it allows the processing of several deployments with one line of code, so it is easy to create datasets to work with. Pypam is oriented to extracting features that can be used for machine learning algorithms or to the extraction of broad acoustic information in time-series (User [guide](https://lifewatch-pypam.readthedocs.io/en/latest/)). Pypam can be used via R. 
 
 * [Github](https://github.com/lifewatch/pypam)  
 * Pypam [quickstart](https://lifewatch-pypam.readthedocs.io/en/latest/quickstart.html)
 
-#### PAMGuide
+### PAMGuide
 
 We use PAMGuide (Merchant et al. 2015\) to calculate long-term power spectra density (PSD), broadband sound pressure level (BB SPL), and third-octave levels (TOL). Typically, this is done for an entire deployment; however, shorter subsets of .wav files (e.g., daily or weekly) can also be used to analyze temporal differences within a single deployment. PAMGuide can be used via Matlab or R (see ‘Generic Softwares’).
 
 * [Protocol](https://docs.google.com/document/d/1eNSNsKjDF67Yq852hXbrhtqj8xmOy7Px/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
 * [Merchant et al. 2015](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12330)
 
-### **Validation and Analysis tools**
+## **Validation and Analysis tools**
 
-#### SoundScope
+### SoundScope
 
 SoundScope is a python-based software that facilitates the visualization and manual verification of detections from automatic whale and fish sound detectors (or any other sound detectors). It allows to display and navigate through detections time series, filter and sort by classification confidence, and dynamically produce spectrograms of the detections. SoundScope was initially created in the Juanes Lab at the University of Victoria and is currently being developed at the Passive Acoustic Branch of NOAA's Northeast Fisheries Science Center (Github README).
 
 * [Github](https://github.com/xaviermouy/SoundScope) 
 
-#### Raven Pro
+### Raven Pro
 
 Raven Pro is a powerful research and teaching application for scientists needing flexible visualization and measurement tools for analysis of audio recordings of any length. Raven Pro was developed by Cornell University’s *K. Lisa Yang Center for Conservation Bioacoustics* ([Web page](https://www.ravensoundsoftware.com/software/raven-pro/))
 
 * User [guide](https://www.ravensoundsoftware.com/wp-content/uploads/2017/11/Raven14UsersManual.pdf)  
 * Updating Raven [License](https://noaa946264.monday.com/boards/1684504446/pulses/1684504473?doc_id=1842777188)
 
-#### PAMpal
+### PAMpal
 
 PAMPal is a software built to process passive acoustic data through the R interface. Currently only compatible with data collected using Pamguard. PAMpal available on CRAN (link below). Built and maintained by Taiki Sakai.
 
@@ -74,7 +71,7 @@ PAMPal is a software built to process passive acoustic data through the R interf
 * PAMpal [CRAN](https://cran.r-project.org/package=PAMpal)   
 * PAMpal [Github](https://github.com/TaikiSan21/PAMpal) 
 
-#### BANTER
+### BANTER
 
 BANTER is a supervised classification algorithm written in R. It requires minimal human intervention, providing more consistent results with fewer biases and errors than manual classification. Can be applied to anthropogenic, marine organisms, and terrestrial organisms. Developed by Shannon Rankin and Frederick Archer of SWFSC Marine Mammal and turtle division (User guide). 
 
@@ -82,19 +79,18 @@ BANTER is a supervised classification algorithm written in R. It requires minima
 * BANTER [CRAN](https://cran.r-project.org/package=banter)   
 * BANTER [Github](https://github.com/EricArcher/banter) 
 
-### **Generic Softwares**
+## **Generic Softwares**
 
-#### Matlab
+### Matlab
 
 * User [guide](https://www.mathworks.com/help/matlab/index.html?s_tid=hc_panel)  
 * Download [instructions](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html)  
 * Matlab [license](https://noaa946264.monday.com/boards/1684504446/pulses/1788242682?doc_id=1789867016)
 
-#### Rstudio
+### Rstudio
 
 * User [guide](https://docs.posit.co/ide/user/)  
 * Download [instructions](https://posit.co/download/rstudio-desktop/) 
 
-#### Anaconda environments
-
+### Anaconda environments
 
