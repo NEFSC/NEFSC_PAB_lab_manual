@@ -1,5 +1,12 @@
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
-## Analysis
+# Analysis
+---
 
-*Under Construction*
+### Species list
+
+Our list of PAB's study species is organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s [Sounds in the Ocean](https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals#odontocetes-toothed-whales). For more information about each specie, see [this page](https://www.fisheries.noaa.gov/find-species).
+
+### Analysis protocols
+
+Our lab's protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our [Software page](/content/Software/Software.qmd). \
