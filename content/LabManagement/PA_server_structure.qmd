@@ -1,14 +1,14 @@
 # Passive Acoustics server structure
 ---
-The Passive Acoustics server is our central storage location for all data and information that is not acoustic data. We are in the process of migrating from the PassiveAcoustics/Stellwagen\_Old directory to the PassiveAcoustics directories. For information on where we store acoustic data see the [PassiveAcoustic\_soundfiles server page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/PA_soundfiles.html). 
+The Passive Acoustics server is our central storage location for all data and information that is not acoustic data. We are in the process of migrating from the PassiveAcoustics/Stellwagen\_Old directory to the PassiveAcoustics directories. For information on where we store the raw soundfiles see the [PassiveAcoustic\_soundfiles server page](https://docs.google.com/document/d/1TnMJSx69-OoTfhSHtJBUBqWkVqMq_f0ALPRHBltUlyM/edit?usp=sharing). 
 
 ### Accessing the server
 
-To access the server for the first time, submit an ITD ticket requesting access to PA\_group file shares and include Sofie or your team lead on the ticket so that they can provide approval. 
+To access the server for the first time, submit an ITD ticket requesting access to PAB file shares and include Sofie or your team lead on the ticket so that they can provide approval. 
 
 ![](/figs/Onboarding_images/server_screenshot.PNG)  
 To access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics\\  
-To access from a container enter: \\\\mnt\\PassiveAcoustics\\
+To access from a container enter: /mnt/PassiveAcoustics/
 
 For quick access on your computer, it is recommended to pin the server folder.  
 Make sure you are connected to the network via VPN.
@@ -19,13 +19,11 @@ The table below details the status of the server reorganization and comments on 
 
 | PassiveAcoustics | Stellwagen\_Old | Comment |
 | :---- | :---- | :---- |
+| ANCILLARY\_DATA |  | Accelerometer, CTD, depth (for towed array and drifting recorders), GPS (for mobile platforms), telemetry, temperature (from SoundTraps), and visual sightings data |
 | CONFERENCES\_PRESENTATIONS |  | Final versions of all presentations and posters |
-| CTD\_DATA |  | Oceanographic data from CTDs |
 | DATA\_ANALYSIS | DATA\_ANALYSIS | Migration in progress. Analysis specific code for new projects should be stored in the PassiveAcoustics/DATA\_ANALYSIS folder.  |
-| DEPTH\_DATA |  | Processed depth data tables from towed array and drifting recorders |
 | DETECTOR\_OUTPUT |  | All detector output organized by detector then raw, summarized, or validated status.  |
-| DETECTOR\_SOFTWARE | DETECTORS | Migration in progress, new detectors should be stored in DETECTOR\_SOFTWARE |
-| GPS\_DATA |  | GPS data tables from mobile platform |
+| DETECTORS\_SOFTWARE | DETECTORS | Migration in progress, new detectors should be stored in DETECTORS\_SOFTWARE |
 | MAKARA\_DATA\_REVIEW\_temp |  | Temporary Makara software resources (temporary) |
 | OUTREACH\_PRODUCTS |  | Graphics, web content, exhibits available for use |
 | PAB\_ANALYSIS\_TRAINING |  | PAB Analyst Training Resources |
@@ -38,13 +36,11 @@ The table below details the status of the server reorganization and comments on 
 |  | MANUALS\_SOFTWARE\_CODE\_LIBRARY | To be migrated. General code that could be used across projects and analysts. |
 |  | PROJECT\_ADMIN\_ACCDATA | To be reorganized. Data management for inventory and recorder performance |
 |  | STAFF | Retirement in progress. Staff specific files that do not align with server directory should be saved on google drive, personal computers, or nefsc personal file shares.  |
-|  | TELEMETRY\_DATA | To be migrated. Processed telemetry data tables |
-|  | TEMPERATURE\_DATA | To be migrated. Processed temperature data from SoundTraps |
 |  | TETHYS\_METADATA | To be migrated. Metadata files and schema for TETHYS database uploads |
 |  | TOWED\_ARRAY | To be migrated. Files specific to AMAPPS towed array surveys |
-|  | VISUAL\_SIGHTINGS\_DATA | To be migrated. Miscellaneous visual sightings data |
 
-### Stellwagen Server Resources (transferred from Monday)
+
+### Stellwagen Server Resources
 
 * [How to view Stellwagen directories as pie charts](https://drive.google.com/file/d/1uuAr9joXZHcuD6n5Nq33L793HmdWn9vb/view?usp=sharing)  
 * [Converting WAV files to FLAC](https://drive.google.com/file/d/1i20vjkZPD5RUWyR1jNP7bg92G-gkx8ql/view?usp=sharing)  
