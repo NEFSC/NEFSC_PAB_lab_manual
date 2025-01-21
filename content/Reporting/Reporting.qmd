@@ -2,9 +2,8 @@
 
 # Reporting 
 ---
-This page includes information about reports submitted by the NEFCS PAB. This includes example reports and templates. *Add links
 
-### Report list
+### List of reports published by PAB
 * [Example Australian Marine Parks Reports](/content/Reporting/AMP/AMP_2022.pdf) - every 6 months
 * [Example AMAPPS report](/content/Reporting/AMAPPS/AMAPPS_2019.pdf) - every 5 years \
   + [AMAPPS Template](/content/Reporting/AMAPPS/AMAPPS_TEMPLATE.pdf)
@@ -13,5 +12,3 @@ This page includes information about reports submitted by the NEFCS PAB. This in
 * Navy screening report
 * BOEM POWERON reports (no example yet) - annual
 * [Example NOPP report](/content/Reporting/NOPP/NOPP_2013.pdf)
-
-
