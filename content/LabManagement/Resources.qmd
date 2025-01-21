@@ -1,8 +1,91 @@
 ---
 title: Resources
 ---
+# Staff Resources
 
-This page is optional but can be a good spot for any remaining resources or tools you want easy access to.
+## PAB
 
-<div align="center">
-![](/figs/infographics/SLOCUM-GLIDER.png){width=150}
+* [Meeting notes](https://drive.google.com/drive/folders/1Bh_-Ng5LLXUxRCGt9JP-VImOaK3A2tMk)  
+* [Presentation design](https://docs.google.com/presentation/d/1pIpPgTgRAqpfgMPNzWAWybKB3R1bhJEiWfgw6tlv9Xs/edit)  
+  * NOAA presentation [template](https://docs.google.com/presentation/d/1MaVcP3j4PWKGdXcK3iVNiAH8-wIYRNLd/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
+* Self registration guide for [RPTS](https://docs.google.com/document/d/1cPRoAYOQKQuqowXA1i_44OAtUS-fw1c_/edit)
+
+## NEFSC
+
+* Wifi (not updated) 
+  * Network: Redtide  
+  * Password: F1shM0nger$  
+* NEFSC Building Code and Keys  
+  * CD390 [form](https://drive.google.com/file/d/1m9SY4L4v19ZFj5DKum1eYw9vDgqREWud/view?usp=drive_link)  
+  * Contact email: [nefsc.wh.shop@noaa.gov](mailto:nefsc.wh.shop@noaa.gov)  
+* NEFSC [letterhead](https://docs.google.com/document/d/1qsl2P275GmtQoK-YWS4lWgJqyNDP5jW4/edit?usp=drive_link&ouid=116688690465000616014&rtpof=true&sd=true)  
+* NEFSC [Conference room booking](https://sites.google.com/noaa.gov/insidenefsc/calendars?authuser=0)  
+* WH Hurricane Plan info  
+  * [Contacts for Hurricane Plan](https://docs.google.com/document/d/1-aD72xXutzpi3DjTLhPOHF438EewDlJX/edit) \- request access (contains sensitive staff info)  
+  * Be put on the PSD Hurricane phone tree (for locals only)  
+  * Additional information regarding hurricane status and preparedness may be obtained from the National Hurricane Center at [http://www.nhc.noaa.gov/](http://www.nhc.noaa.gov/)
+
+## CAPS Information (Federal employees only)
+
+* [Performance Appraisals and Workforce Solutions](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps/performance-appraisals-and-workforce-solution-paws)  
+* [Performance management](https://sites.google.com/noaa.gov/ohcs/policy-procedures/performance-management)
+
+## Useful docs
+
+* [Acronyms at NOAA](https://docs.google.com/spreadsheets/d/1uShi0joJFe1Ltm77Ttl6HIGzkWes2TWEmcICn4swH-E/edit?gid=0#gid=0)  
+* [WH facility access request form](https://docs.google.com/spreadsheets/d/1cguE1Yw6qs-YShNxjrawlp_rGSYrhFhj9EfrKnqmtqo/edit?gid=2034022407#gid=2034022407)  
+* [CAC Renewal](https://docs.google.com/document/d/1t0Pcf0PINxx5WkgV_GWGAKJB2Rd73g7-Ntz0uxEGTos/edit?tab=t.0#heading=h.anyz8w6xhgcx)   
+* [PAM introduction](https://drive.google.com/drive/folders/1jYgAGED2ooW2tlUiCDwRQ2YrwfYPvUZX?usp=sharing)  
+* [PSD shipping request](https://drive.google.com/file/d/1bi7JPOymFkWRacVaw82OjATudS8ISgC2/view?usp=sharing)  
+* [NEFCS-IT software request form](https://drive.google.com/file/d/1hG4Y2yKdL4ANwzlf8rnXJKLjxnwjrG7r/view?usp=sharing)  
+* [Federal Holidays](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/#url=2021)
+
+## Professional Development
+
+* [Inside NEFSC learning courses](https://sites.google.com/noaa.gov/insidenefsc/learning)  
+* Join [Mindful NOAA](https://sites.google.com/noaa.gov/mindful-noaa-collaboration/home?authuser=0), if interested  
+* [NOAA Science seminars](https://www.star.nesdis.noaa.gov/star/NOAAScienceSeminarContributors.php)  
+* [Diversity and inclusion](https://sites.google.com/noaa.gov/insidenefsc/d-i?authuser=0)  
+* Join applicable listservs ([MARMAM](https://lists.uvic.ca/mailman/listinfo/marmam), etc)
+
+# Woods Hole and Local Resources
+
+## Housing
+
+Cape cod wide: 
+
+* Cape Cod real estate agencies (emphasizing yearly rentals):  
+  *   [Year Round Rental Homes](https://yearroundrentalhomes.com/)  
+  *    [Cape Cod USA Real Estate](https://www.capecodusarealestate.com/)  
+*  Facebook groups  
+  *    [Cape Cod Real Estate for sale and rent](https://www.facebook.com/groups/610910522350459)  
+  *    [Cape Cod Rentals and Roommate Finder](https://www.facebook.com/groups/1557757821142324/)
+
+Specific towns:
+
+* Mashpee:  
+  *   [Mashpee Village](https://www.mashpeevillage.com/)
+
+General:
+
+*   [ApartmentFinder](https://www.apartmentfinder.com/)  
+*   [Apartments.com](https://www.apartments.com/)  
+*   [craigslist: cape cod/ island](https://capecod.craigslist.org/)  
+*   [Facebook Marketplace](https://www.facebook.com/marketplace/category/propertyrentals)  
+*   [hotpads](https://hotpads.com/)  
+*   [oodle marketplace: Falmouth, MA](https://apartments.oodle.com/falmouth-ma/)  
+*   [Rent.com](https://rent.com/)  
+*   [Rentberry](https://rentberry.com/)  
+*   [Trulia](https://www.trulia.com/)  
+*   [Zillow](https://www.zillow.com/)  
+*   [Zumper](https://www.zumper.com/)
+
+whoi.eduwhoi.edu  
+[**WHOI: Community Housing**](https://www.whoi.edu/housing/overview.do)  
+Woods Hole Oceanographic Institution owns various residential properties in the Woods Hole/Falmouth community. The function of the Housing Office is to manage these residences for use by students and guests of the Institution. For Institution guests who cannot be accommodated in WHOI housing or for those seeking longer-term rentals in the local area, a Community Housing Page is maintained.
+
+## Woods hole lab parking
+
+![](/figs/Onboarding_images/parking.PNG)
+
+Highlighted parking lot space reserved for NEFSC employees. A parking pass is required and typically printed at the front desk upon proof of employment/approved visitation. Place the parking pass on the bottom left corner of your car windshield (inside). NEFSC has one main entrance (marked by orange star) and one side entrance (marked by red star). The parking lot is locked on weekends and federal holidays.  
