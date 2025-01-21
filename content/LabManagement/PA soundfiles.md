@@ -1,12 +1,10 @@
----
-title: PassiveAcoustics_Soundfiles structure
----
+# Passive Acoustic\_soundfiles structure
 
-The PassiveAcoustics\_Soundfiles server server is where we store all acoustic data files. For information on where we store all other data see the [PassiveAcoustic server page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PA_server_structure.html). 
+The PassiveAcoustics\_Soundfiles server is where we store all raw audio files. For information on where we store all other data see the [PassiveAcoustic server page](https://docs.google.com/document/d/1VxZ9pT2j1ylzHbp2VbaZNV3WVEpuYS_ZFzozmT1G850/edit?usp=sharing). 
 
 ### Accessing the server
 
-To access the server for the first time, submit an ITD ticket requesting access to PA\_group file shares and include Sofie or your team lead on the ticket so that they can provide approval.
+To access the server for the first time, submit an ITD ticket requesting access to PAB file shares and include Sofie or your team lead on the ticket so that they can provide approval.
 
 To access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics\_Soundfiles\\  
 To access from a container enter: \\\\mnt\\PassiveAcoustics\_Soundfiles\\
@@ -35,5 +33,7 @@ The general organizational structure of PassiveAcoustic Soundfile directories is
       * **Recorder\\**  
         If multiple instruments are deployed on one mooring, each recorder type (deployed together as a unit) has its own a folder.  
         *File name format: \[fmc acronym\]\_\[region acronym\]\_\[deployment start month/year as \[YYYYMM\]\_\[site ID\]\_\[instrument type\]*
-        
-        *Example: NEFSC\_SBNMS\_202307\_SB03\_ST*
+
+        *Example:NEFSC\_SBNMS\_202307\_SB03\_ST*
+
+          
