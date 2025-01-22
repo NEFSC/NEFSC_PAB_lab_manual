@@ -3,11 +3,11 @@
 # Software
 ---
 
-This is a list of all softwares used by the NEFSC Passive acoustic branch. \*Need to add: Licenses, user guides, github (if relevant) and any additional information. 
+This is a list of all softwares used by the NEFSC Passive acoustic branch. 
 
 ### Detector Software
 
-For more information on detectors, see [detector](https://docs.google.com/document/d/1un1ye85LusvYPsHKfpqrXn7UkWdXkWd5RsYdeqO7t-Q/edit?tab=t.0#heading=h.d3dml869bbra) page
+For more information on detectors, see [Analysis protocol](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html) pages
 
 #### Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier
 
