@@ -29,8 +29,7 @@ Atlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detec
 * Code: PYTHON\_MINKE  
 * Protocol page:  
   * Z:\\Stellwagen\_Old\\DATA\_ANALYSIS\\BALEEN\_WHALES\\MINKE\_ATLANTIC\_ALL\\DETECTOR\_ANALYSIS\\DETECTOR\_VALIDATION\_RHETT  
-* Quick guide:  
-  * \\\\nefscdata\\PassiveAcoustics\\Stellwagen\_Old\\DATA\_ANALYSIS\\BALEEN\_WHALES\\MINKE\_ATLANTIC\_ALL\\DETECTOR\_ANALYSIS
+* [Quick guide](/content/Analysis/Protocols/Minke_detect_guide.pdf)  
 
 ## PAMGuard Odontocete and Baleen Whistle and Moan Detector
 
