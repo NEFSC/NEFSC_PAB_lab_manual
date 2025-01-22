@@ -5,7 +5,7 @@
 
 This is a list of all softwares used by the NEFSC Passive acoustic branch. 
 
-### Detector Software
+### Detectors and Classifyers
 
 For more information on detectors, see [Analysis protocol](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html) pages
 
@@ -27,6 +27,14 @@ Triton has multiple remoras for various acoustic analyses. Triton detectors are 
 
 * [Github](https://github.com/MarineBioAcousticsRC/Triton)  
 * User [guide](https://github.com/MarineBioAcousticsRC/Triton/blob/master/Extras/TritonUserManual.pdf)
+
+#### BANTER
+
+BANTER is a supervised classification algorithm written in R. It requires minimal human intervention, providing more consistent results with fewer biases and errors than manual classification. Can be applied to anthropogenic, marine organisms, and terrestrial organisms. Developed by Shannon Rankin and Frederick Archer of SWFSC Marine Mammal and turtle division (User guide). 
+
+* BANTER User’s [Guide](https://taikisan21.github.io/PAMpal/banterGuide.html) \*If the NEFSC PAB has its own BANTER user guide, add here  
+* BANTER [CRAN](https://cran.r-project.org/package=banter)   
+* BANTER [Github](https://github.com/EricArcher/banter) 
 
 ### **Soundscape Analysis Software**
 
@@ -74,15 +82,7 @@ PAMPal is a software built to process passive acoustic data through the R interf
 * PAMpal [CRAN](https://cran.r-project.org/package=PAMpal)   
 * PAMpal [Github](https://github.com/TaikiSan21/PAMpal) 
 
-#### BANTER
-
-BANTER is a supervised classification algorithm written in R. It requires minimal human intervention, providing more consistent results with fewer biases and errors than manual classification. Can be applied to anthropogenic, marine organisms, and terrestrial organisms. Developed by Shannon Rankin and Frederick Archer of SWFSC Marine Mammal and turtle division (User guide). 
-
-* BANTER User’s [Guide](https://taikisan21.github.io/PAMpal/banterGuide.html) \*If the NEFSC PAB has its own BANTER user guide, add here  
-* BANTER [CRAN](https://cran.r-project.org/package=banter)   
-* BANTER [Github](https://github.com/EricArcher/banter) 
-
-### **Generic Softwares**
+### **Coding Languages**
 
 #### Matlab
 
@@ -96,5 +96,7 @@ BANTER is a supervised classification algorithm written in R. It requires minima
 * Download [instructions](https://posit.co/download/rstudio-desktop/) 
 
 #### Anaconda environments
+
+* [Website](https://anaconda.org/)
 
 

@@ -4,21 +4,14 @@
 
 Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs
 
-* Code: FPOD\_ODONTOCETE  
-* Link to analysis protocol page
-
-## SPICE Odontocete Detector 
-
-Triton's odontocete click detector; written by [Kait Frasier](https://github.com/MarineBioAcousticsRC/Triton) 
-
-* Code: MATLAB\_TRITON\_ODONTOCETE\_FIXED\_SPICE  
+* Makara detector code: FPOD\_ODONTOCETE  
 * Link to analysis protocol page
 
 ## DFO Beaked Whale Detector
 
 Beaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from [Baumann-Pickering et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086072)
 
-* Code: MATLAB\_BEAKED\_FIXED  
+* Makara detector code: MATLAB\_BEAKED\_FIXED  
 * Link to analysis protocol page
 
 ## Banter for Beaked Whales
@@ -26,7 +19,7 @@ Open-source machine learning BANTER acoustic classification of beaked whale echo
 
 Rankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I., ... & Trickey, J. S. (2024). Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics, 80, 102511.\
 
-* Code: R_BANTER_ML (double check this)
+* Makara detector code: R_BANTER_ML (double check this)
 * Research [compendium](https://doi.org/10.1016/j.ecoinf.2024.102511)
 * [Github](https://github.com/shannonrankin/BANTER_BeakedWhales)
 
@@ -34,14 +27,14 @@ Rankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I
 
 Beaked whale CNN detector written by [Alba Solsona Berga](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304744) 
 
-* Code: MATLAB\_BEAKED\_FIXED\_ALBA\_CNN  
+* Makara detector code: MATLAB\_BEAKED\_FIXED\_ALBA\_CNN  
 * Link to analysis protocol page
 
 ## PAMGuard Odontocete Click Detector
 
 Detector used for all odontocete clicks; see [PAMguard's Help](https://www.pamguard.org/olhelp/) documentation for details
 
-* Code: PAMGUARD\_ODONTOCETE\_CLICK  
+* Makara detector code: PAMGUARD\_ODONTOCETE\_CLICK  
 * Sperm whale protocols  
   * [PAMGuard Sperm Whale detection/validation protocol for SoundTrap data](https://docs.google.com/document/d/1738gDvmxEc7OqcbQv4-IHLb3M4SXa-5LQd00Bf4lZxE/edit?tab=t.0)  
   * [PAMGuard Sperm Whale processing protocol for towed array data](https://docs.google.com/document/d/1738gDvmxEc7OqcbQv4-IHLb3M4SXa-5LQd00Bf4lZxE/edit?tab=t.0)  
@@ -59,5 +52,5 @@ Detector used for all odontocete clicks; see [PAMguard's Help](https://www.pamgu
 
 Basic tonal detector that can be used for odontocetes and baleen whales
 
-* Code: PAMGUARD\_WHISTLE\_MOAN  
+* Makara detector code: PAMGUARD\_WHISTLE\_MOAN  
 * Link to analysis protocol page
