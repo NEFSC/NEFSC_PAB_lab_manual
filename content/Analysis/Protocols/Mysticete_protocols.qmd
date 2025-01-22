@@ -1,4 +1,4 @@
-# Mysticete Protocols (Baleen whales)
+# Baleen Protocols
 
 ## Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier
 

@@ -73,15 +73,21 @@ website:
           - section: Species list
             contents:
               - href: content/Analysis/Species_list/Myst_list.qmd
-                text: Mysticetes
+                text: Baleen
               - href: content/Analysis/Species_list/Odont_list.qmd
                 text: Odontocetes
+              - href: content/Analysis/Species_list/Pinniped.qmd
+                text: Pinnipeds
+              - href: content/Analysis/Species_list/Fish.qmd
+                text: Fish
           - section: Analysis protocols
             contents:
               - href: content/Analysis/Protocols/Mysticete_protocols.qmd
-                text: Mysticete 
+                text: Baleen 
               - href: content/Analysis/Protocols/Odont_protocols.qmd
-                text: Odontocete 
+                text: Odontocetes
+              - href: content/Analysis/Protocols/Pinniped_protocols.qmd
+                text: Pinnipeds
               - href: content/Analysis/Protocols/fish_protocols.qmd
                 text: Fish 
               - href: content/Analysis/Protocols/Anthro_protocols.qmd

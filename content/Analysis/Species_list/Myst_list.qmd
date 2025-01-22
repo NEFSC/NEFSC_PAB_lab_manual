@@ -1,4 +1,4 @@
-# Mysticetes (Baleen Whales): Typically below 5 kHz
+# Baleen Whales: Typically below 5 kHz
 The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. *This is not meant to be comprehensive of all marine mammal repertoire’s.* A complete acoustic event guide is linked for each specie. 
 
 
