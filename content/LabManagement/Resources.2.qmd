@@ -2,16 +2,16 @@
 title: Resources
 ---
 
-# Staff Resources
+## Staff Resources
 
-## PAB
+### PAB
 
 * [Meeting notes](https://drive.google.com/drive/folders/1Bh_-Ng5LLXUxRCGt9JP-VImOaK3A2tMk)  
 * [Presentation design](https://docs.google.com/presentation/d/1pIpPgTgRAqpfgMPNzWAWybKB3R1bhJEiWfgw6tlv9Xs/edit)  
   * NOAA presentation [template](https://docs.google.com/presentation/d/1MaVcP3j4PWKGdXcK3iVNiAH8-wIYRNLd/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
 * Self registration guide for [RPTS](https://docs.google.com/document/d/1cPRoAYOQKQuqowXA1i_44OAtUS-fw1c_/edit)
 
-## NEFSC
+### NEFSC
 
 * Wifi (not updated) 
   * Network: Redtide  
@@ -26,12 +26,12 @@ title: Resources
   * Be put on the PSD Hurricane phone tree (for locals only)  
   * Additional information regarding hurricane status and preparedness may be obtained from the National Hurricane Center at [http://www.nhc.noaa.gov/](http://www.nhc.noaa.gov/)
 
-## CAPS Information (Federal employees only)
+### CAPS Information (Federal employees only)
 
 * [Performance Appraisals and Workforce Solutions](https://sites.google.com/noaa.gov/inside-fisheries-hc/human-capital/performance-culture-incentive-and-honorary-awards/commerce-alternative-personnel-system-caps/performance-appraisals-and-workforce-solution-paws)  
 * [Performance management](https://sites.google.com/noaa.gov/ohcs/policy-procedures/performance-management)
 
-## Useful docs
+### Useful docs
 
 * [Acronyms at NOAA](https://docs.google.com/spreadsheets/d/1uShi0joJFe1Ltm77Ttl6HIGzkWes2TWEmcICn4swH-E/edit?gid=0#gid=0)  
 * [WH facility access request form](https://docs.google.com/spreadsheets/d/1cguE1Yw6qs-YShNxjrawlp_rGSYrhFhj9EfrKnqmtqo/edit?gid=2034022407#gid=2034022407)  
@@ -41,7 +41,7 @@ title: Resources
 * [NEFCS-IT software request form](https://drive.google.com/file/d/1hG4Y2yKdL4ANwzlf8rnXJKLjxnwjrG7r/view?usp=sharing)  
 * [Federal Holidays](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/#url=2021)
 
-## Professional Development
+### Professional Development
 
 * [Inside NEFSC learning courses](https://sites.google.com/noaa.gov/insidenefsc/learning)  
 * Join [Mindful NOAA](https://sites.google.com/noaa.gov/mindful-noaa-collaboration/home?authuser=0), if interested  
@@ -49,9 +49,9 @@ title: Resources
 * [Diversity and inclusion](https://sites.google.com/noaa.gov/insidenefsc/d-i?authuser=0)  
 * Join applicable listservs ([MARMAM](https://lists.uvic.ca/mailman/listinfo/marmam), etc)
 
-# Woods Hole and Local Resources
+## Woods Hole and Local Resources
 
-## Housing
+### Housing
 
 Cape cod wide: 
 
@@ -85,7 +85,7 @@ whoi.eduwhoi.edu
 [**WHOI: Community Housing**](https://www.whoi.edu/housing/overview.do)  
 Woods Hole Oceanographic Institution owns various residential properties in the Woods Hole/Falmouth community. The function of the Housing Office is to manage these residences for use by students and guests of the Institution. For Institution guests who cannot be accommodated in WHOI housing or for those seeking longer-term rentals in the local area, a Community Housing Page is maintained.
 
-## Woods hole lab parking
+### Woods hole lab parking
 
 ![](/figs/Onboarding_images/parking.PNG)
 
