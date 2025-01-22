@@ -62,7 +62,7 @@ Call types across dolphin groups:
 
 ### *Broadband*
 
-![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=80%}
+![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=60%}
 
 #### [**Bottlenose dolphin**](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)
 
@@ -81,7 +81,7 @@ Code: SADO
 
 ### *30-50 kHz peak*
 
-![](/figs/Spec_images/Odont/spectra/Dolphin.30-50peak.spectra.jpg){width=80%}
+![](/figs/Spec_images/Odont/spectra/Dolphin.30-50peak.spectra.jpg){width=60%}
 
 #### [**Rissos dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
 
@@ -111,9 +111,9 @@ Code: SNDO
 
 Along with belugas and narwhales, blackfish can biphonate \- produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.
 
-![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=80%}
+![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=60%}
 \
-![](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.png){width=70%}\
+![](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.png){width=60%}\
 *Spectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).*
 
 
@@ -148,7 +148,7 @@ Call types across beaked whale groups:
   * Code: BWCLICK
 
 
-![](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG)\
+![](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=60%}\
  
 Beaked whale click spectra plot (*DeAngelis et al. 2018*)
 
