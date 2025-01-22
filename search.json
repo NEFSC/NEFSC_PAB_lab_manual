@@ -36,6 +36,42 @@
     "text": "This section provides an overview of PAB’s study species, organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included.\n\nFor more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\n\nCredit: NOAA"
   },
   {
+    "objectID": "content/Analysis/Species_list/Fish.html",
+    "href": "content/Analysis/Species_list/Fish.html",
+    "title": "Fish/Invertebrate species list",
+    "section": "",
+    "text": "Scientific name: Clupea Harengus\nCode:\n\n\n\nScientific name: Gadus Morhua\nCode: ATCO\n\n\n\n\nScientific name: Melanogrammus aeglefinus\nCode: HADD\n\n\n\n\nCode: UNFI\n\n\n\n\n\n\nScientific name: Alpheus sp.\nCode: SNSH",
+    "crumbs": [
+      "Analysis",
+      "Species list",
+      "Fish"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Fish.html#fish",
+    "href": "content/Analysis/Species_list/Fish.html#fish",
+    "title": "Fish/Invertebrate species list",
+    "section": "",
+    "text": "Scientific name: Clupea Harengus\nCode:\n\n\n\nScientific name: Gadus Morhua\nCode: ATCO\n\n\n\n\nScientific name: Melanogrammus aeglefinus\nCode: HADD\n\n\n\n\nCode: UNFI",
+    "crumbs": [
+      "Analysis",
+      "Species list",
+      "Fish"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Fish.html#invertebrates",
+    "href": "content/Analysis/Species_list/Fish.html#invertebrates",
+    "title": "Fish/Invertebrate species list",
+    "section": "",
+    "text": "Scientific name: Alpheus sp.\nCode: SNSH",
+    "crumbs": [
+      "Analysis",
+      "Species list",
+      "Fish"
+    ]
+  },
+  {
     "objectID": "content/Analysis/Species_list/Myst_list.html",
     "href": "content/Analysis/Species_list/Myst_list.html",
     "title": "Baleen Whales: Typically below 5 kHz",
@@ -55,6 +91,18 @@
     "text": "Analysis\n\n\nSpecies list\nOur list of PAB’s study species is organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\n\nAnalysis protocols\nOur lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page.",
     "crumbs": [
       "Analysis"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Protocols/Pinniped_protocols.html",
+    "href": "content/Analysis/Protocols/Pinniped_protocols.html",
+    "title": "Pinniped Protocols",
+    "section": "",
+    "text": "Pinniped Protocols\nPAB collects Gray seal acoustic data using a dip hydrophone, and send the raw soundfiles to UNH for analysis",
+    "crumbs": [
+      "Analysis",
+      "Analysis protocols",
+      "Pinnipeds"
     ]
   },
   {
@@ -1226,7 +1274,7 @@
     "href": "content/Analysis/Species_list/Pinniped.html",
     "title": "Pinnipeds",
     "section": "",
-    "text": "Pinnipeds",
+    "text": "Pinnipeds\n\nGray seal\nScientific name: Halichoerus grypus\nCode: GRSE",
     "crumbs": [
       "Analysis",
       "Species list",
