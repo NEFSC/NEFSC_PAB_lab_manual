@@ -1,1 +1,8 @@
 # Pinnipeds
+
+#### Gray seal
+
+Scientific name: *Halichoerus grypus*  
+Code: GRSE \
+
+![](/figs/Spec_images/Pinniped/Grayseal_spec.png){width=50%}

@@ -1,0 +1,3 @@
+# Pinniped Protocols
+
+PAB collects Gray seal acoustic data using a dip hydrophone, and send the raw soundfiles to UNH for analysis
