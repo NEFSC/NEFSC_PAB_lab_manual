@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Resources – NOAA quarto simple</title>
+<title>pa-soundfiles – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../content/LabManagement/Media.html" rel="next">
-<link href="../../content/LabManagement/PA_server_structure.html" rel="prev">
 <link href="../../images/favicon.ico" rel="icon">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -41,8 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d60dc51e4780a8da6e803e03ea2fa71c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-e19d0f8100c91b5b96a38b37e81d057c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-1b3b6ae1270efa41ab8a3afa815a4c7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-ec233c43085d5f5b55312e120616ba47.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -83,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/LabManagement/LabManagement.html">Lab Management</a></li><li class="breadcrumb-item"><a href="../../content/LabManagement/Resources.html">Resources</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -140,11 +138,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../content/LabManagement/LabManagement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lab Management</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../content/LabManagement/Team_member_bios.html" class="sidebar-item-text sidebar-link">
@@ -189,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../content/LabManagement/Resources.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../content/LabManagement/Resources.2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Resources</span></a>
   </div>
 </li>
@@ -328,37 +326,66 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#passive-acoustic_soundfiles-structure" id="toc-passive-acoustic_soundfiles-structure" class="nav-link active" data-scroll-target="#passive-acoustic_soundfiles-structure">Passive Acoustic_soundfiles structure</a>
+  <ul class="collapse">
+  <li><a href="#accessing-the-server" id="toc-accessing-the-server" class="nav-link" data-scroll-target="#accessing-the-server">Accessing the server</a></li>
+  <li><a href="#passiveacoustics_soundfiles-server-information" id="toc-passiveacoustics_soundfiles-server-information" class="nav-link" data-scroll-target="#passiveacoustics_soundfiles-server-information">PassiveAcoustics_soundfiles server information</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/PA soundfiles.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/PA soundfiles.md" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../content/LabManagement/LabManagement.html">Lab Management</a></li><li class="breadcrumb-item"><a href="../../content/LabManagement/Resources.html">Resources</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">Resources</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
+<section id="passive-acoustic_soundfiles-structure" class="level1">
+<h1>Passive Acoustic_soundfiles structure</h1>
+<p>The PassiveAcoustics_Soundfiles server is where we store all raw audio files. For information on where we store all other data see the <a href="https://docs.google.com/document/d/1VxZ9pT2j1ylzHbp2VbaZNV3WVEpuYS_ZFzozmT1G850/edit?usp=sharing">PassiveAcoustic server page</a>.</p>
+<section id="accessing-the-server" class="level3">
+<h3 class="anchored" data-anchor-id="accessing-the-server">Accessing the server</h3>
+<p>To access the server for the first time, submit an ITD ticket requesting access to PAB file shares and include Sofie or your team lead on the ticket so that they can provide approval.</p>
+<p>To access from the Windows file explorer enter: \\nefscdata\PassiveAcoustics_Soundfiles\<br>
+To access from a container enter: \\mnt\PassiveAcoustics_Soundfiles\</p>
+<p>For quick access on your computer, it is recommended to pin the server folder</p>
+</section>
+<section id="passiveacoustics_soundfiles-server-information" class="level3">
+<h3 class="anchored" data-anchor-id="passiveacoustics_soundfiles-server-information">PassiveAcoustics_soundfiles server information</h3>
+<p>The general organizational structure of PassiveAcoustic Soundfile directories is as follows:</p>
+<ul>
+<li><p><strong>Recorder type\</strong><br>
+Each hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.<br>
+<em>File name format: [recorder_type]</em><br>
+<em>Example: BOTTOM_MOUNTED</em></p>
+<ul>
+<li><p><strong>Region\</strong><br>
+Each general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.<br>
+<em>File name format: [fmc acronym]_[region acronym]</em><br>
+<em>Example: NEFSC_SBNMS</em></p>
+<ul>
+<li><p><strong>Deployment\</strong><br>
+Each individual deployment has a folder.<br>
+<em>File name format: [fmc acronym]_[region acronym]_[deployment start month/year as [YYYYMM]_[unique site ID]</em><br>
+<em>Example: NEFSC_SBNMS_202307_SB03</em></p>
+<ul>
+<li><p><strong>Recorder\</strong><br>
+If multiple instruments are deployed on one mooring, each recorder type (deployed together as a unit) has its own a folder.<br>
+<em>File name format: [fmc acronym]_[region acronym]_[deployment start month/year as [YYYYMM]_[site ID]_[instrument type]</em></p>
+<p><em>Example:NEFSC_SBNMS_202307_SB03_ST</em></p></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
 
 
-</header>
-
-
-<p>This page is optional but can be a good spot for any remaining resources or tools you want easy access to.</p>
-<div data-align="center">
-<p><img src="../../figs/infographics/SLOCUM-GLIDER.png" class="img-fluid" width="150"></p>
-
-
-</div>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -922,18 +949,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../../content/LabManagement/PA_server_structure.html" class="pagination-link" aria-label="PassiveAcoustics Server Structure">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">PassiveAcoustics Server Structure</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../../content/LabManagement/Media.html" class="pagination-link" aria-label="Media">
-        <span class="nav-page-text">Media</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -942,7 +957,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/Resources.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/Resources.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/LabManagement/PA soundfiles.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/LabManagement/PA soundfiles.md" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
