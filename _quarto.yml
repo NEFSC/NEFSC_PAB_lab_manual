@@ -54,7 +54,7 @@ website:
             text: Remote Desktop Computer Information
           - href: content/LabManagement/PA_server_structure.qmd
             text: PassiveAcoustics Server Structure
-          - href: content/LabManagement/Resources.qmd
+          - href: content/LabManagement/Resources.2.qmd
             text: Resources
           - href: content/LabManagement/Media.qmd
             text: Media
