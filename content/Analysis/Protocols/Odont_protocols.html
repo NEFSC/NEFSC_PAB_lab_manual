@@ -41,8 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-d60dc51e4780a8da6e803e03ea2fa71c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/bootstrap/bootstrap-dark-e19d0f8100c91b5b96a38b37e81d057c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-1b3b6ae1270efa41ab8a3afa815a4c7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-ec233c43085d5f5b55312e120616ba47.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -354,7 +354,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#odontecete-protocols" id="toc-odontecete-protocols" class="nav-link active" data-scroll-target="#odontecete-protocols">Odontecete Protocols</a>
   <ul class="collapse">
   <li><a href="#fpod-odontocete-detector" id="toc-fpod-odontocete-detector" class="nav-link" data-scroll-target="#fpod-odontocete-detector">FPOD Odontocete Detector</a></li>
-  <li><a href="#spice-odontocete-detector" id="toc-spice-odontocete-detector" class="nav-link" data-scroll-target="#spice-odontocete-detector">SPICE Odontocete Detector</a></li>
   <li><a href="#dfo-beaked-whale-detector" id="toc-dfo-beaked-whale-detector" class="nav-link" data-scroll-target="#dfo-beaked-whale-detector">DFO Beaked Whale Detector</a></li>
   <li><a href="#banter-for-beaked-whales" id="toc-banter-for-beaked-whales" class="nav-link" data-scroll-target="#banter-for-beaked-whales">Banter for Beaked Whales</a></li>
   <li><a href="#alba-convolutional-neural-network-detector" id="toc-alba-convolutional-neural-network-detector" class="nav-link" data-scroll-target="#alba-convolutional-neural-network-detector">Alba Convolutional Neural Network Detector</a></li>
@@ -376,16 +375,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="fpod-odontocete-detector">FPOD Odontocete Detector</h2>
 <p>Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs</p>
 <ul>
-<li>Code: FPOD_ODONTOCETE<br>
-</li>
-<li>Link to analysis protocol page</li>
-</ul>
-</section>
-<section id="spice-odontocete-detector" class="level2">
-<h2 class="anchored" data-anchor-id="spice-odontocete-detector">SPICE Odontocete Detector</h2>
-<p>Triton’s odontocete click detector; written by <a href="https://github.com/MarineBioAcousticsRC/Triton">Kait Frasier</a></p>
-<ul>
-<li>Code: MATLAB_TRITON_ODONTOCETE_FIXED_SPICE<br>
+<li>Makara detector code: FPOD_ODONTOCETE<br>
 </li>
 <li>Link to analysis protocol page</li>
 </ul>
@@ -394,7 +384,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="dfo-beaked-whale-detector">DFO Beaked Whale Detector</h2>
 <p>Beaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086072">Baumann-Pickering et al.&nbsp;2013</a></p>
 <ul>
-<li>Code: MATLAB_BEAKED_FIXED<br>
+<li>Makara detector code: MATLAB_BEAKED_FIXED<br>
 </li>
 <li>Link to analysis protocol page</li>
 </ul>
@@ -405,7 +395,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Rankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I., … &amp; Trickey, J. S. (2024). Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics, 80, 102511.<br>
 </p>
 <ul>
-<li>Code: R_BANTER_ML (double check this)</li>
+<li>Makara detector code: R_BANTER_ML (double check this)</li>
 <li>Research <a href="https://doi.org/10.1016/j.ecoinf.2024.102511">compendium</a></li>
 <li><a href="https://github.com/shannonrankin/BANTER_BeakedWhales">Github</a></li>
 </ul>
@@ -414,7 +404,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="alba-convolutional-neural-network-detector">Alba Convolutional Neural Network Detector</h2>
 <p>Beaked whale CNN detector written by <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304744">Alba Solsona Berga</a></p>
 <ul>
-<li>Code: MATLAB_BEAKED_FIXED_ALBA_CNN<br>
+<li>Makara detector code: MATLAB_BEAKED_FIXED_ALBA_CNN<br>
 </li>
 <li>Link to analysis protocol page</li>
 </ul>
@@ -423,7 +413,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="pamguard-odontocete-click-detector">PAMGuard Odontocete Click Detector</h2>
 <p>Detector used for all odontocete clicks; see <a href="https://www.pamguard.org/olhelp/">PAMguard’s Help</a> documentation for details</p>
 <ul>
-<li>Code: PAMGUARD_ODONTOCETE_CLICK<br>
+<li>Makara detector code: PAMGUARD_ODONTOCETE_CLICK<br>
 </li>
 <li>Sperm whale protocols
 <ul>
@@ -454,7 +444,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="pamguard-odontocete-and-baleen-whistle-and-moan-detector">PAMGuard Odontocete and Baleen Whistle and Moan Detector</h2>
 <p>Basic tonal detector that can be used for odontocetes and baleen whales</p>
 <ul>
-<li>Code: PAMGUARD_WHISTLE_MOAN<br>
+<li>Makara detector code: PAMGUARD_WHISTLE_MOAN<br>
 </li>
 <li>Link to analysis protocol page</li>
 </ul>

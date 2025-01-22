@@ -41,8 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d60dc51e4780a8da6e803e03ea2fa71c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-e19d0f8100c91b5b96a38b37e81d057c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-1b3b6ae1270efa41ab8a3afa815a4c7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-ec233c43085d5f5b55312e120616ba47.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -353,10 +353,10 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#software" id="toc-software" class="nav-link active" data-scroll-target="#software">Software</a>
   <ul class="collapse">
-  <li><a href="#detector-software" id="toc-detector-software" class="nav-link" data-scroll-target="#detector-software">Detector Software</a></li>
+  <li><a href="#detectors-and-classifyers" id="toc-detectors-and-classifyers" class="nav-link" data-scroll-target="#detectors-and-classifyers">Detectors and Classifyers</a></li>
   <li><a href="#soundscape-analysis-software" id="toc-soundscape-analysis-software" class="nav-link" data-scroll-target="#soundscape-analysis-software"><strong>Soundscape Analysis Software</strong></a></li>
   <li><a href="#validation-and-analysis-tools" id="toc-validation-and-analysis-tools" class="nav-link" data-scroll-target="#validation-and-analysis-tools"><strong>Validation and Analysis tools</strong></a></li>
-  <li><a href="#generic-softwares" id="toc-generic-softwares" class="nav-link" data-scroll-target="#generic-softwares"><strong>Generic Softwares</strong></a></li>
+  <li><a href="#coding-languages" id="toc-coding-languages" class="nav-link" data-scroll-target="#coding-languages"><strong>Coding Languages</strong></a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/Software/Software.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/Software/Software.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -372,8 +372,8 @@ ul.task-list li input[type="checkbox"] {
 <h1>Software</h1>
 <hr>
 <p>This is a list of all softwares used by the NEFSC Passive acoustic branch.</p>
-<section id="detector-software" class="level3">
-<h3 class="anchored" data-anchor-id="detector-software">Detector Software</h3>
+<section id="detectors-and-classifyers" class="level3">
+<h3 class="anchored" data-anchor-id="detectors-and-classifyers">Detectors and Classifyers</h3>
 <p>For more information on detectors, see <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html">Analysis protocol</a> pages</p>
 <section id="low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier" class="level4">
 <h4 class="anchored" data-anchor-id="low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier">Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier</h4>
@@ -396,6 +396,17 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://github.com/MarineBioAcousticsRC/Triton">Github</a><br>
 </li>
 <li>User <a href="https://github.com/MarineBioAcousticsRC/Triton/blob/master/Extras/TritonUserManual.pdf">guide</a></li>
+</ul>
+</section>
+<section id="banter" class="level4">
+<h4 class="anchored" data-anchor-id="banter">BANTER</h4>
+<p>BANTER is a supervised classification algorithm written in R. It requires minimal human intervention, providing more consistent results with fewer biases and errors than manual classification. Can be applied to anthropogenic, marine organisms, and terrestrial organisms. Developed by Shannon Rankin and Frederick Archer of SWFSC Marine Mammal and turtle division (User guide).</p>
+<ul>
+<li>BANTER User’s <a href="https://taikisan21.github.io/PAMpal/banterGuide.html">Guide</a> *If the NEFSC PAB has its own BANTER user guide, add here<br>
+</li>
+<li>BANTER <a href="https://cran.r-project.org/package=banter">CRAN</a><br>
+</li>
+<li>BANTER <a href="https://github.com/EricArcher/banter">Github</a></li>
 </ul>
 </section>
 </section>
@@ -458,20 +469,9 @@ ul.task-list li input[type="checkbox"] {
 <li>PAMpal <a href="https://github.com/TaikiSan21/PAMpal">Github</a></li>
 </ul>
 </section>
-<section id="banter" class="level4">
-<h4 class="anchored" data-anchor-id="banter">BANTER</h4>
-<p>BANTER is a supervised classification algorithm written in R. It requires minimal human intervention, providing more consistent results with fewer biases and errors than manual classification. Can be applied to anthropogenic, marine organisms, and terrestrial organisms. Developed by Shannon Rankin and Frederick Archer of SWFSC Marine Mammal and turtle division (User guide).</p>
-<ul>
-<li>BANTER User’s <a href="https://taikisan21.github.io/PAMpal/banterGuide.html">Guide</a> *If the NEFSC PAB has its own BANTER user guide, add here<br>
-</li>
-<li>BANTER <a href="https://cran.r-project.org/package=banter">CRAN</a><br>
-</li>
-<li>BANTER <a href="https://github.com/EricArcher/banter">Github</a></li>
-</ul>
 </section>
-</section>
-<section id="generic-softwares" class="level3">
-<h3 class="anchored" data-anchor-id="generic-softwares"><strong>Generic Softwares</strong></h3>
+<section id="coding-languages" class="level3">
+<h3 class="anchored" data-anchor-id="coding-languages"><strong>Coding Languages</strong></h3>
 <section id="matlab" class="level4">
 <h4 class="anchored" data-anchor-id="matlab">Matlab</h4>
 <ul>
@@ -492,6 +492,9 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="anaconda-environments" class="level4">
 <h4 class="anchored" data-anchor-id="anaconda-environments">Anaconda environments</h4>
+<ul>
+<li><a href="https://anaconda.org/">Website</a></li>
+</ul>
 
 
 </section>
