@@ -1,0 +1,32 @@
+# Fish/Invertebrate species list
+
+## Fish
+
+#### Herring
+
+Scientific name: Clupea Harengus  
+Code:
+
+#### Atlantic cod
+
+Scientific name: Gadus Morhua  
+Code: ATCO  
+![](/figs/Spec_images/Fish/Cod_spec.PNG){width=50%}
+
+#### Haddock
+
+Scientific name: *Melanogrammus aeglefinus*  
+Code: HADD  
+![](/figs/Spec_images/Fish/Haddock_spec.PNG){width=50%}
+
+#### Unidentified Fish
+
+Code: UNFI
+
+## Invertebrates 
+
+#### Snapping Shrimp
+
+Scientific name: *Alpheus sp.*  
+Code: SNSH  
+![](/figs/Spec_images/Fish/shrimp_spec.PNG){width=50%}
