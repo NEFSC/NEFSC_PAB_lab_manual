@@ -4,22 +4,22 @@
 
 Explosion detector for data collected on stationary platforms
 
+* Makara detector code: MATLAB\_ANTHROPOGENIC\_FIXED
 * [Github](https://github.com/MarineBioAcousticsRC/Explosions-Detector)  
-* Code: MATLAB\_ANTHROPOGENIC\_FIXED
 
 ## Pile Driving Detector
 
 Detector for pile driving associated with offshore wind energy development; developed by Xavier Mouy
 
-* Code: PYTHON\_PILEDRIVING\_KURTOSIS  
+* Makara detector code: PYTHON\_PILEDRIVING\_KURTOSIS  
 * Link to analysis protocol page
 
 ## Ship Detector
 
 The Ship Detector Remora is a repository with user-friendly interfaces to detect ship passages and weather events from Long-Term Spectral Averages (LTSAs). This package was initially developed for this [Ph.D. thesis](https://upcommons.upc.edu/handle/2117/129269) and since then has been expanded for the [Sound Monitoring Project](https://sanctuaries.noaa.gov/science/monitoring/sound/) to support Marine Protected Area management, as well as additional monitoring projects.
 
+* Makara detector code: MATLAB\_TRITON\_VESSEL\_FIXED  
 * [Wiki (Github)](https://github.com/MarineBioAcousticsRC/Triton/wiki/Ship-Detector)  
-* Code: MATLAB\_TRITON\_VESSEL\_FIXED  
 * Steps for running Alba’s [Ship Detector](https://docs.google.com/document/d/1uAbYtp8gZcKZWZzKJS0YLKObNdlicszK/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
 * Steps for running [hourly presence only](https://docs.google.com/document/d/1-m_oLFPi9YIsWrxgC9eDsz0OMq74Tw2U/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)
 

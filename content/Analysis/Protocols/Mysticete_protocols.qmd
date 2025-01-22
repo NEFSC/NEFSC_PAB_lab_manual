@@ -4,8 +4,8 @@
 
 Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see [Baumgartner and Mussoline 2011](https://www.researchgate.net/publication/51123050_A_generalized_baleen_whale_call_detection_and_classification_system)
 
-* Code: LFDCS\_Baleen  
-* LFDCS [Reference Guide](https://drive.google.com/drive/folders/1q2F86g0XxUYJCpds9JWpFa5KttKyvD19)  
+* Makara detector code: LFDCS\_Baleen  
+* LFDCS [Reference Guide](https://repository.library.noaa.gov/view/noaa/48671)  
 * LFDCS [Presence Sheet Guide](https://docs.google.com/spreadsheets/d/1PoBflBAnKbVKeEK-lx_Qn94nOcWijwO-/edit?gid=2143957491#gid=2143957491)  
 * NEFSC PAB protocol: [Baleen Whale Daily Presence Using LFDCS](https://docs.google.com/document/d/1JI9u8pTyhnNcRHlot0QZoYwUbd2FcMoM1VBZtBUbivw/edit?tab=t.0#heading=h.guep3v7b1sn3)  
 * LFDCS [Daily Code](https://docs.google.com/document/d/1GwK33xLCXwW29Hj-thr5v6K8ST2QazoQuDZD-Qse-lw/edit?tab=t.0)
@@ -15,25 +15,17 @@ Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see
 <div align=left>
 *FIG. 1. A pitch-tracking example. (a) Spectrogram [S; Eq. (1)] created from short time Fourier transforms of the audio data (sampling frequency¼2048 Hz, frame¼640 samples, overlap¼80%, Hann window) and smoothed with the smoothing operator [M; Eq. (2)]. Four calls are present: two sei whale downsweeps (40–100 Hz, 1.4 s duration) and two right whale moans (120–170 Hz, 2.7 s duration). (b) Filtered spectrogram [A; Eq. (3)] created by subtracting a running mean from each discrete frequency band. Note removal of 220–225 Hz tonal noise. (c) Pitch tracks of calls with average amplitudes in excess of 12 dB relative to background. (d) Same pitch tracks in (c) with amplitude displayed in color.* **Baumgartner & Mussoline, 2011**
 
-## Humpback Whale Convolutional Neural Network Detector 
+## Humpback Whale Convolutional Neural Network (CNN) Detector 
 
 Humpback whale convolutional neural network detector; originally developed by Ann Allen/Google and modified for the North Atlantic humpback whale population by [Vincent Kather](https://pubs.aip.org/asa/jasa/article/155/3/2050/3271347/Development-of-a-machine-learning-detector-for)
 
-* Code: PYTHON\_HUMPBACK\_CNN  
-* Link to analysis protocol page
+* Makara detector code: PYTHON\_HUMPBACK\_CNN  
+* [Github](https://github.com/vskode/acodet)
 
 ## Ketos Minke Whale Detector
 
 Atlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detector (currently in use); developed by Xavier Mouy
 
-* Code: PYTHON\_MINKE  
-* Protocol page:  
-  * Z:\\Stellwagen\_Old\\DATA\_ANALYSIS\\BALEEN\_WHALES\\MINKE\_ATLANTIC\_ALL\\DETECTOR\_ANALYSIS\\DETECTOR\_VALIDATION\_RHETT  
+* Makara detector code: PYTHON\_MINKE  
+* [Github](https://github.com/xaviermouy/minke-whale-detector)
 * [Quick guide](/content/Analysis/Protocols/Minke_detect_guide.pdf)  
-
-## PAMGuard Odontocete and Baleen Whistle and Moan Detector
-
-Basic tonal detector that can be used for odontocetes and baleen whales
-
-* Code: PAMGUARD\_WHISTLE\_MOAN  
-* protocol
