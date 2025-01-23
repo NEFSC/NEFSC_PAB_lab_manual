@@ -92,8 +92,8 @@ website:
                 text: Fish 
               - href: content/Analysis/Protocols/Anthro_protocols.qmd
                 text: Anthropogenic 
-              - href: content/Analysis/Protocols/AMP_protocols.qmd
-                text: Australia Marine Park 
+           #   - href: content/Analysis/Protocols/AMP_protocols.qmd
+           #    text: Australia Marine Park 
       - href: content/FieldMethods/FieldMethods.qmd
         text: Field Methods
       - href: content/Reporting/Reporting.qmd
