@@ -139,7 +139,7 @@ Humpback whale songs change frequently over the years. See below for audio/spect
 
 #### Humpback song - 2009
 <video controls="" width="440" height="15" name="media">
-    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_song_2009.24.wav" type="audio/wav">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_song_2021.wav" type="audio/wav">
 </video>
 ![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_song_2009.PNG){width=85%}
 
