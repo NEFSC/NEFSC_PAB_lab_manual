@@ -5,7 +5,7 @@
 
 This is a list of all softwares used by the NEFSC Passive acoustic branch. 
 
-### Detectors and Classifyers
+### Detectors and Classifiers
 
 For more information on detectors, see [Analysis protocol](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html) pages
 
