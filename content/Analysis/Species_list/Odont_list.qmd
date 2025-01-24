@@ -95,6 +95,11 @@ Makara species code: GRAM
 
 #### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)\
 ![](/figs/infographics/odont_noaafisheries/Atlantic_spotted_noaa.png){width=35%}
+<video controls="" autoplay="" name="media">
+    <source src="https://Isabellagarf.github.io/NEFSC_PAB_lab_manual/figs/Audio/Atl.spot/stfr_whistles.wav" type="audio/wav">
+</video>
+
+[Whistle](/content/figs/Audio/Atl.spot/Stfr_whistles.wav)
 
 Scientific name: *Stenella frontalis*  
 Makara species code: WSDO  
