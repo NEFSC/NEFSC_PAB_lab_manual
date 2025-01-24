@@ -135,7 +135,34 @@ Makara species code: HUWH\
   * Humpback whale mixed song and social calls  
   * Makara call-type code: HWMIX
 
+Humpback whale songs change frequently over the years. See below for audio/spectrogram examples of North Atlantic Humpback songs collected by NEFSC PAB between 2008 - 2021.
 
-![](/figs/Spec_images/Baleen/HUMP_spec.PNG){width=65%}
-\
-*Spectrogram image of Humpback whale song*
+#### Humpback song - 2009
+<video controls="" width="440" height="15" name="media">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_song_2009.wav" type="audio/wav">
+</video>
+![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_song_2009.PNG){width=85%}
+
+#### Humpback song - 2012
+<video controls="" width="440" height="15" name="media">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_song_2012.wav" type="audio/wav">
+</video>
+![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_song_2012.PNG){width=85%}
+
+#### Humpback song - 2017
+<video controls="" width="440" height="15" name="media">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_song_2017.wav" type="audio/wav">
+</video>
+![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_song_2017.PNG){width=85%}
+
+#### Humpback song - 2021
+<video controls="" width="440" height="15" name="media">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_song_2021.wav" type="audio/wav">
+</video>
+![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_song_2021.PNG){width=85%}
+
+#### Humpback Social calls
+<video controls="" width="440" height="15" name="media">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_competitionsounds.wav" type="audio/wav">
+</video>
+![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_competitionsounds.PNG){width=85%}
