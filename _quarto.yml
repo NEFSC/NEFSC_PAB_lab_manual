@@ -7,7 +7,7 @@ website:
   site-url: "https://nefsc.github.io/NEFSC_PAB_lab_manual/" 
   repo-url: "https://github.com/NEFSC/NEFSC_PAB_lab_manual"
   repo-actions: [edit, source, issue]
-  favicon: images/favicon.ico
+  favicon: favicon.ico
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
