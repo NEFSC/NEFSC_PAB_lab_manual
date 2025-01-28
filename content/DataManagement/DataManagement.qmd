@@ -1,6 +1,9 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
+---
+title: "Data Management"
+page-layout: full
+---
+![](/figs/infographics/NEFSC_specie_boat.png){width=85%}
 
-## Data Management
+## Content
 
-
-*Under Construction*
+Review 'Data Management' for specifics on how we store acoustic files in our PassiveAcoustics Soundfiles server

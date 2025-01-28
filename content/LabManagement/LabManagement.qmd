@@ -1,6 +1,12 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
+---
+title: "Lab Management"
+page-layout: full
+---
 
-## Lab Management
+![](/figs/infographics/NEFSC_specie_boat.png){width=85%}
+
+## Content
+Review 'Lab Management' for information on lab members/alumn, Onboarding protocols for new hires, RDC and server information, and additional logistics. 
 
 
-*Under Construction*
+For any information that needs to be updated/removed, please submit an issue by clicking 'Report an issue' on the top right corner of this page. 

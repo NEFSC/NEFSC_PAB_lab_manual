@@ -1,7 +1,9 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
-
-# Analysis
 ---
+title: "Analysis"
+page-layout: full
+---
+
+![](/figs/infographics/NEFSC_specie_boat.png)
 
 ### Species list
 

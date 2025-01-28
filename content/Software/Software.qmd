@@ -1,9 +1,9 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
-
-# Software
+---
+title: "Software"
+page-layout: full
 ---
 
-This is a list of all softwares used by the NEFSC Passive acoustic branch. 
+![](/figs/infographics/NEFSC_specie_boat.png)
 
 ### Detectors and Classifiers
 

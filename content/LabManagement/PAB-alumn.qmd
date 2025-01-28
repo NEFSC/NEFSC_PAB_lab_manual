@@ -1,5 +1,8 @@
-# PAB Alumni
 ---
+title: "Passive ACoustics Branch Alumni"
+page-layout: full
+---
+
 
 # Staff
 

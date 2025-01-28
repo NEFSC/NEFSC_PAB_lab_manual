@@ -46,8 +46,6 @@ website:
             text: PAB Alumni
           - href: content/LabManagement/Safety.qmd
             text: Lab Safety
-          - href: content/LabManagement/Inventory.qmd
-            text: Inventory
           - href: content/LabManagement/Onboarding.qmd
             text: Onboarding/Offboarding
           - href: content/LabManagement/RDC-info.qmd
