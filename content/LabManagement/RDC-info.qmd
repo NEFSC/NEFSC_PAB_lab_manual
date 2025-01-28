@@ -1,5 +1,8 @@
-# RDP Computer Information
 ---
+title: "RDP Computers"
+page-layout: full
+---
+
 
 List of RDP computers, where they’re located (with CD#s, not IP addresses), and which softwares are hosted on each.
 

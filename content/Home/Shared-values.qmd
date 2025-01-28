@@ -1,4 +1,6 @@
-# Shared values
+---
+title: "Shared Values"
+page-layout: full
 ---
 
 *Under construction*

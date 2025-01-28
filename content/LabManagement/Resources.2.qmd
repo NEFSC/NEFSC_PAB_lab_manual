@@ -14,8 +14,8 @@ title: Resources
 ### NEFSC
 
 * Wifi (not updated) 
-  * Network: Redtide  
-  * Password: F1shM0nger$  
+  * Network: NEFSC-WH  
+  * Password: Pr@wn2thew3bWH  
 * NEFSC Building Code and Keys  
   * CD390 [form](https://drive.google.com/file/d/1m9SY4L4v19ZFj5DKum1eYw9vDgqREWud/view?usp=drive_link)  
   * Contact email: [nefsc.wh.shop@noaa.gov](mailto:nefsc.wh.shop@noaa.gov)  

@@ -1,6 +1,10 @@
-# Collaborators
+---
+title: "Collaborators"
+page-layout: full
+---
 
-This is a list of NEFSC PAB’s collaborators.
+
+A list of NEFSC PAB’s collaborators:
 
 # Academic Institutions
 
