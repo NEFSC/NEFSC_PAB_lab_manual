@@ -2,7 +2,7 @@
 title: "Data Management"
 page-layout: full
 ---
-![](/figs/infographics/NEFSC_specie_boat.png){width=85%}
+![](/figs/infographics/NEFSC_specie_boat.png)
 
 ## Content
 
