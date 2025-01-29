@@ -3,7 +3,7 @@ title: "Lab Management"
 page-layout: full
 ---
 
-![](/figs/infographics/NEFSC_specie_boat.png){width=85%}
+![](/figs/infographics/NEFSC_specie_boat.png)
 
 ## Content
 Review 'Lab Management' for information on lab members/alumn, Onboarding protocols for new hires, RDC and server information, and additional logistics. 

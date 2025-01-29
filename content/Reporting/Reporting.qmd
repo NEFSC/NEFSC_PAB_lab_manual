@@ -1,7 +1,7 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
-
-# Reporting 
 ---
+title: Reporting
+---
+![](/figs/infographics/NEFSC_specie_boat.png)
 
 ### List of reports published by PAB
 * [Example Australian Marine Parks Reports](/content/Reporting/AMP/AMP_2022.pdf) - every 6 months

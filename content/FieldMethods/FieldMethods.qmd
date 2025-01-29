@@ -1,6 +1,8 @@
-![](/figs/infographics/NEFSC_specie_boat.png)
+---
+title: Field Methods
+---
 
-## Field Methods
+![](/figs/infographics/NEFSC_specie_boat.png)
 
 *Under construction*\
 
