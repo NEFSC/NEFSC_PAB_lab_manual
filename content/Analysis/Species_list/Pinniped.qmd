@@ -1,6 +1,7 @@
-# Pinnipeds
-
-### **Gray seal**
+---
+title: Pinnipeds
+---
+## **Gray seal**
 ![](/figs/infographics/Gray_seal_noaafisheries.png){width=30%}\
 Scientific name: *Halichoerus grypus*  
 Code: GRSE \
