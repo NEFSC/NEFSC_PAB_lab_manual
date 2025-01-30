@@ -17,7 +17,7 @@ The Passive Acoustic Branch (PAB) is part of the Protected Species Division of t
 #### Voices of the Ocean: Using acoustics to monitor endagered Right whales
 
 <video width="440" height="260" controls>
-  <source src=/figs/Videos/VITS.2.mp4 type="video/mp4">
+  <source src=/figs/Videos/VITS.2.T.mp4 type="video/mp4">
   </video>
 
 ## PAB Calendar
