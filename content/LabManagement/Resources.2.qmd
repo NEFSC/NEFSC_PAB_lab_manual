@@ -13,7 +13,7 @@ title: Resources
 
 ### NEFSC
 
-* Wifi (not updated) 
+* Wifi 
   * Network: NEFSC-WH  
   * Password: Pr@wn2thew3bWH  
 * NEFSC Building Code and Keys  
