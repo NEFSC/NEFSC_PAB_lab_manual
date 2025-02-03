@@ -20,6 +20,17 @@ Code: ATCO
 
 #### Haddock
 ![](/figs/infographics/fish_noaafisheries/Haddock.png){width=15%}\
+
+<video controls="" width="440" height="15" name="media">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Fish/Haddock.wav" type="audio/wav">
+</video>
+
+![](/figs/Spec_images/Fish/Haddock_3.PNG){width=50%}
+
+
+![](/figs/Spec_images/Fish/Cod_spec_2.PNG){width=50%}
+
+
 Scientific name: *Melanogrammus aeglefinus*  
 Code: HADD  
 ![](/figs/Spec_images/Fish/Haddock_spec.PNG){width=50%}
