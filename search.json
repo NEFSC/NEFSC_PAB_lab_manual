@@ -348,106 +348,76 @@
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Odont_list.html",
-    "href": "content/Analysis/Species_list/Odont_list.html",
-    "title": "Odontocetes",
+    "objectID": "content/Analysis/Species_list/Fish.html",
+    "href": "content/Analysis/Species_list/Fish.html",
+    "title": "Fish/Invertebrate species list",
     "section": "",
-    "text": "In this section, we organize our odontocete species list by Sperm whale, Delphinidae (broadband, 30-50 kHz peak, and blackfish), Beaked whales, and narrow high-band frequency species (Porpoise, Kogiidae). Each section includes call types, spectra imagery, and wigner plots if applicable. Below is a figure differentiating inter-click-interval ranges of these odontocete groups.",
+    "text": "Scientific name: Clupea Harengus\nMakara species code: N/A\n\n\n\n\nScientific name: Gadus Morhua\nCode: ATCO\n\n\n\n\n\n\n\n\n\n\nScientific name: Melanogrammus aeglefinus\nMakara species code: HADD",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Odontocetes"
+      "Sound Source list",
+      "Fish"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Odont_list.html#dolphins-broadband-30--50-khz-peak-blackfish",
-    "href": "content/Analysis/Species_list/Odont_list.html#dolphins-broadband-30--50-khz-peak-blackfish",
-    "title": "Odontocetes",
-    "section": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)",
-    "text": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)\nDolphinid and blackfish species produce various clicks and whistles. Dolphinid specie/click pairings are usually ground truthed used visual pairing techniques such as towed arrays. Due to the difficulty of pairing dolphinid species with their clicks, NEFSC PAB groups dolphin call types together using the following list. Whistles are more easily distinguished between species - spectrograms are included under each specie.\nCall types across dolphin groups:\n\nOdontocete buzz\n\nDolphin buzzes\n\nMakara call-type code: ODBZ\n\n\nOdontocete impulsive\n\nDolphin clicks\n\nMakara call-type code: ODCLICK\n\n\nOdontocete mixed calls\n\nWhen there’s a mix of whistles, clicks, burst pulses, etc. for dolphins\n\nMakara call-type code: ODMIX\n\n\nOdontocete whistle\n\nDolphin whistles\n\nMakara call-type code: ODWHIS\n\n\nOdontocete burst pulse\n\nDolphin burse pulses\n\nMakara call-type code: ODBP\n\n\n\nBroadband\n\n\nBottlenose dolphin\n\n\n\nScientific name: Turiops truncatus\nMakara species code: BODO\n\n\n\nShort beaked Common dolphin\n\n\n\nScientific name: Delphinus delphis\nMakara species code: SADO\n\n\n\n\n30-50 kHz peak\n\n\nRissos dolphin\n\n\nScientific name: Grampus griseus\nMakara species code: GRAM\n\n\n\nAtlantic spotted dolphin\n\n\nScientific name: Stenella frontalis\nMakara species code: WSDO\n   \n\n\nStriped dolphin\n\n\nScientific name: Stenella coeruleoalba\nMakara species code: STDO\n\n\n\nSpinner dolphin\n\n\nScientific name: Stenella longirostris\nMakara species code: SNDO\n\n\n\n\nBlackfish\nAlong with belugas and narwhales, blackfish can biphonate - produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.\n\n\nSpectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).\n\nFalse killer whale\n\n\nScientific name: Pseudorca crassidens\nMakara species code: FKWH\n\n\n\nShort finned pilot whale\n\n\nScientific name: Globicephala macrorhynchus\nMakara species code: SFPW\n  \nGlobicephala spp.",
-    "crumbs": [
-      "Analysis",
-      "Species list",
-      "Odontocetes"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Odont_list.html#beaked-whales",
-    "href": "content/Analysis/Species_list/Odont_list.html#beaked-whales",
-    "title": "Odontocetes",
-    "section": "Beaked Whales",
-    "text": "Beaked Whales\nBeaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale).\nCall types across beaked whale groups:\n\nBeaked whale frequency modulated upsweeps\n\nBeaked whale foraging clicks\n\nMakara call-type code: BWFMUP\n\nBeaked whale surface click\n\nBeaked whale communication, does not contain frequency-modulation\n\nMakara call-type code: BWCLICK\n\n\n\n\nBeaked whale click spectra plot (DeAngelis et al. 2018)\n\n\n\nSowerby’s beaked whale\n\n\n\n\nScientific name: Mesoplodon bidens\nMakara species code: SOBW\n\n\n\n\n\nBlainville’s beaked whale\n\n\n\n\nScientific name: Mesoplodon densirostris\nMakara species code: BLBW\n\n\n\n\n\nGervais’ beaked whale\n\n\n\n\nScientific name: Mesoplodon europaeus\nMakara species code: GEBW\n\n\n\n\n\nTrue’s beaked whale\n\n\n\n\nScientific name: Mesoplodon mirus\nMakara species code: TRBW\n\n\n\n\n\nCuvier’s beaked whale\n\n\n\nScientific name: Ziphius cavirostris\nMakara species code: CUBW\n\n\n\n\n\nGulf of Mexico’s Beaked whale (BWG, unknown)\nScientific name: Ziphiidae sp.\nMakara species code: BWG\n\n\n\n\nUnid True’s/Gervais beaked whale\nScientific name: Mesoplodon mirus/europaeus\nMakara species code: MMME",
-    "crumbs": [
-      "Analysis",
-      "Species list",
-      "Odontocetes"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Odont_list.html#narrow-high-band-frequency",
-    "href": "content/Analysis/Species_list/Odont_list.html#narrow-high-band-frequency",
-    "title": "Odontocetes",
-    "section": "Narrow high-band frequency",
-    "text": "Narrow high-band frequency\nNarrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location - nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes.\nCall types across high-band frequency group:\n\nNarrow band high frequency click\n\nNarrow band high frequency clicks used by kogia and porpoises\n\nMakara call-type code: NBHF\n\n\n\nDeAngelis, A. 2023\n\nHarbor porpoise\n\n\n\nScientific name: Phocoena phocoena\nCode: HAPO\nCall types:\n\nPorpoise buzz\n\nBuzzes used by porpoise species, either social or foraging\n\nMakara call-type code: POBZ\n\n\n\n\nPygmy sperm whale\n\n\n\nScientific name: Kogia breviceps\nMakara species code: PSWH\n\n\nDwarf sperm whale\n\n\n\nScientific name: Kogia sima\nMakara species code: DSWH\n\nMalinka et al. 2021",
-    "crumbs": [
-      "Analysis",
-      "Species list",
-      "Odontocetes"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Odont_list.html#sources",
-    "href": "content/Analysis/Species_list/Odont_list.html#sources",
-    "title": "Odontocetes",
-    "section": "Sources",
-    "text": "Sources\nAnnamaria Izzi DeAngelis, Joy E. Stanistreet, Simone Baumann-Pickering, Danielle M. Cholewiak; A description of echolocation clicks recorded in the presence of True’s beaked whale (Mesoplodon mirus). J. Acoust. Soc. Am. 1 November 2018; 144 (5): 2691–2700. https://doi.org/10.1121/1.5067379\nChloe E. Malinka, Pernille Tønnesen, Charlotte A. Dunn, Diane E. Claridge, Tess Gridley, Simon H. Elwen, Peter Teglberg Madsen; Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). J Exp Biol 15 March 2021; 224 (6): jeb240689. doi: https://doi.org/10.1242/jeb.240689\nMalinka CE, Tønnesen P, Dunn CA, Claridge DE, Gridley T, Elwen SH, Teglberg Madsen P. Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). J Exp Biol. 2021 Mar 26;224(Pt 6):jeb240689. doi: 10.1242/jeb.240689\nNemiroff L, Whitehead H. Structural characteristics of pulsed calls of long-finned pilot whales Globicephala melas. Bioacoustics. 2009;19:67–92. doi: 10.1080/09524622.2009.9753615.\nPace, D.S., Lanfredi, C., Airoldi, S. et al. Trumpet sounds emitted by male sperm whales in the Mediterranean Sea. Sci Rep 11, 5867 (2021). https://doi.org/10.1038/s41598-021-84126-8",
-    "crumbs": [
-      "Analysis",
-      "Species list",
-      "Odontocetes"
-    ]
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html",
-    "href": "content/Analysis/Species_list/Species list and call types V.2.html",
-    "title": "Species and call types",
+    "objectID": "content/Analysis/Species_list/Fish.html#fish",
+    "href": "content/Analysis/Species_list/Fish.html#fish",
+    "title": "Fish/Invertebrate species list",
     "section": "",
-    "text": "A list of study species, cetacean call types, soundscape events, and anthropogenic events monitored by NEFSC’s PAB. For marine mammal spectrogram images, see NOAA’s Sounds in the Ocean. For more information about each species, see this page. This is a list of call types that are frequently used to detect specific acoustic events from passive acoustic data. It is not meant to be comprehensive of all marine mammal repertoire’s. For more detailed information about species call types, see the linked acoustic event guides."
+    "text": "Scientific name: Clupea Harengus\nMakara species code: N/A\n\n\n\n\nScientific name: Gadus Morhua\nCode: ATCO\n\n\n\n\n\n\n\n\n\n\nScientific name: Melanogrammus aeglefinus\nMakara species code: HADD",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Fish"
+    ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#sperm-whales",
-    "href": "content/Analysis/Species_list/Species list and call types V.2.html#sperm-whales",
-    "title": "Species and call types",
-    "section": "Sperm whales",
-    "text": "Sperm whales\nThis section covers all sperm whale calls analyzed by NEFSC passive acoustics branch. A list of sperm whale call types and spectrogram examples are included below.\n\nSperm whale\nScientific name: Physeter macrocephalus\nCode: SPWH\nCall types:\n\nSperm whale coda\n\nSperm whale social: coda\n\nCode: SPCODA\n\n\nSperm whale creak\n\nSperm whale terminal foraging buzz\n\nCode: SPCREAK\n\n\nSperm whale foraging\n\nWhen there’s a mix of sperm whale foraging call types (i.e. usual clicks and buzzes)\n\nCode: SPFORG\n\n\nSperm whale slow click/ clangs\n\nSperm whale social: slow clicks and clangs\n\nCode: SPSLCC\n\n\nSperm whale social buzz\n\nSperm whale social: social buzz\n\nCode: SPSOCBZ\n\n\nSperm whale social mix\n\nWhen there’s a mix of sperm whale social call types (i.e. codas & social buzzes)\n\nCode: SPMIX\n\n\nSperm whale usual click\n\nSperm whale echolocation click\n\nCode: SPUSC\n\n\n\n\n\n\nSperm whale impulsive creak click type\n\n\n\n\n\n Madsen et al. 2002"
+    "objectID": "content/Analysis/Species_list/Fish.html#invertebrates",
+    "href": "content/Analysis/Species_list/Fish.html#invertebrates",
+    "title": "Fish/Invertebrate species list",
+    "section": "Invertebrates",
+    "text": "Invertebrates\n\nSnapping Shrimp\nScientific name: Alpheus sp.\nMakara species code: SNSH",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Fish"
+    ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#dolphins-broadband-30--50-khz-peak-blackfish",
-    "href": "content/Analysis/Species_list/Species list and call types V.2.html#dolphins-broadband-30--50-khz-peak-blackfish",
-    "title": "Species and call types",
-    "section": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)",
-    "text": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)\nDolphinid and blackfish species produce various clicks and whistles. Dolphinid specie/click pairings are usually ground truthed used visual pairing techniques such as towed arrays. Due to the difficulty of pairing dolphinid species with their clicks, NEFSC PAB groups dolphin call types together using the following list. Whistles are more easily distinguished between species - spectrograms are included under each specie.\nCall types across dolphin groups:\n\nOdontocete buzz\n\nDolphin buzzes\n\nCode: ODBZ\n\n\nOdontocete impulsive\n\nDolphin clicks\n\nCode: ODCLICK\n\n\nOdontocete mixed calls\n\nWhen there’s a mix of whistles, clicks, burst pulses, etc. for dolphins\n\nCode: ODMIX\n\n\nOdontocete whistle\n\nDolphin whistles\n\nCode: ODWHIS\n\n\nOdontocete burst pulse\n\nDolphin burse pulses\n\nCode: ODBP\n\n\n\nBroadband\n\n\nBottlenose dolphin\nScientific name: Turiops truncatus\nCode: BODO\n\n\n\nShort beaked Common dolphin\nScientific name: Delphinus delphis\nCode: SADO\n\n\n\n\n\n\n\n30-50 kHz peak\n\n\nRissos dolphin\nScientific name: Grampus griseus\nCode: GRAM\n\n\n\nAtlantic spotted dolphin\nScientific name: Stenella frontalis\nCode: WSDO\n\n\n\nStriped dolphin\nScientific name: Stenella coeruleoalba\nCode: STDO\n\n\n\nSpinner dolphin\nScientific name: Stenella longirostris\nCode: SNDO\n\n\n\n\nBlackfish\nAlong with belugas and narwhales, blackfish can biphonate - produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.\n\n\n\n\nBlackfish biphonate pulse call \n\n\n\n\n\n\nFalse killer whale\nScientific name: Pseudorca crassidens\nCode: FKWH\n\n\n\nShort finned pilot whale\nScientific name: Globicephala macrorhynchus\nCode: SFPW\n *Globicephala spp."
+    "objectID": "content/Analysis/Species_list/Myst_list.html",
+    "href": "content/Analysis/Species_list/Myst_list.html",
+    "title": "Baleen Whales",
+    "section": "",
+    "text": "The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. This is not meant to be comprehensive of all marine mammal repertoire’s. An acoustic event guide is linked for each specie.\n\nMinke whale\n\n\nScientific name: Balaenoptera acutorostrata\nMakara species code: MIWH\nCall types:\n\n\nMinke whale pulse train\n\nCurrently includes all pulse train types: constant/slow-down/speed-up\n\nMakara call-type code: MWPT\n\n\n\nSpectrogram image of Minke pulse train\n\n\n\n\n\nSei whale\n\n\nScientific name: Balaenoptera borealis\nMakara species code: SEWH\nCall types:\n\n\nSei whale 30-80 Hz downsweep\n\nSei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3 - 5 seconds apart as doublets, triplets, or more. If different distinguishable downsweep types are used, please notify PACM group to add call type\n\nMakara call-type code: SWDS\n\n\n\nSpectrogram image of Sei Whale downsweep\n\n\n\n\n\nBlue whale\n\n\nScientific name: Balaenoptera musculus\nMakara species code: BLWH\nCall types:\n\n\nBlue whale A/B/AB song\n\nNorth Atlantic blue whale song: includes all three call types (A, B, and AB)\n\nMakara call-type code: BLSONG\n\n\nBlue whale Arch/D call\n\nNorth Atlantic blue whale Arch calls, or D calls\n\nMakara call-type code: BLARCH\n\nBlue whale mix calls\n\nNorth Atlantic blue whale mix of calls including A/B/AB song, Arch calls, and D calls\n\nMakara call-type code: BLMIX\n\n\n\nSpectrogram image of Blue whale A/B/AB song\n\n\n\n\n\nFin whale\n\n\nScientific name: Balaenoptera physalus\nMakara species code: FIWH\nCall types:\n\n\nFin whale 130-Hz note\n\nFin whale 130-Hz note\n\nMakara call-type code: FWNOTE\n\n\nFin whale 20-Hz pulse\n\nFin whale 20-Hz pulses (song and non-song)\n\nMakara call-type code: FWPLS\n\nFin whale downsweep/ 40-Hz call\n\nFin whale downsweep (termed “higher frequency sounds”, “HF downsweep”, or “40-Hz” call): spanning ~75-40 Hz\n\nMakara call-type code: FWDS\n\n\nFin whale mix calls\n\nMix off North Atlantic fin whale call types: 20-Hz calls, 130-Hz note, and the higher-frequency downsweeps (~75-40 Hz), also referred to as “40-Hz” calls\n\nMakara call-type code: FWMIX\n\n\n\nSpectrogram image of Fin whale 20-Hz pulse calls\n\n\n\n\n\nNorth Atlantic right whale\n\n\nScientific name: Eubalaena glacialis\nMakara species code: RIWH\nCall types:\n\n\nNorth Atlantic right whale gunshot\n\nRight whale gunshot: broadband signal\n\nMakara call-type code: NARWGUNSHOT\n\n\nNorth Atlantic right whale moan\n\nRight whale moan: typically 100-200 Hz\n\nMakara call-type code: NARWMOAN\n\n\nNorth Atlantic right whale upcall\n\nContact-call produced by right whales: typically 100-300 Hz upsweep\n\nMakara call-type code: NARWUPCALL\n\n\n\nSpectrogram image of North Atlantic Right Whale upcalls\n\n\n\n\n\nHumpback whale\n\n\nScientific name: Megaptera novaeangliae\nMakara species code: HUWH\nCall types:\n\n\nHumpback whale social\n\nHumpback whale social calls only\n\nMakara call-type code: HWSOC\n\n\nHumpback whale song\n\nHumpback whale song only\n\nMakara call-type code: HWSONG\n\n\nHumpback whale mixed call\n\nHumpback whale mixed song and social calls\n\nMakara call-type code: HWMIX\n\n\n\nHumpback song - 2021\n\n\n\n\n\n\nHumpback Social calls",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Baleen"
+    ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#beaked-whales",
-    "href": "content/Analysis/Species_list/Species list and call types V.2.html#beaked-whales",
-    "title": "Species and call types",
-    "section": "Beaked Whales",
-    "text": "Beaked Whales\nBeaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale).\nCall types across beaked whale groups:\n\nBeaked whale frequency modulated upsweeps\n\nBeaked whale foraging clicks\n\nCode: BWFMUP\n\nBeaked whale surface click\n\nBeaked whale communication, does not contain frequency-modulation\n\nCode: BWCLICK\n\n\n\n\n\n\n\n\n\nBeaked whale click spectra plot\nBeaked whale frequency modulated click type (and delphinids off-axis)\n\n\n\n\n DeAngelis et al. 2018\n Cholewiak et al. 2017\n\n\n\n\nSowerby’s beaked whale\nScientific name: Mesoplodon bidens\nCode: SOBW\n\n\n\nBlainville’s beaked whale\nScientific name: Mesoplodon densirostris\nCode: BLBW\n\n\n\nGervais’ beaked whale\nScientific name: Mesoplodon europaeus\nCode: GEBW\n\n\n\nTrue’s beaked whale\nScientific name: Mesoplodon mirus\nCode: TRBW\n\n\n\nCuvier’s beaked whale\nScientific name: Ziphius cavirostris\nCode: CUBW\n\n\n\nGulf of Mexico’s Beaked whale (BWG, unknown)\nScientific name: Ziphiidae sp.\nCode: BWG\n\n\nUnid True’s/Gervais beaked whale\nScientific name: Mesoplodon mirus/europaeus\nCode: MMME"
+    "objectID": "content/Analysis/Species_list/Pinniped.html",
+    "href": "content/Analysis/Species_list/Pinniped.html",
+    "title": "Pinnipeds",
+    "section": "",
+    "text": "Scientific name: Halichoerus grypus\nCode: GRSE",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Pinnipeds"
+    ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#narrow-high-band-frequency",
-    "href": "content/Analysis/Species_list/Species list and call types V.2.html#narrow-high-band-frequency",
-    "title": "Species and call types",
-    "section": "Narrow high-band frequency",
-    "text": "Narrow high-band frequency\nNarrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location - nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes.\nCall types across high-band frequency group:\n\nNarrow band high frequency click\n\nNarrow band high frequency clicks used by kogia and porpoises\n\nCode: NBHF\n\n\n\nMalinka et al. 2021\n\nHarbor porpoise\nScientific name: Phocoena phocoena\nCode: HAPO\nCall types:\n\nPorpoise buzz\n\nBuzzes used by porpoise species, either social or foraging\n\nCode: POBZ\n\n\n\n\nPygmy sperm whale\nScientific name: Kogia breviceps\nCode: PSWH\n\n\nDwarf sperm whale\nScientific name: Kogia sima\nCode: DSWH"
-  },
-  {
-    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#sources",
-    "href": "content/Analysis/Species_list/Species list and call types V.2.html#sources",
-    "title": "Species and call types",
-    "section": "Sources",
-    "text": "Sources\nPace, D. S., Lanfredi, C., Airoldi, S., Giacomini, G., Silvestri, M., Pavan, G., & Ardizzone, D. (2021). Trumpet sounds emitted by male sperm whales in the Mediterranean Sea. Scientific Reports, 11(1), 1-16.\nCholewiak, D., DeAngelis, A. I., Palka, D., Corkeron, P. J., & Van Parijs, S. M. (2017). Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders. Royal Society open science, 4(12), 170940.\nMalinka, C. E., Tønnesen, P., Dunn, C. A., Claridge, D. E., Gridley, T., Elwen, S. H., & Teglberg Madsen, P. (2021). Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). Journal of Experimental Biology, 224(6), jeb240689.\nMadsen, P., Wahlberg, M., & Møhl, B. (2002). Male sperm whale (Physeter macrocephalus) acoustics in a high-latitude habitat: implications for echolocation and communication. Behavioral Ecology and Sociobiology, 53, 31-41.\nNemiroff, L. (2009). Structural Variation and Communicative Functions of Long-finned Pilot Whale (Globicephala Melas) Pulsed Calls and Complex Whistles.\nDeAngelis AI, Stanistreet JE, Baumann-Pickering S, Cholewiak DM (2018). A description of echolocation clicks recorded in the presence of True’s beaked whale (Mesoplodon mirus). J Acoust Soc Am. 144(5), 2691"
+    "objectID": "content/Analysis/Species_list/Pinniped.html#gray-seal",
+    "href": "content/Analysis/Species_list/Pinniped.html#gray-seal",
+    "title": "Pinnipeds",
+    "section": "",
+    "text": "Scientific name: Halichoerus grypus\nCode: GRSE",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Pinnipeds"
+    ]
   },
   {
     "objectID": "content/Analysis/Protocols/Pinniped_protocols.html",
@@ -972,75 +942,237 @@
     "text": "BANTER Machine Learning Classifier\nAcoustic event classifier for biological and anthropogenic sounds developed by Eric Archer\n\nGithub\n\nCode: R_BANTER_ML\n\nLink to analysis protocol page"
   },
   {
-    "objectID": "content/Analysis/Species_list/Pinniped.html",
-    "href": "content/Analysis/Species_list/Pinniped.html",
-    "title": "Pinnipeds",
+    "objectID": "content/Analysis/Species_list/Undefined.html",
+    "href": "content/Analysis/Species_list/Undefined.html",
+    "title": "Unidentified sounds",
     "section": "",
-    "text": "Scientific name: Halichoerus grypus\nCode: GRSE",
+    "text": "Scientific name: Balaeoptera sp.\nMakara code: UNBA\n\n\n\nScientific name: Balaenoptera physalus/bor\nMakara code: UNFS",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Pinnipeds"
+      "Sound Source list",
+      "Undefined sounds"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Pinniped.html#gray-seal",
-    "href": "content/Analysis/Species_list/Pinniped.html#gray-seal",
-    "title": "Pinnipeds",
+    "objectID": "content/Analysis/Species_list/Undefined.html#baleen",
+    "href": "content/Analysis/Species_list/Undefined.html#baleen",
+    "title": "Unidentified sounds",
     "section": "",
-    "text": "Scientific name: Halichoerus grypus\nCode: GRSE",
+    "text": "Scientific name: Balaeoptera sp.\nMakara code: UNBA\n\n\n\nScientific name: Balaenoptera physalus/bor\nMakara code: UNFS",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Pinnipeds"
+      "Sound Source list",
+      "Undefined sounds"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Myst_list.html",
-    "href": "content/Analysis/Species_list/Myst_list.html",
-    "title": "Baleen Whales",
-    "section": "",
-    "text": "The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. This is not meant to be comprehensive of all marine mammal repertoire’s. An acoustic event guide is linked for each specie.\n\nMinke whale\n\n\nScientific name: Balaenoptera acutorostrata\nMakara species code: MIWH\nCall types:\n\n\nMinke whale pulse train\n\nCurrently includes all pulse train types: constant/slow-down/speed-up\n\nMakara call-type code: MWPT\n\n\n\nSpectrogram image of Minke pulse train\n\n\n\n\n\nSei whale\n\n\nScientific name: Balaenoptera borealis\nMakara species code: SEWH\nCall types:\n\n\nSei whale 30-80 Hz downsweep\n\nSei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3 - 5 seconds apart as doublets, triplets, or more. If different distinguishable downsweep types are used, please notify PACM group to add call type\n\nMakara call-type code: SWDS\n\n\n\nSpectrogram image of Sei Whale downsweep\n\n\n\n\n\nBlue whale\n\n\nScientific name: Balaenoptera musculus\nMakara species code: BLWH\nCall types:\n\n\nBlue whale A/B/AB song\n\nNorth Atlantic blue whale song: includes all three call types (A, B, and AB)\n\nMakara call-type code: BLSONG\n\n\nBlue whale Arch/D call\n\nNorth Atlantic blue whale Arch calls, or D calls\n\nMakara call-type code: BLARCH\n\nBlue whale mix calls\n\nNorth Atlantic blue whale mix of calls including A/B/AB song, Arch calls, and D calls\n\nMakara call-type code: BLMIX\n\n\n\nSpectrogram image of Blue whale A/B/AB song\n\n\n\n\n\nFin whale\n\n\nScientific name: Balaenoptera physalus\nMakara species code: FIWH\nCall types:\n\n\nFin whale 130-Hz note\n\nFin whale 130-Hz note\n\nMakara call-type code: FWNOTE\n\n\nFin whale 20-Hz pulse\n\nFin whale 20-Hz pulses (song and non-song)\n\nMakara call-type code: FWPLS\n\nFin whale downsweep/ 40-Hz call\n\nFin whale downsweep (termed “higher frequency sounds”, “HF downsweep”, or “40-Hz” call): spanning ~75-40 Hz\n\nMakara call-type code: FWDS\n\n\nFin whale mix calls\n\nMix off North Atlantic fin whale call types: 20-Hz calls, 130-Hz note, and the higher-frequency downsweeps (~75-40 Hz), also referred to as “40-Hz” calls\n\nMakara call-type code: FWMIX\n\n\n\nSpectrogram image of Fin whale 20-Hz pulse calls\n\n\n\n\n\nNorth Atlantic right whale\n\n\nScientific name: Eubalaena glacialis\nMakara species code: RIWH\nCall types:\n\n\nNorth Atlantic right whale gunshot\n\nRight whale gunshot: broadband signal\n\nMakara call-type code: NARWGUNSHOT\n\n\nNorth Atlantic right whale moan\n\nRight whale moan: typically 100-200 Hz\n\nMakara call-type code: NARWMOAN\n\n\nNorth Atlantic right whale upcall\n\nContact-call produced by right whales: typically 100-300 Hz upsweep\n\nMakara call-type code: NARWUPCALL\n\n\n\nSpectrogram image of North Atlantic Right Whale upcalls\n\n\n\n\n\nHumpback whale\n\n\nScientific name: Megaptera novaeangliae\nMakara species code: HUWH\nCall types:\n\n\nHumpback whale social\n\nHumpback whale social calls only\n\nMakara call-type code: HWSOC\n\n\nHumpback whale song\n\nHumpback whale song only\n\nMakara call-type code: HWSONG\n\n\nHumpback whale mixed call\n\nHumpback whale mixed song and social calls\n\nMakara call-type code: HWMIX\n\n\n\nHumpback song - 2021\n\n\n\n\n\n\nHumpback Social calls",
+    "objectID": "content/Analysis/Species_list/Undefined.html#odontocete",
+    "href": "content/Analysis/Species_list/Undefined.html#odontocete",
+    "title": "Unidentified sounds",
+    "section": "Odontocete",
+    "text": "Odontocete\n\nUnidentified Dolphin\nScientific name: Delphinidae sp.\nMakara code: UNDO\n\n\nUnidentified common dolphin\nScientific name: Delphinus sp.\nMakara code: DESP\n\n\nUnidentified Rissos/Bottlenose dolphin\nScientific name: Tursiops/Grampus\nMakara code: UNRB\n\n\nUnidentified Eastern/Central American Spinner dolphin\nScientific name: Stenella longirostris\nMakara code: UECASD\n\n\nUnidentified Pilot Whale\nScientific name: Globicephala sp.\nMakara code: PIWH\n\n\nUnidentified Blackfish species\nMakara code: UNBF\n\n\nUnidentified True’s/Gervais Beaked whale\nScientific name: Mesoplodon mirus/europaeus\nMakara code: MMME\n\n\nUnidentified Beaked whale\nScientific name: Ziphiidae sp.\nMakara code: UNBW\n\n\nUnidentified Narrow Band High Frequency Call\nMakara code: NBHF\n\n\nUnidentified Pygmy/Dwarf Sperm Whale\nScientific name: Kogia sp.\nMakara code: UNKO",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Baleen"
+      "Sound Source list",
+      "Undefined sounds"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Fish.html",
-    "href": "content/Analysis/Species_list/Fish.html",
-    "title": "Fish/Invertebrate species list",
-    "section": "",
-    "text": "Scientific name: Clupea Harengus\nCode:\n\n\n\n\nScientific name: Gadus Morhua\nCode: ATCO\n\n\n\n\n\n\n\n\n\n\nScientific name: Melanogrammus aeglefinus\nCode: HADD\n\n\n\n\nCode: UNFI",
+    "objectID": "content/Analysis/Species_list/Undefined.html#fish",
+    "href": "content/Analysis/Species_list/Undefined.html#fish",
+    "title": "Unidentified sounds",
+    "section": "Fish",
+    "text": "Fish\n\nUnidentified Fish\nMakara code: UNFI",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Fish"
+      "Sound Source list",
+      "Undefined sounds"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Fish.html#fish",
-    "href": "content/Analysis/Species_list/Fish.html#fish",
-    "title": "Fish/Invertebrate species list",
-    "section": "",
-    "text": "Scientific name: Clupea Harengus\nCode:\n\n\n\n\nScientific name: Gadus Morhua\nCode: ATCO\n\n\n\n\n\n\n\n\n\n\nScientific name: Melanogrammus aeglefinus\nCode: HADD\n\n\n\n\nCode: UNFI",
+    "objectID": "content/Analysis/Species_list/Undefined.html#pinniped",
+    "href": "content/Analysis/Species_list/Undefined.html#pinniped",
+    "title": "Unidentified sounds",
+    "section": "Pinniped",
+    "text": "Pinniped\n\nUnidentified Pinniped\nMakara code: PINN",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Fish"
+      "Sound Source list",
+      "Undefined sounds"
     ]
   },
   {
-    "objectID": "content/Analysis/Species_list/Fish.html#invertebrates",
-    "href": "content/Analysis/Species_list/Fish.html#invertebrates",
-    "title": "Fish/Invertebrate species list",
-    "section": "Invertebrates",
-    "text": "Invertebrates\n\nSnapping Shrimp\nScientific name: Alpheus sp.\nCode: SNSH",
+    "objectID": "content/Analysis/Species_list/Undefined.html#environment",
+    "href": "content/Analysis/Species_list/Undefined.html#environment",
+    "title": "Unidentified sounds",
+    "section": "Environment",
+    "text": "Environment\n\nUnidentified Environment\nMakara code: UNEN",
     "crumbs": [
       "Analysis",
-      "Species list",
-      "Fish"
+      "Sound Source list",
+      "Undefined sounds"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Undefined.html#anthropogenic",
+    "href": "content/Analysis/Species_list/Undefined.html#anthropogenic",
+    "title": "Unidentified sounds",
+    "section": "Anthropogenic",
+    "text": "Anthropogenic\n\nUnidentified Boat/Vessel\nMakara code: UNVE\n\n\nUnidentified Anthropogenic\nMakara code: UNAN",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Undefined sounds"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Undefined.html#soundscape",
+    "href": "content/Analysis/Species_list/Undefined.html#soundscape",
+    "title": "Unidentified sounds",
+    "section": "Soundscape",
+    "text": "Soundscape\nAnthropogenic, environmental and other non-biological sounds\n\nNon-biological\nMakara code: NONBIO",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Undefined sounds"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html",
+    "href": "content/Analysis/Species_list/Species list and call types V.2.html",
+    "title": "Species and call types",
+    "section": "",
+    "text": "A list of study species, cetacean call types, soundscape events, and anthropogenic events monitored by NEFSC’s PAB. For marine mammal spectrogram images, see NOAA’s Sounds in the Ocean. For more information about each species, see this page. This is a list of call types that are frequently used to detect specific acoustic events from passive acoustic data. It is not meant to be comprehensive of all marine mammal repertoire’s. For more detailed information about species call types, see the linked acoustic event guides."
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#sperm-whales",
+    "href": "content/Analysis/Species_list/Species list and call types V.2.html#sperm-whales",
+    "title": "Species and call types",
+    "section": "Sperm whales",
+    "text": "Sperm whales\nThis section covers all sperm whale calls analyzed by NEFSC passive acoustics branch. A list of sperm whale call types and spectrogram examples are included below.\n\nSperm whale\nScientific name: Physeter macrocephalus\nCode: SPWH\nCall types:\n\nSperm whale coda\n\nSperm whale social: coda\n\nCode: SPCODA\n\n\nSperm whale creak\n\nSperm whale terminal foraging buzz\n\nCode: SPCREAK\n\n\nSperm whale foraging\n\nWhen there’s a mix of sperm whale foraging call types (i.e. usual clicks and buzzes)\n\nCode: SPFORG\n\n\nSperm whale slow click/ clangs\n\nSperm whale social: slow clicks and clangs\n\nCode: SPSLCC\n\n\nSperm whale social buzz\n\nSperm whale social: social buzz\n\nCode: SPSOCBZ\n\n\nSperm whale social mix\n\nWhen there’s a mix of sperm whale social call types (i.e. codas & social buzzes)\n\nCode: SPMIX\n\n\nSperm whale usual click\n\nSperm whale echolocation click\n\nCode: SPUSC\n\n\n\n\n\n\nSperm whale impulsive creak click type\n\n\n\n\n\n Madsen et al. 2002"
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#dolphins-broadband-30--50-khz-peak-blackfish",
+    "href": "content/Analysis/Species_list/Species list and call types V.2.html#dolphins-broadband-30--50-khz-peak-blackfish",
+    "title": "Species and call types",
+    "section": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)",
+    "text": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)\nDolphinid and blackfish species produce various clicks and whistles. Dolphinid specie/click pairings are usually ground truthed used visual pairing techniques such as towed arrays. Due to the difficulty of pairing dolphinid species with their clicks, NEFSC PAB groups dolphin call types together using the following list. Whistles are more easily distinguished between species - spectrograms are included under each specie.\nCall types across dolphin groups:\n\nOdontocete buzz\n\nDolphin buzzes\n\nCode: ODBZ\n\n\nOdontocete impulsive\n\nDolphin clicks\n\nCode: ODCLICK\n\n\nOdontocete mixed calls\n\nWhen there’s a mix of whistles, clicks, burst pulses, etc. for dolphins\n\nCode: ODMIX\n\n\nOdontocete whistle\n\nDolphin whistles\n\nCode: ODWHIS\n\n\nOdontocete burst pulse\n\nDolphin burse pulses\n\nCode: ODBP\n\n\n\nBroadband\n\n\nBottlenose dolphin\nScientific name: Turiops truncatus\nCode: BODO\n\n\n\nShort beaked Common dolphin\nScientific name: Delphinus delphis\nCode: SADO\n\n\n\n\n\n\n\n30-50 kHz peak\n\n\nRissos dolphin\nScientific name: Grampus griseus\nCode: GRAM\n\n\n\nAtlantic spotted dolphin\nScientific name: Stenella frontalis\nCode: WSDO\n\n\n\nStriped dolphin\nScientific name: Stenella coeruleoalba\nCode: STDO\n\n\n\nSpinner dolphin\nScientific name: Stenella longirostris\nCode: SNDO\n\n\n\n\nBlackfish\nAlong with belugas and narwhales, blackfish can biphonate - produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.\n\n\n\n\nBlackfish biphonate pulse call \n\n\n\n\n\n\nFalse killer whale\nScientific name: Pseudorca crassidens\nCode: FKWH\n\n\n\nShort finned pilot whale\nScientific name: Globicephala macrorhynchus\nCode: SFPW\n *Globicephala spp."
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#beaked-whales",
+    "href": "content/Analysis/Species_list/Species list and call types V.2.html#beaked-whales",
+    "title": "Species and call types",
+    "section": "Beaked Whales",
+    "text": "Beaked Whales\nBeaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale).\nCall types across beaked whale groups:\n\nBeaked whale frequency modulated upsweeps\n\nBeaked whale foraging clicks\n\nCode: BWFMUP\n\nBeaked whale surface click\n\nBeaked whale communication, does not contain frequency-modulation\n\nCode: BWCLICK\n\n\n\n\n\n\n\n\n\nBeaked whale click spectra plot\nBeaked whale frequency modulated click type (and delphinids off-axis)\n\n\n\n\n DeAngelis et al. 2018\n Cholewiak et al. 2017\n\n\n\n\nSowerby’s beaked whale\nScientific name: Mesoplodon bidens\nCode: SOBW\n\n\n\nBlainville’s beaked whale\nScientific name: Mesoplodon densirostris\nCode: BLBW\n\n\n\nGervais’ beaked whale\nScientific name: Mesoplodon europaeus\nCode: GEBW\n\n\n\nTrue’s beaked whale\nScientific name: Mesoplodon mirus\nCode: TRBW\n\n\n\nCuvier’s beaked whale\nScientific name: Ziphius cavirostris\nCode: CUBW\n\n\n\nGulf of Mexico’s Beaked whale (BWG, unknown)\nScientific name: Ziphiidae sp.\nCode: BWG\n\n\nUnid True’s/Gervais beaked whale\nScientific name: Mesoplodon mirus/europaeus\nCode: MMME"
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#narrow-high-band-frequency",
+    "href": "content/Analysis/Species_list/Species list and call types V.2.html#narrow-high-band-frequency",
+    "title": "Species and call types",
+    "section": "Narrow high-band frequency",
+    "text": "Narrow high-band frequency\nNarrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location - nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes.\nCall types across high-band frequency group:\n\nNarrow band high frequency click\n\nNarrow band high frequency clicks used by kogia and porpoises\n\nCode: NBHF\n\n\n\nMalinka et al. 2021\n\nHarbor porpoise\nScientific name: Phocoena phocoena\nCode: HAPO\nCall types:\n\nPorpoise buzz\n\nBuzzes used by porpoise species, either social or foraging\n\nCode: POBZ\n\n\n\n\nPygmy sperm whale\nScientific name: Kogia breviceps\nCode: PSWH\n\n\nDwarf sperm whale\nScientific name: Kogia sima\nCode: DSWH"
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Species list and call types V.2.html#sources",
+    "href": "content/Analysis/Species_list/Species list and call types V.2.html#sources",
+    "title": "Species and call types",
+    "section": "Sources",
+    "text": "Sources\nPace, D. S., Lanfredi, C., Airoldi, S., Giacomini, G., Silvestri, M., Pavan, G., & Ardizzone, D. (2021). Trumpet sounds emitted by male sperm whales in the Mediterranean Sea. Scientific Reports, 11(1), 1-16.\nCholewiak, D., DeAngelis, A. I., Palka, D., Corkeron, P. J., & Van Parijs, S. M. (2017). Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders. Royal Society open science, 4(12), 170940.\nMalinka, C. E., Tønnesen, P., Dunn, C. A., Claridge, D. E., Gridley, T., Elwen, S. H., & Teglberg Madsen, P. (2021). Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). Journal of Experimental Biology, 224(6), jeb240689.\nMadsen, P., Wahlberg, M., & Møhl, B. (2002). Male sperm whale (Physeter macrocephalus) acoustics in a high-latitude habitat: implications for echolocation and communication. Behavioral Ecology and Sociobiology, 53, 31-41.\nNemiroff, L. (2009). Structural Variation and Communicative Functions of Long-finned Pilot Whale (Globicephala Melas) Pulsed Calls and Complex Whistles.\nDeAngelis AI, Stanistreet JE, Baumann-Pickering S, Cholewiak DM (2018). A description of echolocation clicks recorded in the presence of True’s beaked whale (Mesoplodon mirus). J Acoust Soc Am. 144(5), 2691"
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Odont_list.html",
+    "href": "content/Analysis/Species_list/Odont_list.html",
+    "title": "Odontocetes",
+    "section": "",
+    "text": "In this section, we organize our odontocete species list by Sperm whale, Delphinidae (broadband, 30-50 kHz peak, and blackfish), Beaked whales, and narrow high-band frequency species (Porpoise, Kogiidae). Each section includes call types, spectra imagery, and wigner plots if applicable. Below is a figure differentiating inter-click-interval ranges of these odontocete groups.",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Odontocetes"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Odont_list.html#dolphins-broadband-30--50-khz-peak-blackfish",
+    "href": "content/Analysis/Species_list/Odont_list.html#dolphins-broadband-30--50-khz-peak-blackfish",
+    "title": "Odontocetes",
+    "section": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)",
+    "text": "Dolphins (Broadband, 30- 50 kHz peak, Blackfish)\nDolphinid and blackfish species produce various clicks and whistles. Dolphinid specie/click pairings are usually ground truthed used visual pairing techniques such as towed arrays. Due to the difficulty of pairing dolphinid species with their clicks, NEFSC PAB groups dolphin call types together using the following list. Whistles are more easily distinguished between species - spectrograms are included under each specie.\nCall types across dolphin groups:\n\nOdontocete buzz\n\nDolphin buzzes\n\nMakara call-type code: ODBZ\n\n\nOdontocete impulsive\n\nDolphin clicks\n\nMakara call-type code: ODCLICK\n\n\nOdontocete mixed calls\n\nWhen there’s a mix of whistles, clicks, burst pulses, etc. for dolphins\n\nMakara call-type code: ODMIX\n\n\nOdontocete whistle\n\nDolphin whistles\n\nMakara call-type code: ODWHIS\n\n\nOdontocete burst pulse\n\nDolphin burse pulses\n\nMakara call-type code: ODBP\n\n\n\nBroadband\n\n\nBottlenose dolphin\n\n\n\nScientific name: Turiops truncatus\nMakara species code: BODO\n\n\n\nShort beaked Common dolphin\n\n\n\nScientific name: Delphinus delphis\nMakara species code: SADO\n\n\n\n\n30-50 kHz peak\n\n\nRissos dolphin\n\n\nScientific name: Grampus griseus\nMakara species code: GRAM\n\n\n\nAtlantic spotted dolphin\n\n\nScientific name: Stenella frontalis\nMakara species code: WSDO\n   \n\n\nStriped dolphin\n\n\nScientific name: Stenella coeruleoalba\nMakara species code: STDO\n\n\n\nSpinner dolphin\n\n\nScientific name: Stenella longirostris\nMakara species code: SNDO\n\n\n\n\nBlackfish\nAlong with belugas and narwhales, blackfish can biphonate - produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.\n\n\nSpectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).\n\nFalse killer whale\n\n\nScientific name: Pseudorca crassidens\nMakara species code: FKWH\n\n\n\nShort finned pilot whale\n\n\nScientific name: Globicephala macrorhynchus\nMakara species code: SFPW\n  \nGlobicephala spp.",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Odontocetes"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Odont_list.html#beaked-whales",
+    "href": "content/Analysis/Species_list/Odont_list.html#beaked-whales",
+    "title": "Odontocetes",
+    "section": "Beaked Whales",
+    "text": "Beaked Whales\nBeaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale).\nCall types across beaked whale groups:\n\nBeaked whale frequency modulated upsweeps\n\nBeaked whale foraging clicks\n\nMakara call-type code: BWFMUP\n\nBeaked whale surface click\n\nBeaked whale communication, does not contain frequency-modulation\n\nMakara call-type code: BWCLICK\n\n\n\n\nBeaked whale click spectra plot (DeAngelis et al. 2018)\n\n\n\nSowerby’s beaked whale\n\n\n\n\nScientific name: Mesoplodon bidens\nMakara species code: SOBW\n\n\n\n\n\nBlainville’s beaked whale\n\n\n\n\nScientific name: Mesoplodon densirostris\nMakara species code: BLBW\n\n\n\n\n\nGervais’ beaked whale\n\n\n\n\nScientific name: Mesoplodon europaeus\nMakara species code: GEBW\n\n\n\n\n\nTrue’s beaked whale\n\n\n\n\nScientific name: Mesoplodon mirus\nMakara species code: TRBW\n\n\n\n\n\nCuvier’s beaked whale\n\n\n\nScientific name: Ziphius cavirostris\nMakara species code: CUBW\n\n\n\n\n\nGulf of Mexico’s Beaked whale (BWG, unknown)\nScientific name: Ziphiidae sp.\nMakara species code: BWG",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Odontocetes"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Odont_list.html#narrow-high-band-frequency",
+    "href": "content/Analysis/Species_list/Odont_list.html#narrow-high-band-frequency",
+    "title": "Odontocetes",
+    "section": "Narrow high-band frequency",
+    "text": "Narrow high-band frequency\nNarrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location - nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes.\nCall types across high-band frequency group:\n\nNarrow band high frequency click\n\nNarrow band high frequency clicks used by kogia and porpoises\n\nMakara call-type code: NBHF\n\n\n\nDeAngelis, A. 2023\n\nHarbor porpoise\n\n\n\nScientific name: Phocoena phocoena\nCode: HAPO\nCall types:\n\nPorpoise buzz\n\nBuzzes used by porpoise species, either social or foraging\n\nMakara call-type code: POBZ\n\n\n\n\nPygmy sperm whale\n\n\n\nScientific name: Kogia breviceps\nMakara species code: PSWH\n\n\nDwarf sperm whale\n\n\n\nScientific name: Kogia sima\nMakara species code: DSWH\n\nMalinka et al. 2021",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Odontocetes"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Odont_list.html#sources",
+    "href": "content/Analysis/Species_list/Odont_list.html#sources",
+    "title": "Odontocetes",
+    "section": "Sources",
+    "text": "Sources\nAnnamaria Izzi DeAngelis, Joy E. Stanistreet, Simone Baumann-Pickering, Danielle M. Cholewiak; A description of echolocation clicks recorded in the presence of True’s beaked whale (Mesoplodon mirus). J. Acoust. Soc. Am. 1 November 2018; 144 (5): 2691–2700. https://doi.org/10.1121/1.5067379\nChloe E. Malinka, Pernille Tønnesen, Charlotte A. Dunn, Diane E. Claridge, Tess Gridley, Simon H. Elwen, Peter Teglberg Madsen; Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). J Exp Biol 15 March 2021; 224 (6): jeb240689. doi: https://doi.org/10.1242/jeb.240689\nMalinka CE, Tønnesen P, Dunn CA, Claridge DE, Gridley T, Elwen SH, Teglberg Madsen P. Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). J Exp Biol. 2021 Mar 26;224(Pt 6):jeb240689. doi: 10.1242/jeb.240689\nNemiroff L, Whitehead H. Structural characteristics of pulsed calls of long-finned pilot whales Globicephala melas. Bioacoustics. 2009;19:67–92. doi: 10.1080/09524622.2009.9753615.\nPace, D.S., Lanfredi, C., Airoldi, S. et al. Trumpet sounds emitted by male sperm whales in the Mediterranean Sea. Sci Rep 11, 5867 (2021). https://doi.org/10.1038/s41598-021-84126-8",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Odontocetes"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Env-Anthro.html",
+    "href": "content/Analysis/Species_list/Env-Anthro.html",
+    "title": "Environmental and Anthropogenic sounds",
+    "section": "",
+    "text": "Makara code: RAIN\n\n\n\n\nMakara code: THLI\n\n\n\n\nMakara code: N/A",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Environmental and Anthropogenic sounds"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Env-Anthro.html#environmental-sounds",
+    "href": "content/Analysis/Species_list/Env-Anthro.html#environmental-sounds",
+    "title": "Environmental and Anthropogenic sounds",
+    "section": "",
+    "text": "Makara code: RAIN\n\n\n\n\nMakara code: THLI\n\n\n\n\nMakara code: N/A",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Environmental and Anthropogenic sounds"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Species_list/Env-Anthro.html#anthropogenic-sounds",
+    "href": "content/Analysis/Species_list/Env-Anthro.html#anthropogenic-sounds",
+    "title": "Environmental and Anthropogenic sounds",
+    "section": "Anthropogenic Sounds",
+    "text": "Anthropogenic Sounds\n\nEchosounder\nMakara code: ECHO\n\n\n\nPile Driver\nMakara code: PIDR\n\n\n\nSeismic Surveys\nMakara code: OI-S",
+    "crumbs": [
+      "Analysis",
+      "Sound Source list",
+      "Environmental and Anthropogenic sounds"
     ]
   },
   {
