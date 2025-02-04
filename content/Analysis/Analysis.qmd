@@ -5,9 +5,9 @@ page-layout: full
 
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
-### Species list
+### Sound Source list
 
-Our list of PAB's study species is organized by Mysticetes, Odontocetes, and Fish/Invert/Pinnipeds. Soundscapes (anthropogrenic and environmental sounds) are also included. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s [Sounds in the Ocean](https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals#odontocetes-toothed-whales). For more information about each specie, see [this page](https://www.fisheries.noaa.gov/find-species).
+Our list of sound sources monitored acoustically by PAB is organized by Baleen whales, Odontocetes, Pinnipeds, Fish/Inverts, and Environmental/Anthropogenic sounds. Unidentified sounds are also included, which lists makara codes and spectrogram examples of unidentified sounds. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s [Sounds in the Ocean](https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals#odontocetes-toothed-whales). For more information about each specie, see [this page](https://www.fisheries.noaa.gov/find-species).
 
 ### Analysis protocols
 
