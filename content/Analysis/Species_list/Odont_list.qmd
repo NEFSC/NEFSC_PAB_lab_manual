@@ -220,14 +220,7 @@ Makara species code: CUBW
 #### **Gulf of Mexico’s Beaked whale (BWG, unknown)**
 Scientific name: *Ziphiidae sp.* \
 Makara species code: BWG
-\
-\
 
-#### **Unid True’s/Gervais beaked whale**
-Scientific name: *Mesoplodon mirus/europaeus* \
-Makara species code: MMME
-\
-\
 
 ## [**Narrow high-band frequency**](https://docs.google.com/document/d/124WmWnsxrP85FrrXy_8I6S6AeiMItUEidPjaVZL94h0/edit?usp=sharing)
 

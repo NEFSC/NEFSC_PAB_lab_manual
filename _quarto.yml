@@ -68,7 +68,7 @@ website:
       - section: content/Analysis/Analysis.qmd
         text: Analysis
         contents:
-          - section: Species list
+          - section: Sound Source list
             contents:
               - href: content/Analysis/Species_list/Myst_list.qmd
                 text: Baleen
@@ -78,6 +78,10 @@ website:
                 text: Pinnipeds
               - href: content/Analysis/Species_list/Fish.qmd
                 text: Fish
+              - href: content/Analysis/Species_list/Env-Anthro.qmd
+                text: Environmental and Anthropogenic sounds
+              - href: content/Analysis/Species_list/Undefined.qmd
+                text: Undefined sounds
           - section: Analysis protocols
             contents:
               - href: content/Analysis/Protocols/Mysticete_protocols.qmd
