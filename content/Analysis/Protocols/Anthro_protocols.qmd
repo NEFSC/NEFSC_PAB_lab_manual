@@ -1,4 +1,6 @@
-# Anthropogenic Protocols
+---
+title: Anthropogenic Protocols
+---
 
 ## Explosion Detector
 

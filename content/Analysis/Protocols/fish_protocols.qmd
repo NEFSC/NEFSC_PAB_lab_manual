@@ -1,4 +1,6 @@
-# Fish Protocols
+---
+title: Fish Protocols
+---
 
 ## ISRAT Cod Detector
 
