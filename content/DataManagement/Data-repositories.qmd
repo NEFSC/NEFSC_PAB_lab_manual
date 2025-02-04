@@ -1,0 +1,35 @@
+---
+title: Data Repositories
+---
+
+This page details the internal and external locations that NEFSC PAB’s data is stored, archived, and visualized. 
+
+# Acoustic Data Repositories
+
+### NEFSC Server
+
+A network file share provided by the NEFSC IT Department. The Passive Acoustics Branch has a directory called PassiveAcoustic\_Soundfiles where all legacy and new data are stored, including acoustic data and all ancillary data associated with PAM deployments. See the [Server Structure](/content/DataManagement/PA_soundfiles.qmd) page for more information.
+
+### [National PAM GCP](https://console.cloud.google.com/storage/browser?forceOnBucketsSortingFiltering=true&cloudshell=true&project=ggn-nmfs-pamdata-prod-1&prefix&forceOnObjectsSortingFiltering=false)
+
+The National PAM Google Cloud Project (GCP) is a cloud-based repository used for operational storage and archiving of passive acoustic data, associated ancillary data, and acoustic analysis outputs. All seven NOAA Fisheries PAM programs have access, ownership, and administrative privileges to their own buckets for data storage. The PAB buckets all begin with the prefix “nefsc-1”. For more information on accessing and using GCP cloud storage or processing services visit the [National PAM Lab Manual cloud project](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/PAM_priority_projects/Cloud%20Storage.html) page. For more information about what PAB data is stored in the cloud, view the [PAB Google Smartsheet](https://app.smartsheetgov.com/workspaces/v2X26h86549fJwWHJ5FGj5qpxJX3ph7xVWr8wGP1). 
+
+### [NCEI Passive Acoustic Data Archive](https://www.ncei.noaa.gov/products/passive-acoustic-data)
+
+The National Center for Environmental Information Passive Acoustic Data Archive is a publicly accessible data archive that can be used by any PAM data provider and accessed by any member of the public. Some PAB data and data products, including data collected as part of the SanctSound and ONMS Sound Monitoring Projects, are available in the NCEI PAD. 
+
+# Metadata Repositories
+
+### Makara Database
+
+Makara is a metadatabase that stores all essential deployment and acoustic recording metadata in an organized and easy to query schema. The metadatabase is in the final stages of development and more details on accessing and using the database will be coming soon. Makara will be available for use by any PAM data provider, internal or external to NOAA Fisheries. If permission is provided by the data owner, all species detections will be made publicly available and automatically visualized on the Passive Acoustic Cetacean Map. Use of Makara will also format data in a way that can be exported and directly used to create standard data visualization products in R using the PAMverse packages. 
+
+# Data Visualization Repositories
+
+### [PACM](https://apps-nefsc.fisheries.noaa.gov/pacm/#/narw)
+
+The Passive Acoustics Cetacean Map (PACM) is an interactive platform in which users can view acoustic detections of numerous cetacean species. The visualization dashboard allows users to apply filters to the data including the species of interest, acoustic technology used, or select specific time periods. Current developments will expand PACM to be a National decision support tool allowing users to draw a bounding box on the map and request access to the data within the box. Requests for data will be managed by the North Atlantic Right Whale Consortium. 
+
+### [Whale Map](https://whalemap.org/)
+
+This website includes an interactive map displaying near real time passive acoustic detections of North Atlantic Right Whales, visual observations, and management measures taken to protect the species, such as vessel slow zones or seasonal management areas. Platform users can also access the portal to report sightings and dead or distressed whales. 
