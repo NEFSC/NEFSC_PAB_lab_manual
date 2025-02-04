@@ -6,7 +6,7 @@ title: Fish/Invertebrate species list
 #### Herring
 ![](/figs/infographics/fish_noaafisheries/Herring.png){width=15%}\
 Scientific name: Clupea Harengus  
-Code:
+Makara species code: N/A
 
 #### Atlantic cod
 ![](/figs/infographics/fish_noaafisheries/Cod.png){width=15%}\
@@ -25,17 +25,13 @@ Code: ATCO
 
 
 Scientific name: *Melanogrammus aeglefinus*  
-Code: HADD  
+Makara species code: HADD  
 ![](/figs/Spec_images/Fish/Haddock_spec.PNG){width=50%}
-
-#### Unidentified Fish
-
-Code: UNFI
 
 ## Invertebrates 
 
 #### Snapping Shrimp
 
 Scientific name: *Alpheus sp.*  
-Code: SNSH  
+Makara species code: SNSH  
 ![](/figs/Spec_images/Fish/shrimp_spec.PNG){width=50%}

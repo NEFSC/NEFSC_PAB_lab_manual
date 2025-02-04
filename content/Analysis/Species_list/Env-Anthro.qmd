@@ -1,0 +1,47 @@
+---
+title: Environmental and Anthropogenic sounds
+---
+
+## Environmental Sounds
+
+### Rain
+
+**Makara code:** RAIN
+
+![](/figs/Spec_images/Environmental/Rain_spec2.png){width=40%}
+
+### Thunder
+
+**Makara code:** THLI
+
+![](/figs/Spec_images/Environmental/thunder.png){width=40%}
+
+### Earthquakes
+
+**Makara code:** N/A
+
+![](/figs/Spec_images/Environmental/earthquake_spec.png){width=40%}
+
+### Quiet Ocean (for reference)
+
+![](/figs/Spec_images/Environmental/quiet_ocean.png){width=40%}
+
+## Anthropogenic Sounds
+
+### Echosounder
+
+**Makara code:** ECHO
+
+![](/figs/Spec_images/Anthropogenic/Echosounder_spec.PNG){width=20%}
+
+### Pile Driver
+
+**Makara code:** PIDR
+
+![](/figs/Spec_images/Anthropogenic/Pile_driving.png){width=40%}
+
+### Seismic Surveys
+
+**Makara code:** OI-S
+
+![](/figs/Spec_images/Anthropogenic/Seis_blast_spec.PNG){width=20%}
