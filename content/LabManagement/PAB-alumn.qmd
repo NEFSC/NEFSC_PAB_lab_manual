@@ -1,5 +1,5 @@
 ---
-title: "Passive ACoustics Branch Alumni"
+title: "PAB Alumni"
 page-layout: full
 ---
 
