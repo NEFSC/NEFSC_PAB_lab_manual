@@ -5,132 +5,112 @@ page-layout: full
 
 ## Academic Institutions
 
-#### [Alfred Wegner Institute](https://www.awi.de/en/)
+* [Alfred Wegner Institute](https://www.awi.de/en/)
 
-#### [Cornell University](https://www.cornell.edu/)
+* [Cornell University](https://www.cornell.edu/)
 
-#### [Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder](https://cires.colorado.edu/)
+* [Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder](https://cires.colorado.edu/)
 
--   [Fisheries Acoustics Archive, NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/maps/passive-acoustic-data/)
+  +  [Fisheries Acoustics Archive, NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/maps/passive-acoustic-data/)
 
-#### [Commonwealth Scientific and Industrial Research Organization (CSIRO)](https://www.csiro.au/en/)
+  + [Commonwealth Scientific and Industrial Research Organization (CSIRO)](https://www.csiro.au/en/)
 
-#### [Duke University](https://duke.edu/)
+* [Duke University](https://duke.edu/)
 
-#### [Oregon State University](https://oregonstate.edu/)
+* [Oregon State University](https://oregonstate.edu/)
 
--   [Cooperative Institute for Marine Ecosystems and Resources Studies (CIMERS)](https://cimers.oregonstate.edu/)\
--   [Marine Mammal Institute (Department of Fisheries, Wildlife, and Conservation Sciences)](https://mmi.oregonstate.edu/)
+  +  [Cooperative Institute for Marine Ecosystems and Resources Studies (CIMERS)](https://cimers.oregonstate.edu/)\
+  +  [Marine Mammal Institute (Department of Fisheries, Wildlife, and Conservation Sciences)](https://mmi.oregonstate.edu/)
 
-#### [Scottish Association of Marine Science](https://www.sams.ac.uk/)
+* [Scottish Association of Marine Science](https://www.sams.ac.uk/)
 
-#### [Scripps](https://scripps.ucsd.edu/)
+* [Scripps](https://scripps.ucsd.edu/)
 
--   [Marine Bioacoustics Research Collaborative](https://mbarc.ucsd.edu/)
+  +   [Marine Bioacoustics Research Collaborative](https://mbarc.ucsd.edu/)
 
-#### [UMASS Dartmouth](https://www.umassd.edu/)
+* [UMASS Dartmouth](https://www.umassd.edu/)
 
--   [School for marine science and technology](https://www.umassd.edu/smast/)
+  +  [School for marine science and technology](https://www.umassd.edu/smast/)
 
-#### [St. Andrews University](https://www.st-andrews.ac.uk/)
+* [St. Andrews University](https://www.st-andrews.ac.uk/)
 
-#### [Syracuse University](https://www.syracuse.edu/)
+* [Syracuse University](https://www.syracuse.edu/)
 
-#### [University of New Hampshire](https://www.unh.edu/)
+* [University of New Hampshire](https://www.unh.edu/)
 
--   [Center for Acoustics Research and Education](https://eos.unh.edu/center-acoustics-research-education)
+  +  [Center for Acoustics Research and Education](https://eos.unh.edu/center-acoustics-research-education)
 
-#### [University of Maryland](https://umd.edu/)
+* [University of Maryland](https://umd.edu/)
 
-#### [University of South Carolina](https://sc.edu/)
+* [University of South Carolina](https://sc.edu/)
 
--   [School of Earth, Ocean and Environment](https://sc.edu/study/colleges_schools/artsandsciences/earth_ocean_and_environment/our_people/directory/meyer-gutbrod_erin.php)
+  +   [School of Earth, Ocean and Environment](https://sc.edu/study/colleges_schools/artsandsciences/earth_ocean_and_environment/our_people/directory/meyer-gutbrod_erin.php)
 
-#### [Woods Hole Oceanographic Institute (WHOI)](https://www.whoi.edu/)
-
--   [Robots4Whales](https://robots4whales.whoi.edu/)
+* [Woods Hole Oceanographic Institute (WHOI)](https://www.whoi.edu/)
+  + [Robots4Whales](https://robots4whales.whoi.edu/)
 
 ## State Collaborators
 
-#### [Delaware Department of Natural Resources and Environmental Control](https://dnrec.delaware.gov/)
+* [Delaware Department of Natural Resources and Environmental Control](https://dnrec.delaware.gov/)
 
-#### [Maine Department of Marine Resources](https://www.maine.gov/dmr/home)
+* [Maine Department of Marine Resources](https://www.maine.gov/dmr/home)
 
-#### [MASS Department of Marine Fisheries](https://www.mass.gov/orgs/division-of-marine-fisheries)
+* [MASS Department of Marine Fisheries](https://www.mass.gov/orgs/division-of-marine-fisheries)
 
-#### [New Hampshire Fish and Game Department](https://www.wildlife.nh.gov/)
+* [New Hampshire Fish and Game Department](https://www.wildlife.nh.gov/)
 
-#### [New York State Department of Environmental Conservation](https://dec.ny.gov/)
+* [New York State Department of Environmental Conservation](https://dec.ny.gov/)
 
-#### [New York State Energy Research and Development Authority (NYSERDA)](https://www.nyserda.ny.gov/)
+* [New York State Energy Research and Development Authority (NYSERDA)](https://www.nyserda.ny.gov/)
 
-#### [Rhode Island Department of Environmental Management](https://dem.ri.gov/natural-resources-bureau/fish-wildlife)
+* [Rhode Island Department of Environmental Management](https://dem.ri.gov/natural-resources-bureau/fish-wildlife)
 
 ## Federal Collaborators
 
-#### [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov/)
-The Bureau of Ocean Energy Management, a branch of the U.S. Department of the Interior, manages ocean energy development and resources while considering environmental and economic responsibility. 
+* [Bureau of Ocean Energy Management (BOEM)](https://www.boem.gov/)
 
--   [Center for Marine Acoustics (CMA)](https://www.boem.gov/center-marine-acoustics)\
-CMA is a Branch of BOEM focused on managing and understanding underwater sound. The CMA provides expertise and leadership to drive best practices, expand research on underwater sound, seek policy improvements, and improve messaging related to marine acoustic issues.
+  +   [Center for Marine Acoustics (CMA)](https://www.boem.gov/center-marine-acoustics)\
 
-#### [Department of Fisheries and Oceans Canada (DFO)](https://www.dfo-mpo.gc.ca/index-eng.html)
-The Department of Fisheries and Oceans Canada manages fisheries, Aquatic species stocks, Aquaculture, vital marine habitat, and marine research. DFO partners with NEFSC and additional partners to monitor the north atlantic right whale population using acoustics. See DFO's right whale tracking map 'Whale Insight' [here](https://egisp.dfo-mpo.gc.ca/apps/WhaleInsight/eng/?locale=en).  
+* [Department of Fisheries and Oceans Canada (DFO)](https://www.dfo-mpo.gc.ca/index-eng.html)
 
-#### [Department of Energy](https://www.energy.gov/)
-The US Department of Energy manages national energy production. DOE's domain includes National Nuclear Security Administration, Power Marketing Administrations, U.S. Department of Energy National Laboratories, and U.S. Energy Information Administration (EIA). Most notably, DOE partners with NEFSC to understand species interactions with offshore wind development.  
+* [Department of Energy](https://www.energy.gov/)
 
-#### [Greater Atlantic Regional Fisheries Office](https://www.fisheries.noaa.gov/about/greater-atlantic-regional-fisheries-office)
-GARFO leads stewardship efforts of living marine and diadromous resources in the Greater Atlantic Region, encompassing the Northwest Atlantic and Great Lakes region/watersheds. 
+* [Greater Atlantic Regional Fisheries Office](https://www.fisheries.noaa.gov/about/greater-atlantic-regional-fisheries-office)
 
+* [Navy Living Marine Resources](https://exwc.navfac.navy.mil/Products-and-Services/Environmental-Security/LMR/)
 
-#### [Navy Living Marine Resources](https://exwc.navfac.navy.mil/Products-and-Services/Environmental-Security/LMR/)
-The Living Marine Resources Program supports Naval training by ensuring at-sea environmental compliance and permitting processes. NEFSC provides reports detailing key research findings to support Navy decision-making.
+* [National Park Service](https://www.nps.gov/index.htm)
 
-#### [National Park Service](https://www.nps.gov/index.htm)
-The National Park Service is a bureau of the U.S. Department of Interior, established in 1916 and tasked with managing U.S. national parks. 
+  +  [Natural Sounds and Night Skies Division](https://www.nps.gov/orgs/1050/index.htm)
 
--   [Natural Sounds and Night Skies Division](https://www.nps.gov/orgs/1050/index.htm)
-The Natural Sounds and Night Skies Division conducts research on soundscapes and night sky restoration in an effort to sustain these aspects of natural parks. 
+* [NOAA Fisheries Office of Protected Resources](https://www.fisheries.noaa.gov/about/office-protected-resources)
 
-#### [NOAA Fisheries Office of Protected Resources](https://www.fisheries.noaa.gov/about/office-protected-resources)
-The Office of Protected Resources is responsible for the conservation, protection, and recovery of the nation’s endangered and threatened marine species under the endangered species act. PAB contributes to monitoring species status, notably monitoring the Atlantic right whale population.
+* [NOAA Research PMEL](https://www.pmel.noaa.gov/)
 
-#### [NOAA Research PMEL](https://www.pmel.noaa.gov/)
-The Pacific Marine Environmental Laboratory is a federal lab conducting marine research on a global scale to increase efforts to improving weather and climate predictions, fisheries management and coastal resilience. We work with PMEL's acoustics program on the NOAA/NPS Ocean Noise Reference Station Network. The objective is to establish a network of ocean noise reference stations in U.S. waters to monitor long-term changes and trends in the underwater ambient sound field. For more information, see [PMEL's acoustics program](https://www.pmel.noaa.gov/acoustics/noaanps-ocean-noise-reference-station-network) page
+* [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology)
 
-#### [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology)
-The Office of Science and Technology advocates and ensures sound scientific basis for NOAA Fisheries science programs and resource conservation and management decisions. OST coordinates closely with NOAA’s regional science centers, including NEFSC.
+* [Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/)
 
-#### [Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/)
-The Office of National Marine Sanctuaries manages the nation’s marine sanctuaries including PAB’s primary study site; Stellwagen Bank Marine Sanctuary. 
-
-#### [Parks Australia](https://parksaustralia.gov.au/)
-Parks Australia is the federal organization managing Australia’s 6 national parks, 60 marine parks, and the Australian National Botanic Gardens with the charge of conserving Australia's biodiversity and cultural heritage. The organization exists under Australia's Department of Climate Change, Energy, the Environment and Water. NEFSC PAB and Parks Australia collaborate to study vessel use and soundscape makeup in Australia’s marine parks. 
+* [Parks Australia](https://parksaustralia.gov.au/)
 
 ## NGO Collaborators
 
-#### [Atlantic States Marine Fisheries Commission](https://www.asmfc.org/)
-ASMFC serves as a deliberative body of the Atlantic coastal states and coordinates the conservation and management of 27 nearshore fish species. The commission’s main policy arenas includes interstate fisheries management, fisheries science, habitat conservation, and law enforcement.
+* [Atlantic States Marine Fisheries Commission](https://www.asmfc.org/)
 
-#### [New England Aquarium](https://www.neaq.org/)
-The New England Aquarium works with government, industry, and environmental stakeholders through its various research and conservation programs. The aquarium has one of the longest running whale research initiatives in the world (established in 1980), consisting of boat surveys, sampling, aerial survey monitoring, reproduction and stress monitoring, and long-term population cataloging. Through research and advocacy efforts, the New England Aquarium influences public policy and promotes environmental conservation to the public. 
+* [New England Aquarium](https://www.neaq.org/)
 
-#### [Regional Wildlife Science Collaborative](https://rwsc.org/)
-RWSC serves as a coordination hub for offshore wind research, with the goal of increasing collaboration, limiting redundancy, suggesting common data standards, and increasing data sharing and transparency. PAB supports monitoring specie interactions with offshore wind projects.
+* [Regional Wildlife Science Collaborative](https://rwsc.org/)
 
-#### [The Nature Conservancy](https://www.nature.org/en-us/)
-The Nature Conservancy is a global environmental nonprofit focused on the conservation of vital habitats globally. 
+* [The Nature Conservancy](https://www.nature.org/en-us/)
 
-#### [Wildlife Conservation Society (WCS)](https://www.wcs.org/)
-WCS's goal is to conserve the world's largest wild places in 14 priority regions, habitat for around 50% of the world’s biodiversity and a wide range of charismatic megafauna. 
+* [Wildlife Conservation Society (WCS)](https://www.wcs.org/)
 
-#### [BlueIQ](https://blueiq.us/)
+* [BlueIQ](https://blueiq.us/)
 
-#### [DeepVoice](https://www.deepvoicefoundation.com/)
+* [DeepVoice](https://www.deepvoicefoundation.com/)
 
 ## Other
 
-#### [North Atlantic Right Whale Consortium](https://www.narwc.org/)
+* [North Atlantic Right Whale Consortium](https://www.narwc.org/)
 
-#### [MITRE](https://www.mitre.org/)
+* [MITRE](https://www.mitre.org/)
