@@ -12,26 +12,26 @@ page-layout: full
 * [Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder](https://cires.colorado.edu/)
 
   +  [Fisheries Acoustics Archive, NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/maps/passive-acoustic-data/)
-
+  
   + [Commonwealth Scientific and Industrial Research Organization (CSIRO)](https://www.csiro.au/en/)
-
+  
 * [Duke University](https://duke.edu/)
 
 * [Oregon State University](https://oregonstate.edu/)
 
   +  [Cooperative Institute for Marine Ecosystems and Resources Studies (CIMERS)](https://cimers.oregonstate.edu/)\
+  
   +  [Marine Mammal Institute (Department of Fisheries, Wildlife, and Conservation Sciences)](https://mmi.oregonstate.edu/)
-
+  
 * [Scottish Association of Marine Science](https://www.sams.ac.uk/)
 
 * [Scripps](https://scripps.ucsd.edu/)
 
   +   [Marine Bioacoustics Research Collaborative](https://mbarc.ucsd.edu/)
-
+  
 * [UMASS Dartmouth](https://www.umassd.edu/)
-
   +  [School for marine science and technology](https://www.umassd.edu/smast/)
-
+  
 * [St. Andrews University](https://www.st-andrews.ac.uk/)
 
 * [Syracuse University](https://www.syracuse.edu/)
@@ -39,14 +39,15 @@ page-layout: full
 * [University of New Hampshire](https://www.unh.edu/)
 
   +  [Center for Acoustics Research and Education](https://eos.unh.edu/center-acoustics-research-education)
-
+  
 * [University of Maryland](https://umd.edu/)
 
 * [University of South Carolina](https://sc.edu/)
 
   +   [School of Earth, Ocean and Environment](https://sc.edu/study/colleges_schools/artsandsciences/earth_ocean_and_environment/our_people/directory/meyer-gutbrod_erin.php)
-
+  
 * [Woods Hole Oceanographic Institute (WHOI)](https://www.whoi.edu/)
+
   + [Robots4Whales](https://robots4whales.whoi.edu/)
 
 ## State Collaborators
