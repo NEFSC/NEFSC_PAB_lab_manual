@@ -59,6 +59,10 @@ Call types across dolphin groups:
 * Odontocete whistle  
   * Dolphin whistles   
   * Makara call-type code: ODWHIS  
+<video controls="" name="media" width="440" height="20">
+    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Atl.spot/Stfr_whistles.wav" type="audio/wav">
+</video>
+*Atlantic Spotted Dolphin Whistles*
 * Odontocete burst pulse  
   * Dolphin burse pulses   
   * Makara call-type code: ODBP
@@ -100,9 +104,6 @@ Makara species code: GRAM
 
 Scientific name: *Stenella frontalis*  
 Makara species code: WSDO  
-<video controls="" name="media">
-    <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Atl.spot/Stfr_whistles.wav" type="audio/wav">
-</video>
 ![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=80%}
 
 #### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)\
