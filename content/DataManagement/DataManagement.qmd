@@ -6,4 +6,6 @@ page-layout: full
 
 ## Content
 
-Review 'Data Management' for specifics on how we store acoustic files in our PassiveAcoustics Soundfiles server
+Review 'Data Management' for specifics on how we process and store soundfile data. 
+
+![Workflow diagram for PAB's data processing workflow. Reference first tier labels (highlighted in aqua colors) for lab manual pages with more information on each step.](/figs/workflow-infographics/PA_workflow_aqua.png)
