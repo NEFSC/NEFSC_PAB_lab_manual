@@ -565,7 +565,7 @@
     "href": "content/DataManagement/DataManagement.html#content",
     "title": "Data Management",
     "section": "Content",
-    "text": "Content\nReview ‘Data Management’ for specifics on how we store acoustic files in our PassiveAcoustics Soundfiles server",
+    "text": "Content\nReview ‘Data Management’ for specifics on how we process and store soundfile data.\n\n\n\nWorkflow diagram for PAB’s data processing workflow. Reference first tier labels (highlighted in aqua colors) for lab manual pages with more information on each step.",
     "crumbs": [
       "Data Management"
     ]
