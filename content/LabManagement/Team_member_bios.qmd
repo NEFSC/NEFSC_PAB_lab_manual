@@ -3,8 +3,9 @@ title: "Team Members"
 page-layout: full
 ---
 
-
-Group photo at top + org chart
+<div align=center>
+![](/figs/workflow-infographics/Org_chart.png){width=50%}
+<div align=left>
 
 ### **Sofie Van Parijs, Ph.D.**
 ![](/figs/Bio_pics/Sofie.png){width=150}\
