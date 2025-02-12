@@ -2,6 +2,8 @@
 title: Lab Safety
 ---
 
-*Under construction*\
-![](/figs/infographics/whale-tail.png)
+## Battery disposal
 
+Recycled batteries are put in the aquarium gear shed under the stairs, and added to the universal waste log. 
+
+![](/figs/Safety/batteries.jpg){width=30%}
