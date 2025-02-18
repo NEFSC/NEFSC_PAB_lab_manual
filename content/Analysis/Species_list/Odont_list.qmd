@@ -14,13 +14,19 @@ In this section, we organize our odontocete species list by Sperm whale, Delphin
 :::
 ::::::::::::::
 
-### [**Sperm whale**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/sperm_noaa.png){width=35%}
+### [**Sperm whale**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 
 This section covers all sperm whale calls analyzed by NEFSC passive acoustics branch. A list of sperm whale call types and spectrogram examples are included below.
 
 Scientific name: *Physeter macrocephalus*  
-Code: SPWH  
+Code: SPWH 
+::: 
+::: {.column width="40%"}
+![](/figs/infographics/odont_noaafisheries/sperm_noaa.png){width=100%}
+:::
+::::::::::::::
 Call types:
 
 * Sperm whale coda  
@@ -79,13 +85,19 @@ Call types across dolphin groups:
 
 ![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=60%}
 
-#### [**Bottlenose dolphin**](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/bottlenose_noaa.png){width=35%}\
+#### [**Bottlenose dolphin**](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)
 
 Scientific name: *Turiops truncatus*  
 Makara species code: BODO
 
-![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=60%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=100%}
+:::
+::: {.column width="50%"}
+![](/figs/infographics/odont_noaafisheries/bottlenose_noaa.png){width=100%}
+:::
+::::::::::::::
 
 #### [**Short beaked Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)\
 ![](/figs/infographics/odont_noaafisheries/short_beaked_noaa.png){width=35%}\
