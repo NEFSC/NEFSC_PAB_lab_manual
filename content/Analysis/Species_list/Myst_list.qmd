@@ -6,51 +6,67 @@ page-layout: full
 
 The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. *This is not meant to be comprehensive of all marine mammal repertoire’s.* An acoustic event guide is linked for each specie. 
 
+## [**Minke whale**](https://docs.google.com/document/d/1_ousoPs5N14lc2Q30PRiQJTqco7hJgHyV0UjiVki3t8/edit?usp=sharing)
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 
-
-### [**Minke whale**](https://docs.google.com/document/d/1_ousoPs5N14lc2Q30PRiQJTqco7hJgHyV0UjiVki3t8/edit?usp=sharing)\
-![](/figs/infographics/Minke_noaafisheries.png){width=30%}\
 Scientific name: *Balaenoptera acutorostrata*  
-Makara species code: MIWH \
-**Call types**:\
+Makara species code: MIWH 
+
+#### Call types:
 
 * Minke whale pulse train  
   * Currently includes all pulse train types: constant/slow-down/speed-up  
   * Makara call-type code: MWPT
+  
+:::
+::: {.column sifth="50%"}
+\
 
+![](/figs/infographics/Minke_noaafisheries.png){width=100%}
+:::
+::::::::::::::
 
 ![](/figs/Spec_images/Baleen/MINKE_spec2.PNG){width=65%}
 \
 *Spectrogram image of Minke pulse train*
 
 \
-\
 
-### [**Sei whale**](https://docs.google.com/document/d/1fGzkwFc7h61blOXYh17bI_d8doHLZGra2VNQUWdKve4/edit?usp=sharing)\
-![](/figs/infographics/Sei_noafisheries.png){width=40%}
-
+## [**Sei whale**](https://docs.google.com/document/d/1fGzkwFc7h61blOXYh17bI_d8doHLZGra2VNQUWdKve4/edit?usp=sharing)
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Scientific name: *Balaenoptera borealis*  
 Makara species code: SEWH \
-**Call types**:\
+
+#### Call types:
 
 * Sei whale 30-80 Hz downsweep  
   * Sei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3 \- 5 seconds apart as doublets, triplets, or more. If different distinguishable downsweep types are used, please notify PACM group to add call type  
   * Makara call-type code: SWDS
+  
+:::
+::: {.column sifth="50%"}
+\
+\
 
+![](/figs/infographics/Sei_noafisheries.png){width=100%}
+:::
+::::::::::::::
 
 ![](/figs/Spec_images/Baleen/SEI_spec2.PNG){width=65%}
 \
 *Spectrogram image of Sei Whale downsweep*
 
 \
-\
 
-### [**Blue whale**](https://docs.google.com/document/d/19L__V_lix58h0AdbCwDYEX1Zc5QUiXz188UpWR1zI3s/edit?usp=sharing)\
-![](/figs/infographics/Blue_noaafisheries.jpg){width=50%}
-
+## [**Blue whale**](https://docs.google.com/document/d/19L__V_lix58h0AdbCwDYEX1Zc5QUiXz188UpWR1zI3s/edit?usp=sharing)
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Scientific name: *Balaenoptera musculus*  
-Makara species code: BLWH\
-**Call types**:\
+Makara species code: BLWH
+
+#### Call types:
 
 * Blue whale A/B/AB song  
   * North Atlantic blue whale song: includes all three call types (A, B, and AB)  
@@ -61,21 +77,28 @@ Makara species code: BLWH\
 * Blue whale mix calls  
   * North Atlantic blue whale mix of calls including A/B/AB song, Arch calls, and D calls  
   * Makara call-type code: BLMIX
+  
+:::
+::: {.column width="50%"}
+\
+\
 
+![](/figs/infographics/Blue_noaafisheries.jpg){width=100%}
+:::
+::::::::::::::
 
 ![](/figs/Spec_images/Baleen/BLUE_spec2.PNG){width=65%}
 \
 *Spectrogram image of Blue whale A/B/AB song*
 
-\
-\
 
-### [**Fin whale**](https://docs.google.com/document/d/1bXCzrTeI0NdcED77ta8NU3jDPV2ocm93PBAVfs3ST9Y/edit?usp=sharing)\
-![](/figs/infographics/fin_noaafisheries.jpg){width=40%}
-
+## [**Fin whale**](https://docs.google.com/document/d/1bXCzrTeI0NdcED77ta8NU3jDPV2ocm93PBAVfs3ST9Y/edit?usp=sharing)
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Scientific name: *Balaenoptera physalus*  
-Makara species code: FIWH \
-**Call types**:\
+Makara species code: FIWH 
+
+#### Call types:
 
 * Fin whale 130-Hz note  
   * Fin whale 130-Hz note  
@@ -89,22 +112,27 @@ Makara species code: FIWH \
 * Fin whale mix calls  
   * Mix off North Atlantic fin whale call types: 20-Hz calls, 130-Hz note, and the higher-frequency downsweeps (\~75-40 Hz), also referred to as “40-Hz” calls  
   * Makara call-type code: FWMIX
+  
+:::
+::: {.column width="50%"}
+\
+\
 
+![](/figs/infographics/fin_noaafisheries.jpg){width=100%}
+:::
+:::::::::::::::
 
 ![](/figs/Spec_images/Baleen/FIN_spec2.PNG){width=65%}
 \
 *Spectrogram image of Fin whale 20-Hz pulse calls*
 
-\
-\
-
-### [**North Atlantic right whale**](https://docs.google.com/document/d/1pG4Ex4f9clbsJ2uC93g5c3mZIuzRkcEE27GmtRs_820/edit?usp=sharing)\
-![](/figs/infographics/NARW_noaafisheries.png){width=40%}
-
+## [**North Atlantic right whale**](https://docs.google.com/document/d/1pG4Ex4f9clbsJ2uC93g5c3mZIuzRkcEE27GmtRs_820/edit?usp=sharing)
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Scientific name: *Eubalaena glacialis*  
-Makara species code: RIWH  \
-**Call types**:\
+Makara species code: RIWH  
 
+#### Call types:
 * North Atlantic right whale gunshot  
   * Right whale gunshot: broadband signal  
   * Makara call-type code: NARWGUNSHOT  
@@ -114,21 +142,26 @@ Makara species code: RIWH  \
 * North Atlantic right whale upcall  
   * Contact-call produced by right whales: typically 100-300 Hz upsweep  
   * Makara call-type code: NARWUPCALL
-
+  
+:::
+::: {.column width="50%"}
+![](/figs/infographics/NARW_noaafisheries.png){width=100%}
+:::
+::::::::::::::
 
 ![](/figs/Spec_images/Baleen/NARW_spec2.PNG){width=65%}
 \
 *Spectrogram image of North Atlantic Right Whale upcalls*
 
-\
-\
+## [**Humpback whale**](https://docs.google.com/document/d/15Dt6aoZ1KMN3KAOQ2A4jmTa3C8to7kAvFHIf9smWTP4/edit?usp=sharing)
 
-### [**Humpback whale**](https://docs.google.com/document/d/15Dt6aoZ1KMN3KAOQ2A4jmTa3C8to7kAvFHIf9smWTP4/edit?usp=sharing)\
-![](/figs/infographics/Humpback_whale_Dawn.png){width=38%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 
 Scientific name: *Megaptera novaeangliae*  
-Makara species code: HUWH\
-**Call types**:\
+Makara species code: HUWH
+
+#### Call types:
 
 * Humpback whale social  
   * Humpback whale social calls only  
@@ -139,6 +172,12 @@ Makara species code: HUWH\
 * Humpback whale mixed call  
   * Humpback whale mixed song and social calls  
   * Makara call-type code: HWMIX
+  
+:::
+::: {.column width="50%"}
+![](/figs/infographics/Humpback_whale_Dawn.png){width=100%}
+:::
+::::::::::::::
 
 #### Humpback song - 2021
 <video controls="" width="440" height="15" name="media">
