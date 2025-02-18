@@ -10,15 +10,24 @@ page-layout: full
 The Passive Acoustic Branch (PAB) is part of the Protected Species Division of the NOAA Fisheries Northeast Fisheries Science Center. Our group uses passive acoustic monitoring (PAM) to study marine animals and ecosystems in the Northeast and Mid-Atlantic waters of the United States.
 
 ## Our featured work
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
 #### NOAA: Listening for whales  
 <iframe src='//players.brightcove.net/659677166001/4b3c8a9e-7bf7-43dd-b693-2614cc1ed6b7_default/index.html?videoId=6364921533112' allowfullscreen frameborder=0 width="440" height="260"></iframe>
 
+:::
+::: {.column width="50%"}
 
 #### Voices of the Ocean: Using acoustics to monitor endagered Right whales
 
 <video width="440" height="260" controls>
   <source src=/figs/Videos/VITS.2.T.mp4 type="video/mp4">
   </video>
+
+:::
+::::::::::::::
 
 ## PAB Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=noaa.gov_n19q6r5ojpaqhn1v1sd6q1l3ig%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
