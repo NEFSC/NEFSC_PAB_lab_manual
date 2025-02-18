@@ -48,7 +48,6 @@ Makara species code: SEWH \
 :::
 ::: {.column sifth="50%"}
 \
-\
 
 ![](/figs/infographics/Sei_noafisheries.png){width=100%}
 :::
@@ -80,7 +79,6 @@ Makara species code: BLWH
   
 :::
 ::: {.column width="50%"}
-\
 \
 
 ![](/figs/infographics/Blue_noaafisheries.jpg){width=100%}
@@ -115,7 +113,6 @@ Makara species code: FIWH
   
 :::
 ::: {.column width="50%"}
-\
 \
 
 ![](/figs/infographics/fin_noaafisheries.jpg){width=100%}
