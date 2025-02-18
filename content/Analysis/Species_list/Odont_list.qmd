@@ -4,7 +4,15 @@ subtitle: Typically 10 \- 170 kHz
 ---
 In this section, we organize our odontocete species list by Sperm whale, Delphinidae (broadband, 30-50 kHz peak, and blackfish), Beaked whales, and narrow high-band frequency species (Porpoise, Kogiidae). Each section includes call types, spectra imagery, and wigner plots if applicable. Below is a figure differentiating inter-click-interval ranges of these odontocete groups.
 
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+::: 
+::: {.column width="80%"}
 ![](/figs/Spec_images/Odont/Odont_diagrams/click-spectra.png)
+::: 
+::: {.column width="10%"}
+:::
+::::::::::::::
 
 ### [**Sperm whale**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)\
 ![](/figs/infographics/odont_noaafisheries/sperm_noaa.png){width=35%}
