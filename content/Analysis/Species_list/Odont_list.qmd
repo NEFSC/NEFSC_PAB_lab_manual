@@ -14,19 +14,15 @@ In this section, we organize our odontocete species list by Sperm whale, Delphin
 :::
 ::::::::::::::
 
-### [**Sperm whale**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)
+## [**Sperm whale**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)
 :::::::::::::: {.columns}
-::: {.column width="60%"}
+::: {.column width="50%"}
 
 This section covers all sperm whale calls analyzed by NEFSC passive acoustics branch. A list of sperm whale call types and spectrogram examples are included below.
 
 Scientific name: *Physeter macrocephalus*  
 Code: SPWH 
-::: 
-::: {.column width="40%"}
-![](/figs/infographics/odont_noaafisheries/sperm_noaa.png){width=100%}
-:::
-::::::::::::::
+
 Call types:
 
 * Sperm whale coda  
@@ -50,9 +46,16 @@ Call types:
 * Sperm whale usual click  
   * Sperm whale echolocation click  
   * Makara call-type code: SPUSC
+  
+::: 
+::: {.column width="50%"}
+![](/figs/infographics/odont_noaafisheries/sperm_noaa.png){width=100%}
 
-![](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=40%}\
-Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)
+![Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=100%}
+
+:::
+::::::::::::::
+
 
 
 ## **Dolphins (Broadband, 30- 50 kHz peak, Blackfish)**
@@ -92,83 +95,197 @@ Makara species code: BODO
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
+
 ![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=100%}
+
 :::
-::: {.column width="50%"}
-![](/figs/infographics/odont_noaafisheries/bottlenose_noaa.png){width=100%}
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+![](/figs/infographics/odont_noaafisheries/bottlenose_noaa.png){width=70%}
 :::
 ::::::::::::::
 
-#### [**Short beaked Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/short_beaked_noaa.png){width=35%}\
+#### [**Short beaked Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)
 
 Scientific name: *Delphinus delphis*  
 Makara species code: SADO
 
-![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=60%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 
+![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/short_beaked_noaa.png){width=70%}
+:::
+::::::::::::::
 
 ### *30-50 kHz peak*
 
 ![](/figs/Spec_images/Odont/spectra/Dolphin.30-50peak.spectra.jpg){width=60%}
 
-#### [**Rissos dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/Rissos_noaa.png){width=35%}
+#### [**Rissos dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
 
 Scientific name: *Grampus griseus*  
 Makara species code: GRAM  
-![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=50%}
 
-#### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/Atlantic_spotted_noaa.png){width=35%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Rissos_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
+
+#### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)
 
 Scientific name: *Stenella frontalis*  
-Makara species code: WSDO  
-![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=80%}
+Makara species code: WSDO 
 
-#### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)\
-![](/figs/infographics/odont_noaafisheries/Striped_noaa.png){width=35%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/Atlantic_spotted_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Atlantic_spotted_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
+
+#### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)
 
 Scientific name: *Stenella coeruleoalba*  
 Makara species code: STDO  
-![](/figs/Spec_images/Odont/striped_dol_spec.png){width=50%}
 
-#### [**Spinner dolphin**](https://docs.google.com/document/d/1RvUttA4WqTZM3nuMlP_rKHTHrhF6OBzTm82CQa-txPM/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/Spinner_noaa.png){width=35%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/striped_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Striped_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
+
+#### [**Spinner dolphin**](https://docs.google.com/document/d/1RvUttA4WqTZM3nuMlP_rKHTHrhF6OBzTm82CQa-txPM/edit?usp=drive_link)
 
 Scientific name: *Stenella longirostris*  
 Makara species code: SNDO  
-![](/figs/Spec_images/Odont/Spinner_dol_spec.png){width=50%}
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/Spinner_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Spinner_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
 
 ### *Blackfish*
+Along with belugas and narwhales, blackfish can biphonate \- produce multiple frequencies at once. This is observed in their pulsed calls, and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.
 
-Along with belugas and narwhales, blackfish can biphonate \- produce multiple frequencies at once. This is observed in their pulsed calls (example below), and is used in species identification. A click spectra for NEFSC PAB blackfish species is included below.
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 
-![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=60%}
+![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=100%}
+
+::::::::::::::
+::: {.column width="40%"}
 \
-![](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.png){width=60%}\
-*Spectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).*
 
 
-#### [**False killer whale**](https://docs.google.com/document/d/1SvsAjWpphojcxKE-nIDTVTrLTaqXXs4nmGHHGs8vPEk/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/False_killerwhale_noaa.png){width=35%}
+![*Spectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).*](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.png){width=100%}
+
+:::
+::::::::::::::
+
+#### [**False killer whale**](https://docs.google.com/document/d/1SvsAjWpphojcxKE-nIDTVTrLTaqXXs4nmGHHGs8vPEk/edit?usp=drive_link)
 
 Scientific name: *Pseudorca crassidens*  
-Makara species code: FKWH  
-![](/figs/Spec_images/Odont/False_killerwhale_spec.png){width=60%}
+Makara species code: FKWH
 
-#### [**Short finned pilot whale**](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)\
-![](/figs/infographics/odont_noaafisheries/Short_pilotwhale_Dawn.png){width=35%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/False_killerwhale_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/False_killerwhale_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
+
+#### [**Short finned pilot whale**](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)
 
 Scientific name: *Globicephala macrorhynchus*  
 Makara species code: SFPW
 
-![](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=50%} \ 
-\
-*Globicephala spp.*
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![*Globicephala spp.*](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Short_pilotwhale_Dawn.png){width=70%}
+
+:::
+::::::::::::::
+
 
 ## [**Beaked Whales**](https://docs.google.com/document/d/1jmSdKaUpwv5Lui58kiEnyna--rEQR0AN_8fVNjgjkT0/edit?usp=sharing)
 
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Beaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale). 
 
 Call types across beaked whale groups:
@@ -181,69 +298,120 @@ Call types across beaked whale groups:
 * Beaked whale surface click  
   * Beaked whale communication, does not contain frequency-modulation  
   * Makara call-type code: BWCLICK
+  
+:::
+::: {.column width="50%"}
+
+![Beaked whale click spectra plot (*DeAngelis et al. 2018*)](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=100%}
+
+:::
+::::::::::::::
 
 
-![](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=60%}\
- 
-Beaked whale click spectra plot (*DeAngelis et al. 2018*)
-\
-\
-
-#### **Sowerby’s beaked whale**\
-![](/figs/infographics/odont_noaafisheries/Sowerbys_beaked_noaa.jpg){width=30%}\
-\
+#### **Sowerby’s beaked whale**
 
 Scientific name: *Mesoplodon bidens*  
 Makara species code: SOBW  
-![](/figs/Spec_images/Odont/Beaked-whale-wigner/Sowerby.wigner.PNG)
-\
-\
 
-#### **Blainville’s beaked whale**\
-![](/figs/infographics/odont_noaafisheries/Blainville_noaa.png){width=30%}\
-\
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/Sowerby.wigner.PNG)
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Sowerbys_beaked_noaa.jpg){width=70%}
+
+:::
+::::::::::::::
+
+#### **Blainville’s beaked whale**
 
 Scientific name: *Mesoplodon densirostris*  
 Makara species code: BLBW  
-![](/figs/Spec_images/Odont/Beaked-whale-wigner/Blainville.wigner.PNG)
-\
-\
 
-#### **Gervais’ beaked whale**\
-![](/figs/infographics/odont_noaafisheries/Gervais_noaa.png){width=30%}\
-\
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/Blainville.wigner.PNG)
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Blainville_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
+
+
+#### **Gervais’ beaked whale**
 
 Scientific name: *Mesoplodon europaeus*  
 Makara species code: GEBW  
-![](/figs/Spec_images/Odont/Beaked-whale-wigner/Gervais.wigner.PNG)
-\
-\
 
-#### **True’s beaked whale**\
-![](/figs/infographics/odont_noaafisheries/Trues_noaa.jpg){width=30%}\
-\
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/Gervais.wigner.PNG)
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Gervais_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
+
+#### **True’s beaked whale**
 
 Scientific name: *Mesoplodon mirus*  
 Makara species code: TRBW  
-![](/figs/Spec_images/Odont/Beaked-whale-wigner/Trues.wigner.PNG)
-\
-\
 
-#### **Cuvier's beaked whale**\
-![](/figs/infographics/odont_noaafisheries/Curviers_noaa.png){width=30%}\
-\
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/Trues.wigner.PNG)
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Trues_noaa.jpg){width=70%}
+
+:::
+::::::::::::::
+
+#### **Cuvier's beaked whale**
+
 Scientific name: *Ziphius cavirostris*  
 Makara species code: CUBW  
+
+:::::::::::::: {.columns}
+::: {.column width="30%"}
+
 ![](/figs/Spec_images/Odont/Beaked-whale-wigner/Curvier.wigner.PNG)
-\
-\
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Curviers_noaa.png){width=70%}
+
+:::
+::::::::::::::
+
 
 #### **Gulf of Mexico’s Beaked whale (BWG, unknown)**
+
 Scientific name: *Ziphiidae sp.* \
 Makara species code: BWG
 
 
 ## [**Narrow high-band frequency**](https://docs.google.com/document/d/124WmWnsxrP85FrrXy_8I6S6AeiMItUEidPjaVZL94h0/edit?usp=sharing)
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 
 Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes. 
 
@@ -253,36 +421,69 @@ Call types across high-band frequency group:
   * Narrow band high frequency clicks used by kogia and porpoises   
   * Makara call-type code: NBHF
 
-![](/figs/Spec_images/Odont/Odont_diagrams/Porpoise_kogiidae_range.png) \
-*DeAngelis, A. 2023*
+:::
+::: {.column width="20%"}
 
+![*DeAngelis, A. 2023*](/figs/Spec_images/Odont/Odont_diagrams/Porpoise_kogiidae_range.png){width=100%} 
 
-#### **Harbor porpoise**\
-![](/figs/infographics/odont_noaafisheries/Harbor_noaa.png){width=35%}\
+:::
+::::::::::::::
+
+#### **Harbor porpoise**
+
+:::::::::::::: {.columns}
+::: {.column width="30%"}
 
 Scientific name: *Phocoena phocoena*  
 Code: HAPO  
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Harbor_noaa.png){width=60%}
+
+:::
+::::::::::::::
 Call types:
 
 * Porpoise buzz  
   * Buzzes used by porpoise species, either social or foraging  
   * Makara call-type code: POBZ
 
-#### **Pygmy sperm whale**\
-![](/figs/infographics/odont_noaafisheries/pygmy_sperm_noaa.jpg){width=35%}\
+#### **Pygmy sperm whale**
+
+:::::::::::::: {.columns}
+::: {.column width="30%"}
 
 Scientific name: *Kogia breviceps*  
 Makara species code: PSWH
 
-#### **Dwarf sperm whale**\
-![](/figs/infographics/odont_noaafisheries/dwarf_sperm_noaa.jpg){width=35%}\
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/pygmy_sperm_noaa.jpg){width=60%}
+
+:::
+::::::::::::::
+
+
+#### **Dwarf sperm whale**
+
+:::::::::::::: {.columns}
+::: {.column width="30%"}
 
 Scientific name: *Kogia sima*  
 Makara species code: DSWH
-\
-![](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=45%}
-\
-*Malinka et al. 2021*
+
+![*Malinka et al. 2021*](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=100%}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/dwarf_sperm_noaa.jpg){width=60%}
+
+:::
+::::::::::::::
 
 
 ## Sources
