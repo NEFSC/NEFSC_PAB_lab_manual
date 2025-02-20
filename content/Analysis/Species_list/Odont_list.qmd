@@ -15,10 +15,11 @@ In this section, we organize our odontocete species list by Sperm whale, Delphin
 ::::::::::::::
 
 ## [**Sperm whale**](https://docs.google.com/document/d/1DdyWi3NgWWHh6Vk0WlXw8gRsbE4R3TC38Dg7-zK-Zns/edit?usp=drive_link)
-:::::::::::::: {.columns}
-::: {.column width="50%"}
 
 This section covers all sperm whale calls analyzed by NEFSC passive acoustics branch. A list of sperm whale call types and spectrogram examples are included below.
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 
 Scientific name: *Physeter macrocephalus*  
 Code: SPWH 
@@ -51,7 +52,7 @@ Call types:
 ::: {.column width="50%"}
 ![](/figs/infographics/odont_noaafisheries/sperm_noaa.png){width=100%}
 
-![Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=100%}
+![Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=75%}
 
 :::
 ::::::::::::::
@@ -283,10 +284,10 @@ Makara species code: SFPW
 
 ## [**Beaked Whales**](https://docs.google.com/document/d/1jmSdKaUpwv5Lui58kiEnyna--rEQR0AN_8fVNjgjkT0/edit?usp=sharing)
 
+Beaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale). 
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-Beaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale). 
 
 Call types across beaked whale groups:
 
@@ -411,7 +412,7 @@ Makara species code: BWG
 ## [**Narrow high-band frequency**](https://docs.google.com/document/d/124WmWnsxrP85FrrXy_8I6S6AeiMItUEidPjaVZL94h0/edit?usp=sharing)
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="80%"}
 
 Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes. 
 
