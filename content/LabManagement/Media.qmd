@@ -2,6 +2,3 @@
 title: Media
 ---
 
-*Under construction*
-
-![](/figs/infographics/Dolphin2-directional.png)
