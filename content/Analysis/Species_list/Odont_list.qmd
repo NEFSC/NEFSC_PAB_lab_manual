@@ -40,12 +40,12 @@ See our odontocete study species below for more information. Our species list is
 :::
 ::::::::::::::
 
-Sperm whales are grouped separate from other odontocetes due to their unique communication structure. They do exhibit foraging vocalizations (clicks and foraging buzz - also called 'creaks') similar to other odontocete groups. Sperm whale creaks are emitted during foraging, typically right before prey capture. However, they do not whistle. Their social vocalization types include **codas**, **clicks/clangs**, and **social buzzes**. 
+Sperm whales are grouped separate from other odontocetes due to their unique communication structure. They do exhibit foraging vocalizations (clicks and foraging buzz - also called 'creaks') similar to other odontocete groups. Sperm whale creaks are emitted during foraging, typically right before prey capture. However, they do not whistle. Their social vocalization types include **codas**, **clicks/clangs**, **Trumpets** and **social buzzes**. 
 
-Codas are a specific arrangement of broadband clicks, and are thought to be used for group cohesion during dispersed foraging trips. Each sperm whale group has a different coda structure, and as such serves as a group-specific vocalization type. Social clicks can be slow clicks (typically produced by males) which are thought to be used for long-distance communication. The unique nature of sperm whale calls is the fact that their diverse and complex language structure is strictly assembled by click variations. Below is a list of vocalizations monitored by the PAB - however, this list does not encompass all vocalizations (ex. trumpets, vocal calls emmitted before a deep dive).
+Codas are a specific arrangement of broadband clicks, and are thought to be used for group cohesion during dispersed foraging trips. Each sperm whale group has a different coda structure, and as such serves as a group-specific vocalization type. Slow clicks are typically produced by males, are thought to be used for long-distance communication. The unique nature of sperm whale calls is the fact that their diverse and complex language structure is strictly assembled by click variations. Below is a list of vocalizations monitored by the PAB.
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 
 | Call Types |  |  | Makara call-type code |  |  |
@@ -53,39 +53,44 @@ Codas are a specific arrangement of broadband clicks, and are thought to be used
 |  |  | *Foraging* |  |  |  |
 | Echolocation click |  |  | SPUSC |  |  |
 | Creak |  |  | SPCREAK |  |  |
-| Mix Foraging |  |  | SPFORG |  |  |
+| Mix Foraging |  |  | SPFORG (includes foraging buzzes) |  |  |
 |  |  | *Social* |  |  |  |
 | Coda |  |  | SPCODA |  |  |
 | Slow click/clangs |  |  | SPSLCC |  |  |
 | Social buzz |  |  | SPSOCBZ |  |  |
+| Trumpet |  |  | SPTRUMPET |  |  |
+| Squeal |  |  | SPSQUEAL |  |  |
 | Social mix |  |  | SPMIX |  |  |
   
 ::: 
-::: {.column width="50%"}
+::: {.column width="40%"}
 
-![Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=75%}
+![Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=100%}
 
 :::
 ::::::::::::::
 
 ## **Dolphins**
 
-Dolphin species produce various clicks and whistles which are complex, variable, and often overlapping. Clicks are often associated with foraging, whereas whistles and burst pulses are associated with social communication. See below for the call types and codes we use to analyze dolphin acoustic events.
+Dolphin species produce various clicks and whistles which are complex, variable, and often overlapping. Clicks are often associated with foraging, whereas tonal whistles and burst pulses are associated with social communication. 
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
-|  |  | **Foraging** |  |  |  |
+|  |  | *Foraging* |  |  |  |
 | Echolocation clicks |  |  | ODCLICK |  |  |
-|  |  | **Social** |  |  |  |
+|  |  | *Social* |  |  |  |
 | Whistles |  |  | ODWHIS |  |  |
 | Burst pulse |  |  | ODBP |  |  |
 | Mixed calls |  |  | ODMIX |  |  |
 
 ::::::::::::::
-::: {.column width="50%"}
+::: {.column width="40%"}
+
+\
+\
 
 ![Species: Spinner Dolphin](/figs/Spec_images/Odont/Odont_diagrams/Dolphin_complexity.PNG){width=100%}
 
@@ -98,39 +103,28 @@ Dolphin species produce various clicks and whistles which are complex, variable,
 </video>
 *Atlantic Spotted Dolphin Whistles*
 
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-\
-**Dolphin clicks**\
+### Dolphin clicks
 Our delphinid study species are grouped by click characteristics: Broadband, 30-50 kHz peak, and low-frequency high-amplitude (blackfish). 
 
-Broadband species produce clicks with a wide frequency range, and consists of Bottlenose and Common dolphins. 
-\
-\
-\
-\
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 
+Broadband species produce clicks with a wide frequency range, and consists of Bottlenose and Common dolphins. 
 
 The second delphinid group is characterized by clicks with an amplitude peak within the 30 - 50 kHz frequency range. See right figure for 30-50 kHz peak click spectra and species composition. 
-\
-\
-\
-\
-\
-\
 
-
-
-The final delphinid group are characterized by low frequency, high amplitude clicks. These are our blackfish species, which are also our largest delphinid species - false killer whales and pilot whales. Blackfish, along with belugas and narwhals, are unique in their ability to biphonate- produce multiple frequency sounds simultaneously. This occurs in their pulsed calls. 
+The final delphinid group are characterized by low frequency, high amplitude clicks. These are our blackfish species, which are also our largest delphinid species - false killer whales and pilot whales. Blackfish, along with belugas and narwhals, are unique in their ability to biphonate- produce multiple frequency sounds simultaneously. This occurs in their pulsed calls (see below). 
 
 
 ![*Spectrographic example of a pilot whale pulsed call. Calls may consist of two components, an upper frequency component (UFC) that is a narrow-band tone, and a lower frequency component (LFC) that is a broadband pulse. The pulse repetition rate (PRR) is reflected by the sideband interval (SBI). Elements are distinguished by abrupt shifts in the PRR (Nemiroff & Whitehead 2009).*](/figs/Spec_images/Odont/Odont_diagrams/Blackfish_biphonate.png){width=100%}
 
 ::::::::::::::
-::: {.column width="50%"}
-![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=90%}
-![](/figs/Spec_images/Odont/spectra/Dolphin.30-50peak.spectra.jpg){width=90%}
-![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=90%}
+::: {.column width="40%"}
+![](/figs/Spec_images/Odont/spectra/Dolphin.broadband.spectra.jpg){width=95%}
+
+![](/figs/Spec_images/Odont/spectra/Dolphin.30-50peak.spectra.jpg){width=95%}
+
+![](/figs/Spec_images/Odont/spectra/Blackfish.click.spectra.jpg){width=95%}
 :::
 ::::::::::::::
 
