@@ -312,17 +312,6 @@ Makara species code: SFPW
 Beaked whales produce two types of clicks - Frequency modulated upsweeps and surface clicks (not frequency modulated). Frequency modulated upsweeps refers to echolocation clicks produced during foraging events. Similar to sperm whales, beaked whales produce buzzes(rapid echolocation clicks) right before prey capture. [**WHAT IS FREQUENCY MODULATION?**]. Some beaked whale species emit impulsive clicks, which are considered social communication. These are predominantly larger beaked whale species (ex. Northern bottlenose whale and Baird's beaked whales). Some species may produce whistles as well, however they are uncommon and not well documented. 
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
-Each beaked whale specie in the northeast region have slightly different click structures, as shown below in a combined click spectra plot. Note, click forms on the spectra plot are average values, and individual clicks for each specie may differ slightly. Under each beacked whale specie is a Wigner plot, which is the primary tool for determining beaked whale species from a click. Wigner plots were made in Pamguard. For more information on this software, see our [software page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#pamguard). 
-:::
-::: {.column width="50%"}
-
-![*Beaked whale click spectra plot (DeAngelis et al. 2018)*](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=100%}
-
-:::
-::::::::::::::
-
-:::::::::::::: {.columns}
 ::: {.column width="20%"}
 
 :::
@@ -343,6 +332,19 @@ Each beaked whale specie in the northeast region have slightly different click s
 
 :::
 ::::::::::::::
+
+### Beaked whale clicks
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+Each beaked whale specie in the northeast region have slightly different click structures, as shown below in a combined click spectra plot. Note, click forms on the spectra plot are average values, and individual clicks for each specie may differ slightly. Under each beacked whale specie is a Wigner plot, which is the primary tool for determining beaked whale species from a click. Wigner plots were made in Pamguard. For more information on this software, see our [software page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#pamguard). 
+:::
+::: {.column width="50%"}
+
+![*Beaked whale click spectra plot (DeAngelis et al. 2018)*](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=100%}
+
+:::
+::::::::::::::
+
 
 
 #### **Sowerby’s beaked whale**
