@@ -42,7 +42,7 @@ See our odontocete study species below for more information. Our species list is
 
 Sperm whales are grouped separate from other odontocetes due to their unique communication structure. They do exhibit foraging vocalizations (clicks and foraging buzz - also called 'creaks') similar to other odontocete groups. Sperm whale creaks are emitted during foraging, typically right before prey capture. However, they do not whistle. Their social vocalization types include **codas**, **clicks/clangs**, **Trumpets** and **social buzzes**. 
 
-Codas are a specific arrangement of broadband clicks, and are thought to be used for group cohesion during dispersed foraging trips. Each sperm whale group has a different coda structure, and as such serves as a group-specific vocalization type. Slow clicks are typically produced by males, are thought to be used for long-distance communication. The unique nature of sperm whale calls is the fact that their diverse and complex language structure is strictly assembled by click variations. Below is a list of vocalizations monitored by the PAB.
+Codas are a specific arrangement of broadband clicks, and are thought to be used for group cohesion during dispersed foraging trips. Each sperm whale group has a different coda structure, and as such serves as a group-specific vocalization type. Slow clicks are typically produced by males, are thought to be used for long-distance communication. Below is a list of vocalizations monitored by the PAB.
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -50,11 +50,11 @@ Codas are a specific arrangement of broadband clicks, and are thought to be used
 
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
-|  |  | *Foraging* |  |  |  |
+|  **Foraging** | |
 | Echolocation click |  |  | SPUSC |  |  |
 | Creak |  |  | SPCREAK |  |  |
 | Mix Foraging |  |  | SPFORG (includes foraging buzzes) |  |  |
-|  |  | *Social* |  |  |  |
+|  **Social** | |
 | Coda |  |  | SPCODA |  |  |
 | Slow click/clangs |  |  | SPSLCC |  |  |
 | Social buzz |  |  | SPSOCBZ |  |  |
@@ -72,16 +72,16 @@ Codas are a specific arrangement of broadband clicks, and are thought to be used
 
 ## **Dolphins**
 
-Dolphin species produce various clicks and whistles which are complex, variable, and often overlapping. Clicks are often associated with foraging, whereas tonal whistles and burst pulses are associated with social communication. 
+Dolphin species produce various clicks and whistles which are complex, variable, and often overlapping. **Clicks** are often associated with foraging, whereas tonal **whistles** and **burst pulses** are associated with social communication. 
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
-|  |  | *Foraging* |  |  |  |
+|  **Foraging** |  |
 | Echolocation clicks |  |  | ODCLICK |  |  |
-|  |  | *Social* |  |  |  |
+| **Social** |  |
 | Whistles |  |  | ODWHIS |  |  |
 | Burst pulse |  |  | ODBP |  |  |
 | Mixed calls |  |  | ODMIX |  |  |
@@ -307,7 +307,7 @@ Makara species code: SFPW
 
 ## **Beaked Whales**
 
-Beaked whales produce two types of clicks - Frequency modulated upsweeps and surface clicks (not frequency modulated). Frequency modulated upsweeps refers to echolocation clicks produced during foraging events. Similar to sperm whales, beaked whales produce buzzes(rapid echolocation clicks) right before prey capture. [**WHAT IS FREQUENCY MODULATION?**]. Some beaked whale species emit impulsive clicks, which are considered social communication. These are predominantly larger beaked whale species (ex. Northern bottlenose whale and Baird's beaked whales). Some species may produce whistles as well, however they are uncommon and not well documented. 
+Beaked whales produce two types of clicks - **Frequency modulated upsweeps** and **surface clicks** (not frequency modulated, also refered to as impulsive clicks). Frequency modulated upsweeps refers to echolocation clicks produced during foraging events. Similar to sperm whales, beaked whales produce buzzes(rapid echolocation clicks) right before prey capture. [**WHAT IS FREQUENCY MODULATION?**]. Some beaked whale species emit **impulsive clicks**, which are considered social communication. These are predominantly larger beaked whale species (ex. Northern bottlenose whale and Baird's beaked whales). Some species may produce **whistles** as well, however they are uncommon and not well documented. 
 
 :::::::::::::: {.columns}
 ::: {.column width="20%"}
@@ -447,7 +447,7 @@ Scientific name: *Ziphiidae sp.* \
 Makara species code: BWG
 
 
-## [**Narrow band high-frequency (NBHF)**](https://docs.google.com/document/d/124WmWnsxrP85FrrXy_8I6S6AeiMItUEidPjaVZL94h0/edit?usp=sharing)
+## **Narrow band high-frequency (NBHF)**
 
 :::::::::::::: {.columns}
 ::: {.column width="80%"}
