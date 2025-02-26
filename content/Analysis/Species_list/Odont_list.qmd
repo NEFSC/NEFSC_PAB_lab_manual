@@ -2,7 +2,7 @@
 title: Odontocetes
 ---
 
-Life in the ocean provides unique navigational, foraging, and socializing challenges for marine mammals, for which they have adapted complex communication systems. This continuum of vocalization complexity spans from tonal (continuous sounds likely consisting of frequency modulation) to pulsed (short, rapid burst sounds) sounds. Tonal sounds are strongly linked to socializing events, while pulsed sounds are typically linked to foraging events. However, since nature does not like to conform to anthropogenic definitions, there are plenty of exceptions in odontocete call types and purposes.
+Life in the ocean provides unique navigational, foraging, and socializing challenges for marine mammals, for which they have adapted complex communication systems. This continuum of vocalization complexity spans from tonal (continuous sounds likely consisting of frequency modulation) to pulsed (short, rapid burst) sounds. Tonal sounds are strongly linked to socializing events, while pulsed sounds are typically linked to foraging events. However, there are plenty of exceptions in odontocete call type categorizations.
 
 
 **Foraging calls**\
