@@ -452,13 +452,11 @@ Makara species code: BWG
 :::::::::::::: {.columns}
 ::: {.column width="80%"}
 
-Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks (shown in Wigner plot). Clicks are differentiated by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map below). Porpoises also produce buzzes. 
+Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks. Species are thus identified by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map right). Porpoises also produce both social and foraging buzzes, indicating an echolocation event. 
 
-Call types across NBHF group:
+**Narrow Band High Frequency click (*Malinka et al. 2021*)**:\
 
-* Narrow band high frequency click  
-  * Narrow band high frequency clicks used by kogia and porpoises   
-  * Makara call-type code: NBHF
+![](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=40%}
 
 :::
 ::: {.column width="20%"}
@@ -467,6 +465,25 @@ Call types across NBHF group:
 
 :::
 ::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="20%"}
+
+:::
+::: {.column width="60%"}
+
+| Call Types |  |  | Makara call-type code |  |  |
+| ----- | ----- | :---: | :---- | :---- | ----- |
+|  **All Kogiidae species** | |
+| Narrow band high frequency clicks |  |  | NBHF |  |  |
+|  **Harbor Porpoise only** |  |
+| Buzz |  |  | POBZ (both foraging and social) |  |  |
+
+:::
+::: {.column width="20%"}
+:::
+::::::::::::::
+
 
 #### **Harbor porpoise**
 
@@ -483,11 +500,6 @@ Code: HAPO
 
 :::
 ::::::::::::::
-Call types:
-
-* Porpoise buzz  
-  * Buzzes used by porpoise species, either social or foraging  
-  * Makara call-type code: POBZ
 
 #### **Pygmy sperm whale**
 
@@ -513,8 +525,6 @@ Makara species code: PSWH
 
 Scientific name: *Kogia sima*  
 Makara species code: DSWH
-
-![*Malinka et al. 2021*](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=100%}
 
 :::
 ::: {.column width="47%"}
