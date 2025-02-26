@@ -45,7 +45,7 @@ Sperm whales are grouped separate from other odontocetes due to their unique com
 Codas are a specific arrangement of broadband clicks, and are thought to be used for group cohesion during dispersed foraging trips. Each sperm whale group has a different coda structure, and as such serves as a group-specific vocalization type. Slow clicks are typically produced by males, are thought to be used for long-distance communication. The unique nature of sperm whale calls is the fact that their diverse and complex language structure is strictly assembled by click variations. Below is a list of vocalizations monitored by the PAB.
 
 :::::::::::::: {.columns}
-::: {.column width="60%"}
+::: {.column width="50%"}
 
 
 | Call Types |  |  | Makara call-type code |  |  |
@@ -63,7 +63,7 @@ Codas are a specific arrangement of broadband clicks, and are thought to be used
 | Social mix |  |  | SPMIX |  |  |
   
 ::: 
-::: {.column width="40%"}
+::: {.column width="50%"}
 
 ![Spectrograms showing the Acoustic Events associated with trumpet emissions using Raven 2.0 (FFT and Hanning window size 1024 (**A**) and 512 (**B, C, D**), 50% overlap). **A** Regular, **B, C, D** multi-pattern arrangements (Pace et al. 2021)](/figs/Spec_images/Odont/Sperm_whale_spec.png){width=100%}
 
@@ -309,26 +309,37 @@ Makara species code: SFPW
 
 ## [**Beaked Whales**](https://docs.google.com/document/d/1jmSdKaUpwv5Lui58kiEnyna--rEQR0AN_8fVNjgjkT0/edit?usp=sharing)
 
-Beaked whales produce two types of clicks (described below). Included is a spectrogram of a frequency-moduled beaked whale click and spectra plot encompassing all study species in this section (excluding northern bottlenose whale). 
+Beaked whales produce two types of clicks - Frequency modulated upsweeps and surface clicks (not frequency modulated). Frequency modulated upsweeps refers to echolocation clicks produced during foraging events. Similar to sperm whales, beaked whales produce buzzes(rapid echolocation clicks) right before prey capture. [**WHAT IS FREQUENCY MODULATION?**]. Some beaked whale species emit impulsive clicks, which are considered social communication. These are predominantly larger beaked whale species (ex. Northern bottlenose whale and Baird's beaked whales). Some species may produce whistles as well, however they are uncommon and not well documented. 
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-
-Call types across beaked whale groups:
-
-* Beaked whale frequency modulated upsweeps  
-  * Beaked whale foraging clicks  
-  * Makara call-type code: BWFMUP
-
-
-* Beaked whale surface click  
-  * Beaked whale communication, does not contain frequency-modulation  
-  * Makara call-type code: BWCLICK
-  
+Each beaked whale specie in the northeast region have slightly different click structures, as shown below in a combined click spectra plot. Note, click forms on the spectra plot are average values, and individual clicks for each specie may differ slightly. Under each beacked whale specie is a Wigner plot, which is the primary tool for determining beaked whale species from a click. Wigner plots were made in Pamguard. For more information on this software, see our [software page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#pamguard). 
 :::
 ::: {.column width="50%"}
 
-![Beaked whale click spectra plot (*DeAngelis et al. 2018*)](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=100%}
+![*Beaked whale click spectra plot (DeAngelis et al. 2018)*](/figs/Spec_images/Odont/spectra/beaked-spectra.PNG){width=100%}
+
+:::
+::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="20%"}
+
+:::
+::: {.column width="60%"}
+
+| Call Types |  |  | Makara call-type code |  |  |
+| ----- | ----- | :---: | :---- | :---- | ----- |
+|  **Foraging** |  |
+| Frequency modulated upsweeps   |  |  | BWFMUP |  |  |
+| Pulse call  |  |  | (Specie abbrv.)BWPULSE |  |  |
+|  **Social** |  |
+| Impulsive click |  |  | (Specie abbrv.)BWCLICK |  |  |
+| Whistle |  |  | (Specie abbrv.)BWWHIS |  |  |
+
+- (Specie abbrv.) Is the first two letters of the species' common name. For example, a Sowerby's beaked whale pulse call would be SOBWWHIS.
+:::
+::: {.column width="20%"}
 
 :::
 ::::::::::::::
