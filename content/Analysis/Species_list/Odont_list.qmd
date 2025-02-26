@@ -324,7 +324,9 @@ Beaked whales produce two types of clicks - Frequency modulated upsweeps and sur
 | Impulsive click |  |  | (Specie abbrv.)BWCLICK |  |  |
 | Whistle |  |  | (Specie abbrv.)BWWHIS |  |  |
 
-- (Specie abbrv.) Is the first two letters of the species' common name. For example, a Sowerby's beaked whale pulse call would be SOBWWHIS.
+::: {.callout-tip title="Note"}
+ (Specie abbrv.) Is the first two letters of the species' common name. For example, a Sowerby's beaked whale pulse call would be SOBWWHIS.
+:::
 :::
 ::: {.column width="20%"}
 
