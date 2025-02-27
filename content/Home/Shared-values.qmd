@@ -3,5 +3,7 @@ title: "Shared Values Statement"
 page-layout: full
 ---
 
+The Passive Acoustic Branch (PAB) of NEFSC is committed to high-quality, passive acoustic research that informs decision-making, contributes to the protection of marine species and ecosystems, and supports the resilience of our oceans for future generations. Our core values center on science, collaboration, and integrity. Through transparent, open science, we prioritize the accessibility of our findings and methods, ensuring that they are available to the public, stakeholders, policymakers, and the scientific community. We foster a close knit, interdisciplinary team and a respectful and inclusive environment where every voice is heard and valued.
 
-![](/figs/workflow-infographics/Wordcloud.PNG)
+### PAB Shared Values WordCloud
+![](/figs/workflow-infographics/Wordcloud.PNG){width=80%}
