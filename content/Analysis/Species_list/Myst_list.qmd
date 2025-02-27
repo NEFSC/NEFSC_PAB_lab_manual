@@ -5,12 +5,12 @@ page-layout: full
 Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to [navigate](https://dosits.org/animals/use-of-sound/marine-mammal-navigation/)). As larger species, baleen vocals tend to be low frequency and propogate far distances. [Recent research](https://onlinelibrary.wiley.com/doi/10.1111/mms.13228) has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can't hear such low frequency sounds. 
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="60%"}
 ![](/figs/infographics/frequency_info/freqWaveWhales.png)
 Larger cetacean species produce longer wavelength vocalizations at lower frequencies. Sounds with longer wavelengths travel further in the ocean, allowing for long-distance communication (see right diagram). 
 :::
-::: {.column sifth="50%"}
-![](/figs/infographics/frequency_info/Species_Detection_Ranges_Categories.png){width=70%}
+::: {.column width="40%"}
+![](/figs/infographics/frequency_info/Species_Detection_Ranges_Categories.png){width=100%}
 :::
 ::::::::::::::
 
@@ -22,7 +22,7 @@ The following is a list of Mysticete species monitored by NEFSC Passive Acoustic
 This is not meant to be comprehensive of all balaenidae repertoire’s.
 :::
 :::
-::: {.column sifth="50%"}
+::: {.column width="50%"}
 
 :::
 ::::::::::::::
