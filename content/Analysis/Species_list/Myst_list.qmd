@@ -2,7 +2,7 @@
 title: "Baleen Whales"
 page-layout: full
 ---
-Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to [navigate](https://dosits.org/animals/use-of-sound/marine-mammal-navigation/). As larger species, baleen vocals tend to be low frequency and propogate far distances. [Recent research](https://onlinelibrary.wiley.com/doi/10.1111/mms.13228) has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can't hear such low frequency sounds. 
+Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to [navigate](https://dosits.org/animals/use-of-sound/marine-mammal-navigation/)). As larger species, baleen vocals tend to be low frequency and propogate far distances. [Recent research](https://onlinelibrary.wiley.com/doi/10.1111/mms.13228) has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can't hear such low frequency sounds. 
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
