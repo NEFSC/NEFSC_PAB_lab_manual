@@ -88,7 +88,7 @@ wider variation of low-frequency downsweeps.
 :::
 ::::::::::::::
 
-Downsweep calls may occur as single calls (i.e., singlets), doublets, or triplets. Stereotypes, frequency-modulated 82-34 Hz downsweeps have an average duration of 1.4 s, and the average interval between the start of the first call and start of the second call in doublet or triplet form is ~3.5s (Baumgartner et al., 2008). Minke songs are patterned, low-frequency downsweeps which were recently documented in the western North Atlantic with 50-30 Hz triplet and singlet downsweep vocalizations with duration in the 0.6-1.94s range. These were closely associated with the previously documented 82-34 Hz Sei whale downsweeps (Tremblay et al., 2018).
+Downsweep calls may occur as single calls (i.e., singlets), doublets, or triplets. Stereotypes, frequency-modulated 82-34 Hz downsweeps have an average duration of 1.4 s, and the average interval between the start of the first call and start of the second call in doublet or triplet form is ~3.5s (Baumgartner et al., 2008). Minke songs are patterned, low-frequency downsweeps which were recently documented in the western North Atlantic with 50-30 Hz triplet and singlet downsweep vocalizations with duration in the 0.6-1.94s range. These were closely associated with the previously documented 82-34 Hz sei whale downsweeps (Tremblay et al., 2018).
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -180,9 +180,9 @@ as loud as 184-186 dB re 1 mPa (Charif et al., 2002; Richardson et al., 1995). S
 :::
 :::::::::::::::
 
-The most common Fin whale calls are the 20-Hz pulse (also called "A notes" or "20-Hz notes"). These are Stereotypes, drequency-modulated downsweeps, the most common of which has a dominant frequencyof 25-17 Hz, usually centered around 20-Hz with an average duration of 1s (Morano et al., 2012). The Inter-note interval (INI) can vary seasonally in the western North Atlantic with shorter INIs (~9.6s) occurring primarily in September-January, longer INIs (~15.2 s) occuring in March-May, and a transitional period occurring in February and June-August when the INI can vary (Morano et al., 2012). 
+The most common fin whale calls are the 20-Hz pulse (also called "A notes" or "20-Hz notes"). These are stereotypes, frequency-modulated downsweeps, the most common of which has a dominant frequencyof 25-17 Hz, usually centered around 20-Hz with an average duration of 1s (Morano et al., 2012). The inter-note interval (INI) can vary seasonally in the western North Atlantic with shorter INIs (~9.6s) occurring primarily in September-January, longer INIs (~15.2 s) occuring in March-May, and a transitional period occurring in February and June-August when the INI can vary (Morano et al., 2012). 
 
-Fin whales also produce Back-beat pulses (also called "B notes"). These have a narrower bandwidth: 18-20 Hz (Clark et al., 2002), and are produced in a series or rotation with 20 Hz pulses. 
+Fin whales also produce back-beat pulses (also called "B notes"). These have a narrower bandwidth: 18-20 Hz (Clark et al., 2002), and are produced in a series or rotation with 20 Hz pulses. 
 
 40-Hz calls/downsweeps are characterized by higher frequency, down sweeping pulses of 70-30 Hz (Wiggins & Hildebrand, 2020). These have been occasionally observed but not yet documented in the literature for the North Atlantic. 40-Hz calls may function in a feeding context; these calls have been recorded in known feeding areas with whales engaged in long dives or surface feeding activities. Call rates generally increase with increasing prey biomass (Romagosa et al., 2021).
 
@@ -232,7 +232,7 @@ moans, screams, upcalls, and gunshots. Most of their vocalizations have acoustic
 :::
 ::::::::::::::
 
-NARWH Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmark shape or upsweep with a frequency range of ~100-300 Hz and a duration of ~0.6-1.3s. These are described as contact calls as they seem to function as a way of whales to find each other (DOSITS, 2021). Upcallsa re the most common means of determining right whale presence from acoustic data. 
+NARW Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmark shape or upsweep with a frequency range of ~100-300 Hz and a duration of ~0.6-1.3s. These are described as contact calls as they seem to function as a way of whales to find each other (DOSITS, 2021). Upcalls are the most common means of determining right whale presence from acoustic data. 
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -288,11 +288,6 @@ Humpback songs can contain both tonal and impulsive sounds. Each individual soun
 | Social |  |  | HWSOC |  |  |
 | Song |  |  | HWSONG |  |  |
 | Mixed call |  |  | HWMIX |  |  |
-
-::: {.callout-tip title="Note"}
-NEFSC Passive Acoustics
-Branch only uses calls that are obviously part of a song pattern for determining daily presence of humpback whales in our archival data.
-:::
 
 ![](/figs/Spec_images/Baleen/HUMP_spec.PNG)
 *Humpback social calls*
