@@ -277,7 +277,7 @@ NEFSC Passive Acoustics
 Branch only uses calls that are obviously part of a song pattern for determining daily presence of humpback whales in our archival data.
 :::
 
-![](/figs/Spec_images/Baleen/HUMP_spec.png)
+![](/figs/Spec_images/Baleen/HUMP_spec.PNG)
 *Humpback social calls*
 :::
 ::: {.column width="50%"}
