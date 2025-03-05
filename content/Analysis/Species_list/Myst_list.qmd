@@ -149,6 +149,12 @@ sweeping calls (i.e., D calls) that they produce irregularly and in pattern, and
 ![](/figs/Spec_images/Baleen/BLUE_spec2.PNG){width=100%}
 \
 *Spectrogram image of Blue whale A/B/AB song*
+
+::: {.callout-tip title="Note"}
+While there are multiple call types described in this guide, the NEFSC Passive Acoustics
+Branch only uses A, B, and AB call types for determining daily presence of blue whales in our
+archival data.
+:::
 :::
 ::: {.column width="50%"}
 ![](/figs/Spec_images/Baleen/Blue-calls/Blue-arch.png)
@@ -195,6 +201,11 @@ Fin whales also produce Back-beat pulses (also called "B notes"). These have a n
 ![](/figs/Spec_images/Baleen/FIN_spec2.PNG){width=100%}
 \
 *Spectrogram image of Fin whale 20-Hz pulse calls*
+
+::: {.callout-tip title="Note"}
+While there are multiple call types described in this guide, the NEFSC Passive Acoustics
+Branch only uses 20-Hz pulses for determining daily presence of fin whales in our archival data.
+:::
 :::
 ::: {.column width="50%"}
 \
@@ -235,6 +246,12 @@ NARWH Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmar
 ![](/figs/Spec_images/Baleen/NARW_spec2.PNG){width=100%}
 \
 *Spectrogram image of North Atlantic Right Whale upcalls*
+
+::: {.callout-tip title="Note"}
+While there are multiple call types described in this guide, the NEFSC Passive Acoustics
+Branch only uses upcalls for determining daily presence of North Atlantic right whales in our
+archival data.
+:::
 :::
 ::: {.column width="50%"}
 ![](/figs/Spec_images/Baleen/NARW-calls/Call-overview.png)
@@ -279,6 +296,12 @@ Branch only uses calls that are obviously part of a song pattern for determining
 
 ![](/figs/Spec_images/Baleen/HUMP_spec.PNG)
 *Humpback social calls*
+
+::: {.callout-tip title="Note"}
+While song and non-song are both described in this guide, the NEFSC Passive Acoustics
+Branch only uses calls that are obviously part of a song pattern for determining daily presence of
+humpback whales in our archival data.
+:::
 :::
 ::: {.column width="50%"}
 ![](/figs/Spec_images/Baleen/Humpback/Humpback-call-structure.png)
