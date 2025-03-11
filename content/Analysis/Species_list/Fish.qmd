@@ -2,6 +2,9 @@
 title: Fish/Invertebrate species list
 ---
 ## Fish
+The PAB lab collaborates with local fishery policy makers by acoustically monitoring for economically important species of fish. Stellwagen bank hosts herring, cod and haddock spawning grounds, supplementing New England fishery economies and feeding local biodiversity. Cod and Herring tend to produce more sounds during spawning events, lending acoustics as a prime monitoring technique to track spawning trends. 
+
+Fish don't produce sounds the same way cetaceans do. Not all fish produce sounds at all. Those that do typically have specialized muscles that beat against their swim bladders, producing 'pulse' like sounds. See below for spectrogram examples of our study fish.
 
 #### Herring
 ![](/figs/infographics/fish_noaafisheries/Herring.png){width=15%}\
@@ -27,9 +30,10 @@ Makara species code: HADD
 ![](/figs/Spec_images/Fish/Haddock_spec.PNG){width=50%}
 
 ## Invertebrates 
+We commonly record snapping shrimp in our acoustic data collected all along the eastern seaboard. They tend to remain on the seafloor, and tend to avoid mudflats and seagrass habitats. Snapping shrimp produce quick snaps that appear as broad-frequency lines in the background of spectrogram images. We cannot distinguish snapping shrimp species by this type of data. 
 
 #### Snapping Shrimp
 
-Scientific name: *Alpheus sp.*  
+Scientific name: *Alpheus spp.*  
 Makara species code: SNSH  
 ![](/figs/Spec_images/Fish/shrimp_spec.PNG){width=50%}
