@@ -450,7 +450,7 @@ Makara species code: CUBW
 ::::::::::::::
 
 
-#### **Gulf of Mexico’s Beaked whale (BWG, unknown)**
+#### [**Gulf of Mexico’s Beaked whale (BWG, unknown)**](/content/Analysis/Species_list/beaked-whale/BWG.qmd)
 
 Scientific name: *Ziphiidae sp.* \
 Makara species code: BWG
@@ -459,27 +459,9 @@ Makara species code: BWG
 ## **Narrow band high-frequency (NBHF)**
 
 :::::::::::::: {.columns}
-::: {.column width="80%"}
+::: {.column width="75%"}
 
 Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy and Dwarf sperm whales). Both groups produce indifferentiable clicks. Species are thus identified by recording location \- nearshore narrow high-band frequency clicks are denoted as porpoise clicks, offshore as Kogiidae clicks (map right). Porpoises also produce both social and foraging buzzes, indicating an echolocation event. 
-
-**Narrow Band High Frequency click (*Malinka et al. 2021*)**:\
-
-![](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=40%}
-
-:::
-::: {.column width="20%"}
-
-![*DeAngelis, A. 2023*](/figs/Spec_images/Odont/Odont_diagrams/Porpoise_kogiidae_range.png){width=90%} 
-
-:::
-::::::::::::::
-
-:::::::::::::: {.columns}
-::: {.column width="18%"}
-
-:::
-::: {.column width="64%"}
 
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
@@ -489,7 +471,30 @@ Narrow high-band frequency species include porpoises and Kogiidae species (Pygmy
 | Buzz |  |  | POBZ (both foraging and social) |  |  |
 
 :::
-::: {.column width="18%"}
+::: {.column width="25%"}
+
+![*DeAngelis, A. 2023*](/figs/Spec_images/Odont/Odont_diagrams/Porpoise_kogiidae_range.png){width=100%} 
+
+:::
+::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+![Kogia click spectra: PSD of the energy distribution within Kogia clicks ](/figs/Spec_images/Odont/spectra/Kogia.jpg){width=100%}
+
+::: {.callout-tip title="Note"}
+For Kogia 3: the peak ~117 kHz is an artifact of the high pass filter applied to the data, thus Kogia 3 spectra = Kogia 2 spectra
+:::
+:::
+::: {.column width="40%"}
+
+\
+\
+
+![Narrow Band High Frequency click (*Malinka et al. 2021*)](/figs/Spec_images/Odont/Odont_diagrams/High-band.frequency.click.png){width=100%}
+
+
 :::
 ::::::::::::::
 
