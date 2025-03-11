@@ -1,0 +1,26 @@
+---
+title: "BWG"
+format: html
+---
+Not much is known about this Gulf of Mexico's elusive beaked whale species. Below are some spectrogram and wigner plots depicting one of the few recorded acoustic events documented.
+
+
+
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/BWG/BWG1.png)
+
+
+
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/BWG/BWG2.png)
+
+
+:::::::::::::: {.columns}
+::: {.column width="15%"}
+
+:::
+::: {.column width="70%"}
+![](/figs/Spec_images/Odont/Beaked-whale-wigner/BWG/BWG3.png)
+:::
+::: {.column width="15%"}
+
+:::
+::::::::::::::
