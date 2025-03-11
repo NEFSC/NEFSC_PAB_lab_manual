@@ -63,6 +63,8 @@ website:
             text: PassiveAcoustics Soundfiles
           - href: content/DataManagement/Data-repositories.qmd
             text: Data Repositories
+          - href: content/DataManagement/QAQC.qmd
+            text: QA/QC
       - href: content/Hardware/Hardware.qmd
         text: Hardware
       - href: content/Software/Software.qmd

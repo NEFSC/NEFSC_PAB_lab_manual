@@ -1,0 +1,44 @@
+---
+title: "Quality Assurance / Quality Control"
+format: html
+---
+
+The PAB lab performs QA/QC checks on all acoustic data prior to analyzing the data to identify recorder performance issues, data gaps, and compromised or missing data. Soundtrap QAQC methods can be conducted through R and Matlab. Currently many parts of these processes are designed specifically for the metadata and server structure at NEFSC, but all parts are meant to be adaptable for use at all science centers. Required code for each method is stored on the [server](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PA_server_structure.html): 
+
+**R**: PassiveAcoustics/Stellwagen_Old/MANUALS_SOFTWARE_CODE LIBRARY/CODE_LIBRARY/R/R_QAQC_TS/
+
+**Matlab**: Z:\MANUALS_SOFTWARE_CODE LIBRARY\CODE_LIBRARY\MATLAB\SanctSound 
+
+## [R QA/QC Methods](https://docs.google.com/document/d/1WCzd0nXzmCgfMEmp9qwT4IPmMnMPt0hFaLRcmgnAbvE/edit?usp=sharing)
+
+These methods outline how to conduct QA/QC check in R using purpose written code by Taiki Sakai. The process consists of generating 4 QAQC output figures in R then manually reviewing this output using an interactive Shiny app. This process is currently set up to reference multiple deployments worth of data following the organizational structure of the NEFSC server. Other users can generate the 4 QAQC figures independently, then point to the appropriate file directory to use the Shiny App for interactive evaluation of the output figures. See below for details on these components.  
+
+### Shiny App
+
+The purpose of this app is to give users a simple interactive method of viewing the generated QAQC output data and making note of any potential issues present. The app can be started by running the **runQAQCReview** function and giving it the folder where the QAQC_Log.csv is stored as an input. This will open up the Shiny app in a browser window, defaulting to the Home tab. You can navigate to other tabs by clicking on them.
+
+![Issue log: Issues can be logged directly in time-series plots using the Shiny app.
+](/figs/QAQC/Shiny.png){width=70%}
+
+The Shiny app produces the following output figures:
+
+### TOL - Third Octave Levels
+The TOL tab shows the TOL plot for the selected project, using the second 60 seconds of every wav file. The shown time range can be adjusted using the slider bar **Time Range** below the plot, and frequencies can be removed from the display by unchecking the relevant box under **Frequency to Show**. TOL plots are inspected to evaluate recorder performance and identify any compromised frequencies. 
+
+![](/figs/QAQC/TOL.png){width=70%}
+
+### Data gap time series plots
+The Data Gaps tab shows two plots on the same time scale. The top plot shows the time between the start of each recording file (in seconds) - generally these should be the same value, except for the first file which may have been shortened (and the last value is always 0). The bottom plot shows the time between the actual end of one recording file (taken as start time + actual duration) and the reported start of the next recording file. Generally these should be 0, though periodic jumps of 1 second occur (this typically happens because file names are rounded to a full second, and file durations can be off by fractions of a second - so eventually these fractions of a second add up to a file time needing to change by a full second). Similarly to the TOL plot, the displayed times can be adjusted using the **Time Range** slider. 
+
+![](/figs/QAQC/data.gaps.png){width=70%}
+
+### Temperature and voltage time series plots
+The Temp Volt panel shows the temperature and voltage time series plots, if the project did not use a Soundtrap recorder then this will display a message that no data is available. If any anomalies are present, you can select a time region on the plot, add a comment and hit the **Log Issue** button. The values of the temperature and voltage will be stored with the note along with the start and end times of the region selected and their corresponding recording files. Depending on the Soundtrap model, sometimes both internal and external battery data will be shown here.
+
+![](/figs/QAQC/temp.png){width=70%}
+
+## [Matlab QA/QC](https://docs.google.com/document/d/15kDYVLDNH-pv7mJYbGYjLvWRzQO1JYdEdYjLOZMIKto/edit?tab=t.0#heading=h.wifxlyz5ya)
+Currently, this process is tailored to Ocean Instruments SoundTrap 600s and includes two scripts executed in MATLAB that clip the start and end of the deployment to usable underwater data. Manual QAQC review is done through R (see protocol above). 
+
+## [FPOD QA/QC Methods](https://docs.google.com/document/d/1XrVKMOZ2diuWAxvfFbuRDP2KQ2ii6of5FT_Z5GlPWsg/edit?usp=sharing)
+Overview of FPOD QA/QC methods with battery levels, frequency, and train species class outputs.
