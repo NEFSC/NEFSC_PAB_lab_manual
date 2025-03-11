@@ -151,14 +151,17 @@ Makara species code: BODO
 
 #### [**Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)
 
-Scientific name: *Delphinus delphis*  
+Scientific name: *Delphinus spp.*  
 Makara species code: SADO
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
 ![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=100%}
+::: {.callout-tip title="Note"}
+Long-beaked and Short-beaked common dolphins cannot be differentiated acoustically
 
+:::
 :::
 ::: {.column width="3%"}
 
@@ -285,13 +288,18 @@ Makara species code: FKWH
 
 #### [**Pilot whale sp.**](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)
 
-Scientific name: *Globicephala macrorhynchus*  
+Scientific name: *Globicephala spp.*  
 Makara species code: SFPW
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
-![*Globicephala spp.*](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=100%}
+![](/figs/Spec_images/Odont/Short_finned_pilotwhale_spec.png){width=100%}
+
+::: {.callout-tip title="Note"}
+Long-finned and Short-finned pilot whales cannot be differentiated acoustically
+
+:::
 
 :::
 ::: {.column width="3%"}
@@ -305,9 +313,9 @@ Makara species code: SFPW
 ::::::::::::::
 
 
-## **Beaked Whales**
+## [**Beaked Whales**](/content/Analysis/Species_list/beaked-whale/Beaked_whale_guide_20190812.docx)
 
-Beaked whales produce two types of clicks - **Frequency modulated upsweeps** and **surface clicks** (not frequency modulated, also refered to as impulsive clicks). Frequency modulated upsweeps refers to echolocation clicks produced during foraging events. Similar to sperm whales, beaked whales produce buzzes(rapid echolocation clicks) right before prey capture. [**WHAT IS FREQUENCY MODULATION?**]. Some beaked whale species emit **impulsive clicks**, which are considered social communication. These are predominantly larger beaked whale species (ex. Northern bottlenose whale and Baird's beaked whales). Some species may produce **whistles** as well, however they are uncommon and not well documented. 
+Beaked whales produce two types of clicks - **Frequency modulated upsweeps** and **surface clicks** (not frequency modulated, also refered to as impulsive clicks). Frequency modulated upsweeps refers to echolocation clicks produced during foraging events. Similar to sperm whales, beaked whales produce buzzes(rapid echolocation clicks) right before prey capture. Some beaked whale species emit **impulsive clicks**, which are considered social communication. These are predominantly larger beaked whale species (ex. Northern bottlenose whale and Baird's beaked whales). Some species may produce **whistles** as well, however they are uncommon and not well documented. 
 
 :::::::::::::: {.columns}
 ::: {.column width="20%"}
@@ -423,7 +431,7 @@ Makara species code: TRBW
 :::
 ::::::::::::::
 
-#### **Cuvier's beaked whale**
+#### **Goose beaked whale**
 
 Scientific name: *Ziphius cavirostris*  
 Makara species code: CUBW  
