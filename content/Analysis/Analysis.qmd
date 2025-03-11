@@ -5,10 +5,15 @@ page-layout: full
 
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
-### Sound Source list
+## Sound Source list
 
 Our list of sound sources monitored acoustically by PAB is organized by Baleen whales, Odontocetes, Pinnipeds, Fish/Inverts, and Environmental/Anthropogenic sounds. Unidentified sounds are also included, which lists makara codes and spectrogram examples of unidentified sounds. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s [Sounds in the Ocean](https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals#odontocetes-toothed-whales). For more information about each specie, see [this page](https://www.fisheries.noaa.gov/find-species).
 
-### Analysis protocols
+### What is a spectrogram?
+Acoustic data is often visualized using spectrograms, which graphs the frequency of a sound source against time. The amplitude (or 'loudness') of a sound is depicted by darker/lighter contrast. We provide spectrogram examples for most of our sound sources.
+
+![](/figs/Spec_images/Baleen/What.is.spectrogram.png)
+
+## Analysis protocols
 
 Our lab's protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our [Software page](/content/Software/Software.qmd). \
