@@ -81,7 +81,7 @@ website:
               - href: content/Analysis/Species_list/Pinniped.qmd
                 text: Pinnipeds
               - href: content/Analysis/Species_list/Fish.qmd
-                text: Fish
+                text: Fish & Invertebrates
               - href: content/Analysis/Species_list/Env-Anthro.qmd
                 text: Environmental and Anthropogenic sounds
               - href: content/Analysis/Species_list/Undefined.qmd
