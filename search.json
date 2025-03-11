@@ -440,11 +440,21 @@
     "text": "Sources\nPace, D. S., Lanfredi, C., Airoldi, S., Giacomini, G., Silvestri, M., Pavan, G., & Ardizzone, D. (2021). Trumpet sounds emitted by male sperm whales in the Mediterranean Sea. Scientific Reports, 11(1), 1-16.\nCholewiak, D., DeAngelis, A. I., Palka, D., Corkeron, P. J., & Van Parijs, S. M. (2017). Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders. Royal Society open science, 4(12), 170940.\nMalinka, C. E., Tønnesen, P., Dunn, C. A., Claridge, D. E., Gridley, T., Elwen, S. H., & Teglberg Madsen, P. (2021). Echolocation click parameters and biosonar behaviour of the dwarf sperm whale (Kogia sima). Journal of Experimental Biology, 224(6), jeb240689.\nMadsen, P., Wahlberg, M., & Møhl, B. (2002). Male sperm whale (Physeter macrocephalus) acoustics in a high-latitude habitat: implications for echolocation and communication. Behavioral Ecology and Sociobiology, 53, 31-41.\nNemiroff, L. (2009). Structural Variation and Communicative Functions of Long-finned Pilot Whale (Globicephala Melas) Pulsed Calls and Complex Whistles.\nDeAngelis AI, Stanistreet JE, Baumann-Pickering S, Cholewiak DM (2018). A description of echolocation clicks recorded in the presence of True’s beaked whale (Mesoplodon mirus). J Acoust Soc Am. 144(5), 2691"
   },
   {
-    "objectID": "content/Analysis/Analysis.html",
-    "href": "content/Analysis/Analysis.html",
+    "objectID": "content/Analysis/Analysis.html#sound-source-list",
+    "href": "content/Analysis/Analysis.html#sound-source-list",
     "title": "Analysis",
-    "section": "",
-    "text": "Sound Source list\nOur list of sound sources monitored acoustically by PAB is organized by Baleen whales, Odontocetes, Pinnipeds, Fish/Inverts, and Environmental/Anthropogenic sounds. Unidentified sounds are also included, which lists makara codes and spectrogram examples of unidentified sounds. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\n\nAnalysis protocols\nOur lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page.",
+    "section": "Sound Source list",
+    "text": "Sound Source list\nOur list of sound sources monitored acoustically by PAB is organized by Baleen whales, Odontocetes, Pinnipeds, Fish/Inverts, and Environmental/Anthropogenic sounds. Unidentified sounds are also included, which lists makara codes and spectrogram examples of unidentified sounds. For more detailed information about species call types, see the linked acoustic event guides. For marine mammal spectrogram images/recordings, see NOAA’s Sounds in the Ocean. For more information about each specie, see this page.\n\nWhat is a spectrogram?\nAcoustic data is often visualized using spectrograms, which graphs the frequency of a sound source against time. The amplitude (or ‘loudness’) of a sound is depicted by darker/lighter contrast. We provide spectrogram examples for most of our sound sources.",
+    "crumbs": [
+      "Analysis"
+    ]
+  },
+  {
+    "objectID": "content/Analysis/Analysis.html#analysis-protocols",
+    "href": "content/Analysis/Analysis.html#analysis-protocols",
+    "title": "Analysis",
+    "section": "Analysis protocols",
+    "text": "Analysis protocols\nOur lab’s protocol information is organized by detectors used for our Mystecete, Odontocete, Fish, Anthropogenic, and AMP projects. For more information on softwares required for listed detectors, see our Software page.",
     "crumbs": [
       "Analysis"
     ]
