@@ -1,4 +1,63 @@
 ---
 title: Media
 ---
+Below are videos, podcasts, radio clips and articles featuring work from the NEFSC Passive Acoustive Branch. The following list of podcasts, radio clips and articles are listed from 2020 to present. 
 
+## Videos
+
+#### NOAA: Listening for whales  
+<iframe src='//players.brightcove.net/659677166001/4b3c8a9e-7bf7-43dd-b693-2614cc1ed6b7_default/index.html?videoId=6364921533112' allowfullscreen frameborder=0 width="440" height="260"></iframe>
+
+
+#### Voices of the Ocean: Using acoustics to monitor endagered Right whales
+
+<video width="440" height="260" controls>
+  <source src=/figs/Videos/VITS.2.T.mp4 type="video/mp4">
+  </video>
+
+## Podcasts
+
+#### [Studying Sound in the Ocean to Prepare for Offshore Wind Development](https://podcasts.apple.com/us/podcast/studying-sound-in-the-ocean-to-prepare-for-offshore/id1612835177?i=1000655056251) - Dive in with NOAA Fisheries
+
+Discussing passive acoustic monitoring and where it fits into the country's renewable energy strategy.
+
+#### [Baleen whales calling](https://podcasts.apple.com/us/podcast/baleen-whales-calling/id1358697135?i=1000654126889) - Marine Conservation Happy hour
+
+Dr Scarlett Smash & Dr Craken MacCraic chat to Julianne Wilder about the whale calls, the effects of climate change and underwater sound research. They also chat about the  new paper she co-authored:  Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data.
+
+#### [Listening for Cod in the Gulf of Maine](https://www.fisheries.noaa.gov/podcast/listening-cod-gulf-maine)  - On the Line
+
+Scientists and fishermen are working together to locate spawning aggregations of Atlantic cod. The goal is to allow cod and fishermen to each go about their business separately.
+
+## Radio
+
+#### [In Fight Over Right Whales And Lobster Fishery, All Sides Want To Know More About Whale Activity Off Maine](https://www.mainepublic.org/environment-and-outdoors/2021-06-24/in-fight-over-right-whales-and-lobster-fishery-all-sides-want-to-know-more-about-the-whales-activities-off-maine) - Maine Public Radio: On Point
+The historic migration patterns of endangered North Atlantic right whales have been changing in the last decade, possibly due to climate change. Federal regulators, meanwhile, are considering drastic measures to protect the whales against deadly entanglement in fishing gear and rope. So the question of where and when the whales are swimming in relation to Maine's lobster fishery is gaining urgency. Now, new efforts are underway to pinpoint their travel habits.
+
+#### [Opening Our Ears to the Ocean](https://www.capeandislands.org/show/the-point/2021-02-22/opening-our-ears-to-the-ocean#stream/0) - WCAI All Things Considered
+Many of us are familiar with the song of the humpback whale or the clicking of dolphin echo-location but we may not have considered the design, engineering, and field work necessary to collect those sounds. Captain Bob Wallace and Biologist Peter Tyack join us to discuss the pioneering work of Woods Hole Oceanographic Institution bio acoustic engineer Bill Watkins, and how his recordings helped launch the marine mammal conservation movement. 
+
+#### [Scientists Use New Tech To Detect Presence Of Endangered Right Whales Off Maine's Coast](https://www.mainepublic.org/environment-and-outdoors/2020-02-21/scientists-use-new-tech-to-detect-presence-of-endangered-right-whales-off-maines-coast) - Maine Public Radio: Here and Now
+New acoustic monitors off Maine's coast have detected the presence of North Atlantic right whales this winter. Scientists are trying to gather new data on the endangered animals' whereabouts.
+
+## Articles
+
+[Stude Provides Guidance on detecting North Atlantic Right Whales in Winds Energy Areas](https://www.fisheries.noaa.gov/feature-story/study-provides-guidance-detecting-north-atlantic-right-whales-wind-energy-areas)  - NOAA Fisheries Feature Story
+
+[Listening to the Ocean in the Time of COVID-19](https://sanctuaries.noaa.gov/news/mar21/listening-during-quarantine.html) - NOAA Sanctuary News
+
+[Listening to fish with passive acoustics](https://www.whoi.edu/news-insights/content/listening-to-fish-passive-acoustics/)  - WHOI
+
+[Baleen Whales Expanding Their Range as Oceans Warm, New Study Shows](https://weather.com/science/nature/news/2020-07-17-baleen-whales-climate-change-expanding-range-gulf-of-maine)  - The Weather Channel
+
+[Baleen Whales Have Changed Their Distribution in the Western North Atlantic](https://www.fisheries.noaa.gov/feature-story/baleen-whales-have-changed-their-distribution-western-north-atlantic) - NOAA Fisheries Feature Story
+
+[WHOI-NOAA collaboration aims to protect endangered species from lethal ship strikes and noise from offshore wind construction](https://www.whoi.edu/news-insights/content/teaming-up-for-right-whales/) - WHOI
+
+[NOAA deploys both static and dynamic audio recorders in search for North Atlantic Right Whales](https://www.fondriest.com/news/noaa-deploys-both-static-and-dynamic-audio-recorders-in-search-for-north-atlantic-right-whales.htm) - Environmental Monitor
+
+[Technology Helps Unlock the World of Beaked Whales - NOAA Fisheries Feature Story](https://www.fisheries.noaa.gov/feature-story/technology-helps-unlock-world-beaked-whales)
+
+['We’re watching them die': can right whales pull back from the brink?](https://www.theguardian.com/environment/2020/apr/17/north-atlantic-right-whales-were-watching-them-die) - The Guardian
+
+[NOAA Collects Data on Fish Species in Wind Energy Lease Areas](https://www.offshore-energy.biz/noaa-collects-data-on-fish-species-in-wind-energy-lease-areas/) - Subsea World News
