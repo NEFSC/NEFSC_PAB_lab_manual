@@ -89,8 +89,9 @@ Dolphin species produce various clicks and whistles which are complex, variable,
 ::::::::::::::
 ::: {.column width="40%"}
 
-\
-\
+::: {.callout-tip title=Note}
+PAB typically does not differentiate individual dolphin species for soundtrap data analysis, but will identify species for towed array surveys
+:::
 
 ![Species: Spinner Dolphin](/figs/Spec_images/Odont/Odont_diagrams/Dolphin_complexity.PNG){width=100%}
 
@@ -158,10 +159,12 @@ Makara species code: SADO
 ::: {.column width="50%"}
 
 ![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=100%}
-::: {.callout-tip title="Note"}
+
+::: {.callout-tip title=Note}
 Long-beaked and Short-beaked common dolphins cannot be differentiated acoustically
 
 :::
+
 :::
 ::: {.column width="3%"}
 
