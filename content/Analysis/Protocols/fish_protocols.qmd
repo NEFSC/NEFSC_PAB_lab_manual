@@ -7,7 +7,7 @@ title: Fish Protocols
 Cod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis
 
 * Makara detector code: MATLAB\_COD\_ISRAT  
-* [NEFSC OFFSHORE Cod Detector Protocol](https://docs.google.com/document/d/1gvj1Ejn7NL6Bu1mg95fzNNtnZmpPq6ny/edit)  
+* [Cod Detector Protocol](https://docs.google.com/document/d/1gvj1Ejn7NL6Bu1mg95fzNNtnZmpPq6ny/edit)  
 * Gateway Cod Detector Protocol: \\\\nefscdata\\PassiveAcoustics\\PAB\_ANALYSIS\_TRAINING\\SOUND\_ECOLOGY\\NEFSC\_Fish\_Analysis Training\\Cod
 
 ![](/figs/Software_detectors/ISRAT_cod.PNG){width=40%}\
@@ -32,4 +32,5 @@ Kurtosis detector for haddock developed by Xavier Muoy
 CNN for general identification of unidentified fish sounds
 
 * Makara detector code: PYTHON\_MULTI-SPECIES\_FISH  
-* Link to analysis protocol page
+* [FishSound Github](https://github.com/xaviermouy/FishSound_Finder) - Xavier Mouy
+* [FishSound web page](https://fishsound-finder.readthedocs.io/en/latest/)
