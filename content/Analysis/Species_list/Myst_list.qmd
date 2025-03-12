@@ -10,7 +10,7 @@ Baleen whales (Mysticetes) consist of some of the largest marine mammals in the 
 Larger cetacean species produce longer wavelength vocalizations at lower frequencies. Sounds with longer wavelengths travel further in the ocean, allowing for long-distance communication (see right diagram). 
 :::
 ::: {.column width="40%"}
-![](/figs/infographics/frequency_info/Species_Detection_Ranges_Categories.png){width=100%}
+![Van Parijs et al 2021](/figs/infographics/frequency_info/Species_Detection_Ranges_Categories.png){width=100%}
 :::
 ::::::::::::::
 
@@ -24,95 +24,6 @@ This is not meant to be comprehensive of all balaenidae repertoire’s.
 :::
 ::: {.column width="50%"}
 
-:::
-::::::::::::::
-
-## **Minke whale**
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-
-**Scientific name**: *Balaenoptera acutorostrata*  
-**Makara species code**: MIWH 
-
-The information published on minke whale vocalizations is currently limited. In the Southern
-and Pacific oceans they make a variety of low- and mid-frequency calls, but the most frequent
-vocalization observed in the Atlantic Ocean are low-frequency pulse trains.
-:::
-::: {.column sifth="50%"}
-![](/figs/infographics/Minke_noaafisheries.png){width=100%}
-:::
-::::::::::::::
-
-Minke whale pulse trains are stereotyped, 50-500 Hz thumps or pulses, each lasting ~0.5-0.7 s. Pulse trains can last 40-60 s and occur every 6-14 minutes in bouts that can last up to several hours. Some pulse trains have pulses that remain at a constant interpulse interval (IPI), while other pulse trains show a slight but abrupt slow-down impulses and lengthening of IPI approximately halfway through the pulse train (Risch et al., 2013; see figure below). There are also speed-up pulse trains that show the reverse trend with decreasing IPIs toward the end of the pulse train. Minkes are also known to create variations of pulse trains, with seasonal variation in pulse train length and IPIs.
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-\
-
-| Call Types |  |  | Makara call-type code |  |  |
-| ----- | ----- | :---: | :---- | :---- | ----- |
-| Pulse train |  |  | MWPT |  |  |
-| Pulse train speed-up |  |  | MWPTSU |  |  |
-| Pulse train slow-down |  |  | MWPTSD |  |  |
-| Pulse train constant |  |  | MWPTC |  |  |
-
-::: {.callout-tip title="Note"}
-While there are other minke whale call types described in the literature for other
-populations, the NEFSC Passive Acoustics Branch only uses pulse trains for determining daily
-presence of minke whales in our archival data collected in the western North Atlantic. 
-
-:::
-
-:::
-::: {.column sifth="50%"}
-
-![](/figs/Spec_images/Baleen/Minke-calls/Minke-PT.png){width=100%}
-*Risch et al. 2013*
-
-:::
-::::::::::::::
-
-## **Sei whale**
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-**Scientific name**: *Balaenoptera borealis*  
-**Makara species code**: SEWH \
-\
-The information published on sei whale vocalizations is currently limited. In the Southern
-Ocean they make low- and mid-frequency calls, but the most frequent call observed in the
-Atlantic Ocean is the low-frequency downsweep. Sei whale song has also been recorded with a
-wider variation of low-frequency downsweeps. 
-:::
-::: {.column sifth="50%"}
-![](/figs/infographics/Sei_noafisheries.png){width=100%}
-:::
-::::::::::::::
-
-Downsweep calls may occur as single calls (i.e., singlets), doublets, or triplets. Stereotypes, frequency-modulated 82-34 Hz downsweeps have an average duration of 1.4 s, and the average interval between the start of the first call and start of the second call in doublet or triplet form is ~3.5s (Baumgartner et al., 2008). Sei songs are patterned, low-frequency downsweeps which were recently documented in the western North Atlantic with 50-30 Hz triplet and singlet downsweep vocalizations with duration in the 0.6-1.94s range. These were closely associated with the previously documented 82-34 Hz sei whale downsweeps (Tremblay et al., 2018).
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-\
-
-| Call Types |  |  | Makara call-type code |  |  |
-| ----- | ----- | :---: | :---- | :---- | ----- |
-| 30-80 Hz Downsweep |  |  | SWDS |  |  |
-
-\
-
-![](/figs/Spec_images/Baleen/SEI_spec2.PNG){width=100%}
-\
-*Spectrogram image of Sei Whale downsweep*
-
-::: {.callout-tip title="Note"}
-While there are multiple call types described in this guide, the NEFSC Passive Acoustics
-Branch only uses downsweep doublets and triplets for determining daily presence of sei whales
-in our archival data.
-:::
-:::
-::: {.column sifth="50%"}
-\
-![](/figs/Spec_images/Baleen/Sei-calls/Sei-downsweeps.png)
 :::
 ::::::::::::::
 
@@ -213,51 +124,6 @@ Branch only uses 20-Hz pulses for determining daily presence of fin whales in ou
 :::
 :::::::::::::::
 
-
-## **North Atlantic right whale**
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-**Scientific name**: *Eubalaena glacialis*  
-**Makara species code**: RIWH  
-\
-North Atlantic right whales (NARWs) produce a variety of low-frequency sounds including
-moans, screams, upcalls, and gunshots. Most of their vocalizations have acoustic energy below
-500 Hz (DOSITS, 2021), but some vocalizations such as impulsive gunshot sounds produced by males can reach nearly 22 kHz (Parks & Tyack, 2005). Upcalls are the most common call types used to identify NARW presence as it is produced by all ages and sexes, and found throughout their range. 
-:::
-::: {.column width="50%"}
-
-![](/figs/infographics/NARW_noaafisheries.png){width=100%}
-
-:::
-::::::::::::::
-
-NARW Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmark shape or upsweep with a frequency range of ~100-300 Hz and a duration of ~0.6-1.3s. These are described as contact calls as they seem to function as a way of whales to find each other (DOSITS, 2021). Upcalls are the most common means of determining right whale presence from acoustic data. 
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-
-| Call Types |  |  | Makara call-type code |  |  |
-| ----- | ----- | :---: | :---- | :---- | ----- |
-| Gunshot |  |  | NARWGUNSHOT |  |  |
-| Moan |  |  | NARWHMOAN |  |  |
-| Upcall |  |  | NARWHUPCALL |  |  |
-
-![](/figs/Spec_images/Baleen/NARW_spec2.PNG){width=100%}
-\
-*Spectrogram image of North Atlantic Right Whale upcalls*
-
-::: {.callout-tip title="Note"}
-While there are multiple call types described in this guide, the NEFSC Passive Acoustics
-Branch only uses upcalls for determining daily presence of North Atlantic right whales in our
-archival data.
-:::
-:::
-::: {.column width="50%"}
-![](/figs/Spec_images/Baleen/NARW-calls/Call-overview.png)
-:::
-::::::::::::::
-
-
 ## **Humpback whale**
 
 :::::::::::::: {.columns}
@@ -313,6 +179,138 @@ humpback whales in our archival data.
     <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Humpback/Humpback_competitionsounds.wav" type="audio/wav">
 </video>
 ![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_competitionsounds.PNG){width=85%}
+
+## **Minke whale**
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+**Scientific name**: *Balaenoptera acutorostrata*  
+**Makara species code**: MIWH 
+
+The information published on minke whale vocalizations is currently limited. In the Southern
+and Pacific oceans they make a variety of low- and mid-frequency calls, but the most frequent
+vocalization observed in the Atlantic Ocean are low-frequency pulse trains.
+:::
+::: {.column sifth="50%"}
+![](/figs/infographics/Minke_noaafisheries.png){width=100%}
+:::
+::::::::::::::
+
+Minke whale pulse trains are stereotyped, 50-500 Hz thumps or pulses, each lasting ~0.5-0.7 s. Pulse trains can last 40-60 s and occur every 6-14 minutes in bouts that can last up to several hours. Some pulse trains have pulses that remain at a constant interpulse interval (IPI), while other pulse trains show a slight but abrupt slow-down impulses and lengthening of IPI approximately halfway through the pulse train (Risch et al., 2013; see figure below). There are also speed-up pulse trains that show the reverse trend with decreasing IPIs toward the end of the pulse train. Minkes are also known to create variations of pulse trains, with seasonal variation in pulse train length and IPIs.
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+\
+
+| Call Types |  |  | Makara call-type code |  |  |
+| ----- | ----- | :---: | :---- | :---- | ----- |
+| Pulse train |  |  | MWPT |  |  |
+| Pulse train speed-up |  |  | MWPTSU |  |  |
+| Pulse train slow-down |  |  | MWPTSD |  |  |
+| Pulse train constant |  |  | MWPTC |  |  |
+
+::: {.callout-tip title="Note"}
+While there are other minke whale call types described in the literature for other
+populations, the NEFSC Passive Acoustics Branch only uses pulse trains for determining daily
+presence of minke whales in our archival data collected in the western North Atlantic. 
+
+:::
+
+:::
+::: {.column sifth="50%"}
+
+![](/figs/Spec_images/Baleen/Minke-calls/Minke-PT.png){width=100%}
+
+:::
+::::::::::::::
+
+## **North Atlantic right whale**
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+**Scientific name**: *Eubalaena glacialis*  
+**Makara species code**: RIWH  
+\
+North Atlantic right whales (NARWs) produce a variety of low-frequency sounds including
+moans, screams, upcalls, and gunshots. Most of their vocalizations have acoustic energy below
+500 Hz (DOSITS, 2021), but some vocalizations such as impulsive gunshot sounds produced by males can reach nearly 22 kHz (Parks & Tyack, 2005). Upcalls are the most common call types used to identify NARW presence as it is produced by all ages and sexes, and found throughout their range. 
+:::
+::: {.column width="50%"}
+
+![](/figs/infographics/NARW_noaafisheries.png){width=100%}
+
+:::
+::::::::::::::
+
+NARW Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmark shape or upsweep with a frequency range of ~100-300 Hz and a duration of ~0.6-1.3s. These are described as contact calls as they seem to function as a way of whales to find each other (DOSITS, 2021). Upcalls are the most common means of determining right whale presence from acoustic data. 
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+| Call Types |  |  | Makara call-type code |  |  |
+| ----- | ----- | :---: | :---- | :---- | ----- |
+| Gunshot |  |  | NARWGUNSHOT |  |  |
+| Moan |  |  | NARWHMOAN |  |  |
+| Upcall |  |  | NARWHUPCALL |  |  |
+
+![](/figs/Spec_images/Baleen/NARW_spec2.PNG){width=100%}
+\
+*Spectrogram image of North Atlantic Right Whale upcalls*
+
+::: {.callout-tip title="Note"}
+While there are multiple call types described in this guide, the NEFSC Passive Acoustics
+Branch only uses upcalls for determining daily presence of North Atlantic right whales in our
+archival data.
+:::
+:::
+::: {.column width="50%"}
+![(Parks & Tyack, 2005)](/figs/Spec_images/Baleen/NARW-calls/Call-overview.png)
+:::
+::::::::::::::
+
+## **Sei whale**
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+**Scientific name**: *Balaenoptera borealis*  
+**Makara species code**: SEWH \
+\
+The information published on sei whale vocalizations is currently limited. In the Southern
+Ocean they make low- and mid-frequency calls, but the most frequent call observed in the
+Atlantic Ocean is the low-frequency downsweep. Sei whale song has also been recorded with a
+wider variation of low-frequency downsweeps. 
+:::
+::: {.column sifth="50%"}
+![](/figs/infographics/Sei_noafisheries.png){width=100%}
+:::
+::::::::::::::
+
+Downsweep calls may occur as single calls (i.e., singlets), doublets, or triplets. Stereotypes, frequency-modulated 82-34 Hz downsweeps have an average duration of 1.4 s, and the average interval between the start of the first call and start of the second call in doublet or triplet form is ~3.5s (Baumgartner et al., 2008). Sei songs are patterned, low-frequency downsweeps which were recently documented in the western North Atlantic with 50-30 Hz triplet and singlet downsweep vocalizations with duration in the 0.6-1.94s range. These were closely associated with the previously documented 82-34 Hz sei whale downsweeps (Tremblay et al., 2018).
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+\
+
+| Call Types |  |  | Makara call-type code |  |  |
+| ----- | ----- | :---: | :---- | :---- | ----- |
+| 30-80 Hz Downsweep |  |  | SWDS |  |  |
+
+\
+
+![](/figs/Spec_images/Baleen/SEI_spec2.PNG){width=100%}
+\
+*Spectrogram image of Sei Whale downsweep*
+
+::: {.callout-tip title="Note"}
+While there are multiple call types described in this guide, the NEFSC Passive Acoustics
+Branch only uses downsweep doublets and triplets for determining daily presence of sei whales
+in our archival data.
+:::
+:::
+::: {.column sifth="50%"}
+\
+![](/figs/Spec_images/Baleen/Sei-calls/Sei-downsweeps.png)
+:::
+::::::::::::::
+
 
 ## Sources
 Aulich, M., McCauley, R., Saunders, B., & Parsons, M. (2019). Fin whale (Balaenoptera physalus)
