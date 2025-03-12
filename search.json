@@ -845,16 +845,6 @@
     ]
   },
   {
-    "objectID": "index.html#our-featured-work",
-    "href": "index.html#our-featured-work",
-    "title": "Home",
-    "section": "Our featured work",
-    "text": "Our featured work\n\nNOAA: Listening for whales\n\n\n\n\nVoices of the Ocean: Using acoustics to monitor endagered Right whales",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "index.html#pab-calendar",
     "href": "index.html#pab-calendar",
     "title": "Home",
@@ -989,6 +979,61 @@
     "title": "Passive Acoustic_soundfiles structure",
     "section": "",
     "text": "Passive Acoustic_soundfiles structure\nThe PassiveAcoustics_Soundfiles server is where we store all raw audio files. For information on where we store all other data see the PassiveAcoustic server page.\n\nAccessing the server\nTo access the server for the first time, submit an ITD ticket requesting access to PAB file shares and include Sofie or your team lead on the ticket so that they can provide approval.\nTo access from the Windows file explorer enter: \\\\nefscdata\\PassiveAcoustics_Soundfiles\\\nTo access from a container enter: \\\\mnt\\PassiveAcoustics_Soundfiles\\\nFor quick access on your computer, it is recommended to pin the server folder\n\n\nPassiveAcoustics_soundfiles server information\nThe general organizational structure of PassiveAcoustic Soundfile directories is as follows:\n\nRecorder type\\\nEach hydrophone or recorder type has a folder (see the nefsc-1 folder for all the recorder type options). A READ_ME_region_key text file should be added here with region acronyms spelled out for reference.\nFile name format: [recorder_type]\nExample: BOTTOM_MOUNTED\n\nRegion\\\nEach general region where recorders are deployed has a folder. These should correspond with the regions most commonly used in your analyses and deployment planning.\nFile name format: [fmc acronym]_[region acronym]\nExample: NEFSC_SBNMS\n\nDeployment\\\nEach individual deployment has a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as [YYYYMM]_[unique site ID]\nExample: NEFSC_SBNMS_202307_SB03\n\nRecorder\\\nIf multiple instruments are deployed on one mooring, each recorder type (deployed together as a unit) has its own a folder.\nFile name format: [fmc acronym]_[region acronym]_[deployment start month/year as [YYYYMM]_[site ID]_[instrument type]\nExample:NEFSC_SBNMS_202307_SB03_ST"
+  },
+  {
+    "objectID": "content/LabManagement/Media.html",
+    "href": "content/LabManagement/Media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Below are videos, podcasts, radio clips and articles featuring work from the NEFSC Passive Acoustive Branch. The following list of podcasts, radio clips and articles are listed from 2020 to present.",
+    "crumbs": [
+      "Lab Management",
+      "Media"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Media.html#videos",
+    "href": "content/LabManagement/Media.html#videos",
+    "title": "Media",
+    "section": "Videos",
+    "text": "Videos\n\nNOAA: Listening for whales\n\n\n\n\nVoices of the Ocean: Using acoustics to monitor endagered Right whales",
+    "crumbs": [
+      "Lab Management",
+      "Media"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Media.html#podcasts",
+    "href": "content/LabManagement/Media.html#podcasts",
+    "title": "Media",
+    "section": "Podcasts",
+    "text": "Podcasts\n\nStudying Sound in the Ocean to Prepare for Offshore Wind Development - Dive in with NOAA Fisheries\nDiscussing passive acoustic monitoring and where it fits into the country’s renewable energy strategy.\n\n\nBaleen whales calling - Marine Conservation Happy hour\nDr Scarlett Smash & Dr Craken MacCraic chat to Julianne Wilder about the whale calls, the effects of climate change and underwater sound research. They also chat about the new paper she co-authored: Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data.\n\n\nListening for Cod in the Gulf of Maine - On the Line\nScientists and fishermen are working together to locate spawning aggregations of Atlantic cod. The goal is to allow cod and fishermen to each go about their business separately.",
+    "crumbs": [
+      "Lab Management",
+      "Media"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Media.html#radio",
+    "href": "content/LabManagement/Media.html#radio",
+    "title": "Media",
+    "section": "Radio",
+    "text": "Radio\n\nIn Fight Over Right Whales And Lobster Fishery, All Sides Want To Know More About Whale Activity Off Maine - Maine Public Radio: On Point\nThe historic migration patterns of endangered North Atlantic right whales have been changing in the last decade, possibly due to climate change. Federal regulators, meanwhile, are considering drastic measures to protect the whales against deadly entanglement in fishing gear and rope. So the question of where and when the whales are swimming in relation to Maine’s lobster fishery is gaining urgency. Now, new efforts are underway to pinpoint their travel habits.\n\n\nOpening Our Ears to the Ocean - WCAI All Things Considered\nMany of us are familiar with the song of the humpback whale or the clicking of dolphin echo-location but we may not have considered the design, engineering, and field work necessary to collect those sounds. Captain Bob Wallace and Biologist Peter Tyack join us to discuss the pioneering work of Woods Hole Oceanographic Institution bio acoustic engineer Bill Watkins, and how his recordings helped launch the marine mammal conservation movement.\n\n\nScientists Use New Tech To Detect Presence Of Endangered Right Whales Off Maine’s Coast - Maine Public Radio: Here and Now\nNew acoustic monitors off Maine’s coast have detected the presence of North Atlantic right whales this winter. Scientists are trying to gather new data on the endangered animals’ whereabouts.",
+    "crumbs": [
+      "Lab Management",
+      "Media"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement/Media.html#articles",
+    "href": "content/LabManagement/Media.html#articles",
+    "title": "Media",
+    "section": "Articles",
+    "text": "Articles\nStude Provides Guidance on detecting North Atlantic Right Whales in Winds Energy Areas - NOAA Fisheries Feature Story\nListening to the Ocean in the Time of COVID-19 - NOAA Sanctuary News\nListening to fish with passive acoustics - WHOI\nBaleen Whales Expanding Their Range as Oceans Warm, New Study Shows - The Weather Channel\nBaleen Whales Have Changed Their Distribution in the Western North Atlantic - NOAA Fisheries Feature Story\nWHOI-NOAA collaboration aims to protect endangered species from lethal ship strikes and noise from offshore wind construction - WHOI\nNOAA deploys both static and dynamic audio recorders in search for North Atlantic Right Whales - Environmental Monitor\nTechnology Helps Unlock the World of Beaked Whales - NOAA Fisheries Feature Story\n‘We’re watching them die’: can right whales pull back from the brink? - The Guardian\nNOAA Collects Data on Fish Species in Wind Energy Lease Areas - Subsea World News",
+    "crumbs": [
+      "Lab Management",
+      "Media"
+    ]
   },
   {
     "objectID": "content/LabManagement/Resources.2.html",
