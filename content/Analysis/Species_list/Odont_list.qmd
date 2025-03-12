@@ -177,28 +177,6 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 
 ### *30-50 kHz peak species*
 
-#### [**Risso's dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
-
-Scientific name: *Grampus griseus*  
-Makara species code: GRAM  
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-
-![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=100%}
-
-:::
-::: {.column width="3%"}
-
-:::
-::: {.column width="47%"}
-
-![](/figs/infographics/odont_noaafisheries/Rissos_noaa.png){width=70%}
-
-:::
-::::::::::::::
-
-
 #### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)
 
 Scientific name: *Stenella frontalis*  
@@ -220,6 +198,26 @@ Makara species code: WSDO
 :::
 ::::::::::::::
 
+#### [**Risso's dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
+
+Scientific name: *Grampus griseus*  
+Makara species code: GRAM  
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/Rissos_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Rissos_noaa.png){width=70%}
+
+:::
+::::::::::::::
 
 #### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)
 
