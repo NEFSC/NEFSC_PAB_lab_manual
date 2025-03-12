@@ -25,7 +25,7 @@ Haddock CNN detector developed by Xavier Muoy
 Kurtosis detector for haddock developed by Xavier Muoy
 
 * Makara detector code: PYTHON\_HADDOCK\_KURTOSIS  
-* Protocol page: \\\\nefscdata\\PassiveAcoustics/DETECTORS\_SOFTWARE/PYTHON\_HADDOCK/Instructions\_haddock.pdf
+* [Protocol](/content/Analysis/Protocols/haddock_Kurtosis.pdf)
 
 ## FishSound Finder Detector
 
