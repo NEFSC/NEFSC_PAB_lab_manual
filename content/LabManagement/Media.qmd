@@ -9,7 +9,7 @@ Below are videos, podcasts, radio clips and articles featuring work from the NEF
 <iframe src='//players.brightcove.net/659677166001/4b3c8a9e-7bf7-43dd-b693-2614cc1ed6b7_default/index.html?videoId=6364921533112' allowfullscreen frameborder=0 width="440" height="260"></iframe>
 
 
-#### Voices of the Ocean: Using acoustics to monitor endagered Right whales
+#### Voices of the Ocean: Using acoustics to monitor endagered Right whales (2/29/12)
 
 <video width="440" height="260" controls>
   <source src=/figs/Videos/VITS.2.T.mp4 type="video/mp4">
@@ -17,47 +17,124 @@ Below are videos, podcasts, radio clips and articles featuring work from the NEF
 
 ## Podcasts
 
-#### [Studying Sound in the Ocean to Prepare for Offshore Wind Development](https://podcasts.apple.com/us/podcast/studying-sound-in-the-ocean-to-prepare-for-offshore/id1612835177?i=1000655056251) - Dive in with NOAA Fisheries
+#### [Studying Sound in the Ocean to Prepare for Offshore Wind Development](https://podcasts.apple.com/us/podcast/studying-sound-in-the-ocean-to-prepare-for-offshore/id1612835177?i=1000655056251) - Dive in with NOAA Fisheries (5/8/24)
 
 Discussing passive acoustic monitoring and where it fits into the country's renewable energy strategy.
 
-#### [Baleen whales calling](https://podcasts.apple.com/us/podcast/baleen-whales-calling/id1358697135?i=1000654126889) - Marine Conservation Happy hour
+#### [Baleen whales calling](https://podcasts.apple.com/us/podcast/baleen-whales-calling/id1358697135?i=1000654126889) - Marine Conservation Happy hour (4/30/2024)
 
 Dr Scarlett Smash & Dr Craken MacCraic chat to Julianne Wilder about the whale calls, the effects of climate change and underwater sound research. They also chat about the  new paper she co-authored:  Exploring movement patterns and changing distributions of baleen whales in the western North Atlantic using a decade of passive acoustic data.
 
-#### [Listening for Cod in the Gulf of Maine](https://www.fisheries.noaa.gov/podcast/listening-cod-gulf-maine)  - On the Line
+#### [Listening for Cod in the Gulf of Maine](https://www.fisheries.noaa.gov/podcast/listening-cod-gulf-maine)  - On the Line (3/19/15)
 
 Scientists and fishermen are working together to locate spawning aggregations of Atlantic cod. The goal is to allow cod and fishermen to each go about their business separately.
 
 ## Radio
 
-#### [In Fight Over Right Whales And Lobster Fishery, All Sides Want To Know More About Whale Activity Off Maine](https://www.mainepublic.org/environment-and-outdoors/2021-06-24/in-fight-over-right-whales-and-lobster-fishery-all-sides-want-to-know-more-about-the-whales-activities-off-maine) - Maine Public Radio: On Point
+#### [In Fight Over Right Whales And Lobster Fishery, All Sides Want To Know More About Whale Activity Off Maine](https://www.mainepublic.org/environment-and-outdoors/2021-06-24/in-fight-over-right-whales-and-lobster-fishery-all-sides-want-to-know-more-about-the-whales-activities-off-maine) - Maine Public Radio: On Point (6/24/21)
 The historic migration patterns of endangered North Atlantic right whales have been changing in the last decade, possibly due to climate change. Federal regulators, meanwhile, are considering drastic measures to protect the whales against deadly entanglement in fishing gear and rope. So the question of where and when the whales are swimming in relation to Maine's lobster fishery is gaining urgency. Now, new efforts are underway to pinpoint their travel habits.
 
-#### [Opening Our Ears to the Ocean](https://www.capeandislands.org/show/the-point/2021-02-22/opening-our-ears-to-the-ocean#stream/0) - WCAI All Things Considered
+#### [Opening Our Ears to the Ocean](https://www.capeandislands.org/show/the-point/2021-02-22/opening-our-ears-to-the-ocean#stream/0) - WCAI All Things Considered (2/22/21) 
 Many of us are familiar with the song of the humpback whale or the clicking of dolphin echo-location but we may not have considered the design, engineering, and field work necessary to collect those sounds. Captain Bob Wallace and Biologist Peter Tyack join us to discuss the pioneering work of Woods Hole Oceanographic Institution bio acoustic engineer Bill Watkins, and how his recordings helped launch the marine mammal conservation movement. 
 
-#### [Scientists Use New Tech To Detect Presence Of Endangered Right Whales Off Maine's Coast](https://www.mainepublic.org/environment-and-outdoors/2020-02-21/scientists-use-new-tech-to-detect-presence-of-endangered-right-whales-off-maines-coast) - Maine Public Radio: Here and Now
+#### [Scientists Use New Tech To Detect Presence Of Endangered Right Whales Off Maine's Coast](https://www.mainepublic.org/environment-and-outdoors/2020-02-21/scientists-use-new-tech-to-detect-presence-of-endangered-right-whales-off-maines-coast) - Maine Public Radio: Here and Now (2/21/20)
 New acoustic monitors off Maine's coast have detected the presence of North Atlantic right whales this winter. Scientists are trying to gather new data on the endangered animals' whereabouts.
+
+#### [Fish and Ships: Unfortunatley, Not a Great Combination](https://www.capeandislands.org/show/living-lab-radio-on-cai/2017-12-18/fish-and-ships-unfortunately-not-a-great-combination#stream/0) - WCAI Living Lab Radio (12/18/17)
+You probably knew that whales make sounds to communicate. But did you know that fish are chatting down there, too? It turns out that fish are bothered by ship noise a lot like whales are. A new study looked at haddock and cod, two commercially important fish species, to find out more about how fish are managing in an increasingly noisy ocean
+
+#### [Scientists, Fishing Fleet Team Up To Save Cod - By Listening](https://www.npr.org/sections/thesalt/2015/06/15/413672058/scientists-fishing-fleet-team-up-to-save-cod-by-listening) - NPR: The Salt (6/15/15)
+In the ocean off of Massachusetts, an unlikely alliance of scientists and fishermen is on a quest. They're looking for mating codfish. The goal is not only to revive a depleted fish population but to save an endangered fishing community as well.
+
+#### [Eavesdropping on the Private Lives of Cod](https://www.capeandislands.org/show/living-lab-radio-on-cai/2015-02-16/eavesdropping-on-the-private-lives-of-cod) - WCAI Living Lab Radio (2/16/15)
+If you want to protect New England's most iconic fish and still allow fishermen to catch them, it’s critical to know when and where they reproduce. The trouble is, we don't.
+
+#### [Scientists Pinpoint Source of Antarctic 'Quack'](https://www.npr.org/sections/thetwo-way/2014/04/23/306240733/scientists-pinpoint-source-of-antarctic-quack) - NPR All Things Considered (4/23/14)
+For decades, researchers and submarine crews in icy waters off the coast of Antarctica have been picking up a mysterious quacking sound. The "bio-duck," as its called, has been heard on and off since Cold War patrols picked it up on sonar during the 1960s. Marine biologist Denise Risch sheds light on what the sound source may be.  
+
+#### [Minke Sounds like No Whale You've Ever Heard](https://www.capeandislands.org/show/living-lab-radio-on-cai/2014-03-20/minke-sounds-like-no-whale-youve-ever-heard) - WCAI Cape and Islands NPR Station (3/20/14)
+Denise Risch of NEFSC and her colleagues are trying to understand which whales use which types of calls and under what circumstances. They placed underwater microphones on the sea floor in Stellwagen Bank National Marine Sanctuary. Those listening devices have tracked 18 minke whales and led to the identification of seven distinct types of calls, or pulse trains. But there are still plenty of unknowns.
+
+#### [How Acoustic Monitoring Could Help Protect Cod Stocks](https://www.capeandislands.org/show/living-lab-radio-on-cai/2013-04-04/how-acoustic-monitoring-could-help-protect-cod-stocks) - WCAI Cape and Islands NPR Station (4/4/13)
+Here's your science factoid of the day: male Atlantic cod grunt during spawning season. It may sound like useless trivia, but that behavior could help fishery managers better protect cod stocks.
+
+#### [Mapping Noise Pollution to Save Marine Life](https://www.wnycstudios.org/podcasts/takeaway/segments/258088-mapping-noise-pollution-save-marine-life) - The Takeaway (12/19/12)
+To many, our planet’s oceans appear peaceful. But underwater noise pollution is taking a toll on marine life.
+
+## Webinars
+
+[Passive Acoustic Monitoring Overview](https://dosits.org/decision-makers/webinar-series/2021-webinar-series/webinar-passive-acoustic/) - Sound in the Sea (4/8/21)
+
+[Can You Hear Me Now? Marine Mammals and Sound](https://www.youtube.com/watch?v=-xVqs5FIqEg&list=PL1CGd4Scv4GICVRODGA8RRvzocNN1lL8H&index=8) - WHOI (4/3/20)
 
 ## Articles
 
-[Stude Provides Guidance on detecting North Atlantic Right Whales in Winds Energy Areas](https://www.fisheries.noaa.gov/feature-story/study-provides-guidance-detecting-north-atlantic-right-whales-wind-energy-areas)  - NOAA Fisheries Feature Story
+[Stude Provides Guidance on detecting North Atlantic Right Whales in Winds Energy Areas](https://www.fisheries.noaa.gov/feature-story/study-provides-guidance-detecting-north-atlantic-right-whales-wind-energy-areas)  - NOAA Fisheries Feature Story (2/12/24)
 
-[Listening to the Ocean in the Time of COVID-19](https://sanctuaries.noaa.gov/news/mar21/listening-during-quarantine.html) - NOAA Sanctuary News
+[Whales of the Deep](https://www.npca.org/articles/2996-whales-of-the-deep) - National Parks Conservation Association (9/1/21)
 
-[Listening to fish with passive acoustics](https://www.whoi.edu/news-insights/content/listening-to-fish-passive-acoustics/)  - WHOI
+[Listening to the Ocean in the Time of COVID-19](https://sanctuaries.noaa.gov/news/mar21/listening-during-quarantine.html) - NOAA Sanctuary News (3/1/21)
 
-[Baleen Whales Expanding Their Range as Oceans Warm, New Study Shows](https://weather.com/science/nature/news/2020-07-17-baleen-whales-climate-change-expanding-range-gulf-of-maine)  - The Weather Channel
+[Listening to fish with passive acoustics](https://www.whoi.edu/news-insights/content/listening-to-fish-passive-acoustics/)  - WHOI (10/1/20)
 
-[Baleen Whales Have Changed Their Distribution in the Western North Atlantic](https://www.fisheries.noaa.gov/feature-story/baleen-whales-have-changed-their-distribution-western-north-atlantic) - NOAA Fisheries Feature Story
+[Baleen Whales Expanding Their Range as Oceans Warm, New Study Shows](https://weather.com/science/nature/news/2020-07-17-baleen-whales-climate-change-expanding-range-gulf-of-maine)  - The Weather Channel (7/17/20)
 
-[WHOI-NOAA collaboration aims to protect endangered species from lethal ship strikes and noise from offshore wind construction](https://www.whoi.edu/news-insights/content/teaming-up-for-right-whales/) - WHOI
+[Baleen Whales Have Changed Their Distribution in the Western North Atlantic](https://www.fisheries.noaa.gov/feature-story/baleen-whales-have-changed-their-distribution-western-north-atlantic) - NOAA Fisheries Feature Story (7/16/20)
 
-[NOAA deploys both static and dynamic audio recorders in search for North Atlantic Right Whales](https://www.fondriest.com/news/noaa-deploys-both-static-and-dynamic-audio-recorders-in-search-for-north-atlantic-right-whales.htm) - Environmental Monitor
+[WHOI-NOAA collaboration aims to protect endangered species from lethal ship strikes and noise from offshore wind construction](https://www.whoi.edu/news-insights/content/teaming-up-for-right-whales/) - WHOI (7/9/20)
 
-[Technology Helps Unlock the World of Beaked Whales - NOAA Fisheries Feature Story](https://www.fisheries.noaa.gov/feature-story/technology-helps-unlock-world-beaked-whales)
+[NOAA deploys both static and dynamic audio recorders in search for North Atlantic Right Whales](https://www.fondriest.com/news/noaa-deploys-both-static-and-dynamic-audio-recorders-in-search-for-north-atlantic-right-whales.htm) - Environmental Monitor (6/17/20)
 
-['We’re watching them die': can right whales pull back from the brink?](https://www.theguardian.com/environment/2020/apr/17/north-atlantic-right-whales-were-watching-them-die) - The Guardian
+[Technology Helps Unlock the World of Beaked Whales](https://www.fisheries.noaa.gov/feature-story/technology-helps-unlock-world-beaked-whales)  - NOAA Fisheries Feature Story (5/8/20)
 
-[NOAA Collects Data on Fish Species in Wind Energy Lease Areas](https://www.offshore-energy.biz/noaa-collects-data-on-fish-species-in-wind-energy-lease-areas/) - Subsea World News
+['We’re watching them die': can right whales pull back from the brink?](https://www.theguardian.com/environment/2020/apr/17/north-atlantic-right-whales-were-watching-them-die) - The Guardian (4/17/20)
+
+[NOAA Collects Data on Fish Species in Wind Energy Lease Areas](https://www.offshore-energy.biz/noaa-collects-data-on-fish-species-in-wind-energy-lease-areas/) - Subsea World News (3/13/20)
+
+[Listening for Right Whales in the Gulf of Maine](https://www.fisheries.noaa.gov/feature-story/listening-right-whales-gulf-maine) - NOAA Fisheries Feature Story (2/13/20)
+
+[It’s True: Rare Beaked Whales Make Supersonic Sounds](https://ecori.org/2018-9-19-its-true-rare-beaked-whales-make-supersonic-sounds/) - ecoRI news (9/19/18)
+
+[True's Beaked Whales: Secret No Longer](https://www.fisheries.noaa.gov/feature-story/trues-beaked-whales-secret-no-longer) - NOAA Fisheries Feature Story (9/6/18)
+
+[Boy, oh buoy, what a find](https://www.mvtimes.com/2018/07/16/boy-oh-buoy-find/) - The Martha's Vinyard Times (7/16/18)
+
+[The Changing Voices of North Atlantic Right Whales](https://www.fisheries.noaa.gov/feature-story/changing-voices-north-atlantic-right-whales) NOAA Fisheries Feature Story (3/9/18)
+
+[Caribbean Waters May Hold Clues to Humpabck Whale Populations](https://www.fisheries.noaa.gov/feature-story/caribbean-waters-may-hold-clues-humpback-whale-populations) - NOAA Fisheries Feature Story (2/16/18)
+
+[Woods Hole Science Organizations Collaborate to Involve Students in Real-time Whale Research in the Caribbean](https://www.fisheries.noaa.gov/feature-story/woods-hole-science-organizations-collaborate-involve-students-real-time-whale-research) - NOAA Fisheries Feature Story (2/12/18)
+
+[New study used ocean-floor listening devices to track endangered right whales](https://www.bostonglobe.com/metro/2017/11/20/new-study-used-ocean-floor-listening-devices-track-endangered-right-whales/BAN6scSoowPWoUhIbBhSVL/story.html) - Boston Globe (11/20/17)
+
+[Shifting Presence of North Atlantic Right Whales Tracked with Passive Acoustics](https://www.fisheries.noaa.gov/feature-story/shifting-presence-north-atlantic-right-whales-tracked-passive-acoustics) - NOAA Fisheries Feature Story (11/14/17)
+
+[Robots Detect Whales in Real Time, Revealing Changes in Migration Patterns](https://www.fisheries.noaa.gov/feature-story/robots-detect-whales-real-time-revealing-changes-migration-patterns) - NOAA Fisheries Feature Story (10/30/17)
+
+[Listening for Whales Helps Scientists, US Coast Guard Operations](https://www.fisheries.noaa.gov/feature-story/listening-whales-helps-scientists-us-coast-guard-operations) - NOAA Fisheries Feature Story (10/24/17)
+
+[Beaked Whale Cruise a Success Despite a Hurricane](https://www.fisheries.noaa.gov/feature-story/beaked-whale-cruise-success-despite-hurricane) - NOAA Fisheries Feature Story (10/23/17) - NOAA Fisheries Feature Story (10/23/17)
+
+[Scientists Eavesdrop on Little-Known Beaked Whales to Learn How Deeply They Dive](https://www.fisheries.noaa.gov/feature-story/scientists-eavesdrop-little-known-beaked-whales-learn-how-deeply-they-dive) - NOAA Fisheries Feature Story (10/10/17)
+
+[50-year mystery of the ocean ‘quack’ finally solved by scientists](https://www.independent.co.uk/news/science/50year-mystery-of-the-ocean-quack-finally-solved-by-scientists-9277824.html) - The Independent (4/24/14)
+
+[Mystery of 'ocean quack sound' solved](https://www.bbc.com/news/science-environment-27117669) - BBC (4/23/14)
+
+[Scientists pinpoint source of 'bio-duck' sound](https://www.abc.net.au/science/articles/2014/04/23/3989875.htm) - Australian Broadcasting Company (4/23/14)
+
+[Scientists solve mystery of Southern Ocean 'quacking' sound](https://www.theguardian.com/environment/2014/apr/23/whales-ocean-quacking-sound) - The Guardian (4/23/14)
+
+[Mystery of Bizarre Duck-Like Ocean Sound Solved](https://www.livescience.com/45033-mystery-of-ocean-duck-sound-revealed.html) - Live Science (4/22/14)
+
+[Submariners’ ‘bio-duck’ is probably a whale](https://www.sciencenews.org/article/submariners-bio-duck-probably-whale) - Science News (4/22/14)
+
+[ScienceShot: Mystery of Quacking Caller in Antarctic Solved](https://www.science.org/content/article/scienceshot-mystery-quacking-caller-antarctic-solved-rev2) - Science Magazine (4/22/14)
+
+[Local Fishermen to Work With Researchers on Cod Fish Study](https://patch.com/massachusetts/hingham/local-fishermen-to-work-with-researchers-on-cod-fish-study) - Hingham Patch (1/9/14)
+
+[NOAA: Underwater Noise Decreases Whale Communications in Stellwagen Bank Sanctuary](https://sanctuaries.noaa.gov/news/press/2012/pr081512.html) - NOAA Sanctuary News (8/15/12)
+
+[Underwater Noise Disturbs Whales 120 Miles Away](https://www.wired.com/2012/01/underwater-noise-disturbs-whales-120-miles-away/) - Wired (1/13/12)
+
+[Noise Reduces Ocean Habitat for Whales](https://www.scientificamerican.com/article/noise-reduces-ocean-habitat-for-whales/) - Scientific American (10/22/10)
