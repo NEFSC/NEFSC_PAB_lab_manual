@@ -16,17 +16,17 @@ title: Pinnipeds
 :::
 ::::::::::::::
 
-Gray seals produce various vocalizations and acoustic signaling. Nonvocal behaviors range from surface interactions, such as breaching/porpoising, to underwater 'claps' or knocks (Hocking et al., 2019). Nowak, 2021 describes variable gray seal calls, with characteristics ranging from:
+Gray seals produce various vocalizations and acoustic signaling. Nonvocal behaviors range from surface interactions, such as breaching/porpoising, to underwater 'claps' or knocks (Hocking et al., 2019). Nowak, 2021 describes the following variability in gray seal calls:
 
-**Frequency modulated above and sub-surface vocalziations (S1, tonal, 400 - 420 Hz)** 
+**S1: Frequency modulated above and sub-surface vocalziations (tonal, 400 - 420 Hz)** 
 ![](/figs/Spec_images/Pinniped/Nowak.S1.png)
 
 \
-**A series of short bursts with no tonal components (S2, only occurring underwater and by male seals, 45 - 50 Hz)**
+**S2: A series of short bursts with no tonal components (only occurring underwater and by male seals, 45 - 50 Hz)**
 ![](/figs/Spec_images/Pinniped/Nowak.S2.png)
  
 \
-**A series of short, pulses with harmonic components (S3, explicitly water-born vocalizations, frequencies between 50 - 160 Hz)**
+**S3: A series of short, pulses with harmonic components (explicitly water-born vocalizations, frequencies between 50 - 160 Hz)**
 ![](/figs/Spec_images/Pinniped/Nowak.S3.png)
 \
 
@@ -37,7 +37,9 @@ Seal claps are unique in the aspect that they have a greater frequency range tha
 
 **Gray seal vocalizations as observed by PAB:**
 
-![](/figs/Spec_images/Pinniped/Grayseal_spec.png){width=50%}
+![Gray Seal 'Rupe' - similar characteristics to S3 categorization](/figs/Spec_images/Pinniped/Rupe.jpg)
+
+![Gray Seal 'Moan' - Similar characteristics to S1 categorization](/figs/Spec_images/Pinniped/Moan.jpg)
 
 ## Sources
 
