@@ -210,6 +210,8 @@ Minke whale pulse trains are stereotyped, 50-500 Hz thumps or pulses, each lasti
 | Pulse train speed-up |  |  | MWPTSU |  |  |
 | Pulse train slow-down |  |  | MWPTSD |  |  |
 | Pulse train constant |  |  | MWPTC |  |  |
+| Star wars vocalization|  |  | MWSTAR |  |  |
+| Boing |  |  | MWBOING |  |  |
 
 ::: {.callout-tip title="Note"}
 While there are other minke whale call types described in the literature for other
@@ -253,6 +255,8 @@ NARW Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmark
 | Gunshot |  |  | NARWGUNSHOT |  |  |
 | Moan |  |  | NARWHMOAN |  |  |
 | Upcall |  |  | NARWHUPCALL |  |  |
+| Downcall |  |  | NARWDC |  |  |
+| Scream |  |  | NARWHSCREAM |  |  |
 
 ![](/figs/Spec_images/Baleen/NARW_spec2.PNG){width=100%}
 \
@@ -294,6 +298,7 @@ Downsweep calls may occur as single calls (i.e., singlets), doublets, or triplet
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
 | 30-80 Hz Downsweep |  |  | SWDS |  |  |
+| 39-21 Hz Downsweep |  |  | SWDSPA |  |  |
 
 \
 

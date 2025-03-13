@@ -2,8 +2,47 @@
 title: Pinnipeds
 ---
 ## **Gray seal**
-![](/figs/infographics/Gray_seal_noaafisheries.png){width=30%}\
-Scientific name: *Halichoerus grypus*  
-Code: GRSE \
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+**Scientific name**: *Halichoerus grypus*  
+**Code**: GRSE 
+:::
+::: {.column width="50%"}
+
+![](/figs/infographics/Gray_seal_noaafisheries.png){width=60%}
+
+:::
+::::::::::::::
+
+Gray seals produce various vocalizations and acoustic signaling. Nonvocal behaviors range from surface interactions, such as breaching/porpoising, to underwater 'claps' or knocks (Hocking et al., 2019). Nowak, 2021 describes variable gray seal calls, with characteristics ranging from:
+
+**Frequency modulated above and sub-surface vocalziations (S1, tonal, 400 - 420 Hz)** 
+![](/figs/Spec_images/Pinniped/Nowak.S1.png)
+
+\
+**A series of short bursts with no tonal components (S2, only occurring underwater and by male seals, 45 - 50 Hz)**
+![](/figs/Spec_images/Pinniped/Nowak.S2.png)
+ 
+\
+**A series of short, pulses with harmonic components (S3, explicitly water-born vocalizations, frequencies between 50 - 160 Hz)**
+![](/figs/Spec_images/Pinniped/Nowak.S3.png)
+\
+
+Seal claps are unique in the aspect that they have a greater frequency range than seal vocalizations. Claps are thought to be part of social and/or antagonistic interactions (below).
+
+![(Hocking et al., 2019)](/figs/Spec_images/Pinniped/Hocking.etal.png)
+
+
+**Gray seal vocalizations as observed by PAB:**
 
 ![](/figs/Spec_images/Pinniped/Grayseal_spec.png){width=50%}
+
+## Sources
+
+Hocking DP, Burville B, Parker WMG, Evans AR, Park T, Marx FG. Percussive underwater signaling in wild gray seals. Mar Mam Sci. 2020; 36: 728–732. https://doi.org/10.1111/mms.12666
+
+Lukasz J. Nowak (2021) Observations on mechanisms and phenomena
+underlying underwater and surface vocalisations of grey seals, Bioacoustics, 30:6, 696-715,
+DOI: 10.1080/09524622.2020.1851298
