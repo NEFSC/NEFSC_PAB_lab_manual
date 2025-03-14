@@ -59,10 +59,6 @@ MA-RI Mooring Designs (with and without FPOD)
 :::
 ::::::::::::::
 
-#### ARCs?
-- Etc. etc. 
-
-
 
 ## Moored Surface Buoy
 
