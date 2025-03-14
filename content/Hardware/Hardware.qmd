@@ -4,6 +4,7 @@ page-layout: full
 ---
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
+
 # Hardware
 
 The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM deployments also often consist of co-located hardware to collect ancillary data about the ocean or provide mechanisms to recover the instruments.
