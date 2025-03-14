@@ -2,53 +2,257 @@
 title: "Hardware"
 page-layout: full
 ---
-
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
+# Hardware
 
-# Bottom Mounted Recorders
+The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM deployments also often consist of co-located hardware to collect ancillary data about the ocean or provide mechanisms to recover the instruments.
 
-Insert a picture
+## Bottom-Mounted Moorings
 
-## SoundTrap
+Bottom-mounted moorings are most commonly used for continuous monitoring at single location, providing long-term time series for marine mammals, fish, soundscapes, and anthropogenic noise. Our bottom mounted recorders use VEMCO acoustic release mechanisms to prevent the need for benthic-to-surface vertical line. We use different mooring designs for our three field sites: 
 
-Becca
 
-## Moored Near Real-Time Buoys
+#### Stellwagen Bank Mooring (TOSSITS)
+* Lab protocols
 
-Gen/Julianne
+![TOSSIT pre-deployment](/content/Hardware/images/Tossit_deployment.jpg)
 
-## HARP
 
-Annamaria
+#### Gulf of Maine Mooring  
+* Lab protocols
 
-## MARU
+![GOM Mooring Design](/content/Hardware/images/GOM.Mooring.jpg)
 
-Annamaria
 
-# Mobile Platforms
+#### MA-RI Moorings
+* Lab protocols
 
-Insert a picture
+![MA-RI Mooring Designs (with and without FPOD)](/content/Hardware/images/MA-RI.Mooring.png)
 
-## Gliders
 
-Becca
+#### ARCs?
+- Etc. etc. 
 
-## Drifting Recorders
 
-Annamaria
 
--------------------------------------------------
+## Moored Surface Buoy
 
-A hardware section is required and should include the following information;
+#### Moored Surface Buoy: Woods Hole Oceanographic Institution ([Robots4whales](https://robots4whales.whoi.edu/platforms/moored-buoy/))
 
--   Information on your recorders
--   Array configurations and diagrams
--   Platform information (towed, moored, drifting, etc.)
--   Other sensors included (GPS devices, depth senors, etc.)
+A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem.
 
-This will be variable for each center and may change from project to project. You should list all hardware, present and past.
+* Lab protocol
 
-You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html))
 
-This can be a section with subpages or a qmd
+
+## Mobile Platforms
+
+#### Slocum Gliders: Woods Hole Oceanographic Institution ([Robots4whales](https://robots4whales.whoi.edu/platforms/slocum-glider/))
+
+Slocum gliders are useful for passive acoustic monitoring, as they can glide silently through vast depth ranges for months at a time. Can self-navigate using GPS systems, and can communicate with researchers via Iridium communication sessions.
+
+* Lab protocol
+
+
+![](/content/Hardware/images/SLOCUM-GLIDER.png){width=30%}
+
+#### Towed Array 
+
+A towed array is the acoustic sampling technique of dragging a recording device behind a moving ship, which usually allows the pairing of recording with visual groundtruthing. This method is particularly useful for pairing vocalizations with under-studied species.
+
+* ‘A GUIDE TO CONSTRUCTING HYDROPHONE ARRAYS FOR PASSIVE ACOUSTIC DATA COLLECTION DURING NMFS SHIPBOARD CETACEAN SURVEYS’ \- Shannon Rankin → relevant?  
+* [Lab Protocols](https://drive.google.com/drive/folders/1nQI9PQkyzDe7hP53RlUzBnHaYxUoo3s8)
+
+![](/content/Hardware/images/SHIP-TOWED-ARRAY.png){width=40%}
+
+
+#### DASBRs 
+
+DASBRs are floating, mobile platforms that typically incorporate Soundtrap and hydrophone components. DASBRs are typically deployed if Gervais’ beaked whales are sighted during offshore fieldwork. GPS will indicate location once the platform is ready to be retrieved. 
+
+* [Lab Protocol](https://docs.google.com/document/d/13FeiyPSnvGXLOZfFxmZceHb_1UlwR0YP/edit?tab=t.0)
+
+![](/content/Hardware/images/DASBR.2.png){width=30%}
+
+## Additional Hardware
+
+#### Dipping Hydrophone 
+
+Dipping hydrophones are acoustic recorders that are attached to a rope and suspended in the water. 
+
+* [Lab Protocol](https://docs.google.com/document/d/17L0CEr6XYmXnvDHzgUtjk7NDoLuuo8aQ/edit)
+
+
+
+## Recording Instruments
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+
+![](/content/Hardware/images/Soundtrap.icon.png){width=40%}
+
+:::
+::: {.column width="80%"}
+
+#### SoundTrap: [Ocean Instruments](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/)
+
+* PABs primary instrument due to relatively long battery life and large memory, and broad sampling rate. Typical deployments consist of 5 month recording at 48kHz providing data for most cetaceans, fish and soundscapes.   
+* [Ocean Instruments SoundTrap guide](https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing)  
+* Lab protocol link
+
+:::
+::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+
+![](/content/Hardware/images/Fpod.icon.png){width=40%}
+
+:::
+::: {.column width="80%"}
+
+#### F-POD: [Chelonia Wildlife Acoustic Monitoring](https://www.chelonia.co.uk/f-pod/)
+
+* F-PODs are a high-resolution click detector used to identify delphinids. The instrument is calibrated, has a long battery life and is an integrated product that records audio and automatically detects clicks.  
+* F-Pod protocol link
+
+:::
+::::::::::::::
+
+
+## Auxiliary Hardware
+
+#### VEMCO Acoustic Telemetry and Release (order site \- [InnovaSea](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/), VR2AR Acoustic Release Receiver)
+
+* Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VEMCOs eliminates the need for surface buoys, mitigating whale entanglement risk.   
+* VEMCO protocol link
+
+#### HOBO Temperature Loggers ([order site](https://www.onsetcomp.com/products/data-loggers/utbi-001))
+
+* Small mechanism that logs temperature over long periods of time. Requires HOBOware software and either an Optic USB Base Station or HOBO Waterproof Shuttle (U-DTW-1).
+
+#### Apollo X1 Satellite Beacon ([order site](https://xeostech.com/apollo-x1))
+
+* The Apollo Satellite Beacon is used to monitor unplanned or accidental release of subsurface instrument moorings.
+
+#### Hermes Beacon Locator ([order site](https://xeostech.com/hermes))
+
+* The Hermes Beacon Locator is used to communicate with the Apollo Satellite Beacon to locate mooring units at sea
+
+#### VHTx: Transponding Hydrophone ([order site](https://www.oceans-research.com/vhtx/))
+
+* Transponding hydrophone used for communication between VEMCO VR100 Deck Box and VEMCO Acoustic Release Receiver.
+
+#### VEMCO VR100 Deck Box ([order site](https://www.oceans-research.com/vr100/))
+
+* The VEMCO Deck Box is used to remotely connect and communicate with the submerged VEMCO, primarily to release the VEMCO from the bottom-mounted weights. 
+
+
+<details>
+
+<summary><font size = "5">Technical advice</font></summary>
+
+
+**When should I replace my VR2AR / ASCENT-AR acoustic release battery?**
+
+* Replace the release motor AA batteries once they indicate they are approaching 25%. It is very strange that they did not last longer (5 years estimated life expectancy), but once you replace them, you will be prompted to reset the battery indicator within the VUE software. Vue should then indicate that they are at 100% again with the new batteries. You can then monitor the percentages in future deployments; if they continue to drop towards 25% quickly (within a year or two), then the receiver may be faulty or would at least warrant a call to Innovasea/Vemco to see what might be going on.  
+* Web resources:  
+  * INNOVAsea: [When should I replace acoustic release battery?](https://support.fishtracking.innovasea.com/s/article/When-should-I-replace-my-VR2AR-ASCENT-acoustic-release-battery)  
+  * INNOVAsea: [How to change the AA release battery](https://support.fishtracking.innovasea.com/s/article/How-do-I-change-the-AA-release-battery-in-my-VR2AR-ASCENT)
+
+**Flooded ST600s**
+
+* Sent them back to Ocean Instruments to be fixed  
+* Email chains:  
+  * [First ST600s flooded](https://drive.google.com/file/d/1GImB989mVDIIf2ORAn2mwT8pNbH5rpMz/view?usp=drive_link)  
+  * [Instructions for return](https://drive.google.com/file/d/19kJQtU3yk-t8OMcwjKXLUxtM3EC94L1C/view?usp=drive_link)
+
+**ST600 Battery bay malfunction**
+
+* Lots of advice from John Atkins \- ended up needing to send back to be fixed  
+* Email chains:  
+  * [ST600 with one battery bay nonfunctional](https://drive.google.com/file/d/1If67SQuWS5amUWraMGj7D1jQVHAFLHf6/view?usp=drive_link)
+
+**ST600 clock drift**
+
+* Outcome \- John Atkins was going to push a universal fix for this  
+* Email chains:  
+  * [Clock Drift](https://drive.google.com/file/d/1S697qXnuB-xhNNiEs0KaXODroJyiQMVE/view?usp=drive_link)  
+  * [Fix clock drift manually](https://drive.google.com/file/d/1fQb9_XiKwVxegYYUvwQz9s1-ZqqcArrM/view?usp=drive_link)  
+  * This email conversation can also be found on the server here: \\\\stellwagen.nefsc.noaa.gov\\stellwagen\\MANUALS\_SOFTWARE\_CODE LIBRARY\\HARDWARE\\SoundTraps
+
+**ST600 Broken Hydrophone**
+
+* Need to be sent back for repair  
+* Email chain:  
+  * [Broken hydrophone](https://drive.google.com/file/d/1_3e-nJLZ5C6a-rbKnhVutBTsr6bolDzA/view?usp=drive_link)
+
+**Apollo Beacon Voltage**
+
+* Info on when to switch out batteries 2v is low, 2.5v  is plenty  
+* Email chain:  
+  * [Apollo beacon battery voltage](https://drive.google.com/file/d/1eI8eAdZqxqj6vss9Jx2pIV9ZlqfPJ_AC/view?usp=drive_link)
+
+**FPOD Batteries**
+
+* Info on what types of batteries are compatible with FPODs  
+* Additional resources:  
+  * [FPOD battery guide from manual](https://drive.google.com/file/d/13hkncRfZVod3fCwQtu3g13EQvEiVxOcN/view?usp=drive_link)
+
+**Piston phone ST calibration**
+
+* How to use the pistonphone to calibrate the STs  
+* Email chain:  
+  * [Pistonphone protocol](https://drive.google.com/file/d/1u6tWJSvCm1_CjszZn7Tnfn303O06RCj3/view?usp=drive_link)
+
+**Hydrophone bonding issue for ST600s serial \# \<7000 **
+
+* The bond between the hydrophone and ST600 for serial \#s prior to the 7000's can degrade over time. Need to keep an eye out on hydrophone bond to ST for older ST600s  
+  * Timothy Rowell \- This did happen to the first one we had deployed in Rookery Bay Florida. Scrub gently and inspect often.  
+* Email chain:  
+  * [ST600 Hydrophone bonding issue](https://drive.google.com/file/d/19jdmku3WF5ZOw3tllENY0heaL6JOYohX/view?usp=drive_link)
+
+**Data upload errors**
+
+* Google Bucket error   
+  * [Examples](https://drive.google.com/file/d/1xoWyPJskAPTCfX1kpJC9cCRtwOj0t85X/view?usp=drive_link) \- screenshots did not transfer in pdf
+
+**ST Recording Start Time Programming**
+
+* Error when setting recording start time to a previous/past time  
+* Email chains:  
+  * [Soundtrap configure failure](https://drive.google.com/file/d/13mTDNsYi7uPwTdeN1YcmMYHY7IxaquHm/view?usp=drive_link)
+
+**VR2AR temp/depth/tilt Data**
+
+* See email. How to download the temperature, depth, and tilt data recorded by VR2ARs  
+* Email chain:  
+  * [VR2AR2 record temp/depth data](https://drive.google.com/file/d/1I42Gy-5E1hGG72Y0G01k_FmweSCaZMtP/view?usp=drive_link)
+
+**Cross-center SoundTrap Issue Documentation**
+
+* It was brought up in a call today about a [spreadsheet](https://docs.google.com/spreadsheets/d/1HYPw2-IsgiTonLoSUGJ00FHVmN4wSoPqCmpd0fQESbk/edit#gid=0) that has been shared amongst the science centers that annotates the various SoundTrap issues folks have been experiencing. I don't see any of ours logged on there, if someone wants to and has a moment to log down our issues we've had? This is not a high priority by any means. Also I became aware of a [StackExchange page](https://bioacoustics.stackexchange.com/questions/242/st600-hardware-failures) that documents the known ST600 issues that I wanted to share with you.  
+* Additional resources:  
+  * [Soundtrap troubleshooting log](https://docs.google.com/spreadsheets/d/1HYPw2-IsgiTonLoSUGJ00FHVmN4wSoPqCmpd0fQESbk/edit?gid=0#gid=0)
+
+**ST Host Connection Error from 512GB SD Card**
+
+* Guidance on how to resolve a ST Host connection issue  
+* Email chain:  
+  * [SoundTrap Host USB connection issue troubleshooting help](https://drive.google.com/file/d/1R4L8T95VP2dA3tJnrcd1o4dT_aaR6z-h/view?usp=drive_link)  
+* Additional resources:  
+  * [How do I format EVO 256GB and 512 GB using the SoundTrap ST600 software?](https://bioacoustics.stackexchange.com/questions/1605/how-do-i-format-evo-256gb-and-512-gb-using-the-soundtrap-st600-software)
+
+**ST Host Software v4.0.19 and manual**
+
+* Guidance on how to resolve a ST Host connection issue. Ocean Instruments is strongly recommending SoundTrap users from here on out use ST Host version 4.0.19, which is their most recent non-beta software release. I came across this on their most recent ST600 manual. No specific reason was given other than that it will ensure correct operation of the SoundTrap recorders.  
+* Additional resources:  
+  * [ST600 User guide](https://drive.google.com/file/d/1ykVxSLBLNAjFntzwqIuLX6SEwOAUkKvB/view?usp=drive_link)
+
+**ST Card Reader Download Location**
+
+* Email chain:  
+  * [ST Host v4.0.19](https://drive.google.com/file/d/1atDu25Vkg7nensG_5i64gsYET3y5FrPO/view?usp=drive_link)
+
+</details>
