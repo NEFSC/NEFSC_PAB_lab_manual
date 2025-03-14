@@ -1,0 +1,8 @@
+---
+title: "Pinniped Protocols"
+format: html
+---
+
+PAB collects Gray seal acoustic data near Muskeget Island using both dip hydrophones and SoundTrap TOSSIT Moorings. TOSSIT Moorings are used to collect long-term acoustic data during the breeding season, and dip hydrophones are used for short-term opportunistic recordings. For more information on hardware used, reference our [Hardware page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html). The raw soundfiles are sent to UNH for analysis.
+
+
