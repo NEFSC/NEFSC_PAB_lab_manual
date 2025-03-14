@@ -210,8 +210,6 @@ Minke whale pulse trains are stereotyped, 50-500 Hz thumps or pulses, each lasti
 | Pulse train speed-up |  |  | MWPTSU |  |  |
 | Pulse train slow-down |  |  | MWPTSD |  |  |
 | Pulse train constant |  |  | MWPTC |  |  |
-| Star wars vocalization|  |  | MWSTAR |  |  |
-| Boing |  |  | MWBOING |  |  |
 
 ::: {.callout-tip title="Note"}
 While there are other minke whale call types described in the literature for other
