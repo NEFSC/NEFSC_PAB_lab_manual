@@ -2,7 +2,7 @@
 title: "Baleen Whales"
 page-layout: full
 ---
-Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to [navigate](https://dosits.org/animals/use-of-sound/marine-mammal-navigation/)). As larger species, baleen vocals tend to be low frequency and propogate far distances. [Recent research](https://onlinelibrary.wiley.com/doi/10.1111/mms.13228) has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can't hear such low frequency sounds. 
+Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to [navigate](https://dosits.org/animals/use-of-sound/marine-mammal-navigation/)). As larger species, baleen vocalizations tend to be low frequency and propogate far distances. [Recent research](https://onlinelibrary.wiley.com/doi/10.1111/mms.13228) has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can't hear such low frequency sounds. 
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
@@ -14,7 +14,7 @@ Larger cetacean species produce longer wavelength vocalizations at lower frequen
 :::
 ::::::::::::::
 
-The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each specie. Reference [this link](https://drive.google.com/drive/folders/1lTdZP8YQdW5_KfhqMLb0Snl5h7s2_yvl) to access full acoustic event guides for each species.
+The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each species. Reference [this link](https://drive.google.com/drive/folders/1lTdZP8YQdW5_KfhqMLb0Snl5h7s2_yvl) to access full acoustic event guides for each species.
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -253,8 +253,8 @@ NARW Upcalls are sterotyped, frequency-modulated upcalls, resembling a checkmark
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
 | Gunshot |  |  | NARWGUNSHOT |  |  |
-| Moan |  |  | NARWHMOAN |  |  |
-| Upcall |  |  | NARWHUPCALL |  |  |
+| Moan |  |  | NARWMOAN |  |  |
+| Upcall |  |  | NARWUPCALL |  |  |
 | Downcall |  |  | NARWDC |  |  |
 | Scream |  |  | NARWHSCREAM |  |  |
 
@@ -298,7 +298,6 @@ Downsweep calls may occur as single calls (i.e., singlets), doublets, or triplet
 | Call Types |  |  | Makara call-type code |  |  |
 | ----- | ----- | :---: | :---- | :---- | ----- |
 | 30-80 Hz Downsweep |  |  | SWDS |  |  |
-| 39-21 Hz Downsweep |  |  | SWDSPA |  |  |
 
 \
 
