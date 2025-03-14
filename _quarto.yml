@@ -65,7 +65,7 @@ website:
             text: Data Repositories
           - href: content/DataManagement/QAQC.qmd
             text: QA/QC
-      - href: content/Hardware/Hardware.qmd
+      - href: content/Hardware/Hardware.2.qmd
         text: Hardware
       - href: content/Software/Software.qmd
         text: Software
@@ -92,7 +92,7 @@ website:
                 text: Baleen 
               - href: content/Analysis/Protocols/Odont_protocols.qmd
                 text: Odontocetes
-              - href: content/Analysis/Protocols/Pinniped_protocols.qmd
+              - href: content/Analysis/Protocols/Pinniped.2.qmd
                 text: Pinnipeds
               - href: content/Analysis/Protocols/fish_protocols.qmd
                 text: Fish 
