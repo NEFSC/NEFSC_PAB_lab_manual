@@ -1,5 +1,5 @@
 ---
-title: Fish/Invertebrate species list
+title: Fish & Invertebrate species list
 ---
 ## Fish
 The PAB lab collaborates with local fishery policy makers by acoustically monitoring for economically important species of fish. Stellwagen bank hosts herring, cod and haddock spawning grounds, supplementing New England fishery economies and feeding local biodiversity. 
@@ -10,7 +10,7 @@ Passive Acoustic research has been used to described global variations in fish c
 
 ![](/figs/Spec_images/Fish/PSD_chorusing.png){width=70%}
 
-Power Spectral Density (PSD) plots illustrate the range in amplitude for a given frequency in a recording. This PSD plot depicts 24 hours of marine acoustic data in an Atlantic ecosystem. The orange peaks indicate high amplitude (or loud) calls in the evening hour, and is attributed to fish chorusing.
+Power Spectral Density (PSD) plots illustrate the range in amplitude for a given frequency in a recording. This PSD plot depicts 24 hours of marine acoustic data in an Atlantic ecosystem. The orange and grean peaks indicate high amplitude (or loud) calls in the evening hour is attributed to fish chorusing.
 
 #### Atlantic cod
 
