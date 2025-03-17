@@ -3,39 +3,80 @@ title: Pinnipeds
 ---
 ## **Gray seal**
 
+**Scientific name**: *Halichoerus grypus*  
+**Code**: GRSE 
+
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
-**Scientific name**: *Halichoerus grypus*  
-**Code**: GRSE 
+Gray seals produce various vocalizations and acoustic signaling. Nonvocal behaviors range from surface interactions, such as breaching/porpoising, to underwater 'claps' or knocks (Hocking et al., 2019).
+
 :::
 ::: {.column width="50%"}
+
 
 ![](/figs/infographics/Gray_seal_noaafisheries.png){width=60%}
 
 :::
 ::::::::::::::
 
-Gray seals produce various vocalizations and acoustic signaling. Nonvocal behaviors range from surface interactions, such as breaching/porpoising, to underwater 'claps' or knocks (Hocking et al., 2019). Nowak, 2021 describes the following variability in gray seal calls:
+### Vocalizations
 
-**S1: Frequency modulated above and sub-surface vocalziations (tonal, 400 - 420 Hz)** 
+Nowak, 2021 describes the following variability in gray seal calls:
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+\
+**S1**: Frequency modulated above and sub-surface vocalizations (tonal, 400 - 420 Hz) - example was recorded on the surface.
+
+:::
+::: {.column width="50%"}
+
 ![](/figs/Spec_images/Pinniped/Nowak.S1.png)
 
+:::
+::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
 \
-**S2: A series of short bursts with no tonal components (only occurring underwater and by male seals, 45 - 50 Hz)**
-![](/figs/Spec_images/Pinniped/Nowak.S2.png)
+**S2**: A series of short bursts with no tonal components (only occurring underwater and by male seals, 45 - 50 Hz) - example was recorded underwater.
  
+:::
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Pinniped/Nowak.S2.png)
+
+:::
+::::::::::::::
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
 \
-**S3: A series of short, pulses with harmonic components (explicitly water-born vocalizations, frequencies between 50 - 160 Hz)**
+**S3**: A series of short, pulses with harmonic components (explicitly water-born vocalizations, frequencies between 50 - 160 Hz) - example was recorded underwater.
+
+:::
+::: {.column width="50%"}
+
 ![](/figs/Spec_images/Pinniped/Nowak.S3.png)
-\
+
+:::
+::::::::::::::
+
+### Nonvocal acoustics
 
 Seal claps are unique in the aspect that they have a greater frequency range than seal vocalizations. Claps are thought to be part of social and/or antagonistic interactions (below).
 
 ![(Hocking et al., 2019)](/figs/Spec_images/Pinniped/Hocking.etal.png)
 
 
-**Gray seal vocalizations as observed by PAB:**
+
+
+
+### Gray seal vocalizations as observed by PAB:
 
 ![Gray Seal 'Rupe' - similar characteristics to S3 categorization](/figs/Spec_images/Pinniped/Rupe.jpg)
 
