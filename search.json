@@ -986,7 +986,7 @@
     "href": "content/Hardware/Hardware.2.html#moored-surface-buoy",
     "title": "Hardware",
     "section": "Moored Surface Buoy",
-    "text": "Moored Surface Buoy\n\nMoored Surface Buoy: Woods Hole Oceanographic Institution (Robots4whales)\nA WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem.\n\nLab protocol",
+    "text": "Moored Surface Buoy\n\nMoored Surface Buoy: Woods Hole Oceanographic Institution (Robots4whales)\n\n\n\n\nA WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem. NEFSC PAM has one WHOI-designed surface buoy to monitor real-time species presence in a leased wind farm region.\n\nLab protocol",
     "crumbs": [
       "Hardware"
     ]
