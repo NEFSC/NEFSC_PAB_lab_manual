@@ -2,38 +2,103 @@
 title: Fish/Invertebrate species list
 ---
 ## Fish
-The PAB lab collaborates with local fishery policy makers by acoustically monitoring for economically important species of fish. Stellwagen bank hosts herring, cod and haddock spawning grounds, supplementing New England fishery economies and feeding local biodiversity. Cod and Herring tend to produce more sounds during spawning events, lending acoustics as a prime monitoring technique to track spawning trends. 
+The PAB lab collaborates with local fishery policy makers by acoustically monitoring for economically important species of fish. Stellwagen bank hosts herring, cod and haddock spawning grounds, supplementing New England fishery economies and feeding local biodiversity. 
 
-Fish don't produce sounds the same way cetaceans do. Not all fish produce sounds at all. Those that do typically have specialized muscles that beat against their swim bladders, producing 'pulse' like sounds. See below for spectrogram examples of our study fish.
+Fish don't produce sounds the same way cetaceans do. Not all fish produce sounds at all. Those that do typically have specialized muscles that beat against their swim bladders, producing drums, grunts, and knocking sounds. Fish sounds are low-frequency in nature. These acoustic signals are produced to deter predators, during feeding events, and/or during spawning events. 
 
-#### Herring
-![](/figs/infographics/fish_noaafisheries/Herring.png){width=15%}\
-Scientific name: Clupea Harengus  
-Makara species code: N/A
+Passive Acoustic research has been used to described global variations in fish chorusing - a significant increase of fish sounds produced either in during sunrise, sunset, or both depending on the composition of fish species in the area. Chorusing contributes significantly to the marine 'Soundscape' - or the general acoustic characteristics and patterns of a given area - as the amplitude is loud enough to be identified on diel power spectral density plots (see below).
+
+![](/figs/Spec_images/Fish/PSD_chorusing.png){width=70%}
+
+Power Spectral Density (PSD) plots illustrate the range in amplitude for a given frequency in a recording. This PSD plot depicts 24 hours of marine acoustic data in an Atlantic ecosystem. The orange peaks indicate high amplitude (or loud) calls in the evening hour, and is attributed to fish chorusing.
 
 #### Atlantic cod
-![](/figs/infographics/fish_noaafisheries/Cod.png){width=15%}\
-Scientific name: Gadus Morhua  
-Code: ATCO  
 
-<video controls="" width="440" height="15" name="media">
+**Scientific name**: *Gadus Morhua*  
+**Makara species code**: ATCO  
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Fish/Cod_spec_2.PNG){width=100%}
+
+::: 
+::: {.column width="5%"}
+
+::: 
+::: {.column width="45%"}
+
+![](/figs/infographics/fish_noaafisheries/Cod.png){width=80%}
+
+:::
+::::::::::::::
+
+<video controls="" width="450" height="20" name="media">
     <source src="https://github.com/NEFSC/NEFSC_PAB_lab_manual/raw/refs/heads/main/figs/Audio/Fish/Cod_2.wav" type="audio/wav">
 </video>
-![](/figs/Spec_images/Fish/Cod_spec_2.PNG){width=50%}
 
 #### Haddock 
-![](/figs/infographics/fish_noaafisheries/Haddock.png){width=15%}\
+
+**Scientific name**: *Melanogrammus aeglefinus*  
+**Makara species code**: HADD  
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Fish/Haddock_spec.PNG){width=100%}
+
+::: {.callout-tip title="Note"}
+Haddock knocks can be mistaken for [humpback whale calls](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Myst_list.html#humpback-whale)
+:::
+
+::: 
+::: {.column width="5%"}
+
+::: 
+::: {.column width="45%"}
+
+![](/figs/infographics/fish_noaafisheries/Haddock.png){width=80%}
+
+:::
+::::::::::::::
 
 
-Scientific name: *Melanogrammus aeglefinus*  
-Makara species code: HADD  
-![](/figs/Spec_images/Fish/Haddock_spec.PNG){width=50%}
+#### Herring
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+**Scientific name**: *Clupea Harengus*  
+**Makara species code**: N/A
+
+::: 
+::: {.column width="45%"}
+
+![](/figs/infographics/fish_noaafisheries/Herring.png){width=100%}
+
+:::
+::::::::::::::
 
 ## Invertebrates 
 We commonly record snapping shrimp in our acoustic data collected all along the eastern seaboard. They tend to remain on the seafloor, and tend to avoid mudflats and seagrass habitats. Snapping shrimp produce quick snaps that appear as broad-frequency lines in the background of spectrogram images. We cannot distinguish snapping shrimp species by this type of data. 
 
 #### Snapping Shrimp
 
-Scientific name: *Alpheus spp.*  
-Makara species code: SNSH  
-![](/figs/Spec_images/Fish/shrimp_spec.PNG){width=50%}
+**Scientific name**: *Alpheus spp.*  
+**Makara species code**: SNSH  
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+
+![](/figs/Spec_images/Fish/shrimp_spec.PNG){width=100%}
+
+::: 
+::: {.column width="5%"}
+
+::: 
+::: {.column width="25%"}
+
+![](/figs/infographics/Shrimp.jpg){width=80%}
+
+:::
+::::::::::::::
