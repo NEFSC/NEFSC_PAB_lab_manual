@@ -84,8 +84,8 @@ website:
                 text: Fish & Invertebrates
               - href: content/Analysis/Species_list/Env-Anthro.qmd
                 text: Environmental and Anthropogenic sounds
-              - href: content/Analysis/Species_list/Undefined.qmd
-                text: Undefined sounds
+             # - href: content/Analysis/Species_list/Undefined.qmd
+             #   text: Undefined sounds
           - section: Analysis protocols
             contents:
               - href: content/Analysis/Protocols/Mysticete_protocols.qmd
