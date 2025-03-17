@@ -1,5 +1,5 @@
 ---
-title: Fish/Invertebrate species list
+title: Fish & Invertebrate species list
 ---
 ## Fish
 The PAB lab collaborates with local fishery policy makers by acoustically monitoring for economically important species of fish. Stellwagen bank hosts herring, cod and haddock spawning grounds, supplementing New England fishery economies and feeding local biodiversity. 
