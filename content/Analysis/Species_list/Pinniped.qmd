@@ -7,15 +7,15 @@ title: Pinnipeds
 **Code**: GRSE 
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="70%"}
 
 Gray seals produce various vocalizations and acoustic signaling. Nonvocal behaviors range from surface interactions, such as breaching/porpoising, to underwater 'claps' or knocks (Hocking et al., 2019).
 
 :::
-::: {.column width="50%"}
+::: {.column width="30%"}
 
 
-![](/figs/infographics/Gray_seal_noaafisheries.png){width=60%}
+![](/figs/infographics/Gray_seal_noaafisheries.png){width=100%}
 
 :::
 ::::::::::::::
