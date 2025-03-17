@@ -32,7 +32,7 @@ TOSSIT pre-deployment
 :::::::::::::: {.columns}
 ::: {.column width="40%"}
 
-![](/content/Hardware/images/GOM.Mooring.jpg){width=100%}
+![](/content/Hardware/images/GOM.mooring.jpg){width=100%}
 GOM Mooring Design
 
 :::
@@ -64,10 +64,20 @@ MA-RI Mooring Designs (with and without FPOD)
 
 #### Moored Surface Buoy: Woods Hole Oceanographic Institution ([Robots4whales](https://robots4whales.whoi.edu/platforms/moored-buoy/))
 
-A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem.
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+
+![](/content/Hardware/images/MOORED-BUOY.png){width=50%}
+
+:::
+::: {.column sifth="90%"}
+
+A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem. NEFSC PAM has one WHOI-designed surface buoy to monitor real-time species presence in a leased wind farm region.
 
 * Lab protocol
 
+:::
+::::::::::::::
 
 
 ## Mobile Platforms
