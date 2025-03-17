@@ -133,8 +133,8 @@ The final delphinid group is characterized by low frequency, high amplitude clic
 
 #### [**Bottlenose dolphin**](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)
 
-Scientific name: *Turiops truncatus*  
-Makara species code: BODO
+**Scientific name**: *Turiops truncatus*  
+**Makara species code**: BODO
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -152,8 +152,8 @@ Makara species code: BODO
 
 #### [**Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)
 
-Scientific name: *Delphinus spp.*  
-Makara species code: SADO
+**Scientific name**: *Delphinus spp.*  
+**Makara species code**: SADO
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -179,8 +179,8 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 
 #### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)
 
-Scientific name: *Stenella frontalis*  
-Makara species code: WSDO 
+**Scientific name**: *Stenella frontalis*  
+**Makara species code**: WSDO 
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -198,10 +198,29 @@ Makara species code: WSDO
 :::
 ::::::::::::::
 
+#### [Atlantic White-sided dolphin](https://docs.google.com/document/d/1nUuGBs1qRno3_GFamIC85CaydllmZDq2lfgAAAExPCU/edit?usp=sharing)
+
+**Scientific name**: *Lagenorhynchus acutus*\
+**Makara species code**: WSDO
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/Atlantic_white_sided_dol_spec.png)
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/Atlantic_whiteside.jpg){width=70%}
+
+:::
+::::::::::::::
+
+
 #### [**Risso's dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
 
-Scientific name: *Grampus griseus*  
-Makara species code: GRAM  
+**Scientific name**: *Grampus griseus*  
+**Makara species code**: GRAM  
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -221,8 +240,8 @@ Makara species code: GRAM
 
 #### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)
 
-Scientific name: *Stenella coeruleoalba*  
-Makara species code: STDO  
+**Scientific name**: *Stenella coeruleoalba*  
+**Makara species code**: STDO  
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -243,8 +262,8 @@ Makara species code: STDO
 
 #### [**Spinner dolphin**](https://docs.google.com/document/d/1RvUttA4WqTZM3nuMlP_rKHTHrhF6OBzTm82CQa-txPM/edit?usp=drive_link)
 
-Scientific name: *Stenella longirostris*  
-Makara species code: SNDO  
+**Scientific name**: *Stenella longirostris*  
+**Makara species code**: SNDO  
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -267,8 +286,8 @@ Makara species code: SNDO
 
 #### [**False killer whale**](https://docs.google.com/document/d/1SvsAjWpphojcxKE-nIDTVTrLTaqXXs4nmGHHGs8vPEk/edit?usp=drive_link)
 
-Scientific name: *Pseudorca crassidens*  
-Makara species code: FKWH
+**Scientific name**: *Pseudorca crassidens*  
+**Makara species code**: FKWH
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -289,8 +308,8 @@ Makara species code: FKWH
 
 #### [**Pilot whale sp.**](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)
 
-Scientific name: *Globicephala spp.*  
-Makara species code: SFPW
+**Scientific name**: *Globicephala spp.*  
+**Makara species code**: SFPW
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -359,8 +378,8 @@ Each beaked whale species in the Northeast Region have slightly different click 
 
 #### **Sowerby’s beaked whale**
 
-Scientific name: *Mesoplodon bidens*  
-Makara species code: SOBW  
+**Scientific name**: *Mesoplodon bidens*  
+**Makara species code**: SOBW  
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -377,8 +396,8 @@ Makara species code: SOBW
 
 #### **Blainville’s beaked whale**
 
-Scientific name: *Mesoplodon densirostris*  
-Makara species code: BLBW  
+**Scientific name**: *Mesoplodon densirostris*  
+**Makara species code**: BLBW  
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -397,8 +416,8 @@ Makara species code: BLBW
 
 #### **Gervais’ beaked whale**
 
-Scientific name: *Mesoplodon europaeus*  
-Makara species code: GEBW  
+**Scientific name**: *Mesoplodon europaeus*  
+**Makara species code**: GEBW  
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -416,8 +435,8 @@ Makara species code: GEBW
 
 #### **True’s beaked whale**
 
-Scientific name: *Mesoplodon mirus*  
-Makara species code: TRBW  
+**Scientific name**: *Mesoplodon mirus*  
+**Makara species code**: TRBW  
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -434,8 +453,8 @@ Makara species code: TRBW
 
 #### **Goose beaked whale**
 
-Scientific name: *Ziphius cavirostris*  
-Makara species code: CUBW  
+**Scientific name**: *Ziphius cavirostris*  
+**Makara species code**: CUBW  
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -453,8 +472,8 @@ Makara species code: CUBW
 
 #### [**Gulf of Mexico’s Beaked whale (BWG, unknown)**](/content/Analysis/Species_list/beaked-whale/BWG.qmd)
 
-Scientific name: *Ziphiidae sp.* \
-Makara species code: BWG
+**Scientific name**: *Ziphiidae sp.* \
+**Makara species code**: BWG
 
 
 ## **Narrow band high-frequency (NBHF)**
@@ -505,8 +524,8 @@ For Kogia 3: the peak ~117 kHz is an artifact of the high pass filter applied to
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
 
-Scientific name: *Phocoena phocoena*  
-Code: HAPO  
+**Scientific name**: *Phocoena phocoena*  
+**Makara species code**: HAPO  
 
 :::
 ::: {.column width="47%"}
@@ -521,8 +540,8 @@ Code: HAPO
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
 
-Scientific name: *Kogia breviceps*  
-Makara species code: PSWH
+**Scientific name**: *Kogia breviceps*  
+**Makara species code**: PSWH
 
 :::
 ::: {.column width="47%"}
@@ -538,8 +557,8 @@ Makara species code: PSWH
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
 
-Scientific name: *Kogia sima*  
-Makara species code: DSWH
+**Scientific name**: *Kogia sima*  
+**Makara species code**: DSWH
 
 :::
 ::: {.column width="47%"}
