@@ -208,10 +208,11 @@ F-PODs are a high-resolution click detector used to identify delphinids. The ins
 
 * The VEMCO Deck Box is used to remotely connect and communicate with the submerged VEMCO, primarily to release the VEMCO from the bottom-mounted weights. 
 
+## Technical Advice
 
 <details>
 
-<summary><font size = "5">Technical advice</font></summary>
+<summary><font size = "5">Technical advice list</font></summary>
 
 
 **When should I replace my VR2AR / ASCENT-AR acoustic release battery?**
