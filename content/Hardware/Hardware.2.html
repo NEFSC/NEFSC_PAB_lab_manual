@@ -357,11 +357,31 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#bottom-mounted-moorings" id="toc-bottom-mounted-moorings" class="nav-link active" data-scroll-target="#bottom-mounted-moorings">Bottom-Mounted Moorings</a></li>
-  <li><a href="#moored-surface-buoy" id="toc-moored-surface-buoy" class="nav-link" data-scroll-target="#moored-surface-buoy">Moored Surface Buoy</a></li>
-  <li><a href="#mobile-platforms" id="toc-mobile-platforms" class="nav-link" data-scroll-target="#mobile-platforms">Mobile Platforms</a></li>
-  <li><a href="#additional-hardware" id="toc-additional-hardware" class="nav-link" data-scroll-target="#additional-hardware">Additional Hardware</a></li>
-  <li><a href="#recording-instruments" id="toc-recording-instruments" class="nav-link" data-scroll-target="#recording-instruments">Recording Instruments</a></li>
+  <li><a href="#bottom-mounted-moorings" id="toc-bottom-mounted-moorings" class="nav-link active" data-scroll-target="#bottom-mounted-moorings">Bottom-Mounted Moorings</a>
+  <ul class="collapse">
+  <li><a href="#stellwagen-bank-mooring-tossits" id="toc-stellwagen-bank-mooring-tossits" class="nav-link" data-scroll-target="#stellwagen-bank-mooring-tossits">Stellwagen Bank Mooring (TOSSITS)</a></li>
+  <li><a href="#gulf-of-maine-mooring" id="toc-gulf-of-maine-mooring" class="nav-link" data-scroll-target="#gulf-of-maine-mooring">Gulf of Maine Mooring</a></li>
+  <li><a href="#ma-ri-moorings" id="toc-ma-ri-moorings" class="nav-link" data-scroll-target="#ma-ri-moorings">MA-RI Moorings</a></li>
+  </ul></li>
+  <li><a href="#surface-moored-platforms" id="toc-surface-moored-platforms" class="nav-link" data-scroll-target="#surface-moored-platforms">Surface-Moored Platforms</a>
+  <ul class="collapse">
+  <li><a href="#moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" id="toc-moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" class="nav-link" data-scroll-target="#moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales">Moored Surface Buoy: Woods Hole Oceanographic Institution (Robots4whales)</a></li>
+  </ul></li>
+  <li><a href="#mobile-platforms" id="toc-mobile-platforms" class="nav-link" data-scroll-target="#mobile-platforms">Mobile Platforms</a>
+  <ul class="collapse">
+  <li><a href="#slocum-gliders-woods-hole-oceanographic-institution-robots4whales" id="toc-slocum-gliders-woods-hole-oceanographic-institution-robots4whales" class="nav-link" data-scroll-target="#slocum-gliders-woods-hole-oceanographic-institution-robots4whales">Slocum Gliders: Woods Hole Oceanographic Institution (Robots4whales)</a></li>
+  <li><a href="#towed-array" id="toc-towed-array" class="nav-link" data-scroll-target="#towed-array">Towed Array</a></li>
+  <li><a href="#dasbrs" id="toc-dasbrs" class="nav-link" data-scroll-target="#dasbrs">DASBRs</a></li>
+  </ul></li>
+  <li><a href="#additional-hardware" id="toc-additional-hardware" class="nav-link" data-scroll-target="#additional-hardware">Additional Hardware</a>
+  <ul class="collapse">
+  <li><a href="#dipping-hydrophone" id="toc-dipping-hydrophone" class="nav-link" data-scroll-target="#dipping-hydrophone">Dipping Hydrophone</a></li>
+  </ul></li>
+  <li><a href="#recording-instruments" id="toc-recording-instruments" class="nav-link" data-scroll-target="#recording-instruments">Recording Instruments</a>
+  <ul class="collapse">
+  <li><a href="#soundtrap-ocean-instruments" id="toc-soundtrap-ocean-instruments" class="nav-link" data-scroll-target="#soundtrap-ocean-instruments">SoundTrap: Ocean Instruments</a></li>
+  <li><a href="#f-pod-chelonia-wildlife-acoustic-monitoring" id="toc-f-pod-chelonia-wildlife-acoustic-monitoring" class="nav-link" data-scroll-target="#f-pod-chelonia-wildlife-acoustic-monitoring">F-POD: Chelonia Wildlife Acoustic Monitoring</a></li>
+  </ul></li>
   <li><a href="#auxiliary-hardware" id="toc-auxiliary-hardware" class="nav-link" data-scroll-target="#auxiliary-hardware">Auxiliary Hardware</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/edit/main/content/Hardware/Hardware.2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/blob/main/content/Hardware/Hardware.2.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/NEFSC/NEFSC_PAB_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -389,97 +409,110 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="../../figs/infographics/NEFSC_specie_boat.png" class="img-fluid"></p>
-<p>The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM deployments also often consist of co-located hardware to collect ancillary data about the ocean or provide mechanisms to recover the instruments.</p>
+<p>The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM deployments often consist of co-located hardware to collect ancillary data about the ocean or provide mechanisms to recover the instruments.</p>
 <section id="bottom-mounted-moorings" class="level2">
 <h2 class="anchored" data-anchor-id="bottom-mounted-moorings">Bottom-Mounted Moorings</h2>
 <p>Bottom-mounted moorings are most commonly used for continuous monitoring at single location, providing long-term time series for marine mammals, fish, soundscapes, and anthropogenic noise. Our bottom mounted recorders use VEMCO acoustic release mechanisms to prevent the need for benthic-to-surface vertical line. We use different mooring designs for our three field sites:</p>
-<section id="stellwagen-bank-mooring-tossits" class="level4">
-<h4 class="anchored" data-anchor-id="stellwagen-bank-mooring-tossits">Stellwagen Bank Mooring (TOSSITS)</h4>
+<section id="stellwagen-bank-mooring-tossits" class="level3">
+<h3 class="anchored" data-anchor-id="stellwagen-bank-mooring-tossits">Stellwagen Bank Mooring (TOSSITS)</h3>
 <div class="columns">
-<div class="column" style="width:20%;">
-<p><img src="../../content/Hardware/images/Tossit_deployment.jpg" class="img-fluid" style="width:100.0%"> TOSSIT pre-deployment</p>
-</div><div class="column" data-sifth="65%">
+<div class="column" style="width:80%;">
 <ul>
 <li>Lab protocols</li>
 </ul>
+</div><div class="column" style="width:20%;">
+<p><img src="../../content/Hardware/images/Tossit_deployment.jpg" class="img-fluid" style="width:90.0%"> <em>TOSSIT pre-deployment</em></p>
 </div>
 </div>
 </section>
-<section id="gulf-of-maine-mooring" class="level4">
-<h4 class="anchored" data-anchor-id="gulf-of-maine-mooring">Gulf of Maine Mooring</h4>
+<section id="gulf-of-maine-mooring" class="level3">
+<h3 class="anchored" data-anchor-id="gulf-of-maine-mooring">Gulf of Maine Mooring</h3>
 <div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="../../content/Hardware/images/GOM.mooring.jpg" class="img-fluid" style="width:100.0%"> GOM Mooring Design</p>
-</div><div class="column" data-sifth="65%">
+<div class="column" style="width:50%;">
 <ul>
 <li>Lab protocols</li>
 </ul>
+</div><div class="column" style="width:50%;">
+<p><img src="../../content/Hardware/images/GOM.mooring.jpg" class="img-fluid" style="width:100.0%"> <em>GOM Mooring Design</em></p>
 </div>
 </div>
 </section>
-<section id="ma-ri-moorings" class="level4">
-<h4 class="anchored" data-anchor-id="ma-ri-moorings">MA-RI Moorings</h4>
+<section id="ma-ri-moorings" class="level3">
+<h3 class="anchored" data-anchor-id="ma-ri-moorings">MA-RI Moorings</h3>
 <div class="columns">
-<div class="column" style="width:40%;">
-<p><img src="../../content/Hardware/images/MA-RI.Mooring.png" class="img-fluid" style="width:100.0%"> MA-RI Mooring Designs (with and without FPOD)</p>
-</div><div class="column" data-sifth="65%">
+<div class="column" style="width:50%;">
 <ul>
 <li>Lab protocols</li>
 </ul>
+</div><div class="column" style="width:50%;">
+<p><img src="../../content/Hardware/images/MA-RI.Mooring.png" class="img-fluid" style="width:100.0%"> <em>MA-RI Mooring Designs (with and without FPOD)</em></p>
 </div>
 </div>
 </section>
 </section>
-<section id="moored-surface-buoy" class="level2">
-<h2 class="anchored" data-anchor-id="moored-surface-buoy">Moored Surface Buoy</h2>
-<section id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" class="level4">
-<h4 class="anchored" data-anchor-id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales">Moored Surface Buoy: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/moored-buoy/">Robots4whales</a>)</h4>
+<section id="surface-moored-platforms" class="level2">
+<h2 class="anchored" data-anchor-id="surface-moored-platforms">Surface-Moored Platforms</h2>
+<section id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" class="level3">
+<h3 class="anchored" data-anchor-id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales">Moored Surface Buoy: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/moored-buoy/">Robots4whales</a>)</h3>
 <div class="columns">
-<div class="column" style="width:10%;">
-<p><img src="../../content/Hardware/images/MOORED-BUOY.png" class="img-fluid" style="width:50.0%"></p>
-</div><div class="column" data-sifth="90%">
+<div class="column" style="width:90%;">
 <p>A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem. NEFSC PAM has one WHOI-designed surface buoy to monitor real-time species presence in a leased wind farm region.</p>
 <ul>
 <li>Lab protocol</li>
 </ul>
+</div><div class="column" style="width:10%;">
+<p><img src="../../content/Hardware/images/MOORED-BUOY.png" class="img-fluid" style="width:40.0%"></p>
 </div>
 </div>
 </section>
 </section>
 <section id="mobile-platforms" class="level2">
 <h2 class="anchored" data-anchor-id="mobile-platforms">Mobile Platforms</h2>
-<section id="slocum-gliders-woods-hole-oceanographic-institution-robots4whales" class="level4">
-<h4 class="anchored" data-anchor-id="slocum-gliders-woods-hole-oceanographic-institution-robots4whales">Slocum Gliders: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/slocum-glider/">Robots4whales</a>)</h4>
+<section id="slocum-gliders-woods-hole-oceanographic-institution-robots4whales" class="level3">
+<h3 class="anchored" data-anchor-id="slocum-gliders-woods-hole-oceanographic-institution-robots4whales">Slocum Gliders: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/slocum-glider/">Robots4whales</a>)</h3>
+<div class="columns">
+<div class="column" style="width:70%;">
 <p>Slocum gliders are useful for passive acoustic monitoring, as they can glide silently through vast depth ranges for months at a time. Can self-navigate using GPS systems, and can communicate with researchers via Iridium communication sessions.</p>
+</div><div class="column" style="width:30%;">
+<p><img src="../../content/Hardware/images/SLOCUM-GLIDER.png" class="img-fluid" style="width:80.0%"></p>
+</div>
+</div>
 <ul>
 <li>Lab protocol</li>
 </ul>
-<p><img src="../../content/Hardware/images/SLOCUM-GLIDER.png" class="img-fluid" style="width:30.0%"></p>
 </section>
-<section id="towed-array" class="level4">
-<h4 class="anchored" data-anchor-id="towed-array">Towed Array</h4>
-<p>A towed array is the acoustic sampling technique of dragging a recording device behind a moving ship, which usually allows the pairing of recording with visual groundtruthing. This method is particularly useful for pairing vocalizations with under-studied species.</p>
+<section id="towed-array" class="level3">
+<h3 class="anchored" data-anchor-id="towed-array">Towed Array</h3>
+<div class="columns">
+<div class="column" style="width:70%;">
+<p>A towed array is the acoustic sampling technique of dragging a recording device behind a moving ship, which usually allows the pairing of recording with visual ground-truthing. This method is particularly useful for pairing vocalizations with under-studied species.</p>
+</div><div class="column" style="width:30%;">
+<p><img src="../../content/Hardware/images/SHIP-TOWED-ARRAY.png" class="img-fluid" style="width:80.0%"></p>
+</div>
+</div>
 <ul>
-<li>‘A GUIDE TO CONSTRUCTING HYDROPHONE ARRAYS FOR PASSIVE ACOUSTIC DATA COLLECTION DURING NMFS SHIPBOARD CETACEAN SURVEYS’ - Shannon Rankin → relevant?<br>
-</li>
 <li><a href="https://drive.google.com/drive/folders/1nQI9PQkyzDe7hP53RlUzBnHaYxUoo3s8">Lab Protocols</a></li>
 </ul>
-<p><img src="../../content/Hardware/images/SHIP-TOWED-ARRAY.png" class="img-fluid" style="width:40.0%"></p>
 </section>
-<section id="dasbrs" class="level4">
-<h4 class="anchored" data-anchor-id="dasbrs">DASBRs</h4>
+<section id="dasbrs" class="level3">
+<h3 class="anchored" data-anchor-id="dasbrs">DASBRs</h3>
+<div class="columns">
+<div class="column" style="width:70%;">
 <p>DASBRs are floating, mobile platforms that typically incorporate Soundtrap and hydrophone components. DASBRs are typically deployed if Gervais’ beaked whales are sighted during offshore fieldwork. GPS will indicate location once the platform is ready to be retrieved.</p>
 <ul>
 <li><a href="https://docs.google.com/document/d/13FeiyPSnvGXLOZfFxmZceHb_1UlwR0YP/edit?tab=t.0">Lab Protocol</a></li>
 </ul>
-<p><img src="../../content/Hardware/images/DASBR.2.png" class="img-fluid" style="width:30.0%"></p>
+</div><div class="column" style="width:30%;">
+<p><img src="../../content/Hardware/images/DASBR.2.png" class="img-fluid" style="width:100.0%"></p>
+</div>
+</div>
 </section>
 </section>
 <section id="additional-hardware" class="level2">
 <h2 class="anchored" data-anchor-id="additional-hardware">Additional Hardware</h2>
-<section id="dipping-hydrophone" class="level4">
-<h4 class="anchored" data-anchor-id="dipping-hydrophone">Dipping Hydrophone</h4>
-<p>Dipping hydrophones are acoustic recorders that are attached to a rope and suspended in the water.</p>
+<section id="dipping-hydrophone" class="level3">
+<h3 class="anchored" data-anchor-id="dipping-hydrophone">Dipping Hydrophone</h3>
+<p>Dipping hydrophones are acoustic recorders that are attached to a rope and suspended in the water. NEFSC’s PAM group uses dipping hydrophones to opportunistically collect gray seal acoustic data.</p>
 <ul>
 <li><a href="https://docs.google.com/document/d/17L0CEr6XYmXnvDHzgUtjk7NDoLuuo8aQ/edit">Lab Protocol</a></li>
 </ul>
@@ -487,36 +520,34 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="recording-instruments" class="level2">
 <h2 class="anchored" data-anchor-id="recording-instruments">Recording Instruments</h2>
+<section id="soundtrap-ocean-instruments" class="level3">
+<h3 class="anchored" data-anchor-id="soundtrap-ocean-instruments">SoundTrap: <a href="https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/">Ocean Instruments</a></h3>
 <div class="columns">
-<div class="column" style="width:10%;">
-<p><img src="../../content/Hardware/images/Soundtrap.icon.png" class="img-fluid" style="width:40.0%"></p>
-</div><div class="column" style="width:80%;">
-<section id="soundtrap-ocean-instruments" class="level4">
-<h4 class="anchored" data-anchor-id="soundtrap-ocean-instruments">SoundTrap: <a href="https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/">Ocean Instruments</a></h4>
+<div class="column" style="width:90%;">
+<p>PABs primary instrument due to relatively long battery life and large memory, and broad sampling rate. Typical deployments consist of 5 month recording at 48kHz providing data for most cetaceans, fish and soundscapes.</p>
 <ul>
-<li>PABs primary instrument due to relatively long battery life and large memory, and broad sampling rate. Typical deployments consist of 5 month recording at 48kHz providing data for most cetaceans, fish and soundscapes.<br>
-</li>
 <li><a href="https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing">Ocean Instruments SoundTrap guide</a><br>
 </li>
 <li>Lab protocol link</li>
 </ul>
+</div><div class="column" style="width:10%;">
+<p><img src="../../content/Hardware/images/Soundtrap.icon.png" class="img-fluid" style="width:40.0%"></p>
+</div>
+</div>
 </section>
-</div>
-</div>
+<section id="f-pod-chelonia-wildlife-acoustic-monitoring" class="level3">
+<h3 class="anchored" data-anchor-id="f-pod-chelonia-wildlife-acoustic-monitoring">F-POD: <a href="https://www.chelonia.co.uk/f-pod/">Chelonia Wildlife Acoustic Monitoring</a></h3>
 <div class="columns">
-<div class="column" style="width:10%;">
-<p><img src="../../content/Hardware/images/Fpod.icon.png" class="img-fluid" style="width:40.0%"></p>
-</div><div class="column" style="width:80%;">
-<section id="f-pod-chelonia-wildlife-acoustic-monitoring" class="level4">
-<h4 class="anchored" data-anchor-id="f-pod-chelonia-wildlife-acoustic-monitoring">F-POD: <a href="https://www.chelonia.co.uk/f-pod/">Chelonia Wildlife Acoustic Monitoring</a></h4>
+<div class="column" style="width:90%;">
+<p>F-PODs are a high-resolution click detector used to identify delphinids. The instrument is calibrated, has a long battery life and is an integrated product that records audio and automatically detects clicks.</p>
 <ul>
-<li>F-PODs are a high-resolution click detector used to identify delphinids. The instrument is calibrated, has a long battery life and is an integrated product that records audio and automatically detects clicks.<br>
-</li>
 <li>F-Pod protocol link</li>
 </ul>
+</div><div class="column" style="width:10%;">
+<p><img src="../../content/Hardware/images/Fpod.icon.png" class="img-fluid" style="width:40.0%"></p>
+</div>
+</div>
 </section>
-</div>
-</div>
 </section>
 <section id="auxiliary-hardware" class="level2">
 <h2 class="anchored" data-anchor-id="auxiliary-hardware">Auxiliary Hardware</h2>
