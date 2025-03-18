@@ -2,11 +2,11 @@
 title: Fish & Invertebrate species list
 ---
 ## Fish
-The PAB lab collaborates with local fishery policy makers by acoustically monitoring for economically important species of fish. Stellwagen bank hosts herring, cod and haddock spawning grounds, supplementing New England fishery economies and feeding local biodiversity. 
+In collaboration with federal, state, and academic partners, the PAB uses bottom mounted recorders to monitor economically important fish species. New England waters host herring, cod and haddock spawning grounds, all of which produce sound. These fisheries contribute to New England fishery economies and are an important part of the local ecosystem. The results of our research has been used to support management decisions and increase protections for fishes during spawning.
 
-Fish don't produce sounds the same way cetaceans do. Not all fish produce sounds at all. Those that do typically have specialized muscles that beat against their swim bladders, producing drums, grunts, and knocking sounds. Fish sounds are low-frequency in nature. These acoustic signals are produced to deter predators, during feeding events, and/or during spawning events. 
+Research suggests that around 1,000 species of fish produce sound. Many soniferous fishes have specialized muscles that beat against their swim bladders, producing low frequency drums, grunts, and knocking sounds. These acoustic signals are typically produced to deter predators, during feeding events, and/or during spawning events.
 
-Passive Acoustic research has been used to described global variations in fish chorusing - a significant increase of fish sounds produced either in during sunrise, sunset, or both depending on the composition of fish species in the area. Chorusing contributes significantly to the marine 'Soundscape' - or the general acoustic characteristics and patterns of a given area - as the amplitude is loud enough to be identified on diel power spectral density plots (see below).
+Passive acoustic research has been used to described global variations in fish chorusing - a significant increase of fish sounds typically associated with spawning and often occurring during sunrise or sunset, or both depending on the community of fish species in the area. Chorusing can be a significant component of the marine soundscape - or the general acoustic characteristics and patterns of a given area - as the amplitude is loud enough to be identified on diel power spectral density plots (see below).
 
 ![](/figs/Spec_images/Fish/PSD_chorusing.png){width=70%}
 
