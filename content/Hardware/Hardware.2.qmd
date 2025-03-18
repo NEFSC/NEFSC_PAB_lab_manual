@@ -6,59 +6,85 @@ page-layout: full
 
 The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM deployments often consist of co-located hardware to collect ancillary data about the ocean or provide mechanisms to recover the instruments.
 
-## Bottom-Mounted Moorings
+## Bottom-Mounted Mooring components
 
-Bottom-mounted moorings are most commonly used for continuous monitoring at single location, providing long-term time series for marine mammals, fish, soundscapes, and anthropogenic noise. Our bottom mounted recorders use VEMCO acoustic release mechanisms to prevent the need for benthic-to-surface vertical line. We use different mooring designs for our three field sites: 
+Bottom-mounted moorings are most commonly used for continuous monitoring at single location, providing long-term time series for marine mammals, fish, soundscapes, and anthropogenic noise. Our bottom mounted recorders use VEMCO acoustic release mechanisms to prevent the need for benthic-to-surface vertical line. We use different mooring designs for our three field sites (refer to [field methods](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/FieldMethods.html) for more detail on mooring designs). Below is a list of our mooring hardware components, including our mooring's primary components (Soundtrap, Fpods, VEMCOs) and auxiliary hardware. 
 
+### Primary components
 
-### Stellwagen Bank Mooring (TOSSITS)
+#### SoundTrap: [Ocean Instruments](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/)
 
 :::::::::::::: {.columns}
-::: {.column width="80%"}
+::: {.column width="90%"}
 
-* Lab protocols
+PABs primary instrument due to relatively long battery life and large memory, and broad sampling rate. Typical deployments consist of 5 month recording at 48kHz providing data for most cetaceans, fish and soundscapes.  
+
+* [Ocean Instruments SoundTrap guide](https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing)  
+* Lab protocol link
 
 :::
-::: {.column width="20%"}
+::: {.column width="10%"}
 
-![](/content/Hardware/images/Tossit_deployment.jpg){width=90%}
-*TOSSIT pre-deployment*
+![](/content/Hardware/images/Soundtrap.icon.png){width=40%}
 
 :::
 ::::::::::::::
 
-### Gulf of Maine Mooring  
+#### F-POD: [Chelonia Wildlife Acoustic Monitoring](https://www.chelonia.co.uk/f-pod/)
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="90%"}
 
-* Lab protocols
+F-PODs are a high-resolution click detector used to identify delphinids. The instrument is calibrated, has a long battery life and is an integrated product that records audio and automatically detects clicks.
+
+* F-Pod protocol link
 
 :::
-::: {.column width="50%"}
+::: {.column width="10%"}
 
-![](/content/Hardware/images/GOM.mooring.jpg){width=100%}
-*GOM Mooring Design*
+![](/content/Hardware/images/Fpod.icon.png){width=40%}
 
 :::
 ::::::::::::::
 
-### MA-RI Moorings
+#### VEMCO Acoustic Telemetry and Release (order site \- [InnovaSea](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/), VR2AR Acoustic Release Receiver)
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
+::: {.column width="90%"}
 
-* Lab protocols
+Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VEMCOs eliminates the need for surface buoys, mitigating whale entanglement risk. VEMCOs collect acoustic telemetry data, which is submitted to the Atlantic Cooperative Telemetry Network ([ACT](https://theactnetwork.com/) / [MATOS](https://matos.asascience.com/)).  
+
+* VEMCO protocol link
 
 :::
-::: {.column width="50%"}
+::: {.column width="10%"}
 
-![](/content/Hardware/images/MA-RI.Mooring.png){width=100%}
-*MA-RI Mooring Designs (with and without FPOD)*
+![](/content/Hardware/images/vemco.icon.png){width=80%}
 
 :::
 ::::::::::::::
 
+### Auxiliary components 
+
+#### Apollo X1 Satellite Beacon ([order site](https://xeostech.com/apollo-x1))
+
+* The Apollo Satellite Beacon is used to monitor unplanned or accidental release of subsurface instrument moorings.
+
+#### Hermes Beacon Locator ([order site](https://xeostech.com/hermes))
+
+* The Hermes Beacon Locator is used to communicate with the Apollo Satellite Beacon to locate mooring units at sea
+
+#### HOBO Temperature Loggers ([order site](https://www.onsetcomp.com/products/data-loggers/utbi-001))
+
+* Small mechanism that logs temperature over long periods of time. Requires HOBOware software and either an Optic USB Base Station or HOBO Waterproof Shuttle (U-DTW-1).
+
+#### VEMCO VR100 Deck Box ([order site](https://www.oceans-research.com/vr100/))
+
+* The VEMCO Deck Box is used to remotely connect and communicate with the submerged VEMCO, primarily to release the VEMCO from the bottom-mounted weights.
+
+#### VHTx: Transponding Hydrophone ([order site](https://www.oceans-research.com/vhtx/))
+
+* Transponding hydrophone used for communication between VEMCO VR100 Deck Box and VEMCO Acoustic Release Receiver.
 
 ## Surface-Moored Platforms
 
@@ -67,7 +93,7 @@ Bottom-mounted moorings are most commonly used for continuous monitoring at sing
 :::::::::::::: {.columns}
 ::: {.column width="90%"}
 
-A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection delivered from DMON/LFDCS to shore-side computer via Iridium satellite modem. NEFSC PAM has one WHOI-designed surface buoy to monitor real-time species presence in a leased wind farm region.
+A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection is delivered from DMON/LFDCS to a shore-side computer via Iridium satellite modem. DMON is the WHOI-built acoustic recorder that automatically runs [LFDCS](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier). NEFSC PAM has one WHOI-designed surface buoy to monitor real-time species presence in a leased wind farm region. 
 
 * Lab protocol
 
@@ -87,7 +113,7 @@ A WHOI-engineered quiet surface buoy specifically for acoustic applications. Dat
 :::::::::::::: {.columns}
 ::: {.column width="70%"}
 
-Slocum gliders are useful for passive acoustic monitoring, as they can glide silently through vast depth ranges for months at a time. Can self-navigate using GPS systems, and can communicate with researchers via Iridium communication sessions.
+Slocum gliders are useful for passive acoustic monitoring, as they can glide silently through vast depth ranges for months at a time. Can self-navigate using GPS systems, and can communicate with researchers via Iridium communication sessions. Gliders are equipped with DMON, which is a WHOI-built acoustic recorder that automatically runs [LFDCS](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier).
 
 :::
 ::: {.column width="30%"}
@@ -143,70 +169,6 @@ Dipping hydrophones are acoustic recorders that are attached to a rope and suspe
 * [Lab Protocol](https://docs.google.com/document/d/17L0CEr6XYmXnvDHzgUtjk7NDoLuuo8aQ/edit)
 
 
-## Recording Instruments
-
-### SoundTrap: [Ocean Instruments](https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/)
-
-:::::::::::::: {.columns}
-::: {.column width="90%"}
-
-PABs primary instrument due to relatively long battery life and large memory, and broad sampling rate. Typical deployments consist of 5 month recording at 48kHz providing data for most cetaceans, fish and soundscapes.  
-
-* [Ocean Instruments SoundTrap guide](https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing)  
-* Lab protocol link
-
-:::
-::: {.column width="10%"}
-
-![](/content/Hardware/images/Soundtrap.icon.png){width=40%}
-
-:::
-::::::::::::::
-
-### F-POD: [Chelonia Wildlife Acoustic Monitoring](https://www.chelonia.co.uk/f-pod/)
-
-:::::::::::::: {.columns}
-::: {.column width="90%"}
-
-F-PODs are a high-resolution click detector used to identify delphinids. The instrument is calibrated, has a long battery life and is an integrated product that records audio and automatically detects clicks.
-
-* F-Pod protocol link
-
-:::
-::: {.column width="10%"}
-
-![](/content/Hardware/images/Fpod.icon.png){width=40%}
-
-:::
-::::::::::::::
-
-
-## Auxiliary Hardware
-
-#### VEMCO Acoustic Telemetry and Release (order site \- [InnovaSea](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/), VR2AR Acoustic Release Receiver)
-
-* Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VEMCOs eliminates the need for surface buoys, mitigating whale entanglement risk.   
-* VEMCO protocol link
-
-#### HOBO Temperature Loggers ([order site](https://www.onsetcomp.com/products/data-loggers/utbi-001))
-
-* Small mechanism that logs temperature over long periods of time. Requires HOBOware software and either an Optic USB Base Station or HOBO Waterproof Shuttle (U-DTW-1).
-
-#### Apollo X1 Satellite Beacon ([order site](https://xeostech.com/apollo-x1))
-
-* The Apollo Satellite Beacon is used to monitor unplanned or accidental release of subsurface instrument moorings.
-
-#### Hermes Beacon Locator ([order site](https://xeostech.com/hermes))
-
-* The Hermes Beacon Locator is used to communicate with the Apollo Satellite Beacon to locate mooring units at sea
-
-#### VHTx: Transponding Hydrophone ([order site](https://www.oceans-research.com/vhtx/))
-
-* Transponding hydrophone used for communication between VEMCO VR100 Deck Box and VEMCO Acoustic Release Receiver.
-
-#### VEMCO VR100 Deck Box ([order site](https://www.oceans-research.com/vr100/))
-
-* The VEMCO Deck Box is used to remotely connect and communicate with the submerged VEMCO, primarily to release the VEMCO from the bottom-mounted weights. 
 
 ## Technical Advice
 

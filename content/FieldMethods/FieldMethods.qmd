@@ -21,16 +21,27 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 
 ## Stellwagen Bank National Marine Sanctuary (SBNMS)
 
+:::::::::::::: {.columns}
+::: {.column width="80%"}
+
 - Turnaround: Every 6 months  
 - Charter: R/V Auk   
 - Trip Duration: 1 day  
 - Number of moorings (as of 12/24): 3
 - Stellwagen Bank protocols
 
+:::
+::: {.column width="20%"}
+
+#### Mooring design
+
+![](/content/Hardware/images/Tossit_deployment.jpg){width=90%}
+
+:::
+::::::::::::::
+
 ## Southern New England
 
-:::::::::::::: {.columns}
-::: {.column width="50%"}
 
 - Turnaround: 5 months  
 - Charter: F/V Saints and Angels  
@@ -38,8 +49,17 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 - Number of moorings (as of 12/24): 19
 - S&E protocols
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+#### Mooring design
+
+![](/content/Hardware/images/MA-RI.Mooring.png)
+
 :::
 ::: {.column width="50%"}
+
+#### Deployment location
 
 ![](/content/FieldMethods/images/Fig.2.jpg)
 *Southern New England deployments are focused around Cox’s Ledge and Nantucket Shoals*
@@ -49,20 +69,25 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 
 ## Gulf of Maine (Offshore)
 
-:::::::::::::: {.columns}
-::: {.column width="65%"}
-
 - Turnaround: 5 months  
 - Charter: F/V Saints and Angels  
 - Trip Duration: 3 \- 4 days  
 - Number of moorings (as of 12/24): 12
 - GOM protocols
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+#### Mooring design
+
+![](/content/Hardware/images/GOM.mooring.jpg)
+
 :::
-::: {.column width="35%"}
+::: {.column width="50%"}
+
+#### Deployment location
 
 ![](/content/FieldMethods/images/Fig.3.jpg)
-
 :::
 ::::::::::::::
 
