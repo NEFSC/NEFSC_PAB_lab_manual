@@ -2,12 +2,70 @@
 title: Field Methods
 ---
 
-![](/figs/infographics/NEFSC_specie_boat.png)
 
-*Under construction*\
+NEFSC PAM deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered northern right whale protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972\. Monitoring the population status of NARW is a top priority for the Protected Species Branch (PSB) at the Northeast Fisheries Science Center (NEFSC). 
 
-**Will have:**\
-- PAB Fieldwork code of conduct\
-- Deployment timeline\
-- Mooring protocols\
-- Additional materials\
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+
+We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC Passive Acoustic Monitoring lab executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank, offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
+
+:::
+::: {.column width="35%"}
+
+![](/content/FieldMethods/images/Fig.1.jpg)
+
+:::
+::::::::::::::
+
+
+## Stellwagen Bank 
+
+- Turnaround: Every 6 months  
+- Charter: Auk   
+- Trip Duration: 1 day  
+- Number of moorings: \~3
+- Stellwagen Bank protocols
+
+## Southern New England
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+- Turnaround: 5 months  
+- Charter: Saints and Angels  
+- Trip duration: 5 \- 6 days  
+- Number of moorings: \~19
+- S&E protocols
+
+:::
+::: {.column width="50%"}
+
+![](/content/FieldMethods/images/Fig.2.jpg)
+*Southern New England deployments are focused around Cox’s Ledge and Nantucket Shoals*
+
+:::
+::::::::::::::
+
+## Gulf of Maine (Offshore)
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+
+- Turnaround: 5 months  
+- Charter: Saints and Angels  
+- Trip Duration: 3 \- 4 days  
+- Number of moorings: \~12
+- GOM protocols
+
+:::
+::: {.column width="35%"}
+
+![](/content/FieldMethods/images/Fig.3.jpg)
+
+:::
+::::::::::::::
+
+# Atlantic Marine Assessment Program for Protected Species \- AMAPPS 
+
+AMAPPS surveys are a multi-agency effort aimed at assessing abundance, distribution, ecology, and behavior of marine mammals, sea turtles, and seabirds throughout the U.S. Atlantic. NEFSC PAM researchers participate in AMAPPS surveys using **towed array** sampling methods. Using a towed array involves dragging recording devices behind a ship and matching acoustic analysis with real-time on-deck visual observers for ground-truthing purposes. For more information on the AMAPPS effort, see NOAA’s [AMAPPS page](https://www.fisheries.noaa.gov/new-england-mid-atlantic/population-assessments/atlantic-marine-assessment-program-protected). 
