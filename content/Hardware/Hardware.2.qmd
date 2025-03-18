@@ -128,7 +128,7 @@ DASBRs are floating, mobile platforms that typically incorporate Soundtrap and h
 :::
 ::: {.column width="30%"}
 
-![](/content/Hardware/images/DASBR.2.png){width=100%}
+![](/content/Hardware/images/DASBR.2.png)
 
 :::
 ::::::::::::::
