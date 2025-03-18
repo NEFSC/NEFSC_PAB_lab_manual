@@ -778,17 +778,17 @@
     "href": "content/FieldMethods/FieldMethods.html",
     "title": "Field Methods",
     "section": "",
-    "text": "NEFSC PAM deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered northern right whale protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972. Monitoring the population status of NARW is a top priority for the Protected Species Branch (PSB) at the Northeast Fisheries Science Center (NEFSC).",
+    "text": "NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered North Atlantic right whale protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972. Monitoring the population status of NARW is a top priority for NEFSC’s Protected Species Division (PSD).",
     "crumbs": [
       "Field Methods"
     ]
   },
   {
-    "objectID": "content/FieldMethods/FieldMethods.html#stellwagen-bank",
-    "href": "content/FieldMethods/FieldMethods.html#stellwagen-bank",
+    "objectID": "content/FieldMethods/FieldMethods.html#stellwagen-bank-national-marine-sanctuary-sbnms",
+    "href": "content/FieldMethods/FieldMethods.html#stellwagen-bank-national-marine-sanctuary-sbnms",
     "title": "Field Methods",
-    "section": "Stellwagen Bank",
-    "text": "Stellwagen Bank\n\nTurnaround: Every 6 months\n\nCharter: Auk\n\nTrip Duration: 1 day\n\nNumber of moorings: ~3\nStellwagen Bank protocols",
+    "section": "Stellwagen Bank National Marine Sanctuary (SBNMS)",
+    "text": "Stellwagen Bank National Marine Sanctuary (SBNMS)\n\nTurnaround: Every 6 months\n\nCharter: R/V Auk\n\nTrip Duration: 1 day\n\nNumber of moorings (as of 12/24): 3\nStellwagen Bank protocols",
     "crumbs": [
       "Field Methods"
     ]
@@ -798,7 +798,7 @@
     "href": "content/FieldMethods/FieldMethods.html#southern-new-england",
     "title": "Field Methods",
     "section": "Southern New England",
-    "text": "Southern New England\n\n\n\nTurnaround: 5 months\n\nCharter: Saints and Angels\n\nTrip duration: 5 - 6 days\n\nNumber of moorings: ~19\nS&E protocols\n\n\n Southern New England deployments are focused around Cox’s Ledge and Nantucket Shoals",
+    "text": "Southern New England\n\n\n\nTurnaround: 5 months\n\nCharter: F/V Saints and Angels\n\nTrip duration: 5 - 6 days\n\nNumber of moorings (as of 12/24): 19\nS&E protocols\n\n\n Southern New England deployments are focused around Cox’s Ledge and Nantucket Shoals",
     "crumbs": [
       "Field Methods"
     ]
@@ -808,7 +808,7 @@
     "href": "content/FieldMethods/FieldMethods.html#gulf-of-maine-offshore",
     "title": "Field Methods",
     "section": "Gulf of Maine (Offshore)",
-    "text": "Gulf of Maine (Offshore)\n\n\n\nTurnaround: 5 months\n\nCharter: Saints and Angels\n\nTrip Duration: 3 - 4 days\n\nNumber of moorings: ~12\nGOM protocols",
+    "text": "Gulf of Maine (Offshore)\n\n\n\nTurnaround: 5 months\n\nCharter: F/V Saints and Angels\n\nTrip Duration: 3 - 4 days\n\nNumber of moorings (as of 12/24): 12\nGOM protocols",
     "crumbs": [
       "Field Methods"
     ]
