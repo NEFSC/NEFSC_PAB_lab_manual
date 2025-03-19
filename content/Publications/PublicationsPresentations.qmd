@@ -1,5 +1,5 @@
 ---
-title: Publications, Media & Outreach
+title: Publications
 ---
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
@@ -417,13 +417,3 @@ Van Opzeeland, I., Kindermann, L., Boebel, O., & **Van Parijs, S.** 2008\. Insig
 2001  
 Corkeron, P. J. & **Van Parijs, S. M.** 2001\. Marine mammal migrations and movement patterns. In Steele, J. H., Turekian, K. K. & Thorpe, S. A. (eds). Encyclopedia of Ocean Sciences. Academic Press, London, pp. 1603 \- 1611\.  
 [https://doi.org/10.1016/B978-012374473-9.00442-2](https://doi.org/10.1016/B978-012374473-9.00442-2)
-
----
-
-### News/Media articles
-
-* [News & Media Monday board](https://noaa946264.monday.com/boards/6604516544)
-
-### Outreach
-
-* NEFSC [events](https://sites.google.com/noaa.gov/nefscportal/home)
