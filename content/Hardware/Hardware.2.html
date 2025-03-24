@@ -364,11 +364,11 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#surface-moored-platforms" id="toc-surface-moored-platforms" class="nav-link" data-scroll-target="#surface-moored-platforms">Surface-Moored Platforms</a>
   <ul class="collapse">
-  <li><a href="#moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" id="toc-moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" class="nav-link" data-scroll-target="#moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales">Moored Surface Buoy: Woods Hole Oceanographic Institution (Robots4whales)</a></li>
+  <li><a href="#moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales-mark-baumgartner" id="toc-moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales-mark-baumgartner" class="nav-link" data-scroll-target="#moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales-mark-baumgartner">Moored Surface Buoy: Woods Hole Oceanographic Institution (Robots4whales, Mark Baumgartner)</a></li>
   </ul></li>
   <li><a href="#mobile-platforms" id="toc-mobile-platforms" class="nav-link" data-scroll-target="#mobile-platforms">Mobile Platforms</a>
   <ul class="collapse">
-  <li><a href="#slocum-gliders-woods-hole-oceanographic-institution-robots4whales" id="toc-slocum-gliders-woods-hole-oceanographic-institution-robots4whales" class="nav-link" data-scroll-target="#slocum-gliders-woods-hole-oceanographic-institution-robots4whales">Slocum Gliders: Woods Hole Oceanographic Institution (Robots4whales)</a></li>
+  <li><a href="#gliders" id="toc-gliders" class="nav-link" data-scroll-target="#gliders">Gliders</a></li>
   <li><a href="#towed-array" id="toc-towed-array" class="nav-link" data-scroll-target="#towed-array">Towed Array</a></li>
   <li><a href="#dasbrs" id="toc-dasbrs" class="nav-link" data-scroll-target="#dasbrs">DASBRs</a></li>
   </ul></li>
@@ -403,20 +403,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="../../figs/infographics/NEFSC_specie_boat.png" class="img-fluid"></p>
-<p>The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM deployments often consist of co-located hardware to collect ancillary data about the ocean or provide mechanisms to recover the instruments.</p>
+<p>The NEFSC Passive Acoustic Branch uses a variety of passive acoustic recording platforms to monitor sounds in the ocean. PAM systems often consist of co-located hardware to collect multiple data types, ancillary data about the ocean, or provide mechanisms to recover the instruments.</p>
 <section id="bottom-mounted-mooring-components" class="level2">
 <h2 class="anchored" data-anchor-id="bottom-mounted-mooring-components">Bottom-Mounted Mooring components</h2>
-<p>Bottom-mounted moorings are most commonly used for continuous monitoring at single location, providing long-term time series for marine mammals, fish, soundscapes, and anthropogenic noise. Our bottom mounted recorders use VEMCO acoustic release mechanisms to prevent the need for benthic-to-surface vertical line. We use different mooring designs for our three field sites (refer to <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/FieldMethods.html">field methods</a> for more detail on mooring designs). Below is a list of our mooring hardware components, including our mooring’s primary components (Soundtrap, Fpods, VEMCOs) and auxiliary hardware.</p>
+<p>Bottom-mounted moorings are our most commonly used PAM methods for continuous monitoring at a single location, providing long-term time series for marine mammals, fish, soundscapes, and anthropogenic noise. Our bottom-mounted moorings use acoustic releases to prevent the need for benthic-to-surface vertical line. We use different mooring designs depending on our field sites (refer to <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/FieldMethods.html">field methods</a> for more detail on mooring designs). Below is a list of our mooring hardware components, including our mooring’s primary instruments (SoundTraps, F-PODs, VR2ARs) and auxiliary hardware.</p>
 <section id="primary-components" class="level3">
 <h3 class="anchored" data-anchor-id="primary-components">Primary components</h3>
 <section id="soundtrap-ocean-instruments" class="level4">
 <h4 class="anchored" data-anchor-id="soundtrap-ocean-instruments">SoundTrap: <a href="https://www.oceaninstruments.co.nz/product/soundtrap-st600-std-long-term-recorder/">Ocean Instruments</a></h4>
 <div class="columns">
 <div class="column" style="width:90%;">
-<p>PABs primary instrument due to relatively long battery life and large memory, and broad sampling rate. Typical deployments consist of 5 month recording at 48kHz providing data for most cetaceans, fish and soundscapes.</p>
+<p>PAB’s primary recorder due to relatively long battery life and large memory, and broad sampling rate. We typically record at 48kHz providing data for most cetaceans, fish and soundscapes. This sampling rate allows for deployments of about 5 months. SoundTraps also record the internal temperature every time a new sound file is saved.</p>
 <ul>
-<li><a href="https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing">Ocean Instruments SoundTrap guide</a><br>
-</li>
+<li><a href="https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing">Ocean Instruments SoundTrap guide</a></li>
+<li><a href="https://www.data.oceaninstruments.co.nz/endurance">SoundTrap endurance calculator</a></li>
 <li>Lab protocol link</li>
 </ul>
 </div><div class="column" style="width:10%;">
@@ -428,7 +428,7 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="f-pod-chelonia-wildlife-acoustic-monitoring">F-POD: <a href="https://www.chelonia.co.uk/f-pod/">Chelonia Wildlife Acoustic Monitoring</a></h4>
 <div class="columns">
 <div class="column" style="width:90%;">
-<p>F-PODs are a high-resolution click detector used to identify delphinids. The instrument is calibrated, has a long battery life and is an integrated product that records audio and automatically detects clicks.</p>
+<p>F-PODs are a high-frequency click detector used to detect echolocating odontocetes (dolphins and porpoises). The instrument is calibrated, has a long battery life (5 months with alkaline batteries, 8 months with Lithium batteries) and is an integrated product that records audio and automatically detects clicks. FPODs record temperature at a one minute interval.</p>
 <ul>
 <li>F-Pod protocol link</li>
 </ul>
@@ -437,11 +437,11 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="vemco-acoustic-telemetry-and-release-order-site---innovasea-vr2ar-acoustic-release-receiver" class="level4">
-<h4 class="anchored" data-anchor-id="vemco-acoustic-telemetry-and-release-order-site---innovasea-vr2ar-acoustic-release-receiver">VEMCO Acoustic Telemetry and Release (order site - <a href="https://www.innovasea.com/fish-tracking/products/acoustic-receivers/">InnovaSea</a>, VR2AR Acoustic Release Receiver)</h4>
+<section id="vr2ar-order-site---innovasea-acoustic-release-receiver" class="level4">
+<h4 class="anchored" data-anchor-id="vr2ar-order-site---innovasea-acoustic-release-receiver">VR2AR (order site - <a href="https://www.innovasea.com/fish-tracking/products/acoustic-receivers/">InnovaSea</a>, Acoustic Release Receiver)</h4>
 <div class="columns">
 <div class="column" style="width:90%;">
-<p>Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VEMCOs eliminates the need for surface buoys, mitigating whale entanglement risk. VEMCOs collect acoustic telemetry data, which is submitted to the Atlantic Cooperative Telemetry Network (<a href="https://theactnetwork.com/">ACT</a> / <a href="https://matos.asascience.com/">MATOS</a>).</p>
+<p>Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VR2ARs eliminates the need for surface buoys or vertical line, reducing whale entanglement risk. VR2ARs simultaneously collect acoustic telemetry data, which PAB submits to the Atlantic Cooperative Telemetry Network (<a href="https://theactnetwork.com/">ACT</a> / <a href="https://matos.asascience.com/">MATOS</a>). These instruments record temperature and depth at one hour intervals.</p>
 <ul>
 <li>VEMCO protocol link</li>
 </ul>
@@ -487,13 +487,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="surface-moored-platforms" class="level2">
 <h2 class="anchored" data-anchor-id="surface-moored-platforms">Surface-Moored Platforms</h2>
-<section id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales" class="level3">
-<h3 class="anchored" data-anchor-id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales">Moored Surface Buoy: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/moored-buoy/">Robots4whales</a>)</h3>
+<section id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales-mark-baumgartner" class="level3">
+<h3 class="anchored" data-anchor-id="moored-surface-buoy-woods-hole-oceanographic-institution-robots4whales-mark-baumgartner">Moored Surface Buoy: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/moored-buoy/">Robots4whales</a>, Mark Baumgartner)</h3>
 <div class="columns">
 <div class="column" style="width:90%;">
-<p>A WHOI-engineered quiet surface buoy specifically for acoustic applications. Data detection is delivered from DMON/LFDCS to a shore-side computer via Iridium satellite modem. DMON is the WHOI-built acoustic recorder that automatically runs <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier">LFDCS</a>. NEFSC PAM has one WHOI-designed surface buoy to monitor real-time species presence in a leased wind farm region.</p>
+<p>A quiet surface buoy engineered by WHOI for acoustic applications. These systems are designed for real-time data collection and transmission, and are fitted with the DMON (WHOI) acoustic recorders. Each DMON has the <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier">LFDCS</a> software (Baumgartner and Mussoline 2011) running and detecting for specific species and calls. LFDCS detections are delivered to a shore-side computer via Iridium satellite modem, and can be reviewed on the Robots4whales website. NEFSC collaborates with WHOI over several deployments, and monitors for near real-time detections of humpback, sei, fin, and North Atlantic right whales.</p>
 <ul>
-<li>Lab protocol</li>
+<li><a href="https://repository.library.noaa.gov/view/noaa/48671">LFDCS reference guide</a></li>
 </ul>
 </div><div class="column" style="width:10%;">
 <p><img src="../../content/Hardware/images/MOORED-BUOY.png" class="img-fluid" style="width:40.0%"></p>
@@ -503,11 +503,17 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="mobile-platforms" class="level2">
 <h2 class="anchored" data-anchor-id="mobile-platforms">Mobile Platforms</h2>
-<section id="slocum-gliders-woods-hole-oceanographic-institution-robots4whales" class="level3">
-<h3 class="anchored" data-anchor-id="slocum-gliders-woods-hole-oceanographic-institution-robots4whales">Slocum Gliders: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/slocum-glider/">Robots4whales</a>)</h3>
+<section id="gliders" class="level3">
+<h3 class="anchored" data-anchor-id="gliders">Gliders</h3>
+<ul>
+<li><em>Slocum Gliders: Woods Hole Oceanographic Institution (<a href="https://robots4whales.whoi.edu/platforms/slocum-glider/">Robots4whales</a>)</em></li>
+</ul>
 <div class="columns">
 <div class="column" style="width:70%;">
-<p>Slocum gliders are useful for passive acoustic monitoring, as they can glide silently through vast depth ranges for months at a time. Can self-navigate using GPS systems, and can communicate with researchers via Iridium communication sessions. Gliders are equipped with DMON, which is a WHOI-built acoustic recorder that automatically runs <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier">LFDCS</a>.</p>
+<p>A glider, or autonomous underwater vehicle (AUV), can be programmed to travel along a given trajectory. Gliders can be outfitted with many different instruments, including passive acoustic recording packages and DMON, which is a WHOI-built acoustic recorder that automatically runs <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier">LFDCS</a>. They are able to transmit data back in near real time using an iridium satellite or cellular link as well as storing the data on-board until it is retrieved. Slocum gliders are battery powered, which tend to travel up and down the water column in a vertical zig-zag, utilizing buoyancy and an on-board motor to maintain course.</p>
+<ul>
+<li><a href="https://repository.library.noaa.gov/view/noaa/48671">LFDCS reference guide</a></li>
+</ul>
 </div><div class="column" style="width:30%;">
 <p><img src="../../content/Hardware/images/SLOCUM-GLIDER.png" class="img-fluid" style="width:80.0%"></p>
 </div>
@@ -520,7 +526,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="towed-array">Towed Array</h3>
 <div class="columns">
 <div class="column" style="width:70%;">
-<p>A towed array is the acoustic sampling technique of dragging a recording device behind a moving ship, which usually allows the pairing of recording with visual ground-truthing. This method is particularly useful for pairing vocalizations with under-studied species.</p>
+<p>A towed array usually consists of a long electronic cable with a series of hydrophones and other sensors encompassed within it. Typically, they are towed horizontally behind a vessel and collect passive acoustic data in real time, but they can also be suspended vertically from a stationary mooring or vessel. The most simple array is a linear one in which all hydrophones are arranged in one plane (usually x) and therefore localization occurs in 2D, but there are also volumetric arrays, which have the hydrophones arranged in the x,y, and z planes for 3D localization. Using towed arrays on ship-board surveys are particularly useful for pairing vocalizations with under-studied species.</p>
 </div><div class="column" style="width:30%;">
 <p><img src="../../content/Hardware/images/SHIP-TOWED-ARRAY.png" class="img-fluid" style="width:80.0%"></p>
 </div>
@@ -533,7 +539,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="dasbrs">DASBRs</h3>
 <div class="columns">
 <div class="column" style="width:70%;">
-<p>DASBRs are floating, mobile platforms that typically incorporate Soundtrap and hydrophone components. DASBRs are typically deployed if Gervais’ beaked whales are sighted during offshore fieldwork. GPS will indicate location once the platform is ready to be retrieved.</p>
+<p>DASBRs (Drifting Acoustic Spar Buoy Recorders) are floating, mobile platforms that drift, typically incorporating a Soundtrap or other hydrophone components. DASBRs are typically deployed if Gervais’ beaked whales are sighted during offshore fieldwork. GPS will indicate location once the platform is ready to be retrieved.</p>
 <ul>
 <li><a href="https://docs.google.com/document/d/13FeiyPSnvGXLOZfFxmZceHb_1UlwR0YP/edit?tab=t.0">Lab Protocol</a></li>
 </ul>
@@ -547,7 +553,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="additional-hardware">Additional Hardware</h2>
 <section id="dipping-hydrophone" class="level3">
 <h3 class="anchored" data-anchor-id="dipping-hydrophone">Dipping Hydrophone</h3>
-<p>Dipping hydrophones are acoustic recorders that are attached to a rope and suspended in the water. NEFSC’s PAM group uses dipping hydrophones to opportunistically collect gray seal acoustic data.</p>
+<p>Dipping hydrophones are hydrophones that are attached to a cable and can be suspended in the water. NEFSC’s PAM group uses dipping hydrophones to opportunistically collect acoustic data when in the field near study species (i.e.&nbsp;when doing field work with the seal team near gray seal haul-out sites, or recording humpback whale song while sailing near calving grounds in the Caribbean).</p>
 <ul>
 <li><a href="https://docs.google.com/document/d/17L0CEr6XYmXnvDHzgUtjk7NDoLuuo8aQ/edit">Lab Protocol</a></li>
 </ul>
