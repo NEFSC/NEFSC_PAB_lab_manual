@@ -40,7 +40,7 @@ PAB’s primary recorder due to relatively long battery life and large memory, a
 F-PODs are a high-frequency click detector used to detect echolocating odontocetes (dolphins and porpoises). The instrument is calibrated, has a long battery life (5 months with alkaline batteries, 8 months with Lithium batteries) and is an integrated product that records audio and automatically detects clicks. FPODs record temperature at a one minute interval. 
 
 
-* F-Pod protocol link
+* F-Pod protocol link (in progress)
 
 :::
 ::: {.column width="10%"}
@@ -58,7 +58,7 @@ F-PODs are a high-frequency click detector used to detect echolocating odontocet
 Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VR2ARs eliminates the need for surface buoys or vertical line, reducing whale entanglement risk. VR2ARs simultaneously collect acoustic telemetry data, which PAB submits to the Atlantic Cooperative Telemetry Network ([ACT](https://theactnetwork.com/) / [MATOS](https://matos.asascience.com/)). These instruments record temperature and depth at one hour intervals. 
   
 
-* VEMCO protocol link
+* VEMCO protocol link (in progress)
 
 :::
 ::: {.column width="10%"}
@@ -114,13 +114,16 @@ A quiet surface buoy engineered by WHOI for acoustic applications. These systems
 
 ### Gliders
 
+* *Slocum Gliders: Woods Hole Oceanographic Institution ([Robots4whales](https://robots4whales.whoi.edu/platforms/slocum-glider/))*
+
 :::::::::::::: {.columns}
 ::: {.column width="70%"}
 
- **Slocum Gliders: Woods Hole Oceanographic Institution ([Robots4whales](https://robots4whales.whoi.edu/platforms/slocum-glider/))**
-
 A glider, or autonomous underwater vehicle (AUV), can be programmed to travel along a given trajectory. Gliders can be outfitted with many different instruments, including passive acoustic recording packages and DMON, which is a WHOI-built acoustic recorder that automatically runs [LFDCS](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html#low-frequency-detection-and-classification-system-lfdcs-baleen-whale-detector-and-classifier). They are able to transmit data back in near real time using an iridium satellite or cellular link as well as storing the data on-board until it is retrieved. Slocum gliders are battery powered, which tend to travel up and down the water column in a vertical zig-zag, utilizing buoyancy and an on-board motor to maintain course.
+
 * [LFDCS reference guide](https://repository.library.noaa.gov/view/noaa/48671)
+
+* Lab protocol (in progress)
 
 :::
 ::: {.column width="30%"}
@@ -130,7 +133,6 @@ A glider, or autonomous underwater vehicle (AUV), can be programmed to travel al
 :::
 ::::::::::::::
 
-* Lab protocol
 
 ### Towed Array 
 
