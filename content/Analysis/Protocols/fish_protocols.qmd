@@ -18,7 +18,7 @@ Cod grunt detector developed by Ildar Uzguralihiev and Annamaria DeAngelis
 Haddock CNN detector developed by Xavier Muoy
 
 * Makara detector code: PYTHON\_HADDOCK\_CNN  
-* Link to analysis protocol page
+* Link to analysis protocol page (unavailable, still in experimental phase)
 
 ## Haddock Kurtosis Detector
 
