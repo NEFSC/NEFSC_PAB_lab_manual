@@ -14,7 +14,7 @@ Larger cetacean species produce longer wavelength vocalizations at lower frequen
 :::
 ::::::::::::::
 
-The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each species. Reference [this link](https://drive.google.com/drive/folders/1lTdZP8YQdW5_KfhqMLb0Snl5h7s2_yvl) to access full acoustic event guides for each species.
+The following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each species. Reference [this link](https://drive.google.com/drive/folders/1lTdZP8YQdW5_KfhqMLb0Snl5h7s2_yvl) to access full acoustic event guides for each species. Acoustic guides are also linked for each species below. 
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -28,7 +28,7 @@ This is not meant to be comprehensive of all balaenidae repertoire’s.
 ::::::::::::::
 
 
-## **Blue whale**
+## [**Blue whale**](https://drive.google.com/file/d/1KTkA4J8UfTm1FSbRzZtu2vDysKOD7y5s/view)
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 **Scientific name**: *Balaenoptera musculus*  
@@ -72,7 +72,7 @@ archival data.
 ::::::::::::::
 
 
-## **Fin whale**
+## [**Fin whale**](https://drive.google.com/file/d/1XluOIyFXJRjGCE2sws_3AbrQgEgBYynm/view)
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 **Scientific name**: *Balaenoptera physalus*  
@@ -126,7 +126,7 @@ Branch only uses 20-Hz pulses for determining daily presence of fin whales in ou
 :::
 :::::::::::::::
 
-## **Humpback whale**
+## [**Humpback whale**](https://drive.google.com/file/d/1xwYm2XC2Ov6Ku0Er-kR0p-M7H-wEUTXE/view)
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -182,7 +182,7 @@ humpback whales in our archival data.
 </video>
 ![](/figs/Spec_images/Baleen/Humpback-calls/Humpback_competitionsounds.PNG){width=85%}
 
-## **Minke whale**
+## [**Minke whale**](https://drive.google.com/file/d/1txdzAyQhdZzL-AeB55tPdnlvWmNsfSiu/view)
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
@@ -226,7 +226,7 @@ presence of minke whales in our archival data collected in the western North Atl
 :::
 ::::::::::::::
 
-## **North Atlantic right whale**
+## [**North Atlantic right whale**](https://drive.google.com/file/d/1ZClXWjRIF4cQI3cRz44rZQZSMQIGldIV/view)
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 **Scientific name**: *Eubalaena glacialis*  
@@ -271,7 +271,7 @@ archival data.
 :::
 ::::::::::::::
 
-## **Sei whale**
+## [**Sei whale**](https://drive.google.com/file/d/1NWQe1pKgIXVfVJM1wbegzD6hIK0nGj6R/view)
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 **Scientific name**: *Balaenoptera borealis*  
