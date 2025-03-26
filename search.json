@@ -289,7 +289,7 @@
     "href": "content/Analysis/Species_list/Myst_list.html",
     "title": "Baleen Whales",
     "section": "",
-    "text": "Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to navigate). As larger species, baleen vocalizations tend to be low frequency and propogate far distances. Recent research has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can’t hear such low frequency sounds.\nThe following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each species. Reference this link to access full acoustic event guides for each species.",
+    "text": "Baleen whales (Mysticetes) consist of some of the largest marine mammals in the world. Although they do not echolocate like their odontocete relatives, they still produce a complex variety of sounds to communicate (and in some cases, to navigate). As larger species, baleen vocalizations tend to be low frequency and propogate far distances. Recent research has hypothesized that these properties additionally help baleen species evade predators such as killer whales, which can’t hear such low frequency sounds.\nThe following is a list of Mysticete species monitored by NEFSC Passive Acoustic Branch. Call types that are frequently used to detect specific acoustic events are listed under each species. Reference this link to access full acoustic event guides for each species. Acoustic guides are also linked for each species below.",
     "crumbs": [
       "Analysis",
       "Sound Source list",
@@ -846,16 +846,6 @@
     "title": "Home",
     "section": "NEFSC Passive Acoustic Branch Lab Manual",
     "text": "NEFSC Passive Acoustic Branch Lab Manual\nThe Passive Acoustic Branch (PAB) is part of the Protected Species Division of the NOAA Fisheries Northeast Fisheries Science Center. Our group uses passive acoustic monitoring (PAM) to study marine animals and ecosystems in the Northeast and Mid-Atlantic waters of the United States.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#pab-calendar",
-    "href": "index.html#pab-calendar",
-    "title": "Home",
-    "section": "PAB Calendar",
-    "text": "PAB Calendar",
     "crumbs": [
       "Home"
     ]
