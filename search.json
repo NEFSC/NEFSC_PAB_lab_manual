@@ -1500,7 +1500,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html",
     "href": "content/Analysis/Protocols/Odont_protocols.html",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "",
     "text": "Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs\n\nMakara detector code: FPOD_ODONTOCETE\n\nLink to analysis protocol page",
     "crumbs": [
@@ -1512,7 +1512,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html#fpod-odontocete-detector",
     "href": "content/Analysis/Protocols/Odont_protocols.html#fpod-odontocete-detector",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "",
     "text": "Odontocete detector for Narrowband High Frequency (NBHF) clicks produced by dolphins and porpoises recorded on FPODs\n\nMakara detector code: FPOD_ODONTOCETE\n\nLink to analysis protocol page",
     "crumbs": [
@@ -1524,7 +1524,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html#dfo-beaked-whale-detector",
     "href": "content/Analysis/Protocols/Odont_protocols.html#dfo-beaked-whale-detector",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "DFO Beaked Whale Detector",
     "text": "DFO Beaked Whale Detector\nBeaked whale detector developed at Fisheries and Oceans Canada; written by Wilfried Beslin, adapted from Baumann-Pickering et al. 2013\n\nMakara detector code: MATLAB_BEAKED_FIXED\n\nLink to analysis protocol page",
     "crumbs": [
@@ -1536,7 +1536,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html#banter-for-beaked-whales",
     "href": "content/Analysis/Protocols/Odont_protocols.html#banter-for-beaked-whales",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "Banter for Beaked Whales",
     "text": "Banter for Beaked Whales\nOpen-source machine learning BANTER acoustic classification of beaked whale echolocation pulses.\nRankin, S., Sakai, T., Archer, F. I., Barlow, J., Cholewiak, D., DeAngelis, A. I., … & Trickey, J. S. (2024). Open-source machine learning BANTER acoustic classification of beaked whale echolocation pulses. Ecological Informatics, 80, 102511.\n\n\nMakara detector code: R_BANTER_ML (double check this)\nResearch compendium\nGithub",
     "crumbs": [
@@ -1548,7 +1548,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html#alba-convolutional-neural-network-detector",
     "href": "content/Analysis/Protocols/Odont_protocols.html#alba-convolutional-neural-network-detector",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "Alba Convolutional Neural Network Detector",
     "text": "Alba Convolutional Neural Network Detector\nBeaked whale CNN detector written by Alba Solsona Berga\n\nMakara detector code: MATLAB_BEAKED_FIXED_ALBA_CNN\n\nLink to analysis protocol page",
     "crumbs": [
@@ -1560,7 +1560,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-click-detector",
     "href": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-click-detector",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "PAMGuard Odontocete Click Detector",
     "text": "PAMGuard Odontocete Click Detector\nDetector used for all odontocete clicks; see PAMguard’s Help documentation for details\n\nMakara detector code: PAMGUARD_ODONTOCETE_CLICK\n\nSperm whale protocols\n\nPAMGuard Sperm Whale detection/validation protocol for SoundTrap data\n\nPAMGuard Sperm Whale processing protocol for towed array data\n\n\nKogia protocols\n\nPAMGuard Kogia processing protocol for towed array data\n\n\nBeaked whale protocol\n\nPAMGuard Beaked whale processing for towed array data\n\n\nDolphin protocol\n\nDolphin classification methods BANTER\n\n\n\nPAMGuard’s Bearing-Time Display: used to identify odontocete clicks. Clicks appear as colorful dots, with those coming in from ahead of the array spanning angles 0-90, and those coming in from behind the array as 90-180.",
     "crumbs": [
@@ -1572,7 +1572,7 @@
   {
     "objectID": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
     "href": "content/Analysis/Protocols/Odont_protocols.html#pamguard-odontocete-and-baleen-whistle-and-moan-detector",
-    "title": "Odontecete Protocols",
+    "title": "Odontocete Protocols",
     "section": "PAMGuard Odontocete and Baleen Whistle and Moan Detector",
     "text": "PAMGuard Odontocete and Baleen Whistle and Moan Detector\nBasic tonal detector that can be used for odontocetes and baleen whales\n\nMakara detector code: PAMGUARD_WHISTLE_MOAN\n\nLink to analysis protocol page",
     "crumbs": [
