@@ -129,55 +129,9 @@ The final delphinid group is characterized by low frequency, high amplitude clic
 
 
 
-### *Broadband species*
+### Broadband & 30 - 50 kHz species
 
-#### [**Bottlenose dolphin**](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)
-
-**Scientific name**: *Turiops truncatus*  
-**Makara species code**: BODO
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-
-![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=100%}
-
-:::
-::: {.column width="3%"}
-
-:::
-::: {.column width="47%"}
-![](/figs/infographics/odont_noaafisheries/bottlenose_noaa.png){width=70%}
-:::
-::::::::::::::
-
-#### [**Common dolphin**](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)
-
-**Scientific name**: *Delphinus spp.*  
-**Makara species code**: SADO
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-
-![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=100%}
-
-::: {.callout-tip title=Note}
-Long-beaked and Short-beaked common dolphins cannot be differentiated acoustically
-
-:::
-
-:::
-::: {.column width="3%"}
-
-:::
-::: {.column width="47%"}
-
-![](/figs/infographics/odont_noaafisheries/short_beaked_noaa.png){width=70%}
-:::
-::::::::::::::
-
-### *30-50 kHz peak species*
-
-#### [**Atlantic spotted dolphin**](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)
+#### [Atlantic spotted dolphin](https://docs.google.com/document/d/1O8my2EB2bQawEeoMp_hAJD0dbOXeZWSSwj7J2AXV7VU/edit?usp=drive_link)
 
 **Scientific name**: *Stenella frontalis*  
 **Makara species code**: WSDO 
@@ -216,8 +170,52 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 :::
 ::::::::::::::
 
+#### [Bottlenose dolphin](https://docs.google.com/document/d/18-nsHSjZuczlsPL7T-s71eEX9mWtAgUDdzeuLAs5vjM/edit?usp=drive_link)
 
-#### [**Risso's dolphin**](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
+**Scientific name**: *Turiops truncatus*  
+**Makara species code**: BODO
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/bottlenose_dol_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+![](/figs/infographics/odont_noaafisheries/bottlenose_noaa.png){width=70%}
+:::
+::::::::::::::
+
+#### [Common dolphin](https://docs.google.com/document/d/1uY5mGhXhlmHuG7IofNmRibhJXvy2i9aDRLVH-8A9r5s/edit?usp=drive_link)
+
+**Scientific name**: *Delphinus spp.*  
+**Makara species code**: SADO
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](/figs/Spec_images/Odont/short_beaked_common_dol_spec.png){width=100%}
+
+::: {.callout-tip title=Note}
+Long-beaked and Short-beaked common dolphins cannot be differentiated acoustically
+
+:::
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="47%"}
+
+![](/figs/infographics/odont_noaafisheries/short_beaked_noaa.png){width=70%}
+:::
+::::::::::::::
+
+
+#### [Risso's dolphin](https://docs.google.com/document/d/1UpS5NgtaA7IpuwrNWRjkK9mA6nDYDmPvZGp5Yvg_R8Q/edit?usp=drive_link)
 
 **Scientific name**: *Grampus griseus*  
 **Makara species code**: GRAM  
@@ -238,7 +236,29 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 :::
 ::::::::::::::
 
-#### [**Striped dolphin**](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)
+#### Rough-toothed dolphin
+
+**Scientific name**: *Steno bredanesis*  
+**Makara species code**: RTDO  
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+![](/figs/Spec_images/Odont/Rough_toothed_spec.png){width=100%}
+
+:::
+::: {.column width="3%"}
+
+:::
+::: {.column width="37%"}
+
+![](/figs/infographics/odont_noaafisheries/Roughtoothed_noaa.png){width=80%}
+
+:::
+::::::::::::::
+
+
+#### [Striped dolphin](https://docs.google.com/document/d/1GbQseN1F6x8qVoXJZkQxPDyZnb1C8jerBjiE9Umn-R4/edit?usp=sharing)
 
 **Scientific name**: *Stenella coeruleoalba*  
 **Makara species code**: STDO  
@@ -260,7 +280,7 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 ::::::::::::::
 
 
-#### [**Spinner dolphin**](https://docs.google.com/document/d/1RvUttA4WqTZM3nuMlP_rKHTHrhF6OBzTm82CQa-txPM/edit?usp=drive_link)
+#### [Spinner dolphin](https://docs.google.com/document/d/1RvUttA4WqTZM3nuMlP_rKHTHrhF6OBzTm82CQa-txPM/edit?usp=drive_link)
 
 **Scientific name**: *Stenella longirostris*  
 **Makara species code**: SNDO  
@@ -284,7 +304,7 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 
 ### *Blackfish species*
 
-#### [**False killer whale**](https://docs.google.com/document/d/1SvsAjWpphojcxKE-nIDTVTrLTaqXXs4nmGHHGs8vPEk/edit?usp=drive_link)
+#### [False killer whale](https://docs.google.com/document/d/1SvsAjWpphojcxKE-nIDTVTrLTaqXXs4nmGHHGs8vPEk/edit?usp=drive_link)
 
 **Scientific name**: *Pseudorca crassidens*  
 **Makara species code**: FKWH
@@ -306,7 +326,7 @@ Long-beaked and Short-beaked common dolphins cannot be differentiated acoustical
 ::::::::::::::
 
 
-#### [**Pilot whale sp.**](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)
+#### [Pilot whale sp.](https://docs.google.com/document/d/1YZqd9g4_gWXkwyVaLpKDVLpGgDkQGbiOGkfLCzzWY8A/edit?usp=drive_link)
 
 **Scientific name**: *Globicephala spp.*  
 **Makara species code**: SFPW
@@ -376,7 +396,7 @@ Each beaked whale species in the Northeast Region have slightly different click 
 
 
 
-#### **Sowerby’s beaked whale**
+#### [Sowerby’s beaked whale](https://docs.google.com/document/d/1fzt4qKthATwvIeoa5tpAuxNa8YdhIJS79hBrDEWt1R0/edit?usp=sharing)
 
 **Scientific name**: *Mesoplodon bidens*  
 **Makara species code**: SOBW  
@@ -394,7 +414,7 @@ Each beaked whale species in the Northeast Region have slightly different click 
 :::
 ::::::::::::::
 
-#### **Blainville’s beaked whale**
+#### [Blainville’s beaked whale](https://docs.google.com/document/d/1CBKP7d4TKCwSBYdR8qxWlQwtbnl6vNteKib7Ym5UjsM/edit?usp=sharing)
 
 **Scientific name**: *Mesoplodon densirostris*  
 **Makara species code**: BLBW  
@@ -414,7 +434,7 @@ Each beaked whale species in the Northeast Region have slightly different click 
 
 
 
-#### **Gervais’ beaked whale**
+#### [Gervais’ beaked whale](https://docs.google.com/document/d/1m7JJLLo97au3pXitotAAWsBX9z0q2CygTXkDTH_n69E/edit?usp=sharing)
 
 **Scientific name**: *Mesoplodon europaeus*  
 **Makara species code**: GEBW  
@@ -433,7 +453,7 @@ Each beaked whale species in the Northeast Region have slightly different click 
 ::::::::::::::
 
 
-#### **True’s beaked whale**
+#### [True’s beaked whale](https://docs.google.com/document/d/1NYYAOxbIV8IPPkS_KWQn4AT9ywlYSZjoJGg5pjJyA5U/edit?usp=sharing)
 
 **Scientific name**: *Mesoplodon mirus*  
 **Makara species code**: TRBW  
@@ -451,7 +471,7 @@ Each beaked whale species in the Northeast Region have slightly different click 
 :::
 ::::::::::::::
 
-#### **Goose beaked whale**
+#### [Goose beaked whale](https://docs.google.com/document/d/1bpcA8_C_YivCNP4Dk2tKFUXws8y_w7oGNu4fC2JrmpA/edit?usp=sharing)
 
 **Scientific name**: *Ziphius cavirostris*  
 **Makara species code**: CUBW  
