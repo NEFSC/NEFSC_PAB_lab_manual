@@ -8,7 +8,6 @@ page-layout: full
 
 ### **Sofie Van Parijs, Ph.D.**
 
-she/her/hers\
 Chief, Passive Acoustics Branch\
 Northeast Fisheries Science Center\
 **Office:** (508) 495-2119\
@@ -31,7 +30,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Renea Briner**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Email:** [renea.briner\@noaa.gov](mailto:renea.briner@noaa.gov)
@@ -51,7 +49,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Kate Choate, MSc**
 
-she/her/hers\
 Research Biologist\
 Northeast Fisheries Science Center
 \
@@ -91,7 +88,6 @@ Relevant Links:\
 ::: {.column width="30%"}
 ### **Genevieve Davis, Ph.D.**
 
-she/her/hers\
 Research Acoustician\
 Northeast Fisheries Science Center\
 **Office:** (508) 495-2325
@@ -134,7 +130,6 @@ For a list of papers Annamaria has contributed to, please visit [OrcID](https://
 ::: {.column width="30%"}
 ### **Catherine Dodge**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Office:** (508) 955-0102\
@@ -152,7 +147,6 @@ Catherine Dodge works as an acoustician for the [Passive Acoustics Branch](https
 ::: {.column width="30%"}
 ### **Sophie Ferguson**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Email:** [sophie.ferguson\@noaa.gov](mailto:sophie.ferguson@noaa.gov)
@@ -171,7 +165,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Rhett Finley**
 
-he/him/his\
 Fishery Biologist Junior III (Affiliate)\
 Northeast Fisheries Science Center\
 **Office:** (918) 704-1936\
@@ -190,7 +183,7 @@ Relevant links:\
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
 ### **Isabella Garfield**
-she/her/hers\
+
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Email** [isabella.garfield\@noaa.gov](mailto:isabella.garfield@noaa.gov)
@@ -206,7 +199,6 @@ Bella Garfield received a Marine biology B.S. from the University of California 
 ::: {.column width="30%"}
 ### **Rochelle Gordon**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Office:** (508) 455-5942\
@@ -226,7 +218,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Paige Hanson**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Office:** (508) 216-0516\
@@ -243,7 +234,6 @@ Paige Hanson received a B.S. in Marine Science from Eckerd College in December 2
 ::: {.column width="30%"}
 ### **Samara Haver, Ph.D.**
 
-She/Her/Hers\
 Research Biologist\
 Northeast Fisheries Science Center\
 **Email:** [samara.haver\@noaa.gov](mailto:samara.haver@noaa.gov)
@@ -262,7 +252,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Amanda Holdman, MSc**
 
-she/her/hers\
 Acoustician\
 Northeast Fisheries Science Center\
 **Office:** (508) 233-8009\
@@ -284,7 +273,6 @@ Relevant Links:\
 ::: {.column width="30%"}
 ### **Hana Koilpillai**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Email:** [hana.koilpillai\@noaa.gov](mailto:hana.koilpillai@noaa.gov)
@@ -300,7 +288,6 @@ Hana earned a BS in Marine Science (Biology) and a BA in Animal Studies from Eck
 ::: {.column width="30%"}
 ### **Jessica McCordic, MSc**
 
-she/her/hers\
 Research Acoustician\
 Northeast Fisheries Science Center\
 **Office:** (508) 495-2396\
@@ -320,7 +307,6 @@ Relevant Links:\
 ::: {.column width="30%"}
 ### **Taiki Sakai**
 
-he/him/his\
 Software Developer\
 Northeast Fisheries Science Center\
 **Email:** [taiki.sakai\@noaa.gov](mailto:taiki.sakai@noaa.gov)
@@ -356,7 +342,6 @@ Relevant Links:\
 ::: {.column width="30%"}
 ### **Anne Smith**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Email:** [anne.smith\@noaa.gov](mailto:anne.smith@noaa.gov)
@@ -375,7 +360,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Lindsey Transue, MS**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Cell:** (865) 742-4011\
@@ -397,7 +381,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Rebecca Van Hoeck, PhD**
 
-she/her/hers\
 Research Biologist\
 Northeast Fisheries Science Center\
 **Email:** [rebecca.vanhoeck\@noaa.gov](mailto:rebecca.vanhoeck@noaa.gov)
@@ -416,7 +399,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Jeffrey Walker, PhD**
 
-he/him/his\
 Web Developer (Affiliate)\
 Northeast Fisheries Science Center\
 **Email:** [jeffrey.walker\@noaa.gov](mailto:jeffery.walker@noaa.gov)
@@ -434,7 +416,6 @@ For more information on his work, see Jeff's [Website](https://walkerenvres.com/
 ::: {.column width="30%"}
 ### **Annabel Westell, MSc**
 
-she/her/hers\
 Acoustician (Affiliate)\
 Northeast Fisheries Science Center\
 **Office:** (508) 251-9362\
@@ -454,7 +435,6 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Julianne Wilder, MAT**
 
-she/her/hers\
 Acoustician\
 Northeast Fisheries Science Center\
 **Office:** (508) 469-9332\
