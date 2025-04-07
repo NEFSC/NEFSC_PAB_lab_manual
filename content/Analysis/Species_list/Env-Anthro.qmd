@@ -6,23 +6,23 @@ NEFSC’s Passive Acoustic Branch (PAB) investigates underwater soundscapes and 
 
 ## **Environmental Sounds**
 
-### **Quiet Ocean (for reference)**
+#### Quiet Ocean (for reference)
 
 ![](/figs/Spec_images/Environmental/quiet_ocean.png){width=50%}
 
-### **Rain**
+#### Rain
 
 Makara code: RAIN
 
 ![](/figs/Spec_images/Environmental/Rain_spec2.png){width=50%}
 
-### **Thunder**
+#### Thunder
 
 Makara code: THLI
 
 ![](/figs/Spec_images/Environmental/thunder.png){width=50%}
 
-### **Earthquakes**
+#### Earthquakes
 
 Makara code: N/A
 
@@ -30,11 +30,11 @@ Makara code: N/A
 
 ## **Anthropogenic Sounds**
 
-### **Vessel**
+#### Vessel
 
 ![](/figs/Spec_images/Anthropogenic/Vessel_spec_2.jpg){width=50%}
 
-### High Resolution Geophysical (HRG) sounds 
+#### High Resolution Geophysical (HRG) sounds 
 High Resolution Geophysical (HRG) devices are used in surveys to map the seafloor for marine development. We are confident that HRG systems generated these sounds, based on the vessels and wind energy development in the area at the time of the recording.
 
 Ex. 1:  
@@ -47,7 +47,7 @@ Ex. 2
 
 - Spectrogram goes up to 32 kHz
 
-### **Echosounder**
+#### Echosounder
 
 Makara code: ECHO
 
@@ -55,7 +55,7 @@ Echosounders are used to measure water depth by measuring the time it takes for 
 
 ![](/figs/Spec_images/Anthropogenic/Echosounder_spec.gif){width=50%}
 
-### **Pile Driver**
+#### Pile Driver
 
 Makara code: PIDR
 
@@ -63,7 +63,7 @@ Pile driving is used to install structural columns for offshore construction, pr
 
 ![](/figs/Spec_images/Anthropogenic/Pile_driving.png){width=50%}
 
-### **Seismic Surveys**
+#### Seismic Surveys
 
 Makara code: OI-S
 
