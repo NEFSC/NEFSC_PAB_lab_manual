@@ -2,46 +2,71 @@
 title: Environmental and Anthropogenic sounds
 ---
 
-## Environmental Sounds
+NEFSC’s Passive Acoustic Branch (PAB) investigates underwater soundscapes and uses measurements of the soundscape to monitor for changes over time. Soundscapes include any sound contribution to an environment, including biological (reference our baleen, odontocete, fish/invert sound source pages for more detail on biological contributions to soundscapes), environmental, and anthropogenic sounds. The relative contributions of each of these types of sounds in  marine environments are shifting as vessel traffic and offshore development increases on a global scale (Duarte et al. 2021, Frisk 2012, Hatch et al. 2009, Halpern et al. 2015), making soundscape monitoring vital to understand how organisms are responding. See below for common environmental and anthropogenic sounds monitored by PAB. 
 
-### Rain
+## **Environmental Sounds**
 
-**Makara code:** RAIN
+### **Quiet Ocean (for reference)**
 
-![](/figs/Spec_images/Environmental/Rain_spec2.png){width=40%}
+![](/figs/Spec_images/Environmental/quiet_ocean.png){width=50%}
 
-### Thunder
+### **Rain**
 
-**Makara code:** THLI
+Makara code: RAIN
 
-![](/figs/Spec_images/Environmental/thunder.png){width=40%}
+![](/figs/Spec_images/Environmental/Rain_spec2.png){width=50%}
 
-### Earthquakes
+### **Thunder**
 
-**Makara code:** N/A
+Makara code: THLI
 
-![](/figs/Spec_images/Environmental/earthquake_spec.png){width=40%}
+![](/figs/Spec_images/Environmental/thunder.png){width=50%}
 
-### Quiet Ocean (for reference)
+### **Earthquakes**
 
-![](/figs/Spec_images/Environmental/quiet_ocean.png){width=40%}
+Makara code: N/A
 
-## Anthropogenic Sounds
+![](/figs/Spec_images/Environmental/earthquake_spec.png){width=50%}
 
-### Echosounder
+## **Anthropogenic Sounds**
 
-**Makara code:** ECHO
+### **Vessel**
 
-![](/figs/Spec_images/Anthropogenic/Echosounder_spec.PNG){width=20%}
+![](/figs/Spec_images/Anthropogenic/Vessel_spec_2.jpg){width=50%}
 
-### Pile Driver
+### High Resolution Geophysical (HRG) sounds 
+High Resolution Geophysical (HRG) devices are used in surveys to map the seafloor for marine development. We are confident that HRG systems generated these sounds, based on the vessels and wind energy development in the area at the time of the recording.
 
-**Makara code:** PIDR
+Ex. 1:  
+![](/figs/Spec_images/Anthropogenic/HRG1.png){width=50%}
 
-![](/figs/Spec_images/Anthropogenic/Pile_driving.png){width=40%}
+- Spectrogram goes up to 32 kHz
 
-### Seismic Surveys
+Ex. 2  
+![](/figs/Spec_images/Anthropogenic/HRG2.png){width=50%}
 
-**Makara code:** OI-S
+- Spectrogram goes up to 32 kHz
 
-![](/figs/Spec_images/Anthropogenic/Seis_blast_spec.PNG){width=20%}
+### **Echosounder**
+
+Makara code: ECHO
+
+Echosounders are used to measure water depth by measuring the time it takes for the echosounder pulse to reach the bottom of the ocean and return to the source of production (typically a vessel or autonomous vehicle).  
+
+![](/figs/Spec_images/Anthropogenic/Echosounder_spec.gif){width=50%}
+
+### **Pile Driver**
+
+Makara code: PIDR
+
+Pile driving is used to install structural columns for offshore construction, primarily to create a sturdy platform for marine development projects. Pile driving produces repetitive, broadband, high amplitude pulses.
+
+![](/figs/Spec_images/Anthropogenic/Pile_driving.png){width=50%}
+
+### **Seismic Surveys**
+
+Makara code: OI-S
+
+Seismic surveying is a technique used to investigate sub-surface composition by sending loud pulses of sound into the seafloor and recording refraction waves as they return to the receiver. This is mainly used to search for underground oil reserves.
+
+![](/figs/Spec_images/Anthropogenic/Seis_blast_spec.PNG){width=30%}
