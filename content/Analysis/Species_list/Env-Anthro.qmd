@@ -53,7 +53,7 @@ Makara code: ECHO
 
 Echosounders are used to measure water depth by measuring the time it takes for the echosounder pulse to reach the bottom of the ocean and return to the source of production (typically a vessel or autonomous vehicle).  
 
-![](/figs/Spec_images/Anthropogenic/Echosounder_spec.gif){width=50%}
+![](/figs/Spec_images/Anthropogenic/Echosounder_spec2.png){width=50%}
 
 #### Pile Driver
 
