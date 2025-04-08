@@ -10,6 +10,7 @@ title: Resources
 * [Presentation design](https://docs.google.com/presentation/d/1pIpPgTgRAqpfgMPNzWAWybKB3R1bhJEiWfgw6tlv9Xs/edit)  
   * NOAA presentation [template](https://docs.google.com/presentation/d/1MaVcP3j4PWKGdXcK3iVNiAH8-wIYRNLd/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
 * Self registration guide for [RPTS](https://docs.google.com/document/d/1cPRoAYOQKQuqowXA1i_44OAtUS-fw1c_/edit)
+* [PAM introduction](https://drive.google.com/drive/folders/1jYgAGED2ooW2tlUiCDwRQ2YrwfYPvUZX?usp=sharing) 
 
 ### NEFSC
 
@@ -20,7 +21,6 @@ title: Resources
   * CD390 [form](https://drive.google.com/file/d/1m9SY4L4v19ZFj5DKum1eYw9vDgqREWud/view?usp=drive_link)  
   * Contact email: [nefsc.wh.shop@noaa.gov](mailto:nefsc.wh.shop@noaa.gov)  
 * NEFSC [letterhead](https://docs.google.com/document/d/1qsl2P275GmtQoK-YWS4lWgJqyNDP5jW4/edit?usp=drive_link&ouid=116688690465000616014&rtpof=true&sd=true)  
-* NEFSC [Conference room booking](https://sites.google.com/noaa.gov/insidenefsc/calendars?authuser=0)  
 * WH Hurricane Plan info  
   * [Contacts for Hurricane Plan](https://docs.google.com/document/d/1-aD72xXutzpi3DjTLhPOHF438EewDlJX/edit) \- request access (contains sensitive staff info)  
   * Be put on the PSD Hurricane phone tree (for locals only)  
@@ -36,17 +36,14 @@ title: Resources
 * [Acronyms at NOAA](https://docs.google.com/spreadsheets/d/1uShi0joJFe1Ltm77Ttl6HIGzkWes2TWEmcICn4swH-E/edit?gid=0#gid=0)  
 * [WH facility access request form](https://docs.google.com/spreadsheets/d/1cguE1Yw6qs-YShNxjrawlp_rGSYrhFhj9EfrKnqmtqo/edit?gid=2034022407#gid=2034022407)  
 * [CAC Renewal](https://docs.google.com/document/d/1t0Pcf0PINxx5WkgV_GWGAKJB2Rd73g7-Ntz0uxEGTos/edit?tab=t.0#heading=h.anyz8w6xhgcx)   
-* [PAM introduction](https://drive.google.com/drive/folders/1jYgAGED2ooW2tlUiCDwRQ2YrwfYPvUZX?usp=sharing)  
 * [PSD shipping request](https://drive.google.com/file/d/1bi7JPOymFkWRacVaw82OjATudS8ISgC2/view?usp=sharing)  
 * [NEFCS-IT software request form](https://drive.google.com/file/d/1hG4Y2yKdL4ANwzlf8rnXJKLjxnwjrG7r/view?usp=sharing)  
 * [Federal Holidays](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/#url=2021)
 
 ### Professional Development
 
-* [Inside NEFSC learning courses](https://sites.google.com/noaa.gov/insidenefsc/learning)  
 * Join [Mindful NOAA](https://sites.google.com/noaa.gov/mindful-noaa-collaboration/home?authuser=0), if interested  
 * [NOAA Science seminars](https://www.star.nesdis.noaa.gov/star/NOAAScienceSeminarContributors.php)  
-* [Diversity and inclusion](https://sites.google.com/noaa.gov/insidenefsc/d-i?authuser=0)  
 * Join applicable listservs ([MARMAM](https://lists.uvic.ca/mailman/listinfo/marmam), etc)
 
 ## Woods Hole and Local Resources
@@ -89,4 +86,4 @@ Woods Hole Oceanographic Institution owns various residential properties in the 
 
 ![](/figs/Onboarding_images/parking.PNG)
 
-Highlighted parking lot space reserved for NEFSC employees. A parking pass is required and typically printed at the front desk upon proof of employment/approved visitation. Place the parking pass on the bottom left corner of your car windshield (inside). NEFSC has one main entrance (marked by orange star) and one side entrance (marked by red star). The parking lot is locked on weekends and federal holidays.  
+Highlighted parking lot space reserved for NEFSC employees. A parking pass is required and typically printed at the front desk upon proof of employment/approved visitation. Place the parking pass on the bottom left corner of your car windshield (inside). Note that long parking spaces are for double-parking, and requires personal information to be added to the NEFSC parking spreadsheet for coordination. The parking lot is locked on weekends and federal holidays.  

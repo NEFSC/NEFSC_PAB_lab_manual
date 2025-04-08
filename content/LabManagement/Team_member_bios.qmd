@@ -20,7 +20,7 @@ Northeast Fisheries Science Center\
 :::
 ::::::::::::::
 
-Sofie has a BA and MA in Natural Science from Cambridge University, UK and a PhD in Zoology from Aberdeen University, UK. She worked as a postdoctoral scientist at James Cook University, Australia, the Norwegian Polar Institute in Norway, and Cornell University, USA before starting the [passive acoustic research group](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) (now the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean)) here at the Northeast Fisheries Science Center in 2006.\
+Sofie has a BA and MA in Natural Science from Cambridge University, UK and a PhD in Zoology from Aberdeen University, UK. She worked as a postdoctoral scientist at James Cook University, Australia, the Norwegian Polar Institute in Norway, and Cornell University, USA before starting the [passive acoustic research group](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) (now the Passive Acoustics Branch) here at the Northeast Fisheries Science Center in 2006.\
 
 Relevant links:\
 [ResearchGate  ](https://www.researchgate.net/profile/Sofie-Van-Parijs)\
@@ -100,7 +100,7 @@ Northeast Fisheries Science Center\
 ![](/figs/Bio_pics/Genevieve.png){width=150}
 :::
 ::::::::::::::
-Genevieve has a BS from the State University of New York at Binghamton and a PhD from the University of Massachusetts Boston. She started working with the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) as a NOAA Hollings scholar in 2010, working on North Atlantic right whale calling behavior across seasons. She then returned to work with the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) as a research biologist focusing on baleen whale acoustics, distribution, and educational outreach. She now leads the baleen whale passive acoustic projects.\
+Genevieve has a BS from the State University of New York at Binghamton and a PhD from the University of Massachusetts Boston. She started working with the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) as a NOAA Hollings scholar in 2010, working on North Atlantic right whale calling behavior across seasons. She then returned to work with the Passive Acoustics Branch as a research biologist focusing on baleen whale acoustics, distribution, and educational outreach. She now leads the baleen whale passive acoustic projects.\
 
 Relevant Links:\
 [ResearchGate  ](https://www.researchgate.net/profile/Genevieve_Davis)\
@@ -193,7 +193,7 @@ Northeast Fisheries Science Center\
 ![](/figs/Bio_pics/Bella.jpg){width=150}
 :::
 :::::::::::::: 
-Bella Garfield received a Marine biology B.S. from the University of California Santa Cruz. Her research experience there included Hawaiian monk seal conservation, northern elephant seal biology, biological thermal imagery collection via drones, and coho salmon stress indicators in otoliths. Her senior thesis project analyzes fine-scale philopatry within the Año Nuevo northern elephant seal colony. She conducted her 2023 NOAA Hollings Scholarship project with NEFSC’s [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) characterizing the soundscape of Australia’s Southwest marine park. After graduation, Bella worked as a full time field technician collecting avian acoustic data in the Peruvian Amazon. She returned to the passive acoustic branch in 2024 to help build the lab’s regional and national manuals.
+Bella received a Marine biology degree from the University of California Santa Cruz. Her research experience there included Hawaiian monk seal conservation, northern elephant seal biology, biological thermal imagery collection via drones, and coho salmon stress indicators in otoliths. Her senior thesis project analyzes fine-scale philopatry within the Año Nuevo northern elephant seal colony. She conducted her 2023 NOAA Hollings Scholarship project with NEFSC’s [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) characterizing the soundscape of Australia’s Southwest marine park. After graduation, Bella worked as a full time field technician collecting avian acoustic data in the Peruvian Amazon. She returned to the passive acoustic branch in 2024 to support the lab's open-science integration. 
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -445,7 +445,7 @@ Northeast Fisheries Science Center\
 ![](/figs/Bio_pics/Julianne.png){width=150}
 :::
 ::::::::::::::
-Julianne has a BS in Zoology from Oregon State University and a Master of Arts in Teaching (MAT) from the University of Puget Sound. She began working for the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) as a [NOAA Hollings Scholar](https://www.noaa.gov/office-education/hollings-scholarship) in 2013, studying sperm whale acoustics and distribution. She later joined the group as an acoustic analyst focusing on baleen whale acoustics. In 2018, she returned to her home state of Washington to earn her MAT and taught high school Biology and Marine Biology before rejoining the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) in 2021 to conduct acoustic analysis informing baleen whale migratory patterns.
+Julianne has a BS in Zoology from Oregon State University and a Master of Arts in Teaching (MAT) from the University of Puget Sound. She began working for the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) as a [NOAA Hollings Scholar](https://www.noaa.gov/office-education/hollings-scholarship) in 2013, studying sperm whale acoustics and distribution. She later joined the group as an acoustic analyst focusing on baleen whale acoustics. In 2018, she returned to her home state of Washington to earn her MAT and taught high school Biology and Marine Biology before rejoining the Passive Acoustics Branch in 2021 to conduct acoustic analysis informing baleen whale migratory patterns.
 
 Relevant Links:\
 [LinkedIn  ](https://www.linkedin.com/in/julianne-wilder)\

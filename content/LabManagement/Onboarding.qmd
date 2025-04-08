@@ -10,15 +10,15 @@ This page has resources for recently hired employees and contractors.
 
 #### ITD setup
 
-To get your email and computer fully set up with ITD, follow the following steps. 
+To get your email and computer fully set up with ITD, follow the following steps. IT HelpDesk tickets can be submitted [here.](https://apps-st.fisheries.noaa.gov/jira/servicedesk/customer/portal/3) 
 
 1. **Create NOAA email:** Marija Grange sets this up between the new hire and ITD
 
 2. **Install needed software:** Check to see what is already in your Public Programs folder and contact Annamaria before submitting an ITD HelpDesk [ticket](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/2)
 
-3. **VPN access:** Send ITD HelpDesk [ticket](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/2) with subject line "WH- new hire VPN access requested"
+3. **VPN access:** Send ITD HelpDesk ticket with subject line "WH- new hire VPN access requested"
 
-4. **Remote desktop platform:** Send ITD HelpDesk [ticket](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/2) with subject line "WH- enable remote desktop (new hire in PA Group)"
+4. **Remote desktop platform:** Send ITD HelpDesk ticket with subject line "WH- enable remote desktop (new hire in PA Group)"
 
 5. **Add to PSD and NEFSC listservs:** New employees and contractors will be automatically added to groups based on routing codes
 
@@ -36,7 +36,7 @@ To get your email and computer fully set up with ITD, follow the following steps
 
 #### PAB trainings
 
-1. **Orientation/training protocols for new analysts:** Link to [NEFSC Baleen Whale (Acoustic) Analysis Training Google Drive](https://drive.google.com/drive/folders/1RCjeyheAep7viZuVY4wvJeAeB8Db3YoF?usp=drive_link). For more information on species analysis protocol, see [protocol page](https://docs.google.com/document/d/1nxQ_7ygBFKOt_64FJb0Pb_iv_yKwpWDy7Hr7JsbEnDA/edit?tab=t.0#heading=h.uf8kjssd59ba).
+1. **Orientation/training protocols for new analysts:** Link to [NEFSC Baleen Whale (Acoustic) Analysis Training Google Drive](https://drive.google.com/drive/folders/1RCjeyheAep7viZuVY4wvJeAeB8Db3YoF?usp=drive_link). For more information on species analysis protocol, see [protocol page](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html#analysis-protocols).
 
 
 2. [**Robots4whales**](https://robots4whales.whoi.edu/training-videos-2024/) **training videos:** LFDCS desktop and analysis training
@@ -44,7 +44,7 @@ To get your email and computer fully set up with ITD, follow the following steps
 ### Server access
 
 Server location: \\\\nefscdata\\PassiveAcoustics and \\\\nefscdata\\PassiveAcoustic\_soundfiles  
-Note: VPN connection required to access. If access issues arise, submit IT ticket with [NEFSC IT service desk](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/2). For more information on the lab's server, see [Server Structure](https://docs.google.com/document/d/1VxZ9pT2j1ylzHbp2VbaZNV3WVEpuYS_ZFzozmT1G850/edit?tab=t.0#heading=h.osvr2zx5u0le) page.
+Note: VPN connection required to access. If access issues arise, submit IT ticket with [NEFSC IT service desk](https://apps-st.fisheries.noaa.gov/jira/servicedesk/customer/portal/3). For more information on the lab's server, see [Server Structure](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PA_server_structure.html) page.
 
 #### PassiveAcoustics server vs. Google drive
 
