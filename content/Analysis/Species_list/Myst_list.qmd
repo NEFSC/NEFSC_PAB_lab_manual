@@ -10,6 +10,7 @@ Baleen whales (Mysticetes) consist of some of the largest marine mammals in the 
 Larger cetacean species produce longer wavelength vocalizations at lower frequencies. Sounds with longer wavelengths travel further in the ocean, allowing for long-distance communication (see right diagram). 
 :::
 ::: {.column width="40%"}
+
 ![Van Parijs et al 2021](/figs/infographics/frequency_info/Species_Detection_Ranges_Categories.png){width=100%}
 :::
 ::::::::::::::
