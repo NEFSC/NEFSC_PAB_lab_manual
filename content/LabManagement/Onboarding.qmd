@@ -14,7 +14,7 @@ To get your email and computer fully set up with ITD, follow the following steps
 
 1. **Create NOAA email:** Marija Grange sets this up between the new hire and ITD
 
-2. **Install needed software:** Check to see what is already in your Public Programs folder and contact Annamaria before submitting an ITD HelpDesk [ticket](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/2)
+2. **Install needed software:** Check to see what is already in your Public Programs folder and contact Annamaria before submitting an ITD HelpDesk ticket
 
 3. **VPN access:** Send ITD HelpDesk ticket with subject line "WH- new hire VPN access requested"
 
