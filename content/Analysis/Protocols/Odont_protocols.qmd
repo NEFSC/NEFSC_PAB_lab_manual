@@ -39,7 +39,6 @@ Detector used for all odontocete clicks; see [PAMguard's Help](https://www.pamgu
 * Makara detector code: PAMGUARD\_ODONTOCETE\_CLICK  
 * Sperm whale protocols  
   * [PAMGuard Sperm Whale detection/validation protocol for SoundTrap data](https://docs.google.com/document/d/1738gDvmxEc7OqcbQv4-IHLb3M4SXa-5LQd00Bf4lZxE/edit?tab=t.0)  
-  * [PAMGuard Sperm Whale processing protocol for towed array data](https://docs.google.com/document/d/1738gDvmxEc7OqcbQv4-IHLb3M4SXa-5LQd00Bf4lZxE/edit?tab=t.0)  
 * Kogia protocols
   * [PAMGuard Kogia processing protocol for towed array data](https://docs.google.com/document/d/12XRD66knm8X5niWNafroOcwuysr6dT7p/edit)  
 * Beaked whale protocol  

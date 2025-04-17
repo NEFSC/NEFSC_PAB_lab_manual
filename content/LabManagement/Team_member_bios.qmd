@@ -8,7 +8,6 @@ page-layout: full
 ### **Sofie Van Parijs, Ph.D.**
 
 Chief, Passive Acoustics Branch\
-Northeast Fisheries Science Center
 :::
 
 ::: {.column width="40%"}
@@ -28,7 +27,7 @@ Relevant links:\
 ### **Renea Briner**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
+
 :::
 
 ::: {.column width="40%"}
@@ -47,8 +46,7 @@ Relevant links:\
 ### **Kate Choate, MSc**
 
 Research Biologist\
-Northeast Fisheries Science Center\
-**Office:** (508) 603-6154\
+
 :::
 
 ::: {.column width="40%"}
@@ -64,7 +62,7 @@ Kate received her BA in Environmental Studies from Stonehill College in 2009 and
 ### **Genevieve Davis, Ph.D.**
 
 Research Acoustician\
-Northeast Fisheries Science Center\
+
 \
 :::
 
@@ -86,7 +84,6 @@ Relevant Links:\
 ### **Annamaria DeAngelis, MRes**
 
 Research Acoustician\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -104,7 +101,6 @@ For a list of papers Annamaria has contributed to, please visit [OrcID](https://
 ### **Catherine Dodge**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -138,7 +134,6 @@ Relevant links:\
 ### **Rhett Finley**
 
 Fishery Biologist Junior III (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -157,7 +152,6 @@ Relevant links:\
 ### **Isabella Garfield**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column widrh="40%"}
@@ -173,7 +167,6 @@ Bella received a Marine biology degree from the University of California Santa C
 ### **Rochelle Gordon**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -192,7 +185,6 @@ Relevant links:\
 ### **Paige Hanson**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -208,7 +200,6 @@ Paige Hanson received a B.S. in Marine Science from Eckerd College in December 2
 ### **Samara Haver, Ph.D.**
 
 Research Biologist\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -227,7 +218,6 @@ Relevant links:\
 ### **Amanda Holdman, MSc**
 
 Acoustician\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -248,7 +238,6 @@ Relevant Links:\
 ### **Hana Koilpillai**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -264,8 +253,6 @@ Hana earned a BS in Marine Science (Biology) and a BA in Animal Studies from Eck
 ### **Jessica McCordic, MSc**
 
 Research Acoustician\
-Northeast Fisheries Science Center\
-**Office:** (508) 495-2396\
 :::
 
 ::: {.column width="40%"}
@@ -284,7 +271,6 @@ Relevant Links:\
 ### **Taiki Sakai**
 
 Software Developer\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="\"40%"}
@@ -300,7 +286,6 @@ Taiki graduated from Harvey Mudd College in 2010 with a degree in Mathematics. H
 ### **Maricarmen Serna**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -319,7 +304,6 @@ Relevant Links:\
 ### **Anne Smith**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -338,7 +322,6 @@ Relevant links:\
 ### **Lindsey Transue, MS**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -359,7 +342,6 @@ Relevant links:\
 ### **Rebecca Van Hoeck, PhD**
 
 Research Biologist\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -378,7 +360,6 @@ Relevant links:\
 ### **Jeffrey Walker, PhD**
 
 Web Developer (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -396,7 +377,6 @@ For more information on his work, see Jeff's [Website](https://walkerenvres.com/
 ### **Annabel Westell, MSc**
 
 Acoustician (Affiliate)\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}
@@ -415,7 +395,7 @@ Relevant links:\
 ### **Julianne Wilder, MAT**
 
 Acoustician\
-Northeast Fisheries Science Center\
+
 :::
 
 ::: {.column width="40%"}
@@ -436,7 +416,6 @@ Relevant Links:\
 ### **Julia Zeh, Ph.D.**
 
 Research Biologist\
-Northeast Fisheries Science Center\
 :::
 
 ::: {.column width="40%"}

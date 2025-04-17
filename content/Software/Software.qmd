@@ -47,7 +47,7 @@ Utilizes Java 64-bit (version 11 or higher).
 
 #### Pypam
 
-Pypam facilitates processing of \*.wav files resulting from underwater acoustic deployments. It enables application of existing methods of acoustic data processing, and it allows the processing of several deployments with one line of code, so it is easy to create datasets to work with. Pypam is oriented to extracting features that can be used for machine learning algorithms or to the extraction of broad acoustic information in time-series (User [guide](https://lifewatch-pypam.readthedocs.io/en/latest/)). Pypam can be used via R. 
+Pypam facilitates processing of \*.wav files resulting from underwater acoustic deployments. It enables application of existing methods of acoustic data processing, and it allows the processing of several deployments with one line of code, so it is easy to create datasets to work with. Pypam is oriented to extracting features that can be used for machine learning algorithms or to the extraction of broad acoustic information in time-series. Pypam can be used via R. 
 
 * [Github](https://github.com/lifewatch/pypam)  
 * Pypam [quickstart](https://lifewatch-pypam.readthedocs.io/en/latest/quickstart.html)
@@ -56,7 +56,6 @@ Pypam facilitates processing of \*.wav files resulting from underwater acoustic 
 
 We use PAMGuide (Merchant et al. 2015\) to calculate long-term power spectra density (PSD), broadband sound pressure level (BB SPL), and third-octave levels (TOL). Typically, this is done for an entire deployment; however, shorter subsets of .wav files (e.g., daily or weekly) can also be used to analyze temporal differences within a single deployment. PAMGuide can be used via Matlab or R (see ‘Generic Softwares’).
 
-* [Protocol](https://docs.google.com/document/d/1eNSNsKjDF67Yq852hXbrhtqj8xmOy7Px/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
 * [Merchant et al. 2015](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12330)
 
 ### **Validation and Analysis tools**
