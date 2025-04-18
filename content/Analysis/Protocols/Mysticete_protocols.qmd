@@ -30,5 +30,5 @@ Atlantic minke whale pulse train binary ResNet18 deep neural network (DNN) detec
 
 * Makara detector code: PYTHON\_MINKE  
 * [Github](https://github.com/xaviermouy/minke-whale-detector)
-* [Quick guide(2023)](/content/Analysis/Protocols/Minke_detect_guide.pdf) 
-* [Quick guide(2024)](https://docs.google.com/document/d/1i-jMaF6213AuCxetyn8mAJk4InCWaEpkUzrYrxqDbkE/edit?tab=t.0) 
+* [Quick guide](https://drive.google.com/file/d/1kKJIwCX-FIGrSxiPiCfu2qXAbHmiqrXf/view?usp=sharing) 
+
