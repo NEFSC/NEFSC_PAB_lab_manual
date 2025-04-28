@@ -8,7 +8,7 @@ NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atl
 :::::::::::::: {.columns}
 ::: {.column width="65%"}
 
-We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank National marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
+We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank National Marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
 
 :::
 ::: {.column width="35%"}
