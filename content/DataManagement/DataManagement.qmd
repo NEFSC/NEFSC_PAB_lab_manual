@@ -8,4 +8,4 @@ page-layout: full
 
 Review 'Data Management' for specifics on how we process and store soundfile data. 
 
-![Workflow diagram for PAB's data processing workflow.](/figs/workflow-infographics/Data-workflow.png)
+![Workflow diagram for PAB's data processing workflow.](/figs/workflow-infographics/Data-workflow.jpeg)
