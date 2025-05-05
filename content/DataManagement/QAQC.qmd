@@ -11,7 +11,7 @@ The PAB lab performs QA/QC checks on all acoustic data prior to analyzing the da
 
 ## [R QA/QC Methods](https://docs.google.com/document/d/1WCzd0nXzmCgfMEmp9qwT4IPmMnMPt0hFaLRcmgnAbvE/edit?usp=sharing)
 
-These methods outline how to conduct QA/QC check in R using purpose written code by Taiki Sakai. The process consists of generating 4 QAQC output figures in R then manually reviewing this output using an interactive Shiny app. This process is currently set up to reference multiple deployments worth of data following the organizational structure of the NEFSC server. Other users can generate the 4 QAQC figures independently, then point to the appropriate file directory to use the Shiny App for interactive evaluation of the output figures. See below for details on these components.  
+These methods outline how to conduct QA/QC check in R using purpose written code by Taiki Sakai. The process consists of generating four QAQC output figures in R then manually reviewing this output using an interactive Shiny app. This process is currently set up to reference multiple deployments worth of data following the organizational structure of the NEFSC server. Other users can generate the four QAQC figures independently, then point to the appropriate file directory to use the Shiny App for interactive evaluation of the output figures. See below for details on these components.  
 
 ### Shiny App
 
@@ -38,7 +38,7 @@ The Temp Volt panel shows the temperature and voltage time series plots, if the 
 ![](/figs/QAQC/temp.png){width=70%}
 
 ## [Matlab QA/QC](https://docs.google.com/document/d/15kDYVLDNH-pv7mJYbGYjLvWRzQO1JYdEdYjLOZMIKto/edit?tab=t.0#heading=h.wifxlyz5ya)
-Currently, this process is tailored to Ocean Instruments SoundTrap 600s and includes two scripts executed in MATLAB that clip the start and end of the deployment to usable underwater data. Manual QAQC review is done through R (see protocol above). 
+Currently, this process is tailored to Ocean Instruments SoundTrap 600s and includes two scripts executed in MATLAB that clip the start and end of the deployment to usable underwater data. These scripts were the initial QAQC process that has been recently migrated to an open source format in R. Manual QAQC review is done through R (see protocol above). 
 
 ## [FPOD QA/QC Methods](https://docs.google.com/document/d/1XrVKMOZ2diuWAxvfFbuRDP2KQ2ii6of5FT_Z5GlPWsg/edit?usp=sharing)
 Overview of FPOD QA/QC methods with battery levels, frequency, and train species class outputs.
