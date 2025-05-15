@@ -1534,7 +1534,7 @@
     "href": "content/LabManagement/LabManagement.html#content",
     "title": "Lab Management",
     "section": "Content",
-    "text": "Content\nOur Lab Management section provides information on:\n\n\nPAB lab members and previous alumn\nOnboarding and offboarding protocols\nInformation on our Remote Desktop Computers, including CD#s and software lists for each computer\nInformation on our PassiveAcoustics Server\nStaff resources, NEFSC building access and wifi information, professional development and housing resources\nList of media featuring our work, including videos, podcasts, radio clips, webinars, and articles\n\nFor any information that needs to be updated/removed, please submit an issue by clicking ‘Report an issue’ on the top right corner of this page.",
+    "text": "Content\nThe PAB lab management pages include information about the people that make up the branch and resources related to day-to-day processes of the NEFSC, including onboarding, how information is stored and shared on the server, and links to examples of media engagement.\nFor any information that needs to be updated/removed, please submit an issue by clicking ‘Report an issue’ on the top right corner of this page.",
     "crumbs": [
       "Lab Management"
     ]
@@ -1544,7 +1544,7 @@
     "href": "content/LabManagement/LabManagement.html#relevant-links",
     "title": "Lab Management",
     "section": "Relevant links",
-    "text": "Relevant links\nNEFCS HomePort\n\nFY25 updates\nNEFSC Guidance",
+    "text": "Relevant links\nNEFCS HomePort: The intranet site for all guidance, training, and helpful information about the NEFSC.\n\nFY25 updates: Landing page that details all recent and ongoing FY25 changes\nNEFSC Guidance: Provides links to all relevant NEFSC administrative guidance including no-cost travel and timekeeping",
     "crumbs": [
       "Lab Management"
     ]
