@@ -6,7 +6,23 @@ page-layout: full
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
 ## Content
-Review 'Lab Management' for information on lab members/alumn, Onboarding protocols for new hires, RDC and server information, and additional logistics. 
+Our Lab Management section provides information on:\
+
+* PAB lab members and previous alumn
+* Onboarding and offboarding protocols
+* Information on our Remote Desktop Computers, including CD#s and software lists for each computer
+* Information on our PassiveAcoustics Server 
+* Staff resources, NEFSC building access and wifi information, professional development and housing resources
+* List of media featuring our work, including videos, podcasts, radio clips, webinars, and articles
 
 
 For any information that needs to be updated/removed, please submit an issue by clicking 'Report an issue' on the top right corner of this page. 
+
+## Relevant links
+
+
+[NEFCS HomePort](https://sites.google.com/noaa.gov/nefscportal/home?authuser=0)
+
+* [FY25 updates](https://sites.google.com/noaa.gov/nefscportal/fy2025-updates?authuser=0)
+
+* [NEFSC Guidance](https://sites.google.com/noaa.gov/nefscportal/nefsc-guidelines?authuser=0)
