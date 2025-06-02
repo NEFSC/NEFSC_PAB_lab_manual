@@ -10,7 +10,8 @@ title: Resources
 * [Presentation design](https://docs.google.com/presentation/d/1pIpPgTgRAqpfgMPNzWAWybKB3R1bhJEiWfgw6tlv9Xs/edit)  
   * NOAA presentation [template](https://docs.google.com/presentation/d/1MaVcP3j4PWKGdXcK3iVNiAH8-wIYRNLd/edit?usp=sharing&ouid=116688690465000616014&rtpof=true&sd=true)  
 * Self registration guide for [RPTS](https://docs.google.com/document/d/1cPRoAYOQKQuqowXA1i_44OAtUS-fw1c_/edit)
-* [PAM introduction](https://drive.google.com/drive/folders/1jYgAGED2ooW2tlUiCDwRQ2YrwfYPvUZX?usp=sharing) 
+* [PAM introduction](https://drive.google.com/drive/folders/1jYgAGED2ooW2tlUiCDwRQ2YrwfYPvUZX?usp=sharing)
+  * *See [this link](https://drive.google.com/drive/folders/1RCjeyheAep7viZuVY4wvJeAeB8Db3YoF) for baleen whale training protocols*
 
 ### NEFSC
 
