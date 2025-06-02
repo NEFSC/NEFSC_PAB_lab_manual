@@ -6,6 +6,10 @@ title: Publications
 
 # Published Articles
 
+## 2025
+
+**DeAngelis AI**, **Westell A**, Baumann-Pickering S, Bell J, Cholewiak D, Corkeron PJ, Soldevilla MS, Solsona-Berga A, Trickey JS, **Van Parijs SM** (2025) [Habitat utilization by beaked whales in the western North Atlantic Ocean using passive acoustics](https://doi.org/10.3354/meps14771). Mar Ecol Prog Ser 754:137-153
+
 ## 2024
 
 Delarue, J.J-Y., Moors-Murphy, H.B., Kowarski, K.A., Maxner, E.E., **Davis, G.E.**, Stanistreet, J.E., and Martin, S.B. 2024. [Acoustic occurrence of beaked whales off eastern Canada](https://doi.org/10.3354/esr01314), 2015-2017. Endangered Species Research, 53:439-466.\
