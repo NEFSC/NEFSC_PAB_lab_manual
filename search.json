@@ -787,7 +787,7 @@
     "href": "content/DataManagement/DataManagement.html#content",
     "title": "Data Management",
     "section": "Content",
-    "text": "Content\nReview ‘Data Management’ for specifics on how we process and store soundfile data.\n\n\n\nWorkflow diagram for PAB’s data processing workflow. Note: Data processing can be done on desktop or on the cloud. If data is processing in the cloud, then detection and review is continued on the cloud",
+    "text": "Content\nReview ‘Data Management’ for specifics on how we process and store soundfile data.\n\n\n\nWorkflow diagram for PAB’s data processing workflow. Note: Data processing can be done on desktop or on the cloud. If data is processing in the cloud, then detection and review is continued on the cloud\n\n\nFor more information getting set up on the cloud, see our PAM-SI Cloud project page.",
     "crumbs": [
       "Data Management"
     ]
