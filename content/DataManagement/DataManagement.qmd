@@ -9,3 +9,5 @@ page-layout: full
 Review 'Data Management' for specifics on how we process and store soundfile data. 
 
 ![Workflow diagram for PAB's data processing workflow. Note: Data processing can be done on desktop or on the cloud. If data is processing in the cloud, then detection and review is continued on the cloud](/figs/workflow-infographics/Data-workflow2.jpeg)
+
+For more information getting set up on the cloud, see our [PAM-SI Cloud project page](https://nmfs-ost.github.io/PAM-Cloud/).
