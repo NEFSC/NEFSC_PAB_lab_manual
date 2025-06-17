@@ -3,10 +3,10 @@ title: Field Methods
 ---
 
 
-NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered North Atlantic right whale (NARW) protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972. Monitoring the population status of NARWs is a top priority for NEFSC’s Protected Species Division (PSD).
-
 :::::::::::::: {.columns}
 ::: {.column width="65%"}
+
+NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered North Atlantic right whale (NARW) protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972. Monitoring the population status of NARWs is a top priority for NEFSC’s Protected Species Division (PSD).
 
 We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the U.S. Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank National Marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
 
@@ -14,7 +14,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 :::
 ::: {.column width="35%"}
 
-![](/content/FieldMethods/images/Fig.1.jpg)
+![](/content/FieldMethods/images/Fig.1.jpg){width=90%}
 
 :::
 ::::::::::::::
@@ -46,7 +46,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 - Turnaround every 5 months
 - Recommended for any locations shallower than 150m
 
-![Left: FPOD included. Right: FPOD not included](/content/FieldMethods/images/Shallowwatermooring.png){width=90%}
+![Left: FPOD included. Right: FPOD not included](/content/FieldMethods/images/Shallowwatermooring.png){width=70%}
 
 ## Deep Water Roped Mooring
 
@@ -58,7 +58,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 
 ## Reusable Weight, Roped Mooring
 
-![](/content/FieldMethods/images/Reusablemooring.png){width=50%}
+![](/content/FieldMethods/images/Reusablemooring.png){width=30%}
 
 ## Add Ons
 
