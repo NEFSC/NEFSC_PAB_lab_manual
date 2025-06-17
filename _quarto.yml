@@ -67,6 +67,11 @@ website:
             text: QA/QC
       - href: content/Hardware/Hardware.2.qmd
         text: Hardware
+      - section: content/FieldMethods/FieldMethods.qmd
+        text: Field Methods
+        contents:
+          - href: content/FieldMethods/NEFSCTrips.qmd.qmd
+            text: NEFSC Trips
       - href: content/Software/Software.qmd
         text: Software
       - section: content/Analysis/Analysis.qmd
@@ -100,8 +105,6 @@ website:
                 text: Anthropogenic 
            #   - href: content/Analysis/Protocols/AMP_protocols.qmd
            #    text: Australia Marine Park 
-      - href: content/FieldMethods/FieldMethods.qmd
-        text: Field Methods
       - href: content/Reporting/Reporting.qmd
         text: Reporting
       - href: content/Publications/PublicationsPresentations.qmd
