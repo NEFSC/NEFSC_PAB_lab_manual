@@ -46,7 +46,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 - Turnaround every 5 months
 - Recommended for any locations shallower than 150m
 
-![Left: FPOD included. Right: FPOD not included](/content/FieldMethods/images/Shallowwatermooring.png){width=70%}
+![Left: FPOD included. Right: FPOD not included](/content/FieldMethods/images/Shallowwatermooring.png){width=60%}
 
 ## Deep Water Roped Mooring
 
