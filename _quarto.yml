@@ -70,7 +70,7 @@ website:
       - section: content/FieldMethods/FieldMethods.qmd
         text: Field Methods
         contents:
-          - href: content/FieldMethods/NEFSCTrips.qmd.qmd
+          - href: content/FieldMethods/NEFSCTrips.qmd
             text: NEFSC Trips
       - href: content/Software/Software.qmd
         text: Software
