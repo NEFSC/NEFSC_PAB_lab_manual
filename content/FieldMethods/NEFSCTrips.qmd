@@ -2,36 +2,36 @@
 title: "NEFSC Trips"
 ---
 
-# Regional Trips
+## Regional Trips
 
-## Stellwagen Bank National Marine Sanctuary (SBNMS)
+### Stellwagen Bank National Marine Sanctuary (SBNMS)
 
 - Charter: R/V Auk
 - Trip duration: 1 day
 - Moorings used: TOSSITS
 
-## Southern New England
+### Southern New England
 
 - Charter: F/V Saints and Angels
 - Trip duration: 5 - 6 days
 - Moorings used: Shallow water roped mooring
 
 
-## Gulf of Maine
+### Gulf of Maine
 
 - Charter: F/V Saints and Angels
 - Trip duration: 3 - 4 days
 - Moorings used: Deep water roped mooring
 
-## Mid-Altantic
+### Mid-Altantic
 - Fieldwork contracted to HDR ℅ Amy Englehaupt
 - Turnaround every 5 months
 - Mooring used: Shallow water roped mooring
 
 
-# Stock Assessment Surveys
+## Stock Assessment Surveys
 
-## Atlantic Marine Assessment Program for Protected Species \- AMAPPS 
+### Atlantic Marine Assessment Program for Protected Species \- AMAPPS 
 
 AMAPPS surveys are a multi-agency effort aimed at assessing abundance, distribution, ecology, and behavior of marine mammals, sea turtles, and seabirds throughout the U.S. Atlantic. NEFSC PAM researchers participate in AMAPPS surveys using towed array sampling methods. Using a towed array involves towing recording devices behind a ship and matching acoustic analysis with real-time on-deck visual observers for ground-truthing purposes. The towed array can collect species presence when whales are under water and unavailable to the observers, and during periods of inclement weather (e.g. rain, fog), extending survey efforts. Combining data collected from both the towed array and from the observers allows for a more holistic and comprehensive picture of species distribution and abundance in our offshore regions. For more information on the AMAPPS effort, see NOAA’s [AMAPPS page](https://www.fisheries.noaa.gov/new-england-mid-atlantic/population-assessments/atlantic-marine-assessment-program-protected). 
 
