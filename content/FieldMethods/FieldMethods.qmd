@@ -3,94 +3,77 @@ title: Field Methods
 ---
 
 
-NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered North Atlantic right whale protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972\. Monitoring the population status of NARW is a top priority for NEFSC's Protected Species Division (PSD). 
-
 :::::::::::::: {.columns}
 ::: {.column width="65%"}
 
-We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank National Marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
+NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered North Atlantic right whale (NARW) protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972. Monitoring the population status of NARWs is a top priority for NEFSC’s Protected Species Division (PSD).
+
+We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the U.S. Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank National Marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
+
 
 :::
 ::: {.column width="35%"}
 
-![](/content/FieldMethods/images/Fig.1.jpg)
+![](/content/FieldMethods/images/Fig.1.jpg){width=90%}
 
 :::
 ::::::::::::::
 
 
-## Stellwagen Bank National Marine Sanctuary (SBNMS)
+# Resources
+- [Gear packing list](https://docs.google.com/spreadsheets/d/1eCin8Y0synjI7qPbxX_ndrI5NSTYsI1GNnIVHEbBJBE/edit?gid=0#gid=0)
+- [Deployment sheets](https://drive.google.com/drive/folders/1nRNsvsgmjJVA9ZmPHHm9_8rONzDrefNB)
+- [Vessel charter options](https://docs.google.com/document/d/1Zz1E6QKM86jXV7YVJYUFVrWFUQVqehJb/edit?tab=t.0#heading=h.gjdgxs)
+- [Itemized ordering guide](https://docs.google.com/spreadsheets/d/1Pf47SkeEOEiDS5JJOVBxv6ATmUowhvC3/edit?usp=sharing&ouid=103428992879595090246&rtpof=true&sd=true)
+- [PAM deployment maps](https://drive.google.com/drive/folders/1VLiR_KPRbLeRLfITrYkQ-BmpkMYn36Y2?usp=drive_link)
 
-:::::::::::::: {.columns}
-::: {.column width="80%"}
+# Moorings
 
-- Turnaround: Every 6 months  
-- Charter: R/V Auk   
-- Trip Duration: 1 day  
-- Number of moorings (as of 12/24): 3
-- Stellwagen Bank protocols
+*SoundTraps referenced in the following guides are [ST600s](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.2.html#bottom-mounted-mooring-components). As a general rule of thumb, check manufacturer manuals for further detail as specs vary between SoundTrap models. The following mooring diagrams are intended to be guides.*
 
-:::
-::: {.column width="20%"}
+## Tossits
 
-#### Mooring design
-
-![](/content/Hardware/images/Tossit_deployment.jpg){width=90%}
-
-:::
-::::::::::::::
-
-## Southern New England
+- Utilizes VEMCO acoustic release and anchor line spool for system retrieval
+- Turnaround every 6 months
 
 
-- Turnaround: 5 months  
-- Charter: F/V Saints and Angels  
-- Trip duration: 5 \- 6 days  
-- Number of moorings (as of 12/24): 19
-- S&E protocols
+![](/content/FieldMethods/images/Soundtrapdiagram.png){width=50%}
 
-:::::::::::::: {.columns}
-::: {.column width="50%"}
 
-#### Mooring design
+## Shallow Water Roped Mooring
 
-![](/content/Hardware/images/MA-RI.Mooring.png)
+- Low profile mooring consisting of 11” float and two 35lb weights.
+- Turnaround every 5 months
+- Recommended for any locations shallower than 150m
 
-:::
-::: {.column width="50%"}
+![Left: FPOD included. Right: FPOD not included](/content/FieldMethods/images/Shallowwatermooring.png){width=60%}
 
-#### Deployment location
+## Deep Water Roped Mooring
 
-![](/content/FieldMethods/images/Fig.2.jpg)
-*Southern New England deployments are focused around Cox’s Ledge and Nantucket Shoals*
+- More robust structure consisting of 14” trawl float and 2 75lb weights
+- Turnaround every 5 months
+- Recommended for locations 150 - 350m depth
 
-:::
-::::::::::::::
+![](/content/FieldMethods/images/deepwatermooring.jpg){width=50%}
 
-## Gulf of Maine (Offshore)
+## Reusable Weight, Roped Mooring
 
-- Turnaround: 5 months  
-- Charter: F/V Saints and Angels  
-- Trip Duration: 3 \- 4 days  
-- Number of moorings (as of 12/24): 12
-- GOM protocols
+![](/content/FieldMethods/images/Reusablemooring.png){width=30%}
 
-:::::::::::::: {.columns}
-::: {.column width="50%"}
+## Add Ons
 
-#### Mooring design
+- FPODS are occasionally incorporated into mooring assembly to collect high-frequency odontocete click data.
+- Deep FPODs used for depths between 175 - 2000m
+- Include a pressure relief valve for SoundTraps between 200 - 500m depth (max).
 
-![](/content/Hardware/images/GOM.mooring.jpg)
 
-:::
-::: {.column width="50%"}
+## Mooring Best Practices
 
-#### Deployment location
+### Floats
 
-![](/content/FieldMethods/images/Fig.3.jpg)
-:::
-::::::::::::::
+- Goldilocks zone: floats must be buoyant enough to keep mooring upright, but minimize surface area to avoid downward forces acted upon by currents
+- For deepwater buoys, consider floats that would bring mooring to the surface quickly - if the mooring floats the surface too slowly, currents could push the mooring away from the vessel and make retrieval difficult. 
 
-# Atlantic Marine Assessment Program for Protected Species \- AMAPPS 
+### I-beams vs. plate weights
+- I beams and plate weights are interchangeable: I beams are more affordable, provide vertical structure that digs into the ground and provides support against currents
 
-AMAPPS surveys are a multi-agency effort aimed at assessing abundance, distribution, ecology, and behavior of marine mammals, sea turtles, and seabirds throughout the U.S. Atlantic. NEFSC PAM researchers participate in AMAPPS surveys using **towed array** sampling methods. Using a towed array involves dragging recording devices behind a ship and matching acoustic analysis with real-time on-deck visual observers for ground-truthing purposes. For more information on the AMAPPS effort, see NOAA’s [AMAPPS page](https://www.fisheries.noaa.gov/new-england-mid-atlantic/population-assessments/atlantic-marine-assessment-program-protected). 

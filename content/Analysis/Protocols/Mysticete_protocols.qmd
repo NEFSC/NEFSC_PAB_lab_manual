@@ -2,6 +2,8 @@
 title: Baleen Protocols
 ---
 
+*See [this link](https://drive.google.com/drive/folders/1RCjeyheAep7viZuVY4wvJeAeB8Db3YoF) for training protocols*
+
 ## Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier
 
 Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see [Baumgartner and Mussoline 2011](https://www.researchgate.net/publication/51123050_A_generalized_baleen_whale_call_detection_and_classification_system)

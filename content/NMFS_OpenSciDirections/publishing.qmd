@@ -6,7 +6,7 @@ To get your Quarto webpage to show up with the url
 ```
 yourname.github.io/yourrepo
 ```
-you have a few steps.
+you have a few steps. 
 
 ## Turn on GitHub Pages for your repo
 
