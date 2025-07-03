@@ -13,7 +13,9 @@ For more information on detectors, see [Analysis protocol](https://nefsc.github.
 
 Low-frequency tonal detector for baleen whales; written by Mark Baumgartner, see [Baumgartner and Mussoline 2011](https://www.researchgate.net/publication/51123050_A_generalized_baleen_whale_call_detection_and_classification_system)
 
-* Reference [guide](https://dcs.whoi.edu/resources/LFDCS%20Reference%20Guide%20-%20Version%201.3.pdf) includes instructions for installing the desktop version of the LFDCS and the fundamentals of that program: the generation of pitch tracks (contour lines that trace tonal sounds), building and managing a call library, browsing/exporting autodetections and analysis results, and species-specific analysis protocols.
+* Reference [guide](https://repository.library.noaa.gov/view/noaa/48671) includes instructions for installing the desktop version of the LFDCS and the fundamentals of that program: the generation of pitch tracks (contour lines that trace tonal sounds), building and managing a call library, browsing/exporting autodetections and analysis results, and species-specific analysis protocols.
+
+* Training [videos](https://robots4whales.whoi.edu/about/resources/) walk the user through the LFDCS algorithm, research applications, and the main programs. The LFDCS 2.0 [video](https://www.youtube.com/watch?v=T_ECz-bshmM) provides instructions for running the main programs using the new LFDCS 2.0 graphical user interface (GUI) which can be installed on a Windows, Mac, or Linux computer with an IDL 9.0 runtime license.
 
 #### PAMguard
 
