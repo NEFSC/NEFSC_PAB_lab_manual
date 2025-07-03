@@ -2,8 +2,76 @@
 title: Lab Safety
 ---
 
-## Battery disposal
+# Acids and Flammable materials
+
+- All acids and flammable materials should go in the flammables locker in the High Bay (For PAB, our items are stored on the top right shelf).
+
+# Soldering
+
+- In the event that soldering occurs in our lab, no food or drink is allowed during the time period that soldering occurs
+- Trash from soldering should be placed in a separate bag and brought to Amy Johnson for proper disposal
+
+# Lithium-ion Batteries
+
+See NOAA's complete SOP here: [NOAA Standard Operating Procedure: Management and Storage of Lithium-Ion Batteries in the Laboratory](/content/LabManagement/Lithium-ions.pdf) (Last updated 5/29/25)
+
+#### Procurement and Inventory:
+  
+ - Maintain an inventory of all lithium-ion batteries in use or storage within the laboratory. Include details such as type, voltage, and quantity.
+ - Purchase batteries from reputable suppliers
+      
+#### Safe Handling and Use:
+
+  - Use only charger specifically designed for the battery being charged.
+  - Do not overcharge batteries. Disconnect them from the charger once fully charged.
+  - Avoid physical damage to batteries (punctures, crushing, dropping).
+  - Do not expose batteries to extreme temperatures (high or low).
+   - Monitor batteries during charging and use for any signs of overheating, swelling or leakage. 
+      
+#### Storage
+
+  - **Preferred Method:** Store lithium-ion batteries in **non-conductive containers** and ideally within **fire-resistant cabinets or lockers** specifically designed for flammable materials. 
+    - If flammable storage lockers are not immediately available for all batteries, store them:
+       - In a cool, dry, and well ventilated area.
+       - Away from flammable materials.
+       - In non-conductive containers to prevent short circuits.
+       - Use **burn-proof bags or cases** as an additional layer of safety within the storage area.
+    - Store batteries with a charge level between 30-50% for long-term storage, if feasible.
+    - Damaged or defective batteries should be segregated immediately in a non-flammable, non-conductive container and labeled clearly as "Damaged - Do Not Use" pending proper disposal.
+    - Batteries and other solid material **cannot** be stored in the same cabinet with liquid flammable materials
+    
+#### Emergency Procedures:
+
+  - **Overheating/Smoke:** If a battery begins to overheat, smoke, or swell, immediately move it to a safe, non-combustible location if it is safe to do so.
+    - **Fire:**
+      - Activate fire alarm.
+      - Evacuate the area.
+      - Report the incident to your supervisor and the ESOH Office immediately.
+       
+  - **Leakage:** Avoid contact with any leaking electrolyte. Wear appropriate personal protective equipment (PPE), such as gloves and eye protection. Contain the leak with inert material (e.g., sand, vermiculite) and contact the ESOH Office for proper cleanup and disposal procedures.
+    
+#### Disposal
+
+  - Do not dispose of lithium-ion batteries in regular trash.
+  - Follow the Northeast Science Center's procedures for waste disposal:
+  
+     1) Place each battery or device containing a battery in a separate plastic bag. 
+          
+     2) Place non-conductive tape (e.g., electrical tape) over the battery’s terminals. 
+         
+     3) If the battery is damaged, put it aside and immediately and contact SECO, who will in turn contact the battery or device manufacturer for specific handling information. 
+          
+     4) If there is no obvious damage to the battery, label it as “Universal Waste Lithium-Ion Battery,” and bring it to the Universal Waste Collection Area.
+          
+     5) Heed battery and product markings regarding safety and use.
+
+
+#### Universal Waste Collection Area
 
 Recycled batteries are put in the aquarium gear shed under the stairs, and added to the universal waste log. 
 
 ![](/figs/Safety/batteries.jpg){width=30%}
+
+#### Training:
+
+- All personnel who handle and store lithium-ion batteries must receive training on this SOP and the associated hazards.
