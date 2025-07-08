@@ -7,7 +7,7 @@ page-layout: full
 
 ### Detectors and Classifiers
 
-For more information on detectors, see [Analysis protocol](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html) pages
+For more information on how we use detectors, see [Analysis protocol](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html) pages
 
 #### Low-Frequency Detection and Classification System (LFDCS) Baleen Whale Detector and Classifier
 
