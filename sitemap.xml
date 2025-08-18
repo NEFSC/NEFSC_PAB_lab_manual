@@ -2,226 +2,234 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/index.html</loc>
-    <lastmod>2025-07-31T20:33:27.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Home/Homeslides.html</loc>
-    <lastmod>2025-07-31T20:33:26.527Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/PA_soundfiles.html</loc>
-    <lastmod>2025-07-31T20:33:26.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/DataManagement.html</loc>
-    <lastmod>2025-07-31T20:33:26.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/Data Repositories.html</loc>
-    <lastmod>2025-07-31T20:33:26.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html</loc>
-    <lastmod>2025-07-31T20:33:26.694Z</lastmod>
+    <lastmod>2025-08-18T14:41:16.468Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Publications/PublicationsPresentations.html</loc>
-    <lastmod>2025-07-31T20:33:26.530Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/Intro.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/code.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/publishing.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Onboarding.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Resources.2.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Inventory.html</loc>
-    <lastmod>2025-07-31T20:33:26.527Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PAB-alumn.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Media.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/Fieldwork.html</loc>
-    <lastmod>2025-07-31T20:33:26.454Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/NEFSCTrips.html</loc>
-    <lastmod>2025-07-31T20:33:26.454Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html</loc>
-    <lastmod>2025-07-31T20:33:26.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/AMP_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/fish_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Mysticete_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Pinniped_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.375Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Undefined.html</loc>
-    <lastmod>2025-07-31T20:33:26.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Odont_list_tables.html</loc>
-    <lastmod>2025-07-31T20:33:26.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Env-Anthro.html</loc>
-    <lastmod>2025-07-31T20:33:26.379Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Myst_list.html</loc>
-    <lastmod>2025-07-31T20:33:26.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/beaked-whale/BWG.html</loc>
-    <lastmod>2025-07-31T20:33:26.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Environmental and Anthropogenic sounds.html</loc>
-    <lastmod>2025-07-31T20:33:26.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Odont_list.html</loc>
-    <lastmod>2025-07-31T20:33:26.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Species list and call types V.2.html</loc>
-    <lastmod>2025-07-31T20:33:26.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Fish.html</loc>
-    <lastmod>2025-07-31T20:33:26.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Pinniped.html</loc>
-    <lastmod>2025-07-31T20:33:26.389Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.634Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_analysis_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.378Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Anthro_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Pinniped.2.html</loc>
-    <lastmod>2025-07-31T20:33:26.375Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.482Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Odont_protocols.html</loc>
-    <lastmod>2025-07-31T20:33:26.375Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Species Analysis protocols (detectors).html</loc>
-    <lastmod>2025-07-31T20:33:26.376Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Mysticete_protocols.html</loc>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Specieslist_soundtypes.html</loc>
-    <lastmod>2025-07-31T20:33:26.451Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/fish_protocols.html</loc>
+    <lastmod>2025-08-18T14:41:15.480Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/FieldMethods.html</loc>
-    <lastmod>2025-07-31T20:33:26.453Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Pinniped.2.html</loc>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Reporting/Reporting.html</loc>
-    <lastmod>2025-07-31T20:33:26.694Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Environmental and Anthropogenic sounds.html</loc>
+    <lastmod>2025-08-18T14:41:15.492Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PA_server_structure.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Undefined.html</loc>
+    <lastmod>2025-08-18T14:41:15.511Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Team_member_bios.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Species list and call types V.2.html</loc>
+    <lastmod>2025-08-18T14:41:15.511Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/LabManagement.html</loc>
-    <lastmod>2025-07-31T20:33:26.527Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/beaked-whale/BWG.html</loc>
+    <lastmod>2025-08-18T14:41:15.511Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Safety.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/RDC-info.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/add-content.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/customizing.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Odont_list.html</loc>
+    <lastmod>2025-08-18T14:41:15.493Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/rendering.html</loc>
-    <lastmod>2025-07-31T20:33:26.529Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/customizing.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/code.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.2.html</loc>
-    <lastmod>2025-07-31T20:33:26.460Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Onboarding.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Media.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/RDC-info.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Inventory.html</loc>
+    <lastmod>2025-08-18T14:41:15.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Team_member_bios.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software list.html</loc>
-    <lastmod>2025-07-31T20:33:26.694Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.796Z</lastmod>
   </url>
   <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/QAQC.html</loc>
-    <lastmod>2025-07-31T20:33:26.451Z</lastmod>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/NEFSCTrips.html</loc>
+    <lastmod>2025-08-18T14:41:15.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/PAM-Cloud-guide.html</loc>
+    <lastmod>2025-08-18T14:41:15.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/PAB Cloud Guide.html</loc>
+    <lastmod>2025-08-18T14:41:15.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/PA_soundfiles.html</loc>
+    <lastmod>2025-08-18T14:41:15.556Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/Data-repositories.html</loc>
-    <lastmod>2025-07-31T20:33:26.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Home/Shared-values.html</loc>
-    <lastmod>2025-07-31T20:33:26.527Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.554Z</lastmod>
   </url>
   <url>
     <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Home/Collaborators.2.html</loc>
-    <lastmod>2025-07-31T20:33:26.527Z</lastmod>
+    <lastmod>2025-08-18T14:41:15.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Home/Homeslides.html</loc>
+    <lastmod>2025-08-18T14:41:15.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Home/Shared-values.html</loc>
+    <lastmod>2025-08-18T14:41:15.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/DataManagement.html</loc>
+    <lastmod>2025-08-18T14:41:15.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/Data Repositories.html</loc>
+    <lastmod>2025-08-18T14:41:15.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/DataManagement/QAQC.html</loc>
+    <lastmod>2025-08-18T14:41:15.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/Fieldwork.html</loc>
+    <lastmod>2025-08-18T14:41:15.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/FieldMethods/FieldMethods.html</loc>
+    <lastmod>2025-08-18T14:41:15.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Software/Software.html</loc>
+    <lastmod>2025-08-18T14:41:15.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Safety.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/LabManagement.html</loc>
+    <lastmod>2025-08-18T14:41:15.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/Resources.2.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PA_server_structure.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/LabManagement/PAB-alumn.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/publishing.html</loc>
+    <lastmod>2025-08-18T14:41:15.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
+    <lastmod>2025-08-18T14:41:15.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/add-content.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/NMFS_OpenSciDirections/Intro.html</loc>
+    <lastmod>2025-08-18T14:41:15.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Analysis.html</loc>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Odont_list_tables.html</loc>
+    <lastmod>2025-08-18T14:41:15.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Fish.html</loc>
+    <lastmod>2025-08-18T14:41:15.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Env-Anthro.html</loc>
+    <lastmod>2025-08-18T14:41:15.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Myst_list.html</loc>
+    <lastmod>2025-08-18T14:41:15.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Species_list/Pinniped.html</loc>
+    <lastmod>2025-08-18T14:41:15.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/AMP_protocols.html</loc>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Species Analysis protocols (detectors).html</loc>
+    <lastmod>2025-08-18T14:41:15.480Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Pinniped_protocols.html</loc>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Protocols/Anthro_protocols.html</loc>
+    <lastmod>2025-08-18T14:41:15.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Analysis/Specieslist_soundtypes.html</loc>
+    <lastmod>2025-08-18T14:41:15.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Reporting/Reporting.html</loc>
+    <lastmod>2025-08-18T14:41:15.796Z</lastmod>
   </url>
 </urlset>
