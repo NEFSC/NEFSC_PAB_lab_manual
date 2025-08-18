@@ -65,6 +65,8 @@ website:
             text: Data Repositories
           - href: content/DataManagement/QAQC.qmd
             text: QA/QC
+          - href: content/DataManagement/PAM-Cloud-guide.qmd
+            text: PAM Cloud Guide
       - href: content/Hardware/Hardware.2.qmd
         text: Hardware
       - section: content/FieldMethods/FieldMethods.qmd
@@ -106,7 +108,7 @@ website:
            #   - href: content/Analysis/Protocols/AMP_protocols.qmd
            #    text: Australia Marine Park 
       - href: content/Reporting/Reporting.qmd
-        text: Reporting
+        text: PAM Products & Reports
       - href: content/Publications/PublicationsPresentations.qmd
         text: Publications
         
