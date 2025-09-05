@@ -283,24 +283,6 @@ Taiki graduated from Harvey Mudd College in 2010 with a degree in Mathematics. H
 
 ::: columns
 ::: {.column width="30%"}
-### **Maricarmen Serna**
-
-Acoustician (Affiliate)\
-:::
-
-::: {.column width="40%"}
-\
-![](/figs/Bio_pics/Maricarmen.png){width="150"}
-:::
-:::
-
-Maricarmen graduated from the University of Rhode Island with a B.S. in Environmental and Natural Resource Economics and a minor in Marine Biology. While at URI, she was an Ernest F. Hollings Scholar at the Northwest Fisheries Science Center, where she analyzed the movement patterns of Southern Resident Killer Whales. She was also a URI Science and Engineering Fellow, during which she tagged mako sharks and blue sharks, led URI's 2022 Shark Camp, and assessed the social network of Southern Stingrays in the Cayman Islands. She joined the [Passive Acoustic Research Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) in 2024 and currently works on anthropogenic soundscapes.
-
-Relevant Links:\
-[LinkedIn](https://www.linkedin.com/in/maricarmen-serna/)
-
-::: columns
-::: {.column width="30%"}
 ### **Anne Smith**
 
 Acoustician (Affiliate)\
