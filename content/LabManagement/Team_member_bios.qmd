@@ -215,6 +215,22 @@ Relevant links:\
 
 ::: columns
 ::: {.column width="30%"}
+### **Kaitlyn Ho**
+
+Research Biologist\
+
+:::
+
+::: {.column width="40%"}
+\
+
+:::
+:::
+
+Kaitlyn received her B.S. in marine science - biology from the University of Tampa in 2024 and is currently in the Three Seas masters program in Marine Biology at Northeastern, graduating in December 2025. Previously, she worked as a naturalist on the New England Aquarium whale watch, narrating trips and collecting data on Humpback whale presence and behavior. She joined the Passive Acoustics Branch in 2024 and is currently working on analysis for the occurrence and distribution of cetaceans as well as a comparison of dolphin detection methodologies for her masters thesis. 
+
+::: columns
+::: {.column width="30%"}
 ### **Amanda Holdman, MSc**
 
 Acoustician\
