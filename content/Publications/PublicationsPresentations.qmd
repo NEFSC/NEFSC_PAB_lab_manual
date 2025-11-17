@@ -5,8 +5,13 @@ title: Publications
 ![](/figs/infographics/NEFSC_specie_boat.png)
 
 # Published Articles
+## 2026
+
+Jasinski, H., Tennant, S.C., Cusano, D.A., **Davis, G.E.**, **Van Parijs, S.M.**, Parks, S.E. (2026). [Temporal Variability of Sei Whale (*Balaenoptera borealis*) Acoustic Detections in Southern New England Waters](https://doi.org/10.1111/mms.70060). Marine Mammal Science, 42(1):e70060.\
 
 ## 2025
+
+Tennant, S.C., Baumgartner, M.F., **Davis, G.E.**, Dombroski, J.R.G., **Finley, R.**, Groch, K., Parks, S.E. (2025). [Quantitative steps for refining passive acoustic monitoring detector libraries: A southern right whale (*Eubalaena australis*) case study](https://doi.org/10.1121/10.0039040). The Journal of the Acoustical Society of America, 158.\
 
 Henderson, E.E., Ballance,L.T., Cárdenas-Hinojosa, G., Barlow, J., **DeAngelis, A.I.**, Martinez-Aguilar, S., Hayslip, C., Pusser, L.T., Segovia, M.M., Baker, C.S., Steel, D., Huerta-Patino, R., Paredes, L.M.E., Brownell Jr., R.L., and Pitman, R.L. (2025). [First At-Sea Identifications of Ginkgo-Toothed Beaked Whale (*Mesoplodon ginkgodens*): Acoustics, Genetics, and Biological Observations Off Baja California, México](https://doi.org/10.1111/mms.70052). Marine Mammal Science, e70052.\
 
