@@ -6,6 +6,8 @@ page-layout: full
 
 # Staff
 
+Annabel Westell (2020-2026)
+Lindsey Transue (2022-2026)
 Dr. Timothy Rowell (2018-2023)  
 Dr. Jenni Stanley (2015-2020)  
 Dr. Danielle Cholewiak (2011-2020)  
@@ -24,7 +26,8 @@ Dr. Ilse Van Opzeeland (2010)
 
 # Research Assistant
 
-Maricarmen Serna (2024 - 2025)
+Sophie Ferguson (2023-2026)
+Maricarmen Serna (2024-2025)
 Sara Tennant (2022-2023)  
 Logan Kline (2019-2023)  
 Jennifer Wallace (2019-2022)  
@@ -46,6 +49,11 @@ Sarah Mussoline (2010-2012)
 Joy Stanistreet (2009-2011)  
 Jillian Vitacco (2010)  
 Elizabeth Vu (2008-2009)
+
+# Software Developers
+
+Murali Mood (2022-2026)
+Michael Ryan (2023-2025)
 
 # Postdoc
 
