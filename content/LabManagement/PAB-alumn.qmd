@@ -8,7 +8,7 @@ editor:
 
 # Staff
 
-Annabel Westell (2020-2026)\ 
+Annabel Westell (2020-2026)\
 Lindsey Transue (2022-2026)\
 Dr. Timothy Rowell (2018-2023)\
 Dr. Jenni Stanley (2015-2020)\
@@ -64,11 +64,10 @@ Dr. Steven Brady (2013-2014)
 
 # Hollings Interns
 
-Jamie Fogg (2025)\ 
+Jamie Fogg (2025)\
 Samantha Kratman (2025)\
 Miles Lubas (2025)\
-Madison
-Medina (2024)\
+Madison Medina (2024)\
 Rose Nolan (2024)\
 Peyton Steffek (2024)\
 Sophie Strock (2024)\
