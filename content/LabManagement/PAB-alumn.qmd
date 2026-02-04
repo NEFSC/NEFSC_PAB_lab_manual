@@ -6,7 +6,7 @@ editor:
     wrap: 72
 ---
 
-# Staff
+# Senior Scientists
 
 Annabel Westell (2020-2026)\
 Lindsey Transue (2022-2026)\
@@ -15,18 +15,7 @@ Dr. Jenni Stanley (2015-2020)\
 Dr. Danielle Cholewiak (2011-2020)\
 Grace Simpkins (2012-2018)
 
-# PhD
-
-Dr. Samara Haver (2021)\
-Dr. Genevieve Davis (2020)\
-Dr. Joy Stanistreet (2017)\
-Dr. Heather Heenehan (2016)\
-Dr. Trudi Webster (2015)\
-Dr. Denise Risch (2013)\
-Dr. Robert Valtierra (2013)\
-Dr. Ilse Van Opzeeland (2010)
-
-# Research Assistant
+# Research Analysts
 
 Sophie Ferguson (2023-2026)\
 Maricarmen Serna (2024-2025)\
@@ -57,10 +46,21 @@ Elizabeth Vu (2008-2009)
 Murali Mood (2022-2026)\
 Michael Ryan (2023-2025)
 
-# Postdoc
+# Postdocs
 
 Dr. Paul Caiger (2017-2020)\
 Dr. Steven Brady (2013-2014)
+
+# PhDs
+
+Dr. Samara Haver (2021)\
+Dr. Genevieve Davis (2020)\
+Dr. Joy Stanistreet (2017)\
+Dr. Heather Heenehan (2016)\
+Dr. Trudi Webster (2015)\
+Dr. Denise Risch (2013)\
+Dr. Robert Valtierra (2013)\
+Dr. Ilse Van Opzeeland (2010)
 
 # Hollings Interns
 
@@ -105,11 +105,11 @@ Shonda Gaylord (2007)\
 Rachael Dickey (2006)\
 Charles White (2006)
 
-# Nancy Foster Scholar
+# Nancy Foster Scholars
 
 Brijonnay Madrigal (2023)
 
-# WHOI Education Program Intern
+# WHOI Education Program Interns
 
 Jabari Lottie (2021)\
 Kristen McCauley (2020)\
