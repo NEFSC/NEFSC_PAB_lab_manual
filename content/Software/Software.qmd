@@ -73,7 +73,7 @@ SoundScope is a python-based software that facilitates the visualization and man
 Raven Pro is a powerful research and teaching application for scientists needing flexible visualization and measurement tools for analysis of audio recordings of any length. Raven Pro was developed by Cornell University’s *K. Lisa Yang Center for Conservation Bioacoustics* ([Web page](https://www.ravensoundsoftware.com/software/raven-pro/))
 
 * User [guide](https://www.ravensoundsoftware.com/wp-content/uploads/2017/11/Raven14UsersManual.pdf)  
-* Updating Raven [License](https://noaa946264.monday.com/boards/1684504446/pulses/1684504473?doc_id=1842777188)
+* Updating Raven [License](https://drive.google.com/file/d/1luZL9YwOzQ1PTRV2SBQWLCifXspJPh3o/view?usp=sharing)
 
 #### PAMpal
 
