@@ -1,7 +1,11 @@
 ---
-title: "Team Members"
 page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
 ---
+
+# Team Members of the Passive Acoustics Branch
 
 ::::: columns
 ::: {.column width="30%"}
@@ -243,6 +247,23 @@ Acoustician (Affiliate)\
 :::::
 
 Hana earned a BS in Marine Science (Biology) and a BA in Animal Studies from Eckerd College in 2022. Through her involvement with the Frick Animal Behavior Lab, she led a study analyzing Amazon River dolphin vocalizations and investigated the parameters of rough-toothed dolphin whistles at Clearwater Marine Aquarium. She began working with the NEFSC as a [NOAA Hollings Scholar](https://www.noaa.gov/office-education/hollings-scholarship) in 2021, using photo-ID catalogs to study scars on North Atlantic humpback whale flukes caused by non-lethal interactions with killer whales. She continued this project as her Senior Thesis in Marine Science and presented a poster at the 2022 SMM Conference, and she is now working towards publication. In May 2023, she returned to the NEFSC, joining the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean) to conduct baleen whale acoustic analysis.
+
+::::: columns
+::: {.column width="30%"}
+### **Lousia Liu**
+
+Acoustician (Affiliate)\
+:::
+
+::: {.column width="40%"}
+\
+![](/figs/Bio_pics/Louisa.jpg){width="150"}
+:::
+:::::
+
+Louisa has a B.S. in Wildlife, Fisheries and Conservation Biology from the University of California, Davis. Her introduction to passive acoustic monitoring took place at Acadia National Park in Maine, where she served as the 2024 Cathy and Jim Gero Early Career Fellow in Science Research at Schoodic Institute. While there, she worked with National Park Service scientists to develop a bioacoustics program to study the effects of wetland restoration on migratory birds in the Northeast and map corresponding fine-scale spatial changes to avian occurrence within the park. She joined the Passive Acoustics Branch in 2026 and works on the Sound Ecology team to quantify soundscapes across U.S. marine areas. 
+
+
 
 ::::: columns
 ::: {.column width="30%"}
