@@ -257,7 +257,7 @@ Acoustician (Affiliate)\
 
 ::: {.column width="40%"}
 \
-![](/figs/Bio_pics/Louisa.jpg){width="150"}
+![](/figs/Bio_pics/Louisa.jpg){width="150"} 
 :::
 :::::
 
