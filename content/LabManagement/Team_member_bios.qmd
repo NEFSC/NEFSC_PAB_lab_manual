@@ -184,7 +184,7 @@ Paige Hanson received a B.S. in Marine Science from Eckerd College in December 2
 ::: {.column width="30%"}
 ### **Samara Haver, Ph.D.**
 
-Research Biologist\
+Research Biologist (Affiliate)\
 :::
 
 ::: {.column width="40%"}
@@ -202,7 +202,7 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Kaitlyn Ho**
 
-Research Biologist\
+Acoustician (Affiliate)\
 :::
 
 ::: {.column width="40%"}
@@ -287,7 +287,7 @@ Relevant Links:\
 ::: {.column width="30%"}
 ### **Taiki Sakai**
 
-Software Developer\
+Software Developer (Affiliate)\
 :::
 
 ::: {.column width="\"40%"}
