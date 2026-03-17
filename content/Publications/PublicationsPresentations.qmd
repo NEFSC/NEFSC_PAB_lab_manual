@@ -341,6 +341,10 @@ Corkeron, P.J., & **Van Parijs, S.M.** (2001). [Marine mammal migrations and mov
 
 # Manuals
 
+##2023
+
+**Wilder, J., Davis, G., DeAngelis, A., Van Parijs, S.**, & Baumgartner, M. (2023). [Low-Frequency Detection and Classification System (LFDCS) Reference Guide](https://doi.org/10.25923/hsj0-j449). NOAA technical memorandum NMFS-NE, 295.
+
 ## 2016
 
 **DeAngelis, A.**, **Wilder, J.**, **Davis, G.**, **Cholewiak, D.**, **Gerlach, D.**, **Van Parijs, S.**, & Baumgartner, M. (2016). [Guide to monitoring real-time marine mammal detections using autonomous platforms](https://doi.org/10.25923/d1ek-vx07).\
