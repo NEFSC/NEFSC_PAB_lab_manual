@@ -22,7 +22,8 @@ PAB’s primary recorder due to relatively long battery life and large memory, a
 
 * [Ocean Instruments SoundTrap guide](https://drive.google.com/file/d/1upLq-g1WelZr6P0-W1eXaOoZqM6sPbdo/view?usp=sharing)
 * [SoundTrap endurance calculator](https://www.data.oceaninstruments.co.nz/endurance)
-* Lab protocol link
+* [Lab ST600 protocol](https://drive.google.com/file/d/1cAlk-BNpJr5JogmItzjdxPJszRp7pMvu/view?usp=sharing)
+* [Lab ST620 / ST640 protocol](https://drive.google.com/file/d/1mPs87Nt6cNyJyIXFw_3TBGhTKdIhyOuc/view?usp=sharing)
 
 :::
 ::: {.column width="10%"}
@@ -58,7 +59,8 @@ F-PODs are a high-frequency click detector used to detect echolocating odontocet
 Acoustic telemetry release allows researchers to retrieve bottom-mounted recording devices using acoustic signalling. Using VR2ARs eliminates the need for surface buoys or vertical line, reducing whale entanglement risk. VR2ARs simultaneously collect acoustic telemetry data, which PAB submits to the Atlantic Cooperative Telemetry Network ([ACT](https://theactnetwork.com/) / [MATOS](https://matos.asascience.com/)). These instruments record temperature and depth at one hour intervals. 
   
 
-* VEMCO protocol link (in progress)
+* [VEMCO VR2W protocol](https://drive.google.com/file/d/1NTbcU69KSBccfjyfDgVB0gR0vkMv1avp/view?usp=sharing)
+* [VEMCO VR2AR protocol](https://drive.google.com/file/d/13liJypNYdcXlcpnIDtbmVFUPEAMLO742/view?usp=sharing)
 
 :::
 ::: {.column width="10%"}
@@ -89,6 +91,11 @@ Acoustic telemetry release allows researchers to retrieve bottom-mounted recordi
 #### VHTx: Transponding Hydrophone ([order site](https://www.oceans-research.com/vhtx/))
 
 * Transponding hydrophone used for communication between VEMCO VR100 Deck Box and VEMCO Acoustic Release Receiver.
+
+#### Rope
+* [Splicing protocol](https://drive.google.com/file/d/1cOYwmENk7Du5_mMTQXvyAs7ac4vYBVBk/view?usp=sharing)
+* [Knot protocols](https://drive.google.com/file/d/1X28njwZhK6jRtggOG85WG5OcLdGsAjbM/view?usp=sharing)
+
 
 ## Surface-Moored Platforms
 

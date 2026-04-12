@@ -35,6 +35,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 
 - Utilizes VEMCO acoustic release and anchor line spool for system retrieval
 - Turnaround every 6 months
+- [TOSSIT protocol](https://drive.google.com/file/d/1Nzt_iBHza7CUDkyfrSRLD-Q3oVObRo2r/view?usp=sharing)
 
 
 ![](/content/FieldMethods/images/Soundtrapdiagram.png){width=50%}
@@ -45,6 +46,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 - Low profile mooring consisting of 11” float and two 35lb weights.
 - Turnaround every 5 months
 - Recommended for any locations shallower than 150m
+- [Shallow water mooring protocol](https://drive.google.com/file/d/1Nx-LKrMP2Pn0HxWKCBz_rukRPTQMIfEo/view?usp=sharing)
 
 ![Left: FPOD included. Right: FPOD not included](/content/FieldMethods/images/Shallowwatermooring.png){width=60%}
 
@@ -53,12 +55,16 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 - More robust structure consisting of 14” trawl float and 2 75lb weights
 - Turnaround every 5 months
 - Recommended for locations 150 - 350m depth
+- [Deep water mooring protocol](https://drive.google.com/file/d/1bB_PPtfeTaIDBW5zEWbl5_fcvxS_oEWT/view?usp=sharing)
 
 ![](/content/FieldMethods/images/deepwatermooring.jpg){width=50%}
 
 ## Reusable Weight, Roped Mooring
 
 ![](/content/FieldMethods/images/Reusablemooring.png){width=30%}
+
+## Acoustic Release Canister (ARC)
+- [ARC protocol](https://drive.google.com/file/d/1A0qU5-8lq5-h0om_QjMVhRHtY9ertr6i/view?usp=sharing)
 
 ## Add Ons
 
