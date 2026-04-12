@@ -51,7 +51,7 @@ F-PODs are a high-frequency click detector used to detect echolocating odontocet
 :::
 ::::::::::::::
 
-#### VR2AR (order site \- [InnovaSea](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/), Acoustic Release Receiver)
+#### VEMCO (order site \- [InnovaSea](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/), Acoustic Release Receiver)
 
 :::::::::::::: {.columns}
 ::: {.column width="90%"}
