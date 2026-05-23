@@ -8,13 +8,13 @@ title: Field Methods
 
 NEFSC Passive Acoustic Branch (PAB) deploys recorders throughout the western Atlantic to acoustically monitor local species, primarily the critically endangered North Atlantic right whale (NARW) protected under the Endangered Species Act of 1973 and the Marine Mammal Protection Act of 1972. Monitoring the population status of NARWs is a top priority for NEFSC’s Protected Species Division (PSD).
 
-We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department of Marine Resources (MEDMR), the U.S. Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at designated sites. Our primary turnaround sites are located in Stellwagen Bank National Marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
+We partner with the Bureau of Ocean Energy Management (BOEM), HMR, the U.S. Navy, and NOAA’s Office of National Marine Sanctuaries (ONMS) to collect acoustic data using bottom-mounted moorings (see right figure). NEFSC PAB executes fieldwork to retrieve moorings and redeploy at our primary turnaround sites, located in Stellwagen Bank National Marine Sanctuary (SBNMS), offshore Gulf of Maine, and southern New England. HMR and the U.S. Navy service our mid-Atlantic mooring sites. We occasionally deploy moorings belonging to collaborative research groups (ex. PMEL), which are not included in the mooring count for each fieldwork trip outlined below. Mooring counts will fluctuate as we decide to deploy more or less at certain sites.
 
 
 :::
 ::: {.column width="35%"}
 
-![](/content/FieldMethods/images/Fig.1.jpg){width=90%}
+![](/content/FieldMethods/images/Fig.1.updated.jpg){width=90%}
 
 :::
 ::::::::::::::
@@ -43,7 +43,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 
 ## Shallow Water Roped Mooring
 
-- Low profile mooring consisting of 11” float and two 35lb weights.
+- Low profile mooring consisting of 11” float and two 45lb weights.
 - Turnaround every 5 months
 - Recommended for any locations shallower than 150m
 - [Shallow water mooring protocol](https://drive.google.com/file/d/1Nx-LKrMP2Pn0HxWKCBz_rukRPTQMIfEo/view?usp=sharing)
@@ -64,7 +64,7 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 ![](/content/FieldMethods/images/Reusablemooring.png){width=30%}
 
 ## Acoustic Release Canister (ARC)
-- [ARC protocol](https://drive.google.com/file/d/1A0qU5-8lq5-h0om_QjMVhRHtY9ertr6i/view?usp=sharing)
+- [ARC protocol](https://drive.google.com/file/d/1EFiHjPihIW2zLXaybjJk2rwn97-Br7N9/view?usp=sharing)
 
 ## Add Ons
 
@@ -83,3 +83,22 @@ We partner with the Bureau of Ocean Energy Management (BOEM), Maine Department o
 ### I-beams vs. plate weights
 - I beams and plate weights are interchangeable: I beams are more affordable, provide vertical structure that digs into the ground and provides support against currents
 
+### General
+- **Know your study area** - depth, currents/tides, biofouling, sediment type/substrate, average sea conditions, storms, bathymetry, fishing and industrial activity, management/sanctuary zone regulations (ex. permits). An invaluable tactic is gaining insightful local knowledge through community engagement.
+- High water flow can introduce **flow noise.**
+- If you know your deployment site experiences **high rate of biofouling**, have a plan to **mitigate it (ex. antifouling cream) or circumvent it** (ex. service mooring sooner). Be mindful that the biofouling won't interrupt the mooring's release mechanism.
+- **Eliminate mooring system noise** as much as you feasibly can (ex. avoid metal-on-metal clanging, strumming cords) so your acoustic data doesn't get contaminated with disruptive acoustic signals.
+- Have **back-up retrieval methods** in place in case a mooring doesn't successfully release (ex. grappling, divers, twin acoustic release, ROV).
+- Ensure the **release isn't too close to the seafloor or to the anchor** (minimum of 1m separation) so it doesn't get buried or hits the anchor when deployed).
+- **Label equipment** with return information in case someone accidentally picks it up, denote it is indeed science equipment.
+- **Share mooring locations** with other scientific and industrial entities who are also active in the area, strategically sharing locations with fisherman may also help reduce risk of mooring loss (ex. general radius mooring is found, not exact spot in case anyone tries to purposefully pick it up, still want to minimize the amount of attention the mooring could draw). 
+-**Track metadata** (ex. gps location, which device is at which PAM station, what was battery level of device, when the recording instrument was turned on)
+- **Consider what you need from your anchor** - does it need to resist currents or storms acting on it and thus should dig into the sediment? Is it the appropriate amount of weight? Is it made of the appropriate material? Can it be properly and safely deployed off the vessel your utilizing? Consider deployment and retrieval logistics.
+- **Consider vessel capabilities** - maneuverability, speed, back-deck space, equipment (ex. boom winch), safety, cost of sea days.
+- If possible, **keep the mooring low-profile** to minimize interactions with anthropogenic activity and reduce entanglement risk with large wildlife.
+- Have a action & safety **plan in place in case an instrument floods** and thus becomes pressurized and contains battery gas/fluid.
+- **Know the weight of your instruments** and how much buoyancy your float has; float material is also important and should be made out of a non-absorbent material and be able to resist depth-related pressure (check its depth rating), the shape of a float becomes more important in strong current environments. The weight should be heavy enough to counter the mooring's float buoyancy and drag from water movement.
+- **Regularly replace equipment** once it shows significant wear or is damaged - this includes rope abrasion, corroded metal, or worn out plastic tubing.
+- **Higher quality rope is more reliable**, durable and typically has a longer lifespan. Polypropylene rope is an effective lower-cost option, but will need to be replaced more frequently since it loses strength and integrity over time.
+
+[Link](https://repository.oceanbestpractices.org/server9/api/core/bitstreams/8fa3f67a-9460-4d1e-a3c1-b3d4ddbf1bf0/content) to additional references for mooring design best practices
