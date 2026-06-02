@@ -7,6 +7,8 @@ title: Publications
 # Published Articles
 ## 2026
 
+**Transue, L.M.**, **Van Parijs, S.M.**, Tennant, S.C., Linden, D.W., **Briner, R.**, **Koilpillai, H.A.**, & **Davis, G.E.**. (2026). [A standardized framework for quantifying species occurrence, applied to passive acoustic monitoring of baleen whales](https://doi.org/10.1016/j.ecolind.2026.114943). Ecological Indicators, 188, 114943.\
+
 **Van Hoeck, R.V.**, Bohnenstiehl, D.R., & Joel Fodrie, F. (2026). [Eavesdropping on estuaries: soundscape spatial variation explained by habitat metrics at multiple scales](https://doi.org/10.1007/s10980-025-02190-1). Landscape Ecology, 41, 44.\
 
 **McCordic, J.A.**, **Gordon, R.M.**, **Kline, L.R.**, Rivero, N.K., & **Van Parijs, S.M.** (2026). [A sound check on compliance: Acoustically detected vessel presence indicates variation in behavior across marine protected areas](https://doi.org/10.1016/j.fishres.2025.107635). Fisheries Research, 293, 107635.\
