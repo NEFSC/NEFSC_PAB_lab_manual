@@ -46,6 +46,24 @@ Relevant links:\
 
 ::::: columns
 ::: {.column width="30%"}
+### **Autumn Chang**
+
+Acoustician (Affiliate)\
+:::
+
+::: {.column width="40%"}
+\
+![](/figs/Bio_pics/Autumn.jpg){width="150"}
+:::
+:::::
+
+Autumn received her BS in Biology from the University of California, Los Angeles, and her MS in Marine Biology from the University of Padua, Italy. She completed her master’s thesis research at the Alfred Wegener Institute for Polar and Marine Research in Germany. She studied the temporal acoustic presence of Southern Right Whales off Elephant Island in Antarctica by developing an automated detector for their upcalls. Previously, she worked as an Ocean Conservationist with ORCA (Organisation Cetacea), where she collected marine species sightings data and delivered educational lectures at sea. She joined the Passive Acoustics Branch in 2026 and works on baleen whale acoustic analysis. 
+
+Relevant links:\
+[LinkedIn](https://www.linkedin.com/in/autumnchang)
+
+::::: columns
+::: {.column width="30%"}
 ### **Kate Choate, MSc**
 
 Research Biologist\
