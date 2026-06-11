@@ -1,7 +1,11 @@
 ---
-title: "Team Members"
 page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
 ---
+
+# Team Members of the Passive Acoustics Branch
 
 ::::: columns
 ::: {.column width="30%"}
@@ -39,6 +43,24 @@ Renea earned degrees in Marine Science (BS) and Psychology (BA) from the Univers
 
 Relevant links:\
 [LinkedIn](https://www.linkedin.com/in/renea-briner)
+
+::::: columns
+::: {.column width="30%"}
+### **Autumn Chang**
+
+Acoustician (Affiliate)\
+:::
+
+::: {.column width="40%"}
+\
+![](/figs/Bio_pics/Autumn.jpg){width="150"}
+:::
+:::::
+
+Autumn received her BS in Biology from the University of California, Los Angeles, and her MS in Marine Biology from the University of Padua, Italy. She completed her master’s thesis research at the Alfred Wegener Institute for Polar and Marine Research in Germany. She studied the temporal acoustic presence of Southern Right Whales off Elephant Island in Antarctica by developing an automated detector for their upcalls. Previously, she worked as an Ocean Conservationist with ORCA (Organisation Cetacea), where she collected marine species sightings data and delivered educational lectures at sea. She joined the Passive Acoustics Branch in 2026 and works on baleen whale acoustic analysis. 
+
+Relevant links:\
+[LinkedIn](https://www.linkedin.com/in/autumnchang)
 
 ::::: columns
 ::: {.column width="30%"}
@@ -180,7 +202,7 @@ Paige Hanson received a B.S. in Marine Science from Eckerd College in December 2
 ::: {.column width="30%"}
 ### **Samara Haver, Ph.D.**
 
-Research Biologist\
+Research Biologist (Affiliate)\
 :::
 
 ::: {.column width="40%"}
@@ -198,7 +220,7 @@ Relevant links:\
 ::: {.column width="30%"}
 ### **Kaitlyn Ho**
 
-Research Biologist\
+Acoustician (Affiliate)\
 :::
 
 ::: {.column width="40%"}
@@ -246,6 +268,23 @@ Hana earned a BS in Marine Science (Biology) and a BA in Animal Studies from Eck
 
 ::::: columns
 ::: {.column width="30%"}
+### **Lousia Liu**
+
+Acoustician (Affiliate)\
+:::
+
+::: {.column width="40%"}
+\
+![](/figs/Bio_pics/Louisa.jpg){width="150"} 
+:::
+:::::
+
+Louisa has a B.S. in Wildlife, Fisheries and Conservation Biology from the University of California, Davis. Her introduction to passive acoustic monitoring took place at Acadia National Park in Maine, where she served as the 2024 Cathy and Jim Gero Early Career Fellow in Science Research at Schoodic Institute. While there, she worked with National Park Service scientists to develop a bioacoustics program to study the effects of wetland restoration on migratory birds in the Northeast and map corresponding fine-scale spatial changes to avian occurrence within the park. She joined the Passive Acoustics Branch in 2026 and works on the Sound Ecology team to quantify soundscapes across U.S. marine areas. 
+
+
+
+::::: columns
+::: {.column width="30%"}
 ### **Jessica McCordic, MSc**
 
 Research Acoustician\
@@ -266,7 +305,7 @@ Relevant Links:\
 ::: {.column width="30%"}
 ### **Taiki Sakai**
 
-Software Developer\
+Software Developer (Affiliate)\
 :::
 
 ::: {.column width="\"40%"}

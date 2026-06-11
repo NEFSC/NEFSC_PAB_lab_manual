@@ -54,8 +54,6 @@ page-layout: full
 
 * [Delaware Department of Natural Resources and Environmental Control](https://dnrec.delaware.gov/)
 
-* [Maine Department of Marine Resources](https://www.maine.gov/dmr/home)
-
 * [MASS Department of Marine Fisheries](https://www.mass.gov/orgs/division-of-marine-fisheries)
 
 * [New Hampshire Fish and Game Department](https://www.wildlife.nh.gov/)
