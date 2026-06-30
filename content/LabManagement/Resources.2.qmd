@@ -17,7 +17,6 @@ title: Resources
 
 * Wifi 
   * Network: NEFSC-WH  
-  * Password: REDACTED  
 * NEFSC Building Code and Keys  
   * CD390 [form](https://drive.google.com/file/d/1m9SY4L4v19ZFj5DKum1eYw9vDgqREWud/view?usp=drive_link)  
   * Contact email: [nefsc.wh.shop@noaa.gov](mailto:nefsc.wh.shop@noaa.gov)  
