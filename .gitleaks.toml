@@ -1,0 +1,28 @@
+title = "Repository gitleaks config"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Allow public LinkedIn profile URLs in team bio content"
+targetRules = ["linkedin-client-id"]
+condition = "AND"
+paths = [
+  '''^content/LabManagement/Team_member_bios\.(?:qmd|html)$''',
+]
+regexTarget = "line"
+regexes = [
+  '''https://www\.linkedin\.com/in/''',
+]
+
+[[allowlists]]
+description = "Allow embedded PNG data URIs in species call type reference content"
+targetRules = ["gcp-api-key"]
+condition = "AND"
+paths = [
+  '''^content/Analysis/Species_list/Species list and call types V\.2\.(?:md|html)$''',
+]
+regexTarget = "line"
+regexes = [
+  '''data:image/png;base64,''',
+]
