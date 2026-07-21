@@ -7,6 +7,8 @@ title: Publications
 # Published Articles
 ## 2026
 
+Raick, X., Sanches, H.C., Risch, D., Ponirakis, D.W., Soldevilla, M.S., **Finley, R.**, Myers, A., Frouin-Mouy, H., **Van Parijs, S.**, **Davis, G.E.**, Mouy, X., & Rice, A.N. (2026). [Passive acoustics reveal low-latitude distribution of North Atlantic minke whales](https://doi.org/10.3354/meps15180). Marine Ecology Progress Series, 789, meps15180.\
+
 **Transue, L.M.**, **Van Parijs, S.M.**, Tennant, S.C., Linden, D.W., **Briner, R.**, **Koilpillai, H.A.**, & **Davis, G.E.**. (2026). [A standardized framework for quantifying species occurrence, applied to passive acoustic monitoring of baleen whales](https://doi.org/10.1016/j.ecolind.2026.114943). Ecological Indicators, 188, 114943.\
 
 **Van Hoeck, R.V.**, Bohnenstiehl, D.R., & Joel Fodrie, F. (2026). [Eavesdropping on estuaries: soundscape spatial variation explained by habitat metrics at multiple scales](https://doi.org/10.1007/s10980-025-02190-1). Landscape Ecology, 41, 44.\
