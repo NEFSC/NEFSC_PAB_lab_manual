@@ -391,21 +391,3 @@ Relevant Links:\
 [ResearchGate](https://www.researchgate.net/profile/Julianne-Wilder)\
 [ORCID](https://orcid.org/0000-0003-0296-0112)
 
-::::: columns
-::: {.column width="30%"}
-### **Julia Zeh, Ph.D.**
-
-Research Biologist\
-:::
-
-::: {.column width="40%"}
-\
-![](/figs/Bio_pics/Julia.png){width="150"}
-:::
-:::::
-
-Julia has a BA in Environmental Biology from Columbia University and a PhD in Biology from Syracuse University. At SU, Julia was a National Defense Science and Engineering Graduate (NDSEG) Fellow in Dr. Susan Parks’s lab. Julia’s dissertation research used suction cup tag data from humpback whales to study their behavior, with a particular focus on vocal behavior and development. In 2024, after finishing her PhD, Julia joined the [Passive Acoustics Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-atlantic-ocean), where she is using passive acoustic monitoring to understand environmental drivers of humpback whale and other marine mammal ecology.
-
-Relevant links:\
-[ORCID](https://orcid.org/0000-0001-5094-100X)\
-[LinkedIn](https://www.linkedin.com/in/julia-zeh-5b7432142/)
