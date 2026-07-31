@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 
-List of RDP computers, where they’re located (with CD#s, not IP addresses), and which softwares are hosted on each.
+List of RDP computers, where they’re located (with CD#s, not IP addresses), and which softwares are hosted on each. For more information about accessing Remote Desktops, view the [Miscellaneous Equipment smartsheet](https://app.smartsheetgov.com/sheets/fPmQ235qHm6G9ffRPxv6qRj878QFf7M82chXF941).
 
 | Computer Name                                       | Location and CD#                       | Softwares                                                                          | Usage                                                                                                                                           | Common User                                |
 |:--------------|:--------------|:--------------|:--------------|:--------------|
